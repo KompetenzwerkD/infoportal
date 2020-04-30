@@ -15,8 +15,6 @@ Karl-Tauchnitz-Str. 1\
 04107 Leipzig\
 Tel.: +49 341 71153
 
-Weitere Informationen, insbesondere zur Aufsichtsbehörde, finden sich im Impressum der Universität Leipzig.
-
 **Ansprechpartner**
 
 Franziska Naether\
