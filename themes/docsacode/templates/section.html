@@ -1,0 +1,54 @@
+{% extends "index.html" %}
+
+{% block title %} {{ config.title }} | {{ section.title }} {% endblock title %}
+
+{% block nav %}
+    <ul id="breadcrumbs">
+        {% for parent in section.ancestors %}
+            {% set s = get_section(path=parent, include_pages=false) %}
+                <li><a href="{{s.permalink}}">{{s.title}}</a>&nbsp;&#8594;&nbsp; </li>
+            {% endfor %}
+            
+    </ul>
+    <h1>{{ section.title }}</h1>
+    {{ macro::tree() }} 
+
+    
+
+
+{% endblock nav %}
+
+
+{% block content %}
+    {% set_global header_count = 0 %}
+    {% for h2 in section.toc %}
+    {% set_global header_count = header_count + 1 %}
+    {% for h3 in h2.children %}
+        {% set_global header_count = header_count + 1 %}
+        {% for h4 in h3.children %}
+        {% set_global header_count = header_count + 1 %}
+        {% endfor %}
+    {% endfor %}
+    {% endfor %}
+
+    {% if header_count > 4 %}
+        <ul id="toc">
+        {% for h2 in section.toc %}
+            <li><a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
+            {% if h2.children %}<ul>        
+            {% for h3 in h2.children %}
+            <li><a href="{{ h3.permalink | safe }}">{{ h3.title }}</a></li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+        </li>
+    {% endfor %}
+        </ul>
+        <hr id="sep" />
+    {% endif %}
+
+
+  <article>
+    {{ section.content | safe }}
+  </article>
+{% endblock content %}
