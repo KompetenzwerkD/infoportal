@@ -412,6 +412,7 @@ footer {
   }
 
   main {
+
     float: left;
     width: 100%;
   }
@@ -422,7 +423,11 @@ footer {
 }
 
 @media print {
+  body {
+    margin: 0;
+  }
   nav {
+    margin-right:0rem;
     position: static;
     float: left;
     width: 100%;
