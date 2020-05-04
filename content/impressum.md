@@ -5,7 +5,7 @@ sort_by = "weight" # sort by weight or date
 insert_anchor_links = "right" # if you want § next to headers
 +++
 
-## Impressum
+# Impressum
 
 
 Die nachstehenden Informationen enthalten die gesetzlich vorgesehenen Pflichtangaben zur Anbieterkennzeichnung, sowie wichtige rechtliche Hinweise zur vorliegenden Internetpräsenz, einer Veröffentlichung der

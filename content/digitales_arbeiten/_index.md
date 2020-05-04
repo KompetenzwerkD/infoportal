@@ -141,6 +141,3 @@ Sicherlich sind Ihnen diese wichtigen Adressen bekannt. Beziehen Sie von dort Ih
 Gibt es weitere Themen, zu denen Sie sich Informationen wünschen? Dann schreiben Sie uns: [KompetenzwerkD@saw-leipzig.de](mailto:KompetenzwerkD@saw-leipzig.de)
 
 
-
----
-![CC-0](https://licensebuttons.net/p/zero/1.0/88x31.png) [CC-0 "Public Domain"](https://creativecommons.org/share-your-work/public-domain/cc0/) 

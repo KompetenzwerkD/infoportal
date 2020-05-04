@@ -166,12 +166,12 @@ function debounce(func, wait) {
         return r.doc.body !== "";
       });
       if (results.length === 0) {
-        $searchResultsHeader.innerText = `Nothing like «${term}»`;
+        $searchResultsHeader.innerText = `Keine Ergebnisse für «${term}»`;
         return;
       }
   
       currentTerm = term;
-        $searchResultsHeader.innerText = `${results.length} for «${term}»:`;
+        $searchResultsHeader.innerText = `${results.length} Ergebnisse für «${term}»:`;
       for (var i = 0; i < Math.min(results.length, MAX_ITEMS); i++) {
         if (!results[i].doc.body) {
           continue;

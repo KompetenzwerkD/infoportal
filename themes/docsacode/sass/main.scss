@@ -22,7 +22,7 @@
 
     $theme-light-first-text-color: #444;
     $theme-dark-first-text-color: #888;
-    $theme-light-second-text-color: #999;
+    $theme-light-second-text-color: #444;
     $theme-dark-second-text-color: #666;
     $theme-light-bg-color:#fafafa;
     $theme-dark-bg-color:#262626;
@@ -39,10 +39,8 @@
     }
 
 
-footer {
-  margin:0 0 1rem 0;
-}
 
+/*
 body {
   height: auto;
   text-rendering: optimizeLegibility;
@@ -54,12 +52,13 @@ body {
   //font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
   //font-size: 1.25rem;
   line-height:1.6;
-  display: flex;
-  flex-flow: row wrap;
+  //display: flex;
+  //flex-flow: row wrap;
   hyphens: auto;
   @include color(background, --bg-color,  $theme-light-bg-color);
   @include color(color, --first-text-color, $theme-light-first-text-color);
-}
+}*/
+
 
 @keyframes fade-in {
   0% {
@@ -75,7 +74,7 @@ body {
   }
   }
 
- 
+ /*
 .theme-button{
   display: none;
   padding:0;
@@ -93,25 +92,19 @@ body {
 .theme-button.enabled{
   display: inline;
 }
+/*
 
-#sep {
-  width: 100%;
-  margin: 0 auto;
-  margin-top: 1rem;
-  border-top: 1px solid lightgray; 
-}
 
-.logo {
-  margin-bottom: 1.5rem;
-}
 
+
+/*
 pre {
-  overflow: auto;
+  //overflow: auto;
   font:1rem Consolas, monospace;
   padding:1rem;
   margin:0 0 1rem 0;
   border-radius: 4px;
-}
+}*/
 
 a:link {
   text-decoration: none;
@@ -156,7 +149,7 @@ h1 {
   //text-transform: uppercase;
   margin:1rem 0;
 }
-
+ /*
 nav {
     //position: fixed;
   width:34vw;
@@ -247,7 +240,7 @@ main {
     margin:0 1rem;
   }
 }*/
-
+/*
 #toc {
   list-style: none;
   @include color(color, --second-text-color, $theme-light-second-text-color);
@@ -309,6 +302,139 @@ footer {
 
   #bger, #tax_list {
     display: block;
+  }
+}
+*/
+
+body {
+  margin: 3rem 3rem 3rem 3rem;
+  margin-right: 5rem;
+  
+  height: auto;
+  text-rendering: optimizeLegibility;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  letter-spacing: 0.2px;
+  line-height:1.6;
+  hyphens: auto;
+  @include color(background, --bg-color,  $theme-light-bg-color);
+  @include color(color, --first-text-color, $theme-light-first-text-color);
+}
+
+nav {
+  width: 43%;
+  float: left;
+
+  padding: 0rem;
+
+  position: fixed;
+  left: 4rem;
+  top: 4rem;
+  //padding:4vw;
+
+  #submenu {
+    margin-bottom: 3rem;
+  }
+
+  #breadcrumbs {
+    margin-bottom: 2rem;
+    display: flex;
+    flex-flow: row wrap;
+  }
+
+  ul {
+    list-style-type: none;
+    text-align: left;
+    @include color(color, --second-text-color, $theme-light-second-text-color);
+  }
+
+  .logo {
+    margin-bottom: 1.5rem;
+  }
+}
+
+main {
+  float: right;
+  width:50%;
+
+  #toc {
+    list-style: none;
+    @include color(color, --second-text-color, $theme-light-second-text-color);
+    font-size: 1rem;
+    margin-top: 1rem;
+   
+    ul {
+      margin-left:1rem;
+      font-size:1rem;
+      list-style: none;
+    }
+  }
+
+
+  #sep {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-top: 1px solid lightgray; 
+  }
+
+  p {
+    margin:0 0 1rem 0;
+  }
+
+  ul, ol {
+    padding-left: 1rem;
+    list-style-position: outside;
+    margin-bottom: 1rem;
+  }
+
+  img {
+    max-width:100%;
+  }
+
+}
+
+footer {
+  position: fixed;
+  float: left;
+  width: 100%;
+  margin: 0 0 1rem 0;
+  bottom:  0rem;
+  left: 4rem;
+}
+
+@media screen and (max-width: 1260px) {
+  nav {
+    position: static;
+    float: left;
+    width: 100%;
+  }
+
+  main {
+    float: left;
+    width: 100%;
+  }
+
+  footer {
+    position: static;
+  }
+}
+
+@media print {
+  nav {
+    position: static;
+    float: left;
+    width: 100%;
+  }
+
+  main {
+    float: left;
+    width: 100%;
+  }
+
+  footer {
+    position: static;
   }
 }
 
