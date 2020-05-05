@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+      <title> KompetenzwerkD | Abgleich lokaler Daten mit Wikidata </title>     
+      <link rel="stylesheet" href="http://127.0.0.1:1111/main.css">
+    </head>
+
+    <body>
+ 
+
+
+        <nav>
+
+          <div class="logo">
+          <img src="http:&#x2F;&#x2F;127.0.0.1:1111&#x2F;images&#x2F;logo.png">
+
+          <br />
+          <div id="submenu">
+            <a href="/">Über uns</a> | <a href="/impressum">Impressum</a> | 
+            <a href="/search">Suche</a>    
+          </div>
+        
+  <ul id="breadcrumbs">
+    
+      
+      <li><a href="http:&#x2F;&#x2F;127.0.0.1:1111&#x2F;">Home</a>&nbsp;&#8594;&nbsp;</li> 
+    
+      
+      <li><a href="http:&#x2F;&#x2F;127.0.0.1:1111&#x2F;wissensbasen&#x2F;">Datenerfassung und Wissensbasen</a>&nbsp;&#8594;&nbsp;</li> 
+    
+      
+      <li><a href="http:&#x2F;&#x2F;127.0.0.1:1111&#x2F;wissensbasen&#x2F;tools&#x2F;">Tools</a>&nbsp;&#8594;&nbsp;</li> 
+    
+      
+      <li><a href="http:&#x2F;&#x2F;127.0.0.1:1111&#x2F;wissensbasen&#x2F;tools&#x2F;openrefine&#x2F;">OpenRefine</a>&nbsp;&#8594;&nbsp;</li> 
+    
+      
+      <li><a href="http:&#x2F;&#x2F;127.0.0.1:1111&#x2F;wissensbasen&#x2F;tools&#x2F;openrefine&#x2F;tutorials&#x2F;">Tutorials</a>&nbsp;&#8594;&nbsp;</li> 
+    
+    <li><h4>Abgleich lokaler Daten mit Wikidata</h4></li>
+  </ul>
+
+  <!--
+  <div id="taxonomies">
+       
+
+    
+    
+    
+    -->
+
+
+  </div>
+
+  
+        
+        </nav>
+        <div id="placeholder"></div>
+
+
+        <main>
+
+          <div id="content">
+
+          
+
+
+
+  
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+
+
+
+    <hr id="sep" />
+    <ul id="toc">
+      
+        <li><a href="http://127.0.0.1:1111/wissensbasen/tools/openrefine/tutorials/tutorial1/#abgleich-lokaler-daten-mit-wikidata">Abgleich lokaler Daten mit Wikidata</a>
+        <ul>        
+          
+          <li><a href="http://127.0.0.1:1111/wissensbasen/tools/openrefine/tutorials/tutorial1/#1-lade-das-lokale-datenset-in-openrefine">1. Lade das lokale Datenset in OpenRefine</a></li>
+        
+          <li><a href="http://127.0.0.1:1111/wissensbasen/tools/openrefine/tutorials/tutorial1/#2-reconcile-das-datenset-mit-wikidata">2. Reconcile das Datenset mit Wikidata</a></li>
+        
+          <li><a href="http://127.0.0.1:1111/wissensbasen/tools/openrefine/tutorials/tutorial1/#3-importiere-die-aktuellen-daten-aus-wikidata">3. Importiere die aktuellen Daten aus Wikidata</a></li>
+        
+          <li><a href="http://127.0.0.1:1111/wissensbasen/tools/openrefine/tutorials/tutorial1/#4-erstelle-eine-neue-spalte-welche-die-alten-und-neuen-daten-vergleicht">4. Erstelle eine neue Spalte, welche die alten und neuen Daten vergleicht</a></li>
+        
+       </ul>
+
+      </li>
+
+    </ul>
+    <hr id="sep" />
+
+
+  <article>
+    <h1 id="abgleich-lokaler-daten-mit-wikidata">Abgleich lokaler Daten mit Wikidata<a class="zola-anchor" href="#abgleich-lokaler-daten-mit-wikidata" aria-label="Anchor link for: abgleich-lokaler-daten-mit-wikidata">🔗</a></h1>
+<blockquote>
+<p>Use-Case: Wir haben ein lokales Datenset und wollen überprüfen, ob sich darin enthaltene Informationen von den auf Wikidata eingetragenen Daten unterscheiden.</p>
+</blockquote>
+<p>Für dieses Tutorial nehmen wir ein (sehr) kleines <a href="https://github.com/KompetenzwerkD/openrefine-resources/blob/master/tutorials/wikidata_abgleich/data/japanese_feminist_writers.csv">Testdatenset mit feministischen Autorinnen und Aktivistinnen aus Japan</a>. Wir wollen überpfüfen, ob die im Datenset enthaltenen Geburtsdaten mit denen auf Wikidata übereinstimmen. </p>
+<blockquote>
+<p>Eine gute Einführung in die grundlegenden Funktionalitäten von OpenRefine: <a href="https://librarycarpentry.org/lc-open-refine/">Library Carpentry: OpenRefine</a></p>
+</blockquote>
+<h2 id="1-lade-das-lokale-datenset-in-openrefine">1. Lade das lokale Datenset in OpenRefine<a class="zola-anchor" href="#1-lade-das-lokale-datenset-in-openrefine" aria-label="Anchor link for: 1-lade-das-lokale-datenset-in-openrefine">🔗</a></h2>
+<p><img src="https://github.com/KompetenzwerkD/openrefine-resources/blob/master/tutorials/wikidata_abgleich/images/openrefine_wikidata1.png?raw=true" alt="" /></p>
+<h2 id="2-reconcile-das-datenset-mit-wikidata">2. Reconcile das Datenset mit Wikidata<a class="zola-anchor" href="#2-reconcile-das-datenset-mit-wikidata" aria-label="Anchor link for: 2-reconcile-das-datenset-mit-wikidata">🔗</a></h2>
+<blockquote>
+<p><a href="https://www.youtube.com/playlist?list=PL_0jeq3PjvtADzbovAgHNzOFvOlyF6uL1">Ausführlichere Video-Einführung zum Reconciliation-Service</a></p>
+</blockquote>
+<p>Wir verwenden den Wikidata-Reconiliation-Service um eine Spalte in unserem Datenset (<code>name</code>) mit Wikidata abzugleichen. Dazu wählen wir bei der entsprechenden Spalte <code>Reconcile / Start reconciling ...</code> ....</p>
+<p><img src="https://github.com/KompetenzwerkD/openrefine-resources/blob/master/tutorials/wikidata_abgleich/images/openrefine_wikidata2.png?raw=true" alt="" /></p>
+<p>und wählen den entsprechenden Service (Wikidata in unserem Fall).</p>
+<p><img src="https://github.com/KompetenzwerkD/openrefine-resources/blob/master/tutorials/wikidata_abgleich/images/openrefine_wikidata3.png?raw=true?raw=true" alt="" /></p>
+<p>Um die Ergebnisse zu verbessern könnnen wir noch einen Datentyp auswählen. In unserem Fall handelt es sich um Autorinnen/Aktivistinnen, wir wählen also Typ 'human/Q5'. </p>
+<p><img src="https://github.com/KompetenzwerkD/openrefine-resources/blob/master/tutorials/wikidata_abgleich/images/openrefine_wikidata4.png?raw=true" alt="" /></p>
+<p>Da unsere Namen im Datenset recht eindeutig sind, hat der Reconciliation-Schritt gut funktioniert und hat alle Namen automatisch mit den entsprechenden Wikidata-Einträgen verknüpft.</p>
+<p><img src="https://github.com/KompetenzwerkD/openrefine-resources/blob/master/tutorials/wikidata_abgleich/images/openrefine_wikidata5.png?raw=true" alt="" /></p>
+<h2 id="3-importiere-die-aktuellen-daten-aus-wikidata">3. Importiere die aktuellen Daten aus Wikidata<a class="zola-anchor" href="#3-importiere-die-aktuellen-daten-aus-wikidata" aria-label="Anchor link for: 3-importiere-die-aktuellen-daten-aus-wikidata">🔗</a></h2>
+<p>Hat man den Reconciliation-Schritt durchgeführt, kann man in OpenRefine nun einfach 'properties' von der verknüpften Datenquelle (hier: Wikidata) als neue Spalte importieren.
+Dazu wählt man einfach <code>Edit column / Add columns from reconciled values ...</code> ...</p>
+<p><img src="https://github.com/KompetenzwerkD/openrefine-resources/blob/master/tutorials/wikidata_abgleich/images/openrefine_wikidata6.png?raw=true" alt="" /></p>
+<p>und wählt das entsprechende property.</p>
+<p><img src="https://github.com/KompetenzwerkD/openrefine-resources/blob/master/tutorials/wikidata_abgleich/images/openrefine_wikidata7.png?raw=true" alt="" /></p>
+<p>Die in dem property enthaltenen Daten werden nun als neue Spalte in den Datensatz eingfügt. Der Spaltenname entspricht dabei dem label des properties (in unserem Fall <code>date of birth</code>).</p>
+<p><img src="https://github.com/KompetenzwerkD/openrefine-resources/blob/master/tutorials/wikidata_abgleich/images/openrefine_wikidata9.png?raw=true" alt="" /></p>
+<h2 id="4-erstelle-eine-neue-spalte-welche-die-alten-und-neuen-daten-vergleicht">4. Erstelle eine neue Spalte, welche die alten und neuen Daten vergleicht<a class="zola-anchor" href="#4-erstelle-eine-neue-spalte-welche-die-alten-und-neuen-daten-vergleicht" aria-label="Anchor link for: 4-erstelle-eine-neue-spalte-welche-die-alten-und-neuen-daten-vergleicht">🔗</a></h2>
+<p>Um den Vergleich der Spalten zu vereinfachen, lohnt es ich manchmal die Datentypen der Spalten zu vereinheitlichen. In unserem Beispiel wurde die neue <code>date of birth</code> Spalte aus Wikidata mit dem Datentyp <code>date</code> importiert, während unsere <code>date_of_birth</code> Spalte vom Datentyp <code>text</code>ist.</p>
+<p>Um den Datentyp der neuen Spalte in <code>text</code> zu ändern wählen wir <code>Edit cells / Common transforms / To text</code></p>
+<p><img src="https://github.com/KompetenzwerkD/openrefine-resources/blob/master/tutorials/wikidata_abgleich/images/openrefine_wikidata11.png?raw=true" alt="" /></p>
+<p>Dann erstellen wir eine neue Spalte (<code>Edit column / Add column based on this column</code>), welche den neuen Wert beinhaltet, wenn sich dieser von dem alten unterscheidet. Ansonsten soll das Feld leer bleiben.</p>
+<p>Dazu verwenden wir folgendes Python-Skript:</p>
+<pre style="background-color:#2b303b;">
+<span style="color:#65737e;"># mit try/except fangen wir Felder ohne Wert ab
+# strip() entfernt Leerzeichen am Anfang und Ende des Wertes
+</span><span style="color:#b48ead;">try</span><span style="color:#c0c5ce;">:
+    original = row.record.cells[&quot;</span><span style="color:#a3be8c;">date_of_birth</span><span style="color:#c0c5ce;">&quot;].value[</span><span style="color:#d08770;">0</span><span style="color:#c0c5ce;">].</span><span style="color:#bf616a;">strip</span><span style="color:#c0c5ce;">()
+</span><span style="color:#b48ead;">except</span><span style="color:#c0c5ce;">:
+    original = &quot;&quot;
+
+new = row.record.cells[&quot;</span><span style="color:#a3be8c;">date of birth</span><span style="color:#c0c5ce;">&quot;].value[</span><span style="color:#d08770;">0</span><span style="color:#c0c5ce;">].</span><span style="color:#bf616a;">strip</span><span style="color:#c0c5ce;">()
+
+</span><span style="color:#b48ead;">if </span><span style="color:#c0c5ce;">new != original:
+    </span><span style="color:#b48ead;">return </span><span style="color:#c0c5ce;">new
+</span><span style="color:#b48ead;">else</span><span style="color:#c0c5ce;">:
+    </span><span style="color:#b48ead;">return </span><span style="color:#c0c5ce;">&quot;&quot;
+</span></pre>
+<p>und benennen die neue Spalte <code>updated_value</code>.</p>
+<p><img src="https://github.com/KompetenzwerkD/openrefine-resources/blob/master/tutorials/wikidata_abgleich/images/openrefine_wikidata12.png?raw=true" alt="" /></p>
+<p>In der <code>updated_value</code> Spalte können wir nun einfach sehen, wenn sich ein Wikidata-Wert von dem in unserem Datenset unterscheidet.</p>
+<p><img src="https://github.com/KompetenzwerkD/openrefine-resources/blob/master/tutorials/wikidata_abgleich/images/openrefine_wikidata13.png?raw=true" alt="" /></p>
+
+  </article>
+
+
+          </div>
+        </main>
+
+ 
+
+ 
+      <footer>
+        <div>
+          <a href="https://creativecommons.org/share-your-work/public-domain/cc0/"><img src="https://licensebuttons.net/p/zero/1.0/88x31.png" alt="CC-0" /></a><br />
+          <a href="https://getzola.org">Build with Zola</a> | 
+          <a href="https://github.com/codeandmedia/zola_docsascode_theme">Theme based on docsacode-theme</a> |
+          <a href="https://github.com/kompetenzwerkd/kompetenzwerkd.github.io">Source code</a> 
+        </div>
+         
+      </footer>
+
+    <script src="/livereload.js?port=1025&amp;mindelay=10"></script></body>
+</html>

@@ -18,7 +18,6 @@
 
 {% endblock nav %}
 
-
 {% block content %}
     {% set_global header_count = 0 %}
     {% for h2 in section.toc %}
@@ -32,6 +31,7 @@
     {% endfor %}
 
     {% if header_count > 4 %}
+    <hr id="sep" />
         <ul id="toc">
         {% for h2 in section.toc %}
             <li><a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>

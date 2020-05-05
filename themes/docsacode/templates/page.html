@@ -53,6 +53,7 @@
 {% endfor %}
 
 {% if header_count > 4 %}
+    <hr id="sep" />
     <ul id="toc">
       {% for h2 in page.toc %}
         <li><a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>

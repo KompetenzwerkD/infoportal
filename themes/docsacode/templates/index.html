@@ -15,21 +15,13 @@
 
 
         <nav>
-          <!--
-          <div id="subnav">
-            <form class="theme-selector">
-              <button type="button" id="theme-light-button" class="theme-button" onclick="enableTheme('light', true)">&#9706;</button>
-              <button type="button" id="theme-dark-button"  class="theme-button enabled" onclick="enableTheme('dark', true)">&#9705;</button>
-            </form>
-            <a href="/search">&#8981;</a>       
-          </div>
-          -->
+
           <div class="logo">
           <img src="{{ get_url(path="images/logo.png")}}">
 
           <br />
           <div id="submenu">
-            <a href="/netzwerk">Netzwerk</a> | <a href="/werkstatt">Werkstatt</a> | <a href="/impressum">Impressum</a> | 
+            <a href="/">Über uns</a> | <a href="/impressum">Impressum</a> | 
             <a href="/search">Suche</a>    
           </div>
         {% block nav %}
@@ -47,43 +39,48 @@
         </nav>
         <div id="placeholder"></div>
 
-        <main>
-        {% block content %}
 
-          {% set_global header_count = 0 %}
-          {% for h2 in section.toc %}
-            {% set_global header_count = header_count + 1 %}
-            {% for h3 in h2.children %}
+        <main>
+
+          <div id="content">
+
+          {% block content %}
+
+            {% set_global header_count = 0 %}
+            {% for h2 in section.toc %}
               {% set_global header_count = header_count + 1 %}
-              {% for h4 in h3.children %}
+              {% for h3 in h2.children %}
                 {% set_global header_count = header_count + 1 %}
+                {% for h4 in h3.children %}
+                  {% set_global header_count = header_count + 1 %}
+                {% endfor %}
               {% endfor %}
             {% endfor %}
-          {% endfor %}
 
-          {% if header_count > 4 %}
-              <ul id="toc">
-                {% for h2 in section.toc %}
-                  <li><a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
-                  {% if h2.children %}<ul>        
-                    {% for h3 in h2.children %}
-                    <li><a href="{{ h3.permalink | safe }}">{{ h3.title }}</a></li>
-                  {% endfor %}
-                </ul>
-          {% endif %}
-                </li>
-          {% endfor %}
-              </ul>
+            {% if header_count > 4 %}
               <hr id="sep" />
-          {% endif %}
+                <ul id="toc">
+                  {% for h2 in section.toc %}
+                    <li><a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
+                    {% if h2.children %}<ul>        
+                      {% for h3 in h2.children %}
+                      <li><a href="{{ h3.permalink | safe }}">{{ h3.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+            {% endif %}
+                  </li>
+            {% endfor %}
+                </ul>
+                <hr id="sep" />
+            {% endif %}
 
 
-          <article>
-          {{ section.content | safe }}
-          </article>
-        {% endblock content %}
+            <article>
+            {{ section.content | safe }}
+            </article>
+          {% endblock content %}
 
-
+          </div>
         </main>
 
  

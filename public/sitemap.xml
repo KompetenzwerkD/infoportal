@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>http://127.0.0.1:1111/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/digitales_arbeiten/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/digitales_publizieren/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/fdm/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/fdm/plan/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/impressum/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/netzwerk/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/nfdi/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/search/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/werkstatt/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/wissensbasen/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/wissensbasen/einfuehrung/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/wissensbasen/tools/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/wissensbasen/tools/mediawiki/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/wissensbasen/tools/openrefine/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/wissensbasen/tools/openrefine/tutorials/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/wissensbasen/tools/openrefine/tutorials/tutorial1/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/wissensbasen/tools/openrefine/tutorials/tutorial2/</loc>
+            
+        </url>
+    
+</urlset>
