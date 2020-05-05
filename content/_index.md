@@ -24,3 +24,9 @@ Die Werkstatt, institutionell angebunden an die Digital-Humanities-Abteilung der
 * Bündelung lokaler Kompetenzen und methodischen Know-Hows in den Digital Humanities
 * Aufbau langfristig stabiler digitaler Angebote
 * Ressourcenvernetzung
+
+<br/>
+
+|<!-- -->|<!-- -->|
+|--|--|
+| ![](images/smwk-logo.png) | Diese Maßnahme wird mitfinanziert durch Steuermittel auf der Grundlage des vom Sächsischen Landtag beschlossenen Haushalts. |

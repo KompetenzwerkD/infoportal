@@ -98,6 +98,14 @@ body {
   @include color(color, --first-text-color, $theme-light-first-text-color);
 }
 
+hr {
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border: 1px solid lightgray; 
+}
+
 nav {
   width: 43%;
   float: left;
