@@ -10,16 +10,7 @@ insert_anchor_links = "right" # if you want § next to headers
 
 Das KompetenzwerkD – D steht für alle Facetten der Digitalisierung – ist ein Forschungszentrum (Werkstatt) und ein Kompetenz- und Leistungsverbund (Netzwerk) für die Bereiche Digitale Geisteswissenschaften und Digitales Kulturelles Erbe der außeruniversitären, geisteswissenschaftlichen Forschungseinrichtungen in Sachsen:
 
- ![](images/gwzo-logo.png) ![](images/di-logo.png) ![](images/hait-logo.png)  ![](images/isgv-logo.png) ![](images/si-logo.png)    ![](images/saw-logo.png) 
-
-* [Leibniz-Institut für Geschichte und Kultur des östlichen Europa e.V.](https://www.leibniz-gwzo.de/)
-* [Leibniz-Institut für jüdische Geschichte und Kultur – Simon Dubnow e.V.](http://www.dubnow.de/)
-* [Hannah-Arendt-Institut für Totalitarismusforschung e.V.](https://hait.tu-dresden.de/)
-* [Institut für Sächsische Geschichte und Volkskunde e.V.](https://www.isgv.de/)
-* [Sorbische Institut e.V. / serbski institut z.t.](https://www.serbski-institut.de/)
-* [Sächsische Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de/)
-
-
+ [![](images/gwzo-logo.png)](https://www.leibniz-gwzo.de/) [![](images/di-logo.png)](http://www.dubnow.de/) [![](images/hait-logo.png)](https://hait.tu-dresden.de/)  [![](images/isgv-logo.png)](https://www.isgv.de/) [![](images/si-logo.png)](https://www.serbski-institut.de/)  [![](images/saw-logo.png)](https://www.saw-leipzig.de/)
 
 
 Das Netzwerk bündelt die Kompetenz der beteiligten Institute auf dem Gebiet der Digital Humanities und entwickelt sie gezielt strategisch weiter. Im Vordergrund stehen dabei die Unterstützung bei der Nutzung und Übertragung von geeigneten Methoden auf geisteswissenschaftliche Fragestellungen und der Ausbau bereits vorhandener digitaler Forschungskomponenten.
