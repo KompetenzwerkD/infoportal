@@ -7,4 +7,4 @@ insert_anchor_links = "right"
 
 # Digitales Publizieren und Austellungen
 
-coming soon
+In Arbeit.

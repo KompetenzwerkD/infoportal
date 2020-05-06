@@ -70,6 +70,31 @@ h1, h2, h3, h4, h5 {
   }
 }
 
+table, th, td {
+  border-collapse:collapse;
+  //border: 1px solid lightgray;
+}
+
+tr:nth-child(odd) {
+  background: #eee;
+}
+
+th {
+  background: #fafafa;
+}
+
+th, td {
+  padding: 0.3rem 1rem  0.3rem 1rem;
+}
+
+pre {
+  overflow: auto;
+  font:0.9rem Consolas, monospace;
+  line-height: 1.3rem;
+  padding:1rem;
+  margin:0 0 1rem 0;
+  border-radius: 4px;
+}
 
 h2, h3 {
   font-weight: 400;
