@@ -5,4 +5,6 @@ description = "Description"
 insert_anchor_links = "right"
 +++
 
-# Work in progress
+# Digitales Publizieren und Austellungen
+
+coming soon

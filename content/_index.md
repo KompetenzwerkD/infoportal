@@ -6,7 +6,7 @@ insert_anchor_links = "right" # if you want § next to headers
 +++
 
 
-## KompetenwerkD - Netzwerk und Werkstatt
+# KompetenwerkD - Netzwerk und Werkstatt
 
 Das KompetenzwerkD – D steht für alle Facetten der Digitalisierung – ist ein Forschungszentrum (Werkstatt) und ein Kompetenz- und Leistungsverbund (Netzwerk) für die Bereiche Digitale Geisteswissenschaften und Digitales Kulturelles Erbe der außeruniversitären, geisteswissenschaftlichen Forschungseinrichtungen in Sachsen:
 

@@ -5,6 +5,8 @@ description = "Description"
 insert_anchor_links = "right"
 +++
 
+# Nationale Forschungsdateninfrastruktur (NFDI)
+
 ## Übersicht - Konsortien im Bereich Digital Humanities
 
 *Stand: 20.03.2020*
@@ -24,13 +26,15 @@ Wichtige Fakten:
 
 [mehr zur Förderlinie und dem Stand der Antragsverfahren](https://www.dfg.de/foerderung/programme/nfdi/)
 
-&nbsp;
-## Konsortien
+<br />
+
+### Konsortien
 
 Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folgende Konsortieninitiativen:
 
-&nbsp;
-### NFDI Text+
+<br />
+
+#### NFDI Text+
 * Webauftritt: [Link](https://www.text-plus.org/)
 * Kontakt: Erhard Hinrichs hinrichs@ids-mannheim.de 
 * Stand: derzeit in Begutachtung, Entscheidung im Frühsommer 2020
@@ -40,8 +44,9 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 * Fachdisziplinen: Sprach-, Literatur-, Kultur- und die                                 Geschichtswissenschaften, Philosophie und sprach- und textbasierte Forschung in den Sozial- und Politikwissenschaften
 * Möglichkeiten der Teilhabe: Nach der Förderentscheidung wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert
 
-&nbsp;
-### NFDI4Culture
+<br />
+
+#### NFDI4Culture
 * Webauftritt: [Link](https://www.nfdi4culture.de/)
 * Kontakt:
   * Prof. Dr. Dörte Schmidt dschmidt@udk-berlin.de
@@ -54,8 +59,9 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 * Fachdisziplinen: Kulturwissenschaften, Musikwissenschaft, Kunstgeschichte, Architektur, Theater-, Film- und Medienwissenschaft
 * Möglichkeiten der Teilhabe: Nach der Förderentscheidung wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert
 
-&nbsp;
-### NFDI4Memory
+<br />
+
+#### NFDI4Memory
 * Webauftritt: [Link](https://4memory.de/)
 * Kontakt: Prof. Dr. Johannes Paulmann: 4memory@ieg-mainz.de
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
@@ -67,8 +73,9 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
   * [Informationen zu den Community-Treffen](https://4memory.de/community-treffen/)
   * [Link zur Anmeldung für das Community-Treffen in Halle am 24.04.](https://www.esciences.uni-trier.de/events/event/nfdi4memory-community-treffen-am-24-april-2020-in-halle-saale/)
 
-&nbsp;
-### NFDI4Objects
+<br />
+
+#### NFDI4Objects
 * Webauftritt: [Link](https://www.nfdi4objects.net/)
 * Kontakt:
   * Prof. Dr. Philipp von Rummel philipp.von.rummel@berliner-antike-kolleg.org
@@ -83,8 +90,9 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
   * [Openscience-Projekt zur aktiven Mitarbeit](https://osf.io/4t29e/)
   * Einrichtung von Mitgliederforum und offenem Mitgliederforum geplant (zum Austausch mit den “Nutzenden”)
 
-&nbsp;
-### NFDI4TheoReS
+<br />
+
+#### NFDI4TheoReS
 * Webauftritt: bisher nicht vorhanden
 * Kontakt: Prof. Dr. Hans-Peter Grosshans grosshans@uni-muenster.de
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
@@ -94,8 +102,9 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 * Fachdisziplinen: Theologien und Religionswissenschaften, teilweise auch Philosophie, Recht, Sozialwissenschaften, Geschichte, Orientalistik, Ethnologie, Kulturwissenschaften, Sinologie
 * Möglichkeiten der Teilhabe: Derzeit unklar. Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert.
 
-&nbsp;
-### NFDI Small Disciplines
+<br />
+
+#### NFDI Small Disciplines
 * Webauftritt: bisher nicht vorhanden
 * Kontakt:
   * Prof. Dr. Gerd Graßhoff gerd.graßhoff@hu-berlin.de
@@ -107,8 +116,9 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 * Fachdisziplinen: Sozial- und Verhaltenswissenschaften, Mathematik, Bauwesen, Ingenieurwesen und Architektur
 * Möglichkeiten der Teilhabe: Derzeit unklar. Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert.
 
-&nbsp;
-### NFDI4Language (für Künstliche Intelligenz und historische und linguistische Fächer)
+<br />
+
+#### NFDI4Language (für Künstliche Intelligenz und historische und linguistische Fächer)
 * Webauftritt: bisher nicht vorhanden
 * Kontakt: Dr. Georg Rehm georg.rehm@dfki.de
 * Stand: Antragstellung 2021 geplant

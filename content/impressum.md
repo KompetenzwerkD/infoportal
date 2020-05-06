@@ -18,17 +18,10 @@ Tel.: +49 341 71153
 **Ansprechpartner**
 
 Franziska Naether\
-E-Mail: naether@saw-leipzig.de
-
-Dirk Goldhahn\
-E-Mail: goldhahn@saw-leipzig.de
-
+Dirk Goldahn\
 Peter Mühleder\
-E-Mail: muehleder@saw-leipzig.de
+E-Mail: kompetenzwerkd@saw-leipzig.de
 
-**Inhalte**
-
-Die Rechte der bereitgestellten Dokumente liegen bei deren Autoren. Jede Verwertung zu kommerziellen oder anderen Zwecken bedarf ihrer Zustimmung. Die Verlinkung unter Nennung von Autor und Quelle ist gestattet.
 
 **Haftungshinweis**
 
@@ -38,8 +31,6 @@ Rechtswidrige Links und Inhalte werden nach Kenntnisnahme unverzüglich entfernt
 
 **Datenschutzerklärung**
 
-Diese Internetpräsenz wird bei github gehostet und sammelt keine persönlichen Daten der Benutzer und verwendet keine Cookies. Zugriffe werden in Log-Dateien protokolliert. Für mehr Details lesen sie bitte das github Privacy Statement.
+Diese Internetpräsenz wird bei github gehostet und sammelt keine persönlichen Daten der Benutzer und verwendet keine Cookies. Zugriffe werden in Log-Dateien protokolliert. Für mehr Details lesen sie bitte das [github Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement#additional-services).
 
-Angebotene Formulare leiten nur die eingegebenen Daten an die jeweiligen Empfänger weiter.
-
-Beschwerden oder Hinweise können schriftlich an die oben aufgeführte Adresse, per Mail an info@ub.uni-leipzig.de gerichtet oder über unser Kontaktformular gesendet werden.
+Beschwerden oder Hinweise können schriftlich an die oben aufgeführte Adresse oder per Mail an kompetenzwerkd@saw-leipzig.de gerichtet werden.
