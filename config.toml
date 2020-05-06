@@ -2,7 +2,7 @@ title = "KompetenzwerkD"
 
 theme = "docsacode"
 # The URL the site will be built for
-base_url = "https://kompetenzwerkd.github.io/"
+base_url = "https://kompetenzwerkd.github.io/infoportal/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true

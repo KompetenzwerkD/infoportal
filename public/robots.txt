@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://kompetenzwerkd.github.io/sitemap.xml
+Sitemap: https://kompetenzwerkd.github.io/infoportal/sitemap.xml
