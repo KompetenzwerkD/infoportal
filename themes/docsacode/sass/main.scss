@@ -110,7 +110,7 @@ h1 {
 
 body {
   margin: 3rem 3rem 3rem 3rem;
-  margin-right: 5rem;
+  //margin-right: 5rem;
   
   height: auto;
   text-rendering: optimizeLegibility;
@@ -224,6 +224,7 @@ footer {
 @media only screen and (max-width: 1090px) {
 
 
+
   nav {
     position: static;
     float: left;
@@ -231,7 +232,7 @@ footer {
   }
 
   main {
-    margin-right:2rem;
+    margin-right:1rem;
     float: left;
     width: 100%;
 
