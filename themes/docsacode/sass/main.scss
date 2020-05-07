@@ -234,13 +234,14 @@ footer {
     position: static;
     float: left;
     width: 100%;
+    min-width: 100%;
   }
 
   main {
     margin-right:1rem;
     float: left;
     width: 100%;
-
+    min-width: 100%;
     #content {
       width: 100%;
     }
