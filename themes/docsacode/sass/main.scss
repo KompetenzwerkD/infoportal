@@ -175,7 +175,8 @@ main {
   width:50%;
 
   #content {
-    width: 45rem;
+    width: 100%;
+    max-width: 45rem;
   }
   
 
@@ -226,28 +227,76 @@ footer {
   left: 4rem;
 }
 
-@media only screen and (max-width: 1090px) {
 
+
+
+@media only screen and (max-width: 1090px) {
+  html body {
+    margin: 0;
+    padding:0;
+    width: 100%;
+  }
 
 
   nav {
+    margin:0;
     position: static;
     float: left;
-    width: 100%;
+    margin-left:5rem;
+    width: 90%;
     min-width: 490px;
   }
 
   main {
     float: left;
-    width: 100%;
     min-width: 490px;
+    width: 90%;
+    margin-left: 5rem;
     #content {
       width: 100%;
-      margin-right: 2rem;
+      //margin-right: 1rem;
     }
   }
 
   footer {
+    width: 90%;
+    margin-lefT:5rem;
+    margin-top: 3rem;
+    position: static;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  html body {
+    margin: 0;
+    padding:0;
+    width: 100%;
+  }
+
+
+  nav {
+    margin:0;
+    position: static;
+    float: left;
+    margin-left:1rem;
+    width: 95%;
+    min-width: 490px;
+  }
+
+  main {
+    float: left;
+    min-width: 490px;
+    width: 95%;
+    margin-left: 1rem;
+    #content {
+      width: 100%;
+      //margin-right: 1rem;
+    }
+  }
+
+  footer {
+    width: 95%;
+    margin-lefT:1rem;
     margin-top: 3rem;
     position: static;
   }
