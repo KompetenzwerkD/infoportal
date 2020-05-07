@@ -115,7 +115,7 @@ body {
   height: auto;
   text-rendering: optimizeLegibility;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 15px;
+  font-size: 1rem;
   letter-spacing: 0.2px;
   line-height:1.6;
   hyphens: auto;
@@ -222,6 +222,8 @@ footer {
 }
 
 @media screen and (max-width: 1260px) {
+
+
   nav {
     position: static;
     float: left;
@@ -229,9 +231,13 @@ footer {
   }
 
   main {
-
+    margin-right:2rem;
     float: left;
     width: 100%;
+
+    #content {
+      width: 100%;
+    }
   }
 
   footer {
