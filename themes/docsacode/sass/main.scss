@@ -147,6 +147,14 @@ nav {
   top: 2rem;
   //padding:4vw;
 
+  #logo-big {
+    display: block;
+  }
+
+  #logo-small {
+    display: none;
+  }
+
   #submenu {
     margin-bottom: 3rem;
   }
@@ -168,6 +176,7 @@ nav {
     margin-bottom: 1.5rem;
   }
 }
+
 
 
 main {
@@ -229,7 +238,6 @@ footer {
 
 
 
-
 @media only screen and (max-width: 1090px) {
   html body {
     margin: 0;
@@ -244,17 +252,26 @@ footer {
     float: left;
     margin-left:5rem;
     width: 90%;
-    min-width: 490px;
+    //min-width: 490px;
+
+    #logo-big {
+      display: block;
+    }
+
+    #logo-small {
+      display: none;
+    }
+    
   }
 
   main {
     float: left;
-    min-width: 490px;
+    //min-width: 490px;
     width: 90%;
     margin-left: 5rem;
     #content {
       width: 100%;
-      //margin-right: 1rem;
+      margin-right: 1rem;
     }
   }
 
@@ -270,9 +287,17 @@ footer {
   html body {
     margin: 0;
     padding:0;
-    width: 100%;
+    font-size: 0.9rem;
+    //width: 100%;
   }
 
+
+  h1 {
+    font-size:1.5rem;
+    line-height:1;
+    font-weight: 500;
+    margin:1rem 0;
+  }
 
   nav {
     margin:0;
@@ -280,23 +305,39 @@ footer {
     float: left;
     margin-left:1rem;
     width: 95%;
-    min-width: 490px;
+    //min-width: 360px;
+
+    #logo-big {
+      display: none;
+    }
+
+    #logo-small {
+      display: block;
+    }
   }
 
   main {
+    padding:0;
+    margin: auto;
     float: left;
-    min-width: 490px;
+    //min-width: 490px;
     width: 95%;
     margin-left: 1rem;
     #content {
-      width: 100%;
-      //margin-right: 1rem;
+      width: 95%;
+      margin-right: 1rem;
     }
+  }
+
+  article {
+    padding:0;
+    width: 100%;
   }
 
   footer {
     width: 95%;
-    margin-lefT:1rem;
+    margin-left:1rem;
+    margin-right: 1rem;
     margin-top: 3rem;
     position: static;
   }
@@ -311,6 +352,8 @@ footer {
     position: static;
     float: left;
     width: 100%;
+
+
   }
 
   main {
