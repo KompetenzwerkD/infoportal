@@ -92,7 +92,7 @@ Geben Sie Auskunft über Art und Format der Metadaten und Dokumentation: Eine au
 * Es sollte eine Strategie bezüglich Datenbackups entwickelt werden: Wie stellen Sie sicher, dass der Ausfall einzelner Rechner (zur Projektlaufzeit) nicht zum Datenverlust führt?
 * Beispiel: Nutzung Instituts-interner Server für wöchentliche Backups oder Nutzung einer internen Cloudlösung, z. B. SAW Cloud (Daten liegen dann parallel auf Arbeitsplatzrechnern und auf einem Server des Instituts)
 * Beziehen Sie evtl. vorhandene Backup-Strategien der Rechner/Server Ihres Instituts ein.
-* 
+
 #### Archivierung: 
 * Welche Daten werden im Anschluss wo (welches Repositorium oder Archiv) und wie lange verfügbar sein? Definieren Sie, welche Daten extern, öffentlich und langfristig gespeichert werden, idealerweise mindestens zehn Jahre.
 * Selektieren Sie: Was müssen Sie aufheben, um Ihre Forschung nachvollziehbar oder nachprüfbar zu machen? (Metadaten, Anleitungen) 
