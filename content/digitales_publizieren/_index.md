@@ -7,4 +7,4 @@ insert_anchor_links = "right"
 
 # Digitales Publizieren und Austellungen
 
-In Arbeit.
+Hier finden Sie unsere Leitfäden und perspektivisch auch Good-Practice-Beispiele und Tools für digitales Publizieren und Ausstellungsmachen.
