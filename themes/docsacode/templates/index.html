@@ -17,21 +17,23 @@
         <nav>
 
           <div class="logo">
-          <img id="logo-big" src="{{ get_url(path="images/logo.png")}}">
-          <img id="logo-small" src="{{ get_url(path="images/logo-small.png")}}">
-          <br />
+            <img 
+              id="logo-big" 
+              src="{{ get_url(path="images/logo.png")}}"
+
+              srcset="{{ get_url(path="images/logo.png")}} 475w,
+              {{ get_url(path="images/logo-small.png")}} 340w"
+
+              sizes="
+                (max-width: 600px) 340px,
+                475px
+              "
+            />
           <div id="submenu">
             <a href="/infoportal">Über uns</a> | <a href="/infoportal/impressum">Impressum</a> | 
             <a href="/infoportal/search">Suche</a>    
           </div>
         {% block nav %}
-          <!--
-          <ul id="breadcrumbs">
-            {% for tax in config.taxonomies %}
-              <li>/<a href="/{{tax.name}}/">{{tax.name}}</a>&nbsp;</li> 
-            {% endfor %}
-          </ul>
-        -->
           
             {{ macro::tree() }}
         {% endblock nav %}
