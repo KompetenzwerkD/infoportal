@@ -31,7 +31,7 @@
     {% endfor %}
 
     {% if header_count > 4 %}
-    <hr id="sep" />
+    <hr />
         <ul id="toc">
         {% for h2 in section.toc %}
             <li><a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
@@ -44,7 +44,7 @@
         </li>
     {% endfor %}
         </ul>
-        <hr id="sep" />
+        <hr />
     {% endif %}
 
 

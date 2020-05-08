@@ -1,6 +1,7 @@
 +++
 title = "Digitales Arbeiten"
-weight = 1
+weight = 0
+sort_by = "weight"
 description = "Description"
 insert_anchor_links = "right"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Metadaten-Schemas"
-weight = 4
+weight = 5
 description = "Description"
 insert_anchor_links = "right"
 +++

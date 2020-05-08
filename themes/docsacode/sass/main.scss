@@ -102,8 +102,8 @@ h2, h3 {
 }
 
 h1 {
-  font-size:2rem;
-  line-height:1;
+  font-size:1.8rem;
+  line-height:2.4rem;
   font-weight: 500;
   margin:1rem 0;
 }
@@ -130,11 +130,13 @@ body {
 }
 
 hr {
-  width: 100%;
-  margin: 0 auto;
   margin-top: 2rem;
   margin-bottom: 2rem;
-  border: 1px solid lightgray; 
+  width: 100%;
+  height: 1px;
+  color: lightgray;
+  background-color: lightgray;
+  border: 0 solid;
 }
 
 nav {
@@ -171,7 +173,13 @@ nav {
   }
 }
 
-
+blockquote {
+  font-size: 0.85rem;
+  padding-top: 0.3rem;
+  margin-left: 0rem;
+  padding-left: 1rem;
+  border-left: 10px solid lightgray;
+}
 
 main {
   float: right;
@@ -197,14 +205,6 @@ main {
   }
 
 
-  #sep {
-    width: 100%;
-    margin: 0 auto;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    border: 1px solid lightgray; 
-  }
-
   p {
     margin:0 0 1rem 0;
   }
@@ -212,7 +212,8 @@ main {
   ul, ol {
     padding-left: 1rem;
     list-style-position: outside;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
   }
 
   img {
@@ -222,6 +223,7 @@ main {
 }
 
 footer {
+  font-size: 0.75rem;
   position: fixed;
   float: left;
   width: 100%;
@@ -292,7 +294,7 @@ footer {
 
   h1 {
     font-size:1.5rem;
-    line-height:1;
+    line-height:2rem;
     font-weight: 500;
   }
 

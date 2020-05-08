@@ -1,7 +1,7 @@
 +++
 title = "Forschungsdatenmanagement (FDM)"
-weight = 2
-sort_by = "weight" # sort by weight or date
+weight = 1
+sort_by = "weight"
 description = "Description"
 insert_anchor_links = "right"
 +++
