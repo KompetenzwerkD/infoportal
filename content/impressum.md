@@ -1,6 +1,6 @@
 +++
-title = "Suche"
-template = "search.html"
+title = "Impressum"
+template = "impressum.html"
 +++
 
 # Impressum
