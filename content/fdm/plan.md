@@ -1,6 +1,6 @@
 +++
 title = "Wie erstelle ich einen Datenmanagementplan?"
-weight = 4
+weight = 2
 description = "Description"
 insert_anchor_links = "right"
 +++
