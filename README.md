@@ -11,6 +11,9 @@ Für die visuelle Gestaltung wird eine adaptierte Version des [docsacode-Themes]
 Derzeit wird die Seite mittles github-pages gehosted.
 
 
+Die allgemeine Konfiguration der Website findet man in der `config.toml`. Darin sind u.a. der Title der Website, die 'base url' (wird benötigt um die richtigen Links zu generieren) und das verwendete Theme definiert. 
+
+
 ## Inhalte
 
 ### Allgemeine Struktur
