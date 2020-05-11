@@ -8,6 +8,7 @@ insert_anchor_links = "right"
 # I.1. Ausstellungsaufbau
 
 ## 1. Was macht eine gute Ausstellung aus?
+
 Wenn man eine Ausstellung angeht, ist folgende Herangehensweise ratsam:
 * ein Brainstorming machen, was man von der Ausstellung erwartet (Thema, wen erreichen, was genau kommunizieren, was analog, was digital zeigen)
 * Vorbereitung: andere Sammlungen analog/digital besuchen

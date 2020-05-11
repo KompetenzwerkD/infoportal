@@ -13,11 +13,13 @@ Dieser Leitfaden entstammt jahrelanger praktischer Erfahrung im Projekt- und Mus
 Ist in diesem Leitfaden allgemein von “Ausstellung” die Rede, bezieht sich dies sowohl auf analoge als auch auf digitale Ausstellungen bzw. hybride Formen.
 
 **Legende**: 
+
 Der Pfeil ➜ führt zu Beispielen und Tipps.
 Unter diesem Zeichen ✪ finden Sie Orientierungsfragen, wie Sie praxisorientiert in Ihrem Haus eine Ausstellung realisieren können.
 Unter ➤ wird auf weitere Abschnitte dieses Leitfadens verwiesen.
 
 ## Prämissen:
+
 Dieser Leitfaden geht von einem **nicht-kommerziellen**, d. h. non-profit-Kulturbetrieb aus, wie er an öffentlichen Museen und Universitäten üblich ist. Gewinnorientierte Ausstellungshäuser (GmbHs/gGmbHs, GbRs, Galerien, Auktionshäuser etc.) arbeiten unter anderen Bedingungen im Bereich Akquise/Erwerb/Abschreibungen/Gewinn etc.
 
 Allerdings ist es ratsam, die **kommerzielle Arbeitsweise** nicht aus dem Blick zu verlieren, denn:
