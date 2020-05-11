@@ -31,7 +31,7 @@ Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw.)
 
 ## Angebote des KompetenzwerkD
 
-Neben dieser allgemeinen Einführung bieten wir Ihnen:
+Neben dieser allgemeinen Einführung bieten wir Ihnen Folgendes an:
 
 * [Eine Anleitung zur Erstellung Ihres eigenen Datenmanagementplans](plan.md)
 * [Vorlagen zum Zusammentragen Projekt- und Datensatz-bezogener Metadaten](metadaten_schemas.md)
