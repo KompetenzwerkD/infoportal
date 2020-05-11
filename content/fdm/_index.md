@@ -18,17 +18,6 @@ Da es beim FDM gilt, viele Aspekte im Auge zu behalten, ist die Erstellung eines
 
 Generell gilt: Nehmen Sie sich die nötige Zeit und beziehen Sie bei der Ausarbeitung ihrer Strategie alle nötigen Personen mit ein. Klären sie Sachverhalte mit entsprechenden Stellen an ihrer Institution (Digital-Humanities-Spezialist/innen, Datenwissenschaftler/innen, Datenschutzbeauftragte, IT-Mitarbeiter/innen) bzw. auch darüber hinaus (Kontaktieren Sie dazu gerne ihr KompetenzwerkD).
 
-#### Ein DMP besteht in der Regel aus folgenden Punkten
-* Administrative Angaben (Projektname + kurze Beschreibung, Fördernummer,
-Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw.)
-* Beschreibung der Daten (Art, Format und Erstellung)
-* Angaben zu Metadaten und Dokumentation (Art und Format der Metadaten und Dokumentation; Verwendung von Normdaten oder Vokabularen)
-* Ethische und rechtliche Aspekte (Datenschutz, Copyright)
-* Speicherung, Archivierung und Sicherung der Daten (Welche Daten werden wo und wie lange verfügbar sein? Reichen vorhandene Ressourcen?)
-* Datenverfügbarkeit (Auffindbarkeit, Zugriffsbeschränkungen)
-* Verantwortlichkeiten (Wer ist für den DMP verantwortlich, wer für Einzelaspekte des FDM?)
-* Kostenfragen (Welche Ressourcen – personell und materiell – sind für die Maßnahmen nötig?)
-
 ## Angebote des KompetenzwerkD
 
 Neben dieser allgemeinen Einführung bieten wir Ihnen Folgendes an:
@@ -36,6 +25,7 @@ Neben dieser allgemeinen Einführung bieten wir Ihnen Folgendes an:
 * [Eine Anleitung zur Erstellung Ihres eigenen Datenmanagementplans](plan.md)
 * [Vorlagen zum Zusammentragen Projekt- und Datensatz-bezogener Metadaten](metadaten_schemas.md)
 * [Einen übersichtsartigen generellen Fahrplan zum Forschungsdatenmanagement](fahrplan.md)
+* [Weiterführende Informationen](links.md)
 * Zeitnah: [Eine gemeinsame Forschungsdaten-Policy](forschungsdaten-policy.md)
 * Und natürlich: Persönliche Beratung zum Thema Forschungsdatenmanagement 
 
