@@ -1,11 +1,11 @@
 +++
-title = "Teil I: Kuratieren, Abschnitt 1"
+title = "I.1. Ausstellungsaufbau"
 weight = 1
 description = "Description"
 insert_anchor_links = "right"
 +++
 
-# Teil I: Kuratieren, Abschnitt 1
+# I.1. Ausstellungsaufbau
 
 ## 1. Was macht eine gute Ausstellung aus?
 Wenn man eine Ausstellung angeht, ist folgende Herangehensweise ratsam:

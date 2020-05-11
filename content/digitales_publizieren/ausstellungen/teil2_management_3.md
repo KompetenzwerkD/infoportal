@@ -1,11 +1,11 @@
 +++
-title = "Teil II: Museums- und Kulturmanagement, Abschnitt 7"
+title = "II.8. Kulturmanagement"
 weight = 8
 description = "Description"
 insert_anchor_links = "right"
 +++
 
-# Teil II: Museums- und Kulturmanagement, Abschnitt 7
+# II.8. Kulturmanagement
 
 ## 11. Kulturmanagement
 Kulturmanagement ist auch Projektmanagement.Aber ein ganz besonderes! Kulturmanagement (und Abwandlungen davon) gibt es seit einigen Jahren als Studienfach. Der Beruf des “Kultur- und Eventmanagers” hat Konjunktur. Was steckt dahinter? Kann man Kultur - das schöpferische, kreative Chaos, das in oft individuellen Freiräumen entsteht, überhaupt “managen”? Kann man Maßgaben nach Plänen, Zahlen und Zielkontrollen, die auf Effektivität, Produktivität und wirtschaftlichen Erfolg ausgelegt sind, überhaupt auf Tätigkeiten anlegen, die kreatives Denken und Handeln beinhalten? Ist das nicht nur etwas für den Kunstmarkt, der ohnehin auf einem manchmal fragwürdigen Wertesystem basiert? 

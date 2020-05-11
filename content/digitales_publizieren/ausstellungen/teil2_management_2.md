@@ -1,11 +1,11 @@
 +++
-title = "Teil II: Museums- und Kulturmanagement, Abschnitt 6"
+title = "II.7. Finanzierung und Fundraising"
 weight = 7
 description = "Description"
 insert_anchor_links = "right"
 +++
 
-# Teil II: Museums- und Kulturmanagement, Abschnitt 6
+# II.7. Finanzierung und Fundraising
 
 ## 8. Organisationsformen von Ausstellungshäusern
 Je nachdem, welche Rechtsform ein Ausstellungsbetrieb hat, so gestalten sich die rechtlichen Rahmenbedingungen. Folgende Rechtsformen werden unterschieden:
@@ -142,6 +142,9 @@ Wie werden Haushalte im Kulturbereich geführt?
     * Aussagewert der Bilanz
 
 ✪ Erkundigen Sie sich, welches Haushaltsmodell für Ihre Institution zutrifft. Manchmal haben Institutionen sowohl eine kameralistische Abrechnungsweise und die Doppik. Zum Vermögenshaushalt einer Institution können auch Exponate einer Ausstellung gezählt werden.
+
 ✪ Wer rechnet ab, was müssen Sie liefern und in welcher Form? Wer zeichnet sachlich und wer rechnerisch richtig?
+
 ✪ Machen Sie sich Kopien oder Scans von Vorgängen, die Sie weiterleiten.
+
 ✪ Welche Tarifverträge gelten für Ihren Bereich? Müssen Sie für Externe Abgaben zur Künstlersozialkasse abführen? Was ist mit GEMA etc.?

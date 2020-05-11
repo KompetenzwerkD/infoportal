@@ -1,11 +1,11 @@
 +++
-title = "Teil II: Museums- und Kulturmanagement, Abschnitt 8"
+title = "II.9. Kommunikation und Pressearbeit"
 weight = 9
 description = "Description"
 insert_anchor_links = "right"
 +++
 
-# Teil II: Museums- und Kulturmanagement, Abschnitt 8
+# II.9. Kommunikation und Pressearbeit
 
 ## 12. Kommunikationspolitik
 Kommunikationspolitik ist ein Teilgebiet des Marketings. Es wird hier gesondert dargestellt, weil es für Museen und Ausstellungsmacher/innen von besonderer Wichtigkeit ist. Es umfasst:

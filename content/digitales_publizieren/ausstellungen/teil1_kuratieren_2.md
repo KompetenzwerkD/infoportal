@@ -1,14 +1,16 @@
 +++
-title = "Teil I: Kuratieren, Abschnitt 2"
+title = "I.2. Texte schreiben"
 weight = 2
 description = "Description"
 insert_anchor_links = "right"
 +++
 
-# Teil I: Kuratieren, Abschnitt 2
+# I.2. Texte schreiben
 
 ## 3. Digitale und analoge Begleittexte
+
 ### 3.1.  Ausstellungstexte schreiben: inhaltliche Kriterien und Metadaten
+
 Wie Pressemitteilungen sind Texte in der Ausstellung (hier zusammengefasst als “Ausstellungstexte” bezeichnet; dazu gehören zahlreiche Textsorten), in Katalogen, in Audioguides, auf Websiten und in Ihren digitalen Angeboten andere Textsorten als wissenschaftliche Publikationen: Das liegt an den vielfältigen Zielgruppen und deren Situationen, in denen sie die Texte konsumieren. Manchmal sind Objekte analog oder virtuell direkt von den Betrachtenden wie bei Raum- und Taschentexten in der Ausstellung (analog oder online), manchmal nicht - insbesondere bei Katalogen oder Audioguides zum Nachhören.
 
 **Es geht prinzipiell ums Sehen - Verstehen - Vermitteln.**

@@ -1,14 +1,16 @@
 +++
-title = "Teil I: Kuratieren, Abschnitt 5"
+title = "I.5. 3D und AR/VR"
 weight = 5
 description = "Description"
 insert_anchor_links = "right"
 +++
 
-# Teil I: Kuratieren, Abschnitt 5
+# I.5. 3D und AR/VR
 
 ## 6. 3D-Modelle und Virtual/Augmented Reality
+
 ### 6.1. 3D-Digitalisierung, Augmented/Enhanced Reality, Virtual Reality – Warum macht man das?
+
 Visualisierung in 3D nimmt man für Einzelobjekte, aber auch ganzen Strukturen (Straßen, Schnitte, Gräber, Räume) vor. Augmented/Enhanced Reality oder erweiterte Realität fügt einer bestehenden Wahrnehmung etwas hinzu (z. B. die vom Fernsehen eingefügten Freistoßlinien bei der Fußballübertragung oder Ergänzungen von Gebäuden und Statuen). Virtual Reality ist die komplette Neugestaltung einer Realität (z. B. das „Holodeck“ in Star Trek oder das antike Rom im Projekt im Projekt „Rome Reborn“: https://www.romereborn.org/).
 
 * Zur wissenschaftlichen Dokumentation; es ist schneller als übliche Zeichenverfahren, Daten können im zu Hause weiterbearbeitet werden (z. B. bei Notgrabungen oder kurzen Exkursionen)
@@ -19,6 +21,7 @@ Visualisierung in 3D nimmt man für Einzelobjekte, aber auch ganzen Strukturen (
 * Geschäftsquelle: 3D-Modelle verkaufen (Rechtsproblem!), Kunstprojekte (Nefertiti-Hack)
 
 ### 6.2. Werden wir im Museum der Zukunft ein „Holodeck“ bauen?
+
 Mittelfristig vermutlich nur in Einzelfällen – die Umsetzung ist teuer (Herstellung, Hardware, Rechenpower, Stromausgaben) und platzintensiv. Im Freien ist die Projektion noch herausfordernder. Das „Holodeck“ ist bereits entstanden – auf dem Handybildschirm, der in ein Brillensystem eingebaut wird (z. B. Oculus Rift).
 * Inspiration: Star Trek: Captain Picard kämpft gegen die Borg: https://www.youtube.com/watch?v=d7dfsLfWJvc
 * Real Life Holodeck (MPI): https://www.youtube.com/watch?v=7ZPs7knvs7M
@@ -26,6 +29,7 @@ Mittelfristig vermutlich nur in Einzelfällen – die Umsetzung ist teuer (Herst
 3D in der Restaurierung: https://www.culturartis.de/home/portfolio/3d-scan-und-druck/
 
 ### 6.3. Was kann der Gast jetzt schon mit dem Smartphone?
+
 * diverse Apps für 3D-Aufnahmen sind in vielen Kamera-Apps in Android/IOS bereits enthalten
 * Belebung des Markts durch GoPro/Linsen-Systeme, manchmal kombiniert mit Selfie-Sticks/Oculus-Rift-Brille/Samsung-Brille
 * Wichtig ist: das Zulassen und Anregen von digitalen Repräsentationen führen nachweislich zu vermehrten Besuchen in den Museen, NICHT zum Gegenteil (Digitalisierung weckt das Interesse, das Original zu besuchen und nicht umgekehrt); Fotoverbote sind kontraproduktiv (zum Schutz der Objekte sollte jedoch darauf hingewiesen werden, das Blitzlicht auszuschalten)
@@ -37,12 +41,14 @@ Mittelfristig vermutlich nur in Einzelfällen – die Umsetzung ist teuer (Herst
     * dazu Blogbeiträge: http://www.metmuseum.org/blogs/digital-underground/posts/2013/photographs-for-digital-3d-models
 
 ### 6.4. 3D-Methoden
+
 Eine Technik, wie man einfach simple 3D-Modelle erstellen kann, ist Photogrammetrie bzw. SfM („structure from motion“). Das Verfahren eignet sich für einzelne Objekte wie auch für Räume. Wie bei allen Fotografie-Methoden gilt hier: Mehr geht immer: mehr Hardware, mehr Software, mehr Zeit. Diese Kurzanleitung ist nur ein Einstieg. Wenn Sie viele kleine bis mittelgroße Objekte digitalisieren wollen, eignet sich die Anschaffung eines Laserscanners. Für große Räume oder Profile im Feld sollte es eine Profi-Kameraausrüstung sein, eventuell Dronen (mind. Octocopter, wenn eine gute Kamera mitfliegt, in Gebieten mit starken Winden ist mehr Power nötig). 
 Für Reliefs ist RTI-Fotografie (Reflectance Transmission Imaging, das ist 2D plus) ein Thema; Inschriften werden durch Shape-from-Shading am besten eingefangen. Für 360-Grad-Ansichten wurden gute Erfahrungen mit mehreren GoPro-Kameras gemacht, die zu einer Kugel zusammengebunden werden.
 
 So geht’s – Übersicht, Beispiele, Anwendung: https://www.mdr.de/wissen/faszination-technik/alt-aegypten-in-drei-d-modellen-100.html
 
 ### 6.5. Erstellung eines 3D-Modells durch Photogrammetrie: Wie funktioniert das?
+
 * mit Handy/Kamera, OHNE Blitz!; Alternative: spezielle Streifenlichtprojektionsscanner, verschiedene Größen, Laborbedingungen
 * die Bilder werden in eine Software geladen und dort zu einem 3D-Modell zusammengesetzt
 * das Netz (mesh) bzw. die Punktwolke (point cloud) kann man verfeinern (das ist der Teil, der lange dauern kann – je nach Anspruch)
@@ -51,6 +57,7 @@ So geht’s – Übersicht, Beispiele, Anwendung: https://www.mdr.de/wissen/fasz
 * verwenden Sie freie Software, die freie Formate unterstützt (Agisoft Metashape statt Maya Autodesk) und nachhaltige Formate, die archiviert werden können (OBJ-Dateien; Formatübersicht hier: https://www.ianus-fdz.de/it-empfehlungen/3d)
 
 #### Herstellung
+
 1. Fotos vom Objekt machen (viel hilft nicht immer viel, Bilder müssen sich überlappen, alle sichtbare Ecken & Kanten fotografieren, kein Blitz, 25 gute Bilder sind manchmal ausreichend, 60-100 bei komplizierten Oberflächen, keine unscharfen Bilder verwenden; schwierig: Glas, Gold, Silber und weitere glänzende, stark reflektierende Oberflächen oder sehr dunkle, kontrastarme Oberflächen, Vitrinen. Möglichst keine Personen im Hintergrund mitfotografieren.
 2. Fotos aussuchen und in Photogrammetrie-Software hochladen (Empfehlung: Agisoft Photoscan bzw. jetzt Agisoft Metashape, 30 Tage kostenlos, Standard-Lizenz $179): File >>> New >>> Rechtsklick unten auf „Add Photos“ >>> Aussuchen; Workflow >>> Align Photos (High oder Highest / Generic) >>> Punktwolke erstellen (ca. 0,5-5min)
 3. Punktwolke verfeinern: Viereck-Icon rechts von Mauszeiger-Icon klicken >>> ungewollte Punktwolken auswählen + mit Entf.-Taste löschen
@@ -61,18 +68,22 @@ So geht’s – Übersicht, Beispiele, Anwendung: https://www.mdr.de/wissen/fasz
 Online Tutorial dazu: https://www.youtube.com/watch?v=VMb4iMDzvj8
 
 #### Weiter geht’s:
+
 * Mesh verfeinern mit den freien Programmen Meshlab (http://www.meshlab.net/) und Meshmixer (http://www.meshmixer.com/)
 * Weiterverwendung in Blender (https://www.blender.org/)
 * Modellbau in SketchUp (https://www.sketchup.com/de)
 
 ### Wie zeige ich meine fertigen Modelle?
+
 * Man könnte ein eigenes Portal dafür bauen… 
 * Plattform für 3D-Modelle im Internet: https://sketchfab.com/, z. B. https://sketchfab.com/franziska.naether
     * Wie geht das? Upload-Button (die *.obj-Datei ist nötig) oder eine Uploader-API innerhalb des Programms (z. B. in Agisoft Metashape)
 * nachhaltige Ablage der 3D-Objekte in einem Repositorium mit Metadaten und Lizenangaben für Zitierbarkeit
 
 ### 6.6. Ich möchte in Zubehör investieren, was wäre empfehlenswert?
+
 Folgende Hard- und Software verwenden zahlreiche Kolleg/innen:
+
 * Notebook, MSI 17.3" GE73 Raider RGB
 * Software: Agisoft Metashape
 * Software: Pixologic Zbrush

@@ -1,11 +1,11 @@
 +++
-title = "Teil I: Kuratieren, Abschnitt 4"
+title = "I.4. Digitale Räume"
 weight = 4
 description = "Description"
 insert_anchor_links = "right"
 +++
 
-# Teil I: Kuratieren, Abschnitt 4
+# I.4. Digitale Räume
 
 ## 5. Digitale Ausstellungsräume
 Sie können in Ihrer analogen Ausstellung digitale Erzeugnisse zeigen. Dafür gibt es eine Reihe an Möglichkeiten. Viele Museen entscheiden sich, aus Kostengründen in Tablets zu investieren, weil damit Ton, Video und browser-basierte Anwendungen gezeigt werden. Diese werden entweder fest in der Ausstellung installiert (Diebstahlschutz!) oder zu Führungen hergezeigt. Teurere Varianten sind Tische oder fahrbare Installationen mit Touch-Displays, an denen mehrere Personen gleichzeitig Medien betrachten können.

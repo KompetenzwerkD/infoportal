@@ -1,11 +1,11 @@
 +++
-title = "Teil II: Museums- und Kulturmanagement, Abschnitt 9"
+title = "II.6. Begleitprogramm"
 weight = 6
 description = "Description"
 insert_anchor_links = "right"
 +++
 
-# Teil II: Museums- und Kulturmanagement, Abschnitt 9
+# II.6. Begleitprogramm
 Die Ausstellung ist eröffnet. Wie kann ich neue Gäste ins Museum locken und erreichen, dass Besucher/innen wiederkommen?
 
 ## 7. Begleitprogramm für Ausstellungen

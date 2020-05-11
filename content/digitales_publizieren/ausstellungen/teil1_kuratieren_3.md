@@ -1,11 +1,11 @@
 +++
-title = "Teil I: Kuratieren, Abschnitt 3"
+title = "I.3. Audioguides"
 weight = 3
 description = "Description"
 insert_anchor_links = "right"
 +++
 
-# Teil I: Kuratieren, Abschnitt 3
+# I.3. Audioguides
 
 ## 4. Audioguides
 Zum Verfassen von Texten für Audioguides gelten grob die gleichen Regeln wie oben für die Ausstellungstexte. Wichtig ist, vor dem Abfassen den Einsatzbereich und die Zielgruppen zu klären:
