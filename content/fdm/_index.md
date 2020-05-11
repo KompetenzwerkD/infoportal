@@ -29,9 +29,7 @@ Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw.)
 * Verantwortlichkeiten (Wer ist für den DMP verantwortlich, wer für Einzelaspekte des FDM?)
 * Kostenfragen (Welche Ressourcen – personell und materiell – sind für die Maßnahmen nötig?)
 
-## Weiterführende Informationen zu den Themen FDM und DMP
-
-#### Angebote des KompetenzwerkD
+## Angebote des KompetenzwerkD
 
 Neben dieser allgemeinen Einführung bieten wir Ihnen:
 
@@ -39,6 +37,8 @@ Neben dieser allgemeinen Einführung bieten wir Ihnen:
 * [Vorlagen zum Zusammentragen Projekt- und Datensatz-bezogener Metadaten](metadaten_schemas.md)
 * [Einen übersichtsartigen generellen Fahrplan zum Forschungsdatenmanagement](fahrplan.md)
 * Zeitnah: [Eine gemeinsame Forschungsdaten-Policy](forschungsdaten-policy.md)
+
+## Weiterführende Informationen zu den Themen FDM und DMP
 
 #### Übersichten
 
