@@ -82,7 +82,7 @@ Um Forschungsdaten entsprechend der FAIR-Prinzipien auffindbar, zugänglich und 
 * [Repositoriensuche in der Registry of Research Data Repositories zum Aufspüren fachspezifischer Repositorien](https://www.re3data.org/)
 * [Zenodo – Das offene fächerübergreifende Forschungsdatenrepositorium des CERN](https://zenodo.org/)
 
-#### Normdaten, Onotologien und Vokabulare nutzen
+#### Normdaten, Ontologien und Vokabulare nutzen
 
 Die Verbindung der eigenen Daten mit in der jeweiligen Fachcommunity verbreiteten Normdaten erhöht die Wiederverwendbarkeit und Interoperabilität von Datensätzen ungemein.
 
@@ -112,4 +112,4 @@ Unter folgenden Links können Sie die Thematik weiter vertiefen und sich lokal i
 
 ### Coming soon - Fallbeispiele
 
-In der Zukunft werden wir mit konkreten Projekten zusammenarbeiten, um Use Cases zu erstellen, wie man Forschungsdatenmanagement und einen Datenmanagementplan in Forschungsprojekten umsetzen kann. Die Ergebnisse, aber auch die dort gesammlten Erfahrungen, werden wir an dieser Stelle bereitstellen. Teil dieser Bestrebungen wird auch ein möglichst niederschwelliger Ansatz sein, Metadaten zum Projekt und den dort entstehenden Forschungsdaten zu erheben und abzulegen. Dies wird auf Basis verbreiteter Standards wie Dublin Core und unter Verwendung einer einfacher Ontologien zur fachlichen Verortung geschehen. Dadurch kann unter anderem maschinelle Verarbeitbarkeit und Nachnutzbarkeit gewährleistet werden.
+In der Zukunft werden wir mit konkreten Projekten zusammenarbeiten, um Use Cases zu erstellen, wie man Forschungsdatenmanagement und einen Datenmanagementplan in Forschungsprojekten umsetzen kann. Die Ergebnisse, aber auch die dort gesammelten Erfahrungen, werden wir an dieser Stelle bereitstellen. Teil dieser Bestrebungen wird auch ein möglichst niederschwelliger Ansatz sein, Metadaten zum Projekt und den dort entstehenden Forschungsdaten zu erheben und abzulegen. Dies wird auf Basis verbreiteter Standards wie Dublin Core und unter Verwendung einer einfacher Ontologien zur fachlichen Verortung geschehen. Dadurch kann unter anderem maschinelle Verarbeitbarkeit und Nachnutzbarkeit gewährleistet werden.
