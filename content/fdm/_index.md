@@ -35,10 +35,10 @@ Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw.)
 
 Neben dieser allgemeinen Einführung bieten wir Ihnen:
 
-* [Test](plan.md)
-* 2
-* 3
-* 4
+* [Eine Anleitung zur Erstellung Ihres eigenen Datenmanagementplans](plan.md)
+* [Vorlagen zum Zusammentragen Projekt- und Datensatz-bezogener Metadaten](metadaten_schemas.md)
+* [Einen übersichtsartigen generellen Fahrplan zum Forschungsdatenmanagement](fahrplan.md)
+* Zeitnah: [Eine gemeinsame Forschungsdaten-Policy](forschungsdaten-policy.md)
 
 #### Übersichten
 
