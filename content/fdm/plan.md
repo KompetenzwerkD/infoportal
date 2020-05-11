@@ -132,9 +132,10 @@ Für größere Datenmengen (z. B. umfangreiches Bild- und Videomaterial) werden 
 
 Füllen Sie ihr Dokument entsprechend der gewählten Gliederung mit den relevanten Angaben zu Projekt- und Forschungsdaten. Halten Sie bei unerwartet auftretenden Unklarheiten am besten Rücksprache.
 
+Allgemein gilt: Forschung ist nicht immer (vollständig) planbar! Nicht alles müssen Sie sofort festlegen - manches kann im Projektverlauf ergänzt werden. 
+
 ## Schritt 5: Die oben genannten Leitfäden decken nicht alle Ihre Bedarfe ab und Sie haben Fragen?
 Es gibt zahlreiche Handbücher und Checklisten, die viele Fragestellungen abdecken. Wir empfehlen:
-* Forschung ist nicht immer planbar: Nicht alles müssen Sie sofort festlegen - manches kann im Projektverlauf ergänzt werden.
 * [den FDMentor der HU Berlin](https://depositonce.tu-berlin.de//handle/11303/8372) (PDF, 32 S.)
 * [den Leitfaden vom WissGrid-Projekt der Uni Göttingen](https://univerlag.uni-goettingen.de/handle/3/isbn-978-3-86488-032-2) (PDF, 122 S.)
 * [Empfehlungen der Universität Hannover zum Umgang mit Forschungsdaten](https://www.fdm.uni-hannover.de/de/kurz-erklaert/empfehlungen/)
