@@ -1,6 +1,6 @@
 +++
 title = "Der 'FDM-Fahrplan' - Schritt-für-Schritt zum Datenmanagement"
-weight = 3
+weight = 2
 description = "Description"
 insert_anchor_links = "right"
 +++
