@@ -17,6 +17,17 @@ Manche Institutionen wie die DFG oder die EU haben recht klare Vorgaben, und es 
 
 Der folgende Leitfaden ist in praktischer Zusammenarbeit mit Kolleg_innen aus verschiedenen Forschungsprojekten entstanden und soll eine knappe Checkliste mit Tipps und Tricks darstellen, wie Sie schnell zu einem DMP gelangen können, ohne wichtige Aspekte aus den Augen zu lassen.
 
+Generell besteht ein DMP in der Regel aus folgenden Punkten:
+* Administrative Angaben (Projektname + kurze Beschreibung, Fördernummer,
+Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw.)
+* Beschreibung der Daten (Art, Format und Erstellung)
+* Angaben zu Metadaten und Dokumentation (Art und Format der Metadaten und Dokumentation; Verwendung von Normdaten oder Vokabularen)
+* Ethische und rechtliche Aspekte (Datenschutz, Copyright)
+* Speicherung, Archivierung und Sicherung der Daten (Welche Daten werden wo und wie lange verfügbar sein? Reichen vorhandene Ressourcen?)
+* Datenverfügbarkeit (Auffindbarkeit, Zugriffsbeschränkungen)
+* Verantwortlichkeiten (Wer ist für den DMP verantwortlich, wer für Einzelaspekte des FDM?)
+* Kostenfragen (Welche Ressourcen – personell und materiell – sind für die Maßnahmen nötig?)
+
 ## Schritt 1: Vorgaben Prüfen
 
 Hat mein Fördergeber gesonderte Vorgaben, vielleicht sogar einen Muster-DMP? Beispiele wären:
@@ -33,7 +44,7 @@ Möchten Sie ein DMP-Dokument selbst erstellen z. B. in Word oder kollaborativ i
 * [Hier können Sie sich mit dem DMP Tool erstellte Vorlagen anschauen.]( https://dmponline.dcc.ac.uk/public_plans)
 * Um das DMP Tool verwenden zu können, müssen Sie sich einen persönlichen Account anlegen, da keine der im Netzwerk beteiligten Institutionen einen direkten Zugang besitzt.
 
-## Schritt 3: Folgende Punkte sollte Ihr DMP enthalten:
+## Schritt 3: Inhalt des DMP:
 
 ### Administrative Angaben
 
