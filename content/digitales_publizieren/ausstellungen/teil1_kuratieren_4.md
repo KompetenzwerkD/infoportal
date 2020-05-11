@@ -59,6 +59,7 @@ https://zeitreise.staedelmuseum.de/vr-app/
     * “Design a Wig”, Victoria & Albert Museum London: https://www.vam.ac.uk/designawig
 
 Viele Anregungen und Open-Access-Plattformen zur Umsetzung dazu bietet das von der Bundesregierung geförderte Projekt “Museum 4.0”:
+
 * https://www.museum4punkt0.de/teilprojekte/
 * dabei entstehende Anwendungen: https://www.museum4punkt0.de/was-entsteht/ (Im Laufe von 2020 verfügbar)
 * Positive und kritische Berichte zu digitalen Anwendungen liefert der folgende Blog: https://musermeku.org/nicht-newsletter-36-02-2019/
