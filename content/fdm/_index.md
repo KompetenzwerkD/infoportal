@@ -31,6 +31,15 @@ Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw.)
 
 ## Weiterführende Informationen zu den Themen FDM und DMP
 
+#### Angebote des KompetenzwerkD
+
+Neben dieser allgemeinen Einführung bieten wir Ihnen:
+
+* [Test](plan.md)
+* 2
+* 3
+* 4
+
 #### Übersichten
 
 Unter diesen Links finden Sie Einführungen zum Thema Forschungsdatenmanagement. 
