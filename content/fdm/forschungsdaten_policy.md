@@ -1,6 +1,6 @@
 +++
 title = "Forschungsdaten-Policy"
-weight = 2
+weight = 5
 description = "Description"
 insert_anchor_links = "right"
 +++
