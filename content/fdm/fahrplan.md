@@ -34,6 +34,8 @@ Zeitnah werden an dieser Stelle auch praktische Erfahrungen zum Forschungsdatenm
 ## Projektphase 2 - Während des Projekts
 * Datenhaltungsstrategie überprüfen:
   * Werden die Planungen eingehalten?
+    * Ist die Sicherheit personenbezogener Daten durch Abweichungen gefährdet?
+    * Greift die Backup-Strategie?
   * Eventuell: Nötige Korrekturen oder Umplanungen vornehmen
 * Metadaten aktualisieren
 * Eventuell Datensätze zugänglich machen entsprechend des DMP (auch durch Publikation, Lehre, Wissenstransfers)
