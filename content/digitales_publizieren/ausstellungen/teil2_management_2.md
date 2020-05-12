@@ -7,7 +7,7 @@ insert_anchor_links = "right"
 
 # II.7. Finanzierung und Fundraising
 
-## 8. Organisationsformen von Ausstellungshäusern
+## Organisationsformen von Ausstellungshäusern
 Je nachdem, welche Rechtsform ein Ausstellungsbetrieb hat, so gestalten sich die rechtlichen Rahmenbedingungen. Folgende Rechtsformen werden unterschieden:
 * kommunale Rechtsformen (Chef = OBM): städtischer Eigenbetrieb, Regiebetrieb (wirtschaftlich selbständig), Anstalt öffentlichen Rechts (Nutzungszweck), Zweckverband (rechtsfähige Körperschaft öffentlichen Rechts)
 * Einrichtungen der Länder (Chef = zuständiges Landesministerium, z. B. Universitäten, außeruniversitäre Einrichtungen): Gemeinnützigkeit
@@ -19,8 +19,8 @@ Je nachdem, welche Rechtsform ein Ausstellungsbetrieb hat, so gestalten sich die
 ✪ Wie laufen Entscheidungsprozesse ab, welche Gremien (Dienstberatungen, übergeordnete Einrichtungen, ...) gibt es?
 ✪ Wer bezahlt die Rechnungen und darf sachlich und rechnerisch richtig zeichnen?
 
-## 9. Kulturfinanzierung: Wo kann das Geld (und Sachmittel) herkommen?
-### 9.1. Der Regelfall: Kulturförderung durch die öffentliche Hand
+## Kulturfinanzierung: Wo kann das Geld (und Sachmittel) herkommen?
+### Der Regelfall: Kulturförderung durch die öffentliche Hand
 Breitenförderung im Kulturbereich ist Staatsaufgabe. Sie ist im im GG verankert als meritorisches Gut, aber es gibt kein klares Gesetz dafür. Dazu dienen die Länderverfassungen. 
 
 Kulturförderung ist
@@ -62,7 +62,7 @@ Folgende Punkte sind zum Thema Kulturfinanzierung wissenswert:
 * Public Private Partnership: Unternehmen unterstützen staatliche Einrichtungen durch Sachleistungen (z. B. Ausstattung von Chemiekabinetten in Schulen)
 * Merchandising: Verkauf von “Fanartikeln” des eigenen Hauses (Achtung, insbesondere in Universitätseinrichtungen gibt es dafür strenge Regeln)
 
-### 9.2. Fundraising
+### Fundraising
 Woher können Sach- und Geldleistungen für Ausstellungen herkommen? Abgesehen vom Haushalt der eigenen Institution und den klassischen (wissenschaftlichen) Fördergebern gibt es dafür noch folgende Varianten:
 * Mäzenatentum (eine Einzelperson oder Familie)
 * Spende (von Einzelpersonen oder Unternehmen, freiwillige, unentgeltliche Leistung ohne Gegenleistung)
@@ -94,7 +94,7 @@ Eine wichtige Einkommensquelle für Museen kann Sponsoring durch Unternehmen sei
 * “Erfolgskontrolle” ist schwierig, läuft meist über Zitate der Förderung (Nennung in der Presse und in Reden, z. B. zur Vernissage, wechselseitige Nutzung der Logos (z. B. online und auf Druckerzeugnissen wie Postern, Flyern, Postkarten, Katalog etc.)
 
 
-## 10. Controlling - wie wird abgerechnet?
+## Controlling - wie wird abgerechnet?
 Controlling ist das Führungs- und Unterstützungssystem für Planung, Steuerung, Kontrolle. Die Ausgestaltung hängt vom Budget und der Rechtsform der Institution ab.
 
 Ganz simpel ist ein

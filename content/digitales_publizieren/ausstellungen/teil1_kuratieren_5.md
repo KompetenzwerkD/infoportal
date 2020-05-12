@@ -7,9 +7,9 @@ insert_anchor_links = "right"
 
 # I.5. 3D und AR/VR
 
-## 6. 3D-Modelle und Virtual/Augmented Reality
+## 3D-Modelle und Virtual/Augmented Reality
 
-### 6.1. 3D-Digitalisierung, Augmented/Enhanced Reality, Virtual Reality – Warum macht man das?
+### 3D-Digitalisierung, Augmented/Enhanced Reality, Virtual Reality – Warum macht man das?
 
 Visualisierung in 3D nimmt man für Einzelobjekte, aber auch ganzen Strukturen (Straßen, Schnitte, Gräber, Räume) vor. Augmented/Enhanced Reality oder erweiterte Realität fügt einer bestehenden Wahrnehmung etwas hinzu (z. B. die vom Fernsehen eingefügten Freistoßlinien bei der Fußballübertragung oder Ergänzungen von Gebäuden und Statuen). Virtual Reality ist die komplette Neugestaltung einer Realität (z. B. das „Holodeck“ in Star Trek oder das antike Rom im Projekt im Projekt „Rome Reborn“: https://www.romereborn.org/).
 
@@ -20,7 +20,7 @@ Visualisierung in 3D nimmt man für Einzelobjekte, aber auch ganzen Strukturen (
 * Ausdruck in 3D
 * Geschäftsquelle: 3D-Modelle verkaufen (Rechtsproblem!), Kunstprojekte (Nefertiti-Hack)
 
-### 6.2. Werden wir im Museum der Zukunft ein „Holodeck“ bauen?
+### Werden wir im Museum der Zukunft ein „Holodeck“ bauen?
 
 Mittelfristig vermutlich nur in Einzelfällen – die Umsetzung ist teuer (Herstellung, Hardware, Rechenpower, Stromausgaben) und platzintensiv. Im Freien ist die Projektion noch herausfordernder. Das „Holodeck“ ist bereits entstanden – auf dem Handybildschirm, der in ein Brillensystem eingebaut wird (z. B. Oculus Rift).
 * Inspiration: Star Trek: Captain Picard kämpft gegen die Borg: https://www.youtube.com/watch?v=d7dfsLfWJvc
@@ -28,7 +28,7 @@ Mittelfristig vermutlich nur in Einzelfällen – die Umsetzung ist teuer (Herst
 * großes 3D-Projekt "Giza 3D": https://org-www.3ds.com/giza3dorg/#discover
 3D in der Restaurierung: https://www.culturartis.de/home/portfolio/3d-scan-und-druck/
 
-### 6.3. Was kann der Gast jetzt schon mit dem Smartphone?
+### Was kann der Gast jetzt schon mit dem Smartphone?
 
 * diverse Apps für 3D-Aufnahmen sind in vielen Kamera-Apps in Android/IOS bereits enthalten
 * Belebung des Markts durch GoPro/Linsen-Systeme, manchmal kombiniert mit Selfie-Sticks/Oculus-Rift-Brille/Samsung-Brille
@@ -40,14 +40,14 @@ Mittelfristig vermutlich nur in Einzelfällen – die Umsetzung ist teuer (Herst
     * Anregungen an die Gäste: http://www.metmuseum.org/blogs/digital-underground/posts/2013/3d-printing
     * dazu Blogbeiträge: http://www.metmuseum.org/blogs/digital-underground/posts/2013/photographs-for-digital-3d-models
 
-### 6.4. 3D-Methoden
+### 3D-Methoden
 
 Eine Technik, wie man einfach simple 3D-Modelle erstellen kann, ist Photogrammetrie bzw. SfM („structure from motion“). Das Verfahren eignet sich für einzelne Objekte wie auch für Räume. Wie bei allen Fotografie-Methoden gilt hier: Mehr geht immer: mehr Hardware, mehr Software, mehr Zeit. Diese Kurzanleitung ist nur ein Einstieg. Wenn Sie viele kleine bis mittelgroße Objekte digitalisieren wollen, eignet sich die Anschaffung eines Laserscanners. Für große Räume oder Profile im Feld sollte es eine Profi-Kameraausrüstung sein, eventuell Dronen (mind. Octocopter, wenn eine gute Kamera mitfliegt, in Gebieten mit starken Winden ist mehr Power nötig). 
 Für Reliefs ist RTI-Fotografie (Reflectance Transmission Imaging, das ist 2D plus) ein Thema; Inschriften werden durch Shape-from-Shading am besten eingefangen. Für 360-Grad-Ansichten wurden gute Erfahrungen mit mehreren GoPro-Kameras gemacht, die zu einer Kugel zusammengebunden werden.
 
 So geht’s – Übersicht, Beispiele, Anwendung: https://www.mdr.de/wissen/faszination-technik/alt-aegypten-in-drei-d-modellen-100.html
 
-### 6.5. Erstellung eines 3D-Modells durch Photogrammetrie: Wie funktioniert das?
+### Erstellung eines 3D-Modells durch Photogrammetrie: Wie funktioniert das?
 
 * mit Handy/Kamera, OHNE Blitz!; Alternative: spezielle Streifenlichtprojektionsscanner, verschiedene Größen, Laborbedingungen
 * die Bilder werden in eine Software geladen und dort zu einem 3D-Modell zusammengesetzt
@@ -80,7 +80,7 @@ Online Tutorial dazu: https://www.youtube.com/watch?v=VMb4iMDzvj8
     * Wie geht das? Upload-Button (die *.obj-Datei ist nötig) oder eine Uploader-API innerhalb des Programms (z. B. in Agisoft Metashape)
 * nachhaltige Ablage der 3D-Objekte in einem Repositorium mit Metadaten und Lizenangaben für Zitierbarkeit
 
-### 6.6. Ich möchte in Zubehör investieren, was wäre empfehlenswert?
+### Ich möchte in Zubehör investieren, was wäre empfehlenswert?
 
 Folgende Hard- und Software verwenden zahlreiche Kolleg/innen:
 

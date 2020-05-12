@@ -8,7 +8,7 @@ insert_anchor_links = "right"
 # II.6. Begleitprogramm
 Die Ausstellung ist eröffnet. Wie kann ich neue Gäste ins Museum locken und erreichen, dass Besucher/innen wiederkommen?
 
-## 7. Begleitprogramm für Ausstellungen
+## Begleitprogramm für Ausstellungen
 - Vernissage, Midisage, Finissage
 - Führungen für unterschiedliche Zielgruppen
     - Was kann man in Führungen erzählen? Begrüßung(en), ggf. Sicherheitsbestimmungen/Hinweis auf Garderobe, Geschichte des Hauses, Ziel der Ausstellung, Ziel und Struktur der (welche Objekte zeigen? “Highlights” + Spezialthemen), Fragen währenddessen oder danach, interaktive Führung/Gäste “führen”, Verabschiedung & Einladung zu Folge-Veranstaltungen

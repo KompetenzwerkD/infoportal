@@ -7,7 +7,7 @@ insert_anchor_links = "right"
 
 # I.3. Audioguides
 
-## 4. Audioguides
+## Audioguides
 Zum Verfassen von Texten für Audioguides gelten grob die gleichen Regeln wie oben für die Ausstellungstexte. Wichtig ist, vor dem Abfassen den Einsatzbereich und die Zielgruppen zu klären:
 * Einsatzort: in der Ausstellung oder nur online ohne Objekte (aber mit Bildern im Netz) oder beides?
 * Zielgruppe: für Erwachsene, für Kinder, für Heranwachsende oder für alle?

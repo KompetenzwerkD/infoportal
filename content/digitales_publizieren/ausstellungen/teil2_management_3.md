@@ -7,7 +7,7 @@ insert_anchor_links = "right"
 
 # II.8. Kulturmanagement
 
-## 11. Kulturmanagement
+## Kulturmanagement
 Kulturmanagement ist auch Projektmanagement.Aber ein ganz besonderes! Kulturmanagement (und Abwandlungen davon) gibt es seit einigen Jahren als Studienfach. Der Beruf des “Kultur- und Eventmanagers” hat Konjunktur. Was steckt dahinter? Kann man Kultur - das schöpferische, kreative Chaos, das in oft individuellen Freiräumen entsteht, überhaupt “managen”? Kann man Maßgaben nach Plänen, Zahlen und Zielkontrollen, die auf Effektivität, Produktivität und wirtschaftlichen Erfolg ausgelegt sind, überhaupt auf Tätigkeiten anlegen, die kreatives Denken und Handeln beinhalten? Ist das nicht nur etwas für den Kunstmarkt, der ohnehin auf einem manchmal fragwürdigen Wertesystem basiert? 
 
 Ja, das geht! Management ist immer personen- und aufgabenbezogen. Ganz allgemein geht es um Steuerung, grob bestehend aus folgenden Schritten:
@@ -26,7 +26,7 @@ Daher kann eine Definition von Kulturmanagement lauten:
 ✪ Welche Regeln bestehen dazu in Ihrer Institution?
 ✪ Verkaufen Sie Tickets für die Ausstellung, Events, Kataloge und andere Produkte? Unterliegt dies speziellen Regeln?
 
-### 11.1. Kulturmarketing als wichtiger Teil des Kulturmanagements
+### Kulturmarketing als wichtiger Teil des Kulturmanagements
 * Definition: “Marketing ist ein Prozess im Wirtschafts- und Sozialgefüge, durch den Einzelpersonen und Gruppen ihre Bedürfnisse und Wünsche befriedigen, indem sie Produkte und andere Dinge von Wert erzeugen, anbieten und miteinander austauschen.“ (Philip Kotler/Friedrich Bliemel, Marketing-Management, Stuttgart 1992, S. 6-7)
 * 
 vs.
@@ -43,7 +43,7 @@ Auch Marketing lässt sich grob als Projektmanagement in folgenden Schritten dar
 ✪ Im Kulturbereich, gerade in Museen, fallen die Tätigkeiten von Marketing, PR und Öffentlichkeitsarbeit oft zusammen - gerade in Zeiten knapper Kassen. Wer sind Ihre Ansprechpartner, gerade in übergeordneten Einrichtungen? Gibt es Richtlinien, die unbedingt einzuhalten sind?
 ✪ Wenn Sie als Wissenschaftler*in eine Ausstellung kuratieren: Welche Aufgaben im Bereich Marketing, PR und Öffentlichkeitsarbeit müssen Sie mit übernehmen?
 
-### 11.1.1. Marketing-Analyse I - Wer gehört zu meinem Netzwerk, meiner Zielgruppe?
+### Marketing-Analyse I - Wer gehört zu meinem Netzwerk, meiner Zielgruppe?
 Ein Museum hat zahlreiche “Tauschpartner”, mit dem es interagiert. Wer könnte alles dazugehören?
 
 * Besucher/innen
@@ -75,7 +75,7 @@ Erläuterungen dazu:
 ✪ Wer gehört zum Netzwerk Ihres Hauses? Fallen Ihnen noch weitere “Tauschpartner” ein?
 ✪ Wen laden Sie zur Vernissage, (Spezial-)Führung ein?
 
-### 11.1.2. Marketing-Management-Prozess I: Ich habe ein Projekt - wie fange ich an?
+### Marketing-Management-Prozess I: Ich habe ein Projekt - wie fange ich an?
 So lautet die Theorie: Der Prozess ist grob in fünf Schritte eingeteilt, zu dem Sie sich jeweils folgende Fragen stellen können:
 1. **Analysephase**: Wo stehen wir?
 2. **Strategiephase**: Wo wollen wir hin?
@@ -96,7 +96,7 @@ Beispiele:
 ✪ Welche Ziele setzen Sie sich selbst, und wann möchten Sie diese erreichen?
 ✪ Wichtig für Meetings und Dienstberatungen: genau klären, wer was bis wann zu erledigen hat, Arbeitsstände zwischendurch abfragen, ggf. Erinnerung versenden
 
-### 11.1.3. Marketing-Management-Prozess: Wie sehen meine Zielgruppe und mein Umfeld genau aus?
+### Marketing-Management-Prozess: Wie sehen meine Zielgruppe und mein Umfeld genau aus?
 Die Betriebswirtschaft kennt zahlreiche Analyseverfahren, um den Markt zu analysieren. Als Kulturbetrieb oder kuratierende/r Wissenschaftler/in kann man nur selten “Big Data” potentieller Besucher/innen erheben, aber sich Inspirationen holen z. B. von der
 * Marktanalyse: Wie kann ich mich sachlich, räumlich, zeitlich von anderen Angeboten, “Konkurrenten” und Mitbewerbern abgrenzen? 
 * 
@@ -118,7 +118,7 @@ Die Betriebswirtschaft kennt zahlreiche Analyseverfahren, um den Markt zu analys
 ✪ Werden Raumtexte, Labels, Werbematerialien, Katalog, digitale Medien, Website, Social-Media-Aktionen etc. rechtzeitig fertig?
 ✪ Was mache ich selbst (in- house), was gebe ich an externe Dienstleister (outsourcing)?
 
-### 11.1.4. Marketing-Management-Prozess III: Wie interpretiere ich diese Daten und wie leite ich davon Strategien ab?
+### Marketing-Management-Prozess III: Wie interpretiere ich diese Daten und wie leite ich davon Strategien ab?
 Auch für dieses Unterfangen kennt die Betriebswirtschaft zahlreiche Analyseverfahren. Kulturinstitutionen orientieren sich daran. Vieles wächst natürlich mit der Erfahrung und wenn man mehrere Ausstellungen durchführt. Die bekanntesten sind vermutlich folgende:
 
 * Chancen-Risiken-Analyse

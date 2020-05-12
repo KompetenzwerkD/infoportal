@@ -7,7 +7,7 @@ insert_anchor_links = "right"
 
 # I.1. Ausstellungsaufbau
 
-## 1. Was macht eine gute Ausstellung aus?
+## Was macht eine gute Ausstellung aus?
 
 Wenn man eine Ausstellung angeht, ist folgende Herangehensweise ratsam:
 * ein Brainstorming machen, was man von der Ausstellung erwartet (Thema, wen erreichen, was genau kommunizieren, was analog, was digital zeigen)
@@ -16,10 +16,10 @@ Wenn man eine Ausstellung angeht, ist folgende Herangehensweise ratsam:
 
 Wissenschaftler_innen, die Ausstellungen kuratieren, sind in der Regel fachlich sehr gut vernetzt und bringen viele Ideen zu potentiellen Exponaten mit. Ein kurzes Brainstorming auf Flipchart, mit Papier und Stiften oder in einem digitalen Tool im Team lohnt sich immer - gerne auch mit Studierenden, Praktikant/innen, Hausmeister/innen, die ihnen offen kommunizieren, was sie anspricht und was nicht.
 
-## 2. Aufbau einer analogen Ausstellung
+## Aufbau einer analogen Ausstellung
 In sechs Abschnitten wird hier grob aufgezeigt, was bei der Erstellung einer Ausstellung zu beachten ist. Diese Übersicht lässt sich gut als **Checkliste** verwenden für Ihr Kuratieren, Ihre Planungen und Ihre Marketing-Aktivitäten.
 
-### 2.1. Das Gebäude
+### Das Gebäude
 
 Wo findet Ihre Ausstellung statt?
 
@@ -31,7 +31,7 @@ Wo findet Ihre Ausstellung statt?
     * Können Sie das für sich zu Nutze machen bei Wegbeschreibung, Werbung etc?
     * Achtung: Denkmalschutz
 
-### 2.2. Die Ausstellungsräume
+### Die Ausstellungsräume
 
 Welche Besonderheiten bringt Ihr Ausstellungsraum mit sich?
 
@@ -46,7 +46,7 @@ Welche Besonderheiten bringt Ihr Ausstellungsraum mit sich?
     * fragwürdiger Trend: graues Farbkonzept inklusive grauer oder weißer Schrift auf grauem Grund: schlechte Kontrastwirkung, schlechte Lesbarkeit
 * Licht: Neonröhren (eher ungünstig, von Maltechnik etc. abhängig), Spots (für Skulptur, Details wie Münzen, Gemmen, Inschriften), LEDs, Tageslichtlampen; Regeln für empfindlichen Stoffe, Papyri, Druckgrafiken etc. beachten (max. Lux-Zahl, Abdunklung nötig)
 
-### 2.3. Objektpräsentation
+### Objektpräsentation
 
 Wie zeigen Sie Ihre Objekte im Raum?
 
@@ -58,7 +58,7 @@ Wie zeigen Sie Ihre Objekte im Raum?
 * Provenienz der Objekte angeben (aus eigenen Beständen, Leihgaben, ...)
     * gerade diese Thematik wird durch Besucher immer stärker nachgefragt
 
-### 2.3. Medieneinsatz
+### Medieneinsatz
 
 * Ist Ihre Ausstellung rein analog, rein digital oder ein Mix? Können Gäste Angebote auch ohne einen Besuch der Ausstellung nutzen?
 * Welche Projektionen, (digitalen) Modelle, Ton-, Film-, Computer-Anwendungen (online/offline) verwenden Sie?
@@ -67,7 +67,7 @@ Wie zeigen Sie Ihre Objekte im Raum?
 * Audioguides/Medienguides: Hardware, Software, Lagerung, Reinigung erforderlich oder per Smartphone + Kopfhörer, QR-Codes
 * Brauchen ihre Gäste Internet? Können Sie Wi-fi anbieten (Router, Bezahlung, Haftung)?
 
-### 2.4. Betextung
+### Betextung
 
 Abgesehen von den Objekten ist die Textgestaltung oft das, worüber sich am meisten die Geister scheiden. Mehr zum Verfassen von verschiedenen Texten findet sich unter ➤ [I.2 Digitale und analoge Begleittexte](@/digitales_publizieren/ausstellungen/teil1_kuratieren_2.md).
 
@@ -86,7 +86,7 @@ Abgesehen von den Objekten ist die Textgestaltung oft das, worüber sich am meis
 * Vermittlungen wichtiger Inhalte, Systematik, (Meta-)Daten
 * Ersetzen Texte in Ihrer Ausstellung Objekte? Werden Aussagen gemacht, für die keine Objekte vorhanden sind? Ist Ihre Ausstellung sehr textlastig/“Bleiwüste”/viel “Flachware”? Erwägen Sie, Illustrationen oder andere Medien dazuzugeben
 
-### 2.5. „Botschaft“
+### „Botschaft“
 
 Wie ist die Aussagekraft der Objekte, v. a. in Bezug auf Ihr Ausstellungsthema? 
 * Sind einschlägige Leihgaben dabei, erwartbare Themen abgedeckt?
