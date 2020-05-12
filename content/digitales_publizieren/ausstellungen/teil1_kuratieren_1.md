@@ -14,13 +14,15 @@ Wenn man eine Ausstellung angeht, ist folgende Herangehensweise ratsam:
 * Vorbereitung: andere Sammlungen analog/digital besuchen
 * Vernetzung
 
-Wissenschaftler/innen, die Ausstellungen kuratieren, sind in der Regel fachlich sehr gut vernetzt und bringen viele Ideen zu potentiellen Exponaten mit. Ein kurzes Brainstorming auf Flipchart, mit Papier und Stiften oder in einem digitalen Tool im Team lohnt sich immer - gerne auch mit Studierenden, Praktikant/innen, Hausmeister/innen, die ihnen offen kommunizieren, was sie anspricht und was nicht.
+Wissenschaftler_innen, die Ausstellungen kuratieren, sind in der Regel fachlich sehr gut vernetzt und bringen viele Ideen zu potentiellen Exponaten mit. Ein kurzes Brainstorming auf Flipchart, mit Papier und Stiften oder in einem digitalen Tool im Team lohnt sich immer - gerne auch mit Studierenden, Praktikant/innen, Hausmeister/innen, die ihnen offen kommunizieren, was sie anspricht und was nicht.
 
 ## 2. Aufbau einer analogen Ausstellung
 In sechs Abschnitten wird hier grob aufgezeigt, was bei der Erstellung einer Ausstellung zu beachten ist. Diese Übersicht lässt sich gut als **Checkliste** verwenden für Ihr Kuratieren, Ihre Planungen und Ihre Marketing-Aktivitäten.
 
 ### 2.1. Das Gebäude
+
 Wo findet Ihre Ausstellung statt?
+
 * Wo befindet sich das Gebäude und wie machen Sie auf sich aufmerksam?
     * an Touristikströmen in Innenstädten mit Laufkundschaft
     * in Nebenstraßen, 2./3. Stock mit eher gezielten Besucher/innen, auf Empfehlung, keine Laufkundschaft
@@ -30,7 +32,9 @@ Wo findet Ihre Ausstellung statt?
     * Achtung: Denkmalschutz
 
 ### 2.2. Die Ausstellungsräume
+
 Welche Besonderheiten bringt Ihr Ausstellungsraum mit sich?
+
 * Besonderheiten der Architektur (Raumaufteilung, Treppen, Fenster, Foyer, bestimmter raumgreifender Baustil wie Barock oder Art Deco)
 * Hat der Ausstellungsort einen Bezug zum Ausstellungsthema? Oder gar nicht? Müssen Sie das begründen?
 * Wie verteilen Sie Ihre Ausstellung auf die Räume oder den Raum? Ein Raum, ein Thema? Ist die Größe der Räume der Bedeutung des Thema angemessen?
@@ -43,7 +47,9 @@ Welche Besonderheiten bringt Ihr Ausstellungsraum mit sich?
 * Licht: Neonröhren (eher ungünstig, von Maltechnik etc. abhängig), Spots (für Skulptur, Details wie Münzen, Gemmen, Inschriften), LEDs, Tageslichtlampen; Regeln für empfindlichen Stoffe, Papyri, Druckgrafiken etc. beachten (max. Lux-Zahl, Abdunklung nötig)
 
 ### 2.3. Objektpräsentation
+
 Wie zeigen Sie Ihre Objekte im Raum?
+
 * Wie und wo zeigen Sie Ihre Objekte? Frei oder hinter Glas? Was ist konservatorisch gegeben?
 * Bildanbringung: unsichtbar oder mit (historischen) Rahmen, Passepartouts; Galerieschienen
 * Vitrinen: vorhanden, Standardmaße, Spezialanfertigungen nötig?
@@ -53,6 +59,7 @@ Wie zeigen Sie Ihre Objekte im Raum?
     * gerade diese Thematik wird durch Besucher immer stärker nachgefragt
 
 ### 2.3. Medieneinsatz
+
 * Ist Ihre Ausstellung rein analog, rein digital oder ein Mix? Können Gäste Angebote auch ohne einen Besuch der Ausstellung nutzen?
 * Welche Projektionen, (digitalen) Modelle, Ton-, Film-, Computer-Anwendungen (online/offline) verwenden Sie?
 * Haben die Medien Objektcharakter oder ergänzen sie die Objekte (Erklärungen, Making ofs)? 
@@ -61,7 +68,9 @@ Wie zeigen Sie Ihre Objekte im Raum?
 * Brauchen ihre Gäste Internet? Können Sie Wi-fi anbieten (Router, Bezahlung, Haftung)?
 
 ### 2.4. Betextung
-Abgesehen von den Objekten ist die Textgestaltung oft das, worüber sich am meisten die Geister scheiden. Mehr zum Verfassen von verschiedenen Texten findet sich unter ➤ 3. Digitale und analoge Begleittexte.
+
+Abgesehen von den Objekten ist die Textgestaltung oft das, worüber sich am meisten die Geister scheiden. Mehr zum Verfassen von verschiedenen Texten findet sich unter ➤ [I.2 Digitale und analoge Begleittexte](@/digitales-publizieren/austellungen/teil1_kuratieren_2.md).
+
 * Es gibt unterschiedliche Textarten in einer Ausstellung. Die Hierarchie sollte erkennbar sein, z. B. durch Schriftgröße, Schriftart, Schriftfarbe. Es sollte maximal 4 Ebenen geben.
     * Raumtexte: Einführungstext pro Raum/Raumteil, meist an der Wand; auch Einleitung/Schluss der Ausstellung
     * Objekttexte: Überblickstext zu einer Objektgattung/einem Genre oder einem speziellen Objekt
@@ -78,6 +87,7 @@ Abgesehen von den Objekten ist die Textgestaltung oft das, worüber sich am meis
 * Ersetzen Texte in Ihrer Ausstellung Objekte? Werden Aussagen gemacht, für die keine Objekte vorhanden sind? Ist Ihre Ausstellung sehr textlastig/“Bleiwüste”/viel “Flachware”? Erwägen Sie, Illustrationen oder andere Medien dazuzugeben
 
 ### 2.5. „Botschaft“
+
 Wie ist die Aussagekraft der Objekte, v. a. in Bezug auf Ihr Ausstellungsthema? 
 * Sind einschlägige Leihgaben dabei, erwartbare Themen abgedeckt?
 * Ist die Objektauswahl schlüssig?
