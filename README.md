@@ -106,9 +106,15 @@ Einbinden der Grafik in eine Seite:
 ![](/images/saw-logo.png)
 ```
 
-
-
 ### Deployment
+
+#### Automatisches Deployment mit Github Action
+
+In dieses Repo ist die GH-Action [Zola Deploy Action](https://github.com/shalzz/zola-deploy-action) eingebunden. Damit wird mit einem Commit im Masterbrach (z.B. durch Änderungen im `content` Verziechnis) ein Prozess angestoßen, welcher die Seite neu baut und sie im gh-pages Branch veröffentlicht.
+
+#### Manual Deployment
+
+> **Outdated, dank automatischem Prozess (siehe oben)!**
 
 Wurden Inhalte hinzugefügt/geändert/gelöscht, kann man mit dem Befehl `zola build` eine neue Version der Website generieren.
 
