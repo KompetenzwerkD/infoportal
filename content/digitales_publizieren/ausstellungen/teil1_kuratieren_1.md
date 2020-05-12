@@ -69,7 +69,7 @@ Wie zeigen Sie Ihre Objekte im Raum?
 
 ### 2.4. Betextung
 
-Abgesehen von den Objekten ist die Textgestaltung oft das, worüber sich am meisten die Geister scheiden. Mehr zum Verfassen von verschiedenen Texten findet sich unter ➤ [I.2 Digitale und analoge Begleittexte](@/digitales-publizieren/austellungen/teil1_kuratieren_2.md).
+Abgesehen von den Objekten ist die Textgestaltung oft das, worüber sich am meisten die Geister scheiden. Mehr zum Verfassen von verschiedenen Texten findet sich unter ➤ [I.2 Digitale und analoge Begleittexte](@/digitales_publizieren/austellungen/teil1_kuratieren_2.md).
 
 * Es gibt unterschiedliche Textarten in einer Ausstellung. Die Hierarchie sollte erkennbar sein, z. B. durch Schriftgröße, Schriftart, Schriftfarbe. Es sollte maximal 4 Ebenen geben.
     * Raumtexte: Einführungstext pro Raum/Raumteil, meist an der Wand; auch Einleitung/Schluss der Ausstellung
