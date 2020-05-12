@@ -1,0 +1,13 @@
+name: Deploy static site
+on: push
+jobs:
+  build:
+    name: Build site with Zola and deploy
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Zola Deploy Action by @shalzz
+      uses: shalzz/zola-deploy-action@master
+      env:
+        PAGES_BRANCH: gh-pages
+        TOKEN: ${{ secrets.TOKEN }}
