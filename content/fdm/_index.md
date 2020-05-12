@@ -26,7 +26,7 @@ Neben dieser allgemeinen Einführung bieten wir Ihnen Folgendes an:
 * [Vorlagen zum Zusammentragen Projekt- und Datensatz-bezogener Metadaten](@/fdm/metadaten_schemas.md)
 * [Einen übersichtsartigen generellen Fahrplan zum Forschungsdatenmanagement](@/fdm/fahrplan.md)
 * [Weiterführende Informationen](@/fdm/links.md)
-* Zeitnah: [Eine gemeinsame Forschungsdaten-Policy](@/fdm/forschungsdaten-policy.md)
+* Zeitnah: [Eine gemeinsame Forschungsdaten-Policy](@/fdm/forschungsdaten_policy.md)
 * Und natürlich: Persönliche Beratung zum Thema Forschungsdatenmanagement 
 
 ### Coming soon - Fallbeispiele
