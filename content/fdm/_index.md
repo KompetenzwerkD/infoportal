@@ -22,11 +22,11 @@ Generell gilt: Nehmen Sie sich die nötige Zeit und beziehen Sie bei der Ausarbe
 
 Neben dieser allgemeinen Einführung bieten wir Ihnen Folgendes an:
 
-* [Eine Anleitung zur Erstellung Ihres eigenen Datenmanagementplans](plan.md)
-* [Vorlagen zum Zusammentragen Projekt- und Datensatz-bezogener Metadaten](metadaten_schemas.md)
-* [Einen übersichtsartigen generellen Fahrplan zum Forschungsdatenmanagement](fahrplan.md)
-* [Weiterführende Informationen](links.md)
-* Zeitnah: [Eine gemeinsame Forschungsdaten-Policy](forschungsdaten-policy.md)
+* [Eine Anleitung zur Erstellung Ihres eigenen Datenmanagementplans](@/fdm/plan.md)
+* [Vorlagen zum Zusammentragen Projekt- und Datensatz-bezogener Metadaten](@/fdm/metadaten_schemas.md)
+* [Einen übersichtsartigen generellen Fahrplan zum Forschungsdatenmanagement](@/fdm/fahrplan.md)
+* [Weiterführende Informationen](@/fdm/links.md)
+* Zeitnah: [Eine gemeinsame Forschungsdaten-Policy](@/fdm/forschungsdaten-policy.md)
 * Und natürlich: Persönliche Beratung zum Thema Forschungsdatenmanagement 
 
 ### Coming soon - Fallbeispiele
