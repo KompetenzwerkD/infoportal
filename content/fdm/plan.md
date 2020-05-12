@@ -11,9 +11,9 @@ Ein Datenmanagementplan ist heutzutage oft schon bei der Antragstellung oder sp�
 
 Manche Institutionen wie die DFG oder die EU haben recht klare Vorgaben, und es existieren zahlreiche Vorlagen auf Webseiten und Publikationen.
 
-[Wir haben eine Webseite mit Empfehlungen zum Forschungsdatenmanagement erstellt.]( https://kompetenzwerkd.github.io/fdm/)
+[Wir haben eine Webseite mit Empfehlungen zum Forschungsdatenmanagement erstellt.](@/fdm/_index.md)
 
-[Außerdem bieten wir Ihnen Vorlagen, die Ihnen helfen können, wichtige Metadaten zu Ihren Datensätze und Ihrem Projekt anzulegen um so eine Nachnutzung Ihrer Forschungsdaten zu erleichtern.](https://kompetenzwerkd.github.io/fdm-schemas/)
+[Außerdem bieten wir Ihnen Vorlagen, die Ihnen helfen können, wichtige Metadaten zu Ihren Datensätze und Ihrem Projekt anzulegen um so eine Nachnutzung Ihrer Forschungsdaten zu erleichtern.](@/fdm/metadaten_schemas.md)
 
 Der folgende Leitfaden ist in praktischer Zusammenarbeit mit Kolleg_innen aus verschiedenen Forschungsprojekten entstanden und soll eine knappe Checkliste mit Tipps und Tricks darstellen, wie Sie schnell zu einem DMP gelangen können, ohne wichtige Aspekte aus den Augen zu lassen.
 
@@ -117,7 +117,7 @@ Für größere Datenmengen (z. B. umfangreiches Bild- und Videomaterial) werden 
 
 ### Datenverfügbarkeit (Auffindbarkeit, Zugriffsbeschränkungen)
 * Wie wird sichergestellt, dass wichtige Projektdaten nicht nur nachhaltig aufbewahrt werden sondern auch auffindbar sind? Dies ist eine wichtige Voraussetzung, um eine möglichst breite Nachnutzung zu ermöglichen.
-* Häufig bieten Forschungsdatenrepositorien / Archive nicht nur eigene Suchmöglichkeiten in den (begrenzten) Datenbeständen sondern integrieren sich in größere Verbünde, welche eine gemeinsame zentrale (oft fachspezifische) Suchfunktionalität anbieten (beispielsweise das [CLARIN Virtual Language Observatory](https://vlo.clarin.eu/). Geben Sie dies gegebenenfalls an.
+* Häufig bieten Forschungsdatenrepositorien / Archive nicht nur eigene Suchmöglichkeiten in den (begrenzten) Datenbeständen sondern integrieren sich in größere Verbünde, welche eine gemeinsame zentrale (oft fachspezifische) Suchfunktionalität anbieten (beispielsweise das [CLARIN Virtual Language Observatory](https://vlo.clarin.eu/)). Geben Sie dies gegebenenfalls an.
 * Werden die Daten frei verfügbar sein oder sind Zugriffsbeschränkungen nötig (Bezug zu Persönlichkeitsrechten / Copyright gegebenenfalls sinnvoll)? Wie werden diese umgesetzt?
 
 ### Verantwortlichkeiten
