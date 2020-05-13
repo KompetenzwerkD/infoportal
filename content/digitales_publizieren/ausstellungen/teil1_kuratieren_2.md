@@ -5,11 +5,9 @@ description = "Description"
 insert_anchor_links = "right"
 +++
 
-# I.2. Texte schreiben
+# "I.2. Digitale und analoge Begleittexte schreiben
 
-## Digitale und analoge Begleittexte
-
-### Ausstellungstexte schreiben: inhaltliche Kriterien und Metadaten
+## Ausstellungstexte schreiben: inhaltliche Kriterien und Metadaten
 
 Wie Pressemitteilungen sind Texte in der Ausstellung (hier zusammengefasst als “Ausstellungstexte” bezeichnet; dazu gehören zahlreiche Textsorten), in Katalogen, in Audioguides, auf Websiten und in Ihren digitalen Angeboten andere Textsorten als wissenschaftliche Publikationen: Das liegt an den vielfältigen Zielgruppen und deren Situationen, in denen sie die Texte konsumieren. Manchmal sind Objekte analog oder virtuell direkt von den Betrachtenden wie bei Raum- und Taschentexten in der Ausstellung (analog oder online), manchmal nicht - insbesondere bei Katalogen oder Audioguides zum Nachhören.
 
@@ -47,7 +45,7 @@ Vielleicht gibt das Objekt besonders charakteristische Informationen zur:
 * Liegen vielleicht spannende restauratorisch-technologische Untersuchungen vor, oder sind solche zu veranlassen, da viel versprechende Ergebnisse zu erwarten sind? 
 * …
 
-### Ausstellungstexte schreiben: Zur Gattung der Ausstellungstexte
+## Ausstellungstexte schreiben: Zur Gattung der Ausstellungstexte
 Ausstellungstexte aller müssen wissenschaftlich fundiert sein, sind streng genommen jedoch keine wissenschaftlichen Abhandlungen, keine literarischen Texte und keine Werbetexte. Es handelt sich dabei vielmehr um eine eigene Gattung, die in mehrere Textsorten eingeteilt werden kann, mit eigenen Regeln.
 
 Ganz wichtig ist, sich klarzumachen: welche Erwartungen, Motivation, Vorwissen bringt die Konsumentenschaft mit? Orientierungsfragen lauten daher:
@@ -60,12 +58,13 @@ Ganz wichtig ist, sich klarzumachen: welche Erwartungen, Motivation, Vorwissen b
 
 **Literaturhinweise zum Vertiefen:**
 
-E. Dawid – R. Schlesinger (Hrsg.), Texte in Museen und Ausstellungen. Ein Praxisleitfaden (Bielefeld 2002).
-A. W. Biermann (Hrsg.), Texte in Ausstellungen. Hinweise und Anregungen für verständliche Formulierungen und besucherfreundliche Gestaltung (Köln 1995).
+* E. Dawid – R. Schlesinger (Hrsg.), Texte in Museen und Ausstellungen. Ein Praxisleitfaden (Bielefeld 2002).
+* A. W. Biermann (Hrsg.), Texte in Ausstellungen. Hinweise und Anregungen für verständliche Formulierungen und besucherfreundliche Gestaltung (Köln 1995).
 
 **Checkliste mit Regeln für lesbare Ausstellungstexte, Bereich Sprache:**
 
 Formulieren Sie im Aktiv, schreiben sie kurze Sätze, erklären Sie Fachbegriffe und vermeiden Sie Füllwörter - das sind im Groben die Mittel, wie Sie sicherstellen, dass Ihre Texte auch wirklich gelesen und verstanden werden.
+
 * kreative, fesselnde, unerwartete, auffallende Überschriften finden (ähnlich Pressemitteilungen oder Zeitungsschlagzeilen)
 * Alltagssprache von Laien verwenden, ohne Fremdwörter
 * Fachausdrücke erklären
@@ -88,6 +87,7 @@ Formulieren Sie im Aktiv, schreiben sie kurze Sätze, erklären Sie Fachbegriffe
 **Regeln für lesbare Ausstellungstexte, Bereich Formalia und Gliederung:**
 
 Gerade bei Raumtexten und anderen kurzen Texten in Katalogen und Taschentexten liegt die Würze in der Kürze. Profi-Texter arbeiten dabei mit recht harten Vorgaben (60-65 Anschläge pro Zeile, Flattersatz etc.). Es ist nicht immer machbar, sich daran zu halten, aber kann als Orientierungshilfe dienen.
+
 * kurze Zeilen: Königsdiziplin: maximal 60-65 Anschläge pro Zeile (Leerzeichen mitgerechnet)
 * jede Zeile sollte exakt einer Sinneinheit entsprechen
 * Raumtexte/kürzere Katalogtexte: stets Flattersatz, nie Blocksatz, keine Worttrennungen
@@ -122,7 +122,8 @@ Grundregeln zur Abfassung (siehe auch “Regeln für lesbare Ausstellungstexte�
 * keine langen verschachtelten Sätze, nicht zu viele Fachausdrücke, diese ggf. erklären
 * nicht zu umgangssprachlich und locker
 
-### Feedback zu Texten
+## Feedback zu Texten
+
 Folgende Orientierungsfragen können hilfreich sein zu hinterfragen, ob die Texte für die jeweiligen Zielgruppen und Kontexte “funktionieren”. Am besten probiert man dies zusammen mit Kolleg/innen und gibt sich so gegenseitig konstruktives Feedback.
 
 **Die inhaltliche Ebene:**

@@ -7,8 +7,8 @@ insert_anchor_links = "right"
 
 # I.3. Audioguides
 
-## Audioguides
 Zum Verfassen von Texten für Audioguides gelten grob die gleichen Regeln wie oben für die Ausstellungstexte. Wichtig ist, vor dem Abfassen den Einsatzbereich und die Zielgruppen zu klären:
+
 * Einsatzort: in der Ausstellung oder nur online ohne Objekte (aber mit Bildern im Netz) oder beides?
 * Zielgruppe: für Erwachsene, für Kinder, für Heranwachsende oder für alle?
 * Sollten die Hörstücke mehr wie ein Hörspiel oder wie ein Erklärtext gestaltet sein?
@@ -16,6 +16,7 @@ Zum Verfassen von Texten für Audioguides gelten grob die gleichen Regeln wie ob
 * Nehmen Sie die Texte selbst auf und schneiden sie auch? Welche Hard- und Software steht Ihnen zur Verfügung?
 
 Hier ein paar spezielle Hinweise und Formulierungsideen:
+
 * Sprecher/in des Audioguides: vorstellen, bei mehreren Hörstücken im ersten Track in der Einführung; z. B.: „Ich begleite dich/Sie“
 * andere Variante, v. a. für Kinder-Audioguides: das Objekt spricht aus der Ich-Perspektive – gut bei Personen in Gemälden machbar, aber auch bei einer Tasse o. ä.
 * Dialogprinzipien: 
@@ -46,28 +47,33 @@ Hier ein paar spezielle Hinweise und Formulierungsideen:
     * nicht zu viel Sprachmelodie einbringen
     * weniger wichtige Dinge “wegsprechen”
 
-**Hardware:**
+## Hardware
+
 * teure Variante: Audioguide-Abspielgeräte mit Kopfhörern bei einem kommerziellen Anbieter beziehen (müssen gelagert, gewartet, aufgeladen, gereinigt werden)
 * billige Variante: Besucher können mit eigenen Smartphones den Audioguide nutzen
 
-**Software, Aufnahme, Abspielen:**
-* Aufnahme + Schnitt: mit open source-Programm (z. B. Audacity, ocenaudio)
+## Software, Aufnahme, Abspielen
+
+* Aufnahme + Schnitt: mit open source-Programm (z. B. [Audacity](https://www.audacityteam.org/), [ocenaudio](https://www.ocenaudio.com/))
 * Lassen Sie sich an Ihrer Institution helfen:
     * Universität Leipzig: Zentrum für Medien und Kommunikation
     * TU Dresden: SoundLab 
 * Abspielen: eigene Lösungen auf der eigenen Website
 * oder: Fremdlösungen zum Abspielen, z. B. Soundcloud oder YouTube
-    * Beispiel: Ägyptisches Museum Leipzig, Audioguide für Kinder und Jugendliche, https://soundcloud.com/user-778792758/tracks 
+    * Beispiel: [Ägyptisches Museum Leipzig, Audioguide für Kinder und Jugendliche](https://soundcloud.com/user-778792758/tracks)
 
-**Internet:**
+## Internet
+
 * Können Sie Ihren Gästen Zugang zum Wi-fi ermöglichen, vielleicht über einen Förderverein Ihrer Institution? (Frage der Bereitstellung/Haftung, Netzstärke, Zugangsdaten)
-* 
-**Anbringung von Markern in der Ausstellung, wo es Audioguide-Tracks gibt:**
+
+## Anbringung von Markern in der Ausstellung, wo es Audioguide-Tracks gibt
+
 * Punkte, Sticker oder Handy-lesbare QR-Codes (N.B.: nicht jedes Smartphone verfügt über eine vorinstallierte App zum Lesen von QR-Codes)
-* Erstellung der Codes: https://goqr.me / open-source library: https://www.nayuki.io/page/qr-code-generator-library
+* Erstellung der Codes: [QR Code generator](http://goqr.me) / [Project Nayuki (open-source library)](https://www.nayuki.io/page/qr-code-generator-library)
 * durchsichtige, dezente Aufkleber an Vitrinen mit den QR-Codes anbringen; nicht-dauerhafte Variante: antistatische Aufkleber
 * und/oder: Handouts/Taschentexte mit den QR-Codes und Links
 
-**Geräusche für Audioguides:**
-* Geräusche + Melodien (gemeinfrei); spezieller Jingle zu Beginn und Ende des Hörstücks: https://www.medienpaedagogik-praxis.de/kostenlose-medien/freie-musik/ 
+## Geräusche für Audioguides
+
+* [Geräusche + Melodien (gemeinfrei); spezieller Jingle zu Beginn und Ende des Hörstücks](https://www.medienpaedagogik-praxis.de/kostenlose-medien/freie-musik/) 
 

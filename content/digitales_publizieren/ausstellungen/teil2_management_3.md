@@ -8,6 +8,7 @@ insert_anchor_links = "right"
 # II.8. Kulturmanagement
 
 ## Kulturmanagement
+
 Kulturmanagement ist auch Projektmanagement.Aber ein ganz besonderes! Kulturmanagement (und Abwandlungen davon) gibt es seit einigen Jahren als Studienfach. Der Beruf des “Kultur- und Eventmanagers” hat Konjunktur. Was steckt dahinter? Kann man Kultur - das schöpferische, kreative Chaos, das in oft individuellen Freiräumen entsteht, überhaupt “managen”? Kann man Maßgaben nach Plänen, Zahlen und Zielkontrollen, die auf Effektivität, Produktivität und wirtschaftlichen Erfolg ausgelegt sind, überhaupt auf Tätigkeiten anlegen, die kreatives Denken und Handeln beinhalten? Ist das nicht nur etwas für den Kunstmarkt, der ohnehin auf einem manchmal fragwürdigen Wertesystem basiert? 
 
 Ja, das geht! Management ist immer personen- und aufgabenbezogen. Ganz allgemein geht es um Steuerung, grob bestehend aus folgenden Schritten:
@@ -27,9 +28,10 @@ Daher kann eine Definition von Kulturmanagement lauten:
 ✪ Verkaufen Sie Tickets für die Ausstellung, Events, Kataloge und andere Produkte? Unterliegt dies speziellen Regeln?
 
 ### Kulturmarketing als wichtiger Teil des Kulturmanagements
+
 * Definition: “Marketing ist ein Prozess im Wirtschafts- und Sozialgefüge, durch den Einzelpersonen und Gruppen ihre Bedürfnisse und Wünsche befriedigen, indem sie Produkte und andere Dinge von Wert erzeugen, anbieten und miteinander austauschen.“ (Philip Kotler/Friedrich Bliemel, Marketing-Management, Stuttgart 1992, S. 6-7)
-* 
-vs.
+
+**vs.**
 
 * „Marketing ist die bewusste marktorientierte Führung des gesamten Unternehmens.“ (Heribert Meffert, Marketing, Wiesbaden, 9. Auflage, 2000, XXIV; Erstauflage 1998)
 Die Idee des “Warenaustauschs” und der “Bedürfnisbefriedigung” stammt aus den Anfängen der Betriebswirtschaft und ist stark durch die Nachkriegszeit von westlichen Industrienationen geprägt: Die Nachfrage regelt das Angebot. Seit den 1990er Jahren wird auch von Bedürfnissteuerung und Bedürfnisweckung gesprochen, also einem Paradigmenwandel: das Angebot regelt die Nachfrage. Daher hat Marketing auch die Konnotation von “Manipulation” bekommen und wird oft nur auf Werbung reduziert. “Vermarktung” und “Promotion” haben deshalb in manchen Kreisen eine negative Konnotation.
@@ -41,9 +43,11 @@ Auch Marketing lässt sich grob als Projektmanagement in folgenden Schritten dar
 **➜ Analyse ➜ Planung ➜ Durchführung ➜ Kontrolle**
 
 ✪ Im Kulturbereich, gerade in Museen, fallen die Tätigkeiten von Marketing, PR und Öffentlichkeitsarbeit oft zusammen - gerade in Zeiten knapper Kassen. Wer sind Ihre Ansprechpartner, gerade in übergeordneten Einrichtungen? Gibt es Richtlinien, die unbedingt einzuhalten sind?
+
 ✪ Wenn Sie als Wissenschaftler*in eine Ausstellung kuratieren: Welche Aufgaben im Bereich Marketing, PR und Öffentlichkeitsarbeit müssen Sie mit übernehmen?
 
 ### Marketing-Analyse I - Wer gehört zu meinem Netzwerk, meiner Zielgruppe?
+
 Ein Museum hat zahlreiche “Tauschpartner”, mit dem es interagiert. Wer könnte alles dazugehören?
 
 * Besucher/innen
@@ -61,6 +65,7 @@ Ein Museum hat zahlreiche “Tauschpartner”, mit dem es interagiert. Wer könn
 * Auktionshäuser
 
 Erläuterungen dazu:
+
 * Natürlich die Besucher/innen! Das an sich ist eine vielfältige Gruppe - vom Schulkind bis zum VIP.
 * Schülergruppen machen in der Regel 30% von Museumsbesucher/innen aus. Die Verbindung zu Schulen und Fachlehrern zu halten ist eine 
 * Ein Museum ist keine Insel - es hat übergeordnete Institutionen (Stadt/Land/Bund/Uni) und engagiert sich in lokalen Zusammenhängen, ist Teil von Fach- und Museumsverbänden (z. B. der Deutsche Museumsverbund, ICOM - International Council of Museums).
@@ -76,6 +81,7 @@ Erläuterungen dazu:
 ✪ Wen laden Sie zur Vernissage, (Spezial-)Führung ein?
 
 ### Marketing-Management-Prozess I: Ich habe ein Projekt - wie fange ich an?
+
 So lautet die Theorie: Der Prozess ist grob in fünf Schritte eingeteilt, zu dem Sie sich jeweils folgende Fragen stellen können:
 1. **Analysephase**: Wo stehen wir?
 2. **Strategiephase**: Wo wollen wir hin?
@@ -93,32 +99,45 @@ Beispiele:
 * operatives Ziel: Wir müssen bis Dienstag 150 Kataloge nachdrucken.
 
 ✪ Gibt es in Ihrer Institution Zielvorgaben, z. B. Besucherzahlen, Maximalbudgets, Absatzzahlen für Kataloge etc.?
+
 ✪ Welche Ziele setzen Sie sich selbst, und wann möchten Sie diese erreichen?
+
 ✪ Wichtig für Meetings und Dienstberatungen: genau klären, wer was bis wann zu erledigen hat, Arbeitsstände zwischendurch abfragen, ggf. Erinnerung versenden
 
 ### Marketing-Management-Prozess: Wie sehen meine Zielgruppe und mein Umfeld genau aus?
+
 Die Betriebswirtschaft kennt zahlreiche Analyseverfahren, um den Markt zu analysieren. Als Kulturbetrieb oder kuratierende/r Wissenschaftler/in kann man nur selten “Big Data” potentieller Besucher/innen erheben, aber sich Inspirationen holen z. B. von der
 * Marktanalyse: Wie kann ich mich sachlich, räumlich, zeitlich von anderen Angeboten, “Konkurrenten” und Mitbewerbern abgrenzen? 
-* 
+
 ✪ Gibt es im Ort schon eine Ausstellung mit einem ähnlichen Thema? 
+
 ✪ Kollidiert der Termin meiner Vernissage/der Zeitraum meiner Ausstellung mit anderen Veranstaltungen?
+
 * Kunden- und Nachfragenanalyse: Wie viele Besucher/innen kann ich erwarten?
 
 ✪ Besteht Interesse für mein Thema? Kann ich es so kommunizieren, dass es Interesse weckt?
+
 * Umfeld- und Umweltanalyse: Welche Chancen, aber auch Risiken gibt es?
 
 ✪ Bekomme ich meine Exponate rechtzeitig? 
+
 ✪ Sind zusätzliche Restaurierungen nötig?
+
 ✪ Was wäre der Worst Case?
+
 * Unternehmens- und Betriebsanalyse: Sind meine Ressourcen ausreichend?
 
 ✪ Habe ich ausreichend Budget/Personal/Zeit für meine Ausstellung?
+
 ✪ Habe ich einen Zeitpuffer für unvorhergesehene Dinge eingeplant?
+
 ✪ Sind die klimatischen Bedingungen und Lichtverhältnisse den Exponaten angepasst?
+
 ✪ Werden Raumtexte, Labels, Werbematerialien, Katalog, digitale Medien, Website, Social-Media-Aktionen etc. rechtzeitig fertig?
 ✪ Was mache ich selbst (in- house), was gebe ich an externe Dienstleister (outsourcing)?
 
 ### Marketing-Management-Prozess III: Wie interpretiere ich diese Daten und wie leite ich davon Strategien ab?
+
 Auch für dieses Unterfangen kennt die Betriebswirtschaft zahlreiche Analyseverfahren. Kulturinstitutionen orientieren sich daran. Vieles wächst natürlich mit der Erfahrung und wenn man mehrere Ausstellungen durchführt. Die bekanntesten sind vermutlich folgende:
 
 * Chancen-Risiken-Analyse
@@ -128,9 +147,11 @@ Auch für dieses Unterfangen kennt die Betriebswirtschaft zahlreiche Analyseverf
 * Stärken-Schwächen-Analyse (SWOT)
 
 ✪ Kann meine Ausstellung mit den vorhandenen Ressourcen (Budget/Personal/Zeit) gelingen?
+
 * Lebenszyklusanalyse eines Produkts
 
 ✪ In welche Phasen zwischen Vernissage und Finissage kann ich meine Ausstellung einteilen? Gibt es Höhepunkte/Veranstaltungen während der Laufzeit (Schulferien, Museumsnacht, Wissenschaftsnacht, Konferenzen)? Welches Begleitprogramm biete ich wann an? In welchen Phasen müsste ich vielleicht mit Werbung nachlegen?
+
 * Portfolio-Analyse (Einteilung einer Produktpalette/eines Repertoires eines Kulturbetriebs in Stars, Cash Cows, Question Marks, Dogs)
 
 **Exkurs**: Der Portfolio-Begriff kommt aus der Wertpapierbranche. Ein Anlegerdepot sollte aus einer ausgewogenen Mischung von grob vier Kategorien bestehen: Papiere, die derzeit in wachsenden Märkten fantastisch laufen (“Stars”), Papiere mit hohem Marktanteil in stagnierenden Märkten, die dauerhaften Erfolg garantieren “Cash Cows”, unsichere, vielleicht spekulative Anlagen in wachsenden Märkten, die die “Stars” von morgen werden können (“Question Marks”), Papiere mit geringem Wachstum in kleinen Marktsegmenten, die vielleicht wachsen können (“Dogs”). Beispiel: in einem Musiktheater könnte der Mix aus “Aida”, dem “Phantom der Oper”, einer zeitgenössischen Inszenierung von “Hedda Gabler” und experimentellem Tanztheater bestehen. Der Mix macht’s - gut laufende Stücke federn experimentelle Projekte mit unbekanntem Ausgang in Budget und Zuschauerzahlen ab, so kann die Bandbreite zwischen Breitenkultur/Mainstream und Nischenkunst funktionieren und der kulturelle Auftrag erfüllt werden.
@@ -138,11 +159,13 @@ Auch für dieses Unterfangen kennt die Betriebswirtschaft zahlreiche Analyseverf
 ✪ Eignet sich für Institutionen, die mehrere Formate anbieten. Bei Spielstätten sind dies beispielsweise einzelne Werke/Shows. In Museen können dies Vermittlungsformate sein (z. B. Kinderführung, Taschenlampenführung, Spezialführung mit Präsentation der digitalen Medien, Workshops, Kindergeburtstage, Bastel- und Kreativworkshops, Kooperationsprojekte in der Ausstellung)
 
 **Nächster Schritt: Marketingziele formulieren!**
+
 Ziele können unterschiedliche Hierarchien haben. In der Regel bewährt sich eine feingliedrige Aufspaltung, gerade, wenn Ausstellungsmachen nicht die einzige Tätigkeit im Beruf und die Erfahrung noch nicht allzu groß ist. 
+
 ✪ Erstellen Sie Ober-, Unter-, Zwischenziele 
 
 Außerdem kann man Ziele thematisch anlegen. Diese hängen von Zweck, Mission, Vision, Auftrag ab.
-✪ Erstellen Sie themenabhängige Ziele: Kuratierungs-Ziele, Finanzierungs-Ziele, Publikations-Ziele, Marketing-Ziele (z. B.: )
+✪ Erstellen Sie themenabhängige Ziele: Kuratierungs-Ziele, Finanzierungs-Ziele, Publikations-Ziele, Marketing-Ziele
 
 **Nächster Schritt: Planung und Strategie des Marketings**
 
@@ -161,7 +184,9 @@ In der strategischen Planung treffen Sie Grundsatzentscheidungen, wen Sie mit ih
 Diese Einteilung gilt als veraltet; aber auch neuere Kategorien nach Alterskohorten (Millenials, Gen X, Gen Y, Gen Z, silver babes/Silberschätzchen, “60 ist das neue 50”) sind für Marketingstrategien wenig förderlich. Auch das klassische Museumspublikum ändert sich derzeit - u. a. befeuert durch die Digitalisierung und veränderte Marketingansprachen.
 
 ✪ Was hat bisher gut geklappt? 
-✪ Welche Verteiler gibt es in Ihrem Haus (E-Mail, Telefonlisten, Adressen)?
+
+✪ Welche Verteiler gibt es in Ihrem Haus (E-Mail, 
+Telefonlisten, Adressen)?
 
 **Produkt-Markt-Matrix**
 Das klassische Instrument der Marketingstrategie ist die Produkt-Markt-Matrix oder: die "4 Ps". Die Produkt-Markt-Matrix lässt über folgende Punkte nachdenken, u. a.:
@@ -177,23 +202,29 @@ Das klassische Instrument der Marketingstrategie ist die Produkt-Markt-Matrix od
 In den 4Ps, nämlich Product, Price, Promotion, Place - oder auf Deutsch: Produkt, Preis, Absatzförderung, Distribution, der so genannte Marketing-Mix (nach Philip Kotler).
 
 **Wie wird das im Unternehmen umgesetzt?**
+
 ➜ Im Idealfall gibt es im Unternehmen einzelne Abteilungen, die sich darum kümmern (neben Finazen, Personal, ...) - in Großkonzernen mehrfach pro Produkt/Produktfamilie. Als dritte Variante existiert die Matrixorganisation, in der Produkt-, Marketing- und weitere Abteilungen mit einander verzahnt werden.
+
 ➜ Dies ist im Museum/Kultur- und Wissenschaftsbetrieb in der Regel nicht möglich.
 
 **Was umfassen die 4 Ps?**
 **Product/Produkt**
+
 * Qualität des Produkts, Ausstattungselemente, Extras, Styling, Markenname, Verpackung, Kundendienst, Garantieleistungen, Rücknahme
 * ✪ im Museum: die Ausstellung/das Haus an sich, ihre Exponate, Quellen, Texte, Medien, das Begleitprogramm, Events, Führungen, das Personal von Leitung bis Kassendienst, Kundenfreundlichkeit und Beschwerdemanagement, Angebot im Museumsshop (Kataloge, Publikationen, Souvenirs; dort auch Garantieleistungen, Rücknahme)
 
 **Price/Preis**
+
 * Listenpreis, Rabatte, Nachlässe, Zahlungsfristen, Finanzierung
 * ✪ im Museum: Eintrittspreise, Ticketvarianten, Führungspauschalen, Rabatte (z. B. für Schulen, Kolleg/innen), Gutscheine, Geburtstagsaktionen, Möglichkeit zur Spende
 
 **Promotion/Absatzförderung**
+
 * Werbung, persönlicher Verkauf, Verkaufsförderung, PR
 * ✪ im Museum: dito
 
 **Place (Distribution)**
+
 * Marktabdeckungsgrad, Lage der Bezugsorte, Warenbestände, Warenlogistik
 * ✪ im Museum: dito; Warenbestände und -logistik gilt für Angebot im Museumsshop
 
@@ -202,7 +233,9 @@ In den 4Ps, nämlich Product, Price, Promotion, Place - oder auf Deutsch: Produk
 ✪ Nutzen Sie die nächste Ausstellung, um in Ihrer Institution die Aufgaben nach den 4 Ps einzuteilen bzw. machen Sie die 4 Ps zur Grundlage von Check- und To-do-Listen.
 
 **Positionierung im Markt**
+
 Auch wenn Markenkommunikation oft über kommerzielle Produkte eines Unternehmens läuft, kann man im Kulturbereich auch so denken. Theoretisch existieren:
+
 * Einzelstrategie
 * Markenfamilienstrategie
 * Dachmarkenstrategie 
@@ -212,6 +245,7 @@ Auch wenn Markenkommunikation oft über kommerzielle Produkte eines Unternehmens
 ➜ Im Kulturbereich wird meist die Dachmarkenstrategie angewendet. Die Kommunikation einer “starken Marke” (“The MET” = Metropolitan Museum of Art New York, “Gewandhaus zu Leipzig” etc.) läuft über eine Corporate Identity (siehe unten). Statt harter Konkurrenz wird eher auf Kooperation gesetzt, man spricht eher von “Mitbewerbern”.
 
 **Kontrolle**
+
 Wie kann ich checken, dass meine Maßnahmen erfolgreich sind?
 
 Durch die “harten Fakten” (Zahlen), aber auch durch Abtesten von Bekanntheitsgrad und Medienberichte:
@@ -224,6 +258,7 @@ Das weist jedoch zahlreiche Störgrößen auf, die bei der Beurteilung beachtet 
 ✪ Gibt es in Ihrem Haus besondere Gegebenheiten, die solche Störgrößen darstellen können?
 
 **Methoden der Kontrolle:**
+
 * Analyse des Käuferverhaltens
 * Meinungsführerkonzept
 * Befragungen aller Art, z. B. Bekanntheitsgrad & Wissen abtesten
@@ -231,6 +266,7 @@ Das weist jedoch zahlreiche Störgrößen auf, die bei der Beurteilung beachtet 
 * Lifestyle-Analysen, Konsumententypologie, Milieus
 
 ➜ Wie lässt sich das im Museum und Ausstellungsbetrieb umsetzen?
+
 * quantitative Analyse der Besucher/innenzahlen, aufgefächert nach Zielgruppen, Alter, ...
 * qualitative Analyse: Berichte und Kritiken in Medien (lokale und regionale Zeitungen, Zeitschriften, Hörfunk, TV, Blogs, Social Media/Influencer/innen, ...); Berichtende gezielt einladen
 * Befragungen von Besucher/innen
@@ -246,6 +282,7 @@ Das weist jedoch zahlreiche Störgrößen auf, die bei der Beurteilung beachtet 
 ✪ Haben Sie besondere Aktionen im Laufe Ihrer Ausstellung, in denen der Eintritt frei ist?
 
 **Theoretische Methoden der Qualitätsmessung von Dienstleistungen**
+
 Die Qualitätsmessung bei Kultur ist schwierig, weil ein Konzerterlebnis, ein Museumsbesuch immateriell sind (außer Mitschnitte). Produktion und Konsumption fallen zusammen, und können unberechenbar sein: das nennt man das “uno actu-Prinzip”. Hinzu kommt, dass die schönste Aufführung am Konzertabend wertlos sein, wenn ein Besucher einen schlechten Tagtag hatte und bei ihm ein kleiner Fauxpas an der Garderobe das Fass zum Überlaufen bringt. Das ist menschlich, und solche Reaktionen müssen mit einbezogen werden, denn sonst kann auch unverschuldet schlechte Presse riskiert werden.
 
 Es gibt zahlreiche Evaluierungsverfahren der empirischen Kulturwissenschaft zu Serviceleistungen, Besucherorientierung, Marktforschung) wie 

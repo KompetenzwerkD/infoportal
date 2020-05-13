@@ -8,7 +8,9 @@ insert_anchor_links = "right"
 # II.9. Kommunikation und Pressearbeit
 
 ## Kommunikationspolitik
+
 Kommunikationspolitik ist ein Teilgebiet des Marketings. Es wird hier gesondert dargestellt, weil es für Museen und Ausstellungsmacher/innen von besonderer Wichtigkeit ist. Es umfasst:
+
 * PR (Public Relations; dazu gehört auch interne Kommunikation!)
 * Sponsoring
 * Verkauf
@@ -17,6 +19,7 @@ Kommunikationspolitik ist ein Teilgebiet des Marketings. Es wird hier gesondert 
 * Verkaufsförderung
 
 Kommunikationspolitik zielt ab auf:
+
 * die Öffentlichkeit
 * den Absatzmarkt
 * die Konkurrenz/Mitbewerber
@@ -24,13 +27,17 @@ Kommunikationspolitik zielt ab auf:
 * das eigene Haus (interne Kommunikation)
 
 Was ist aus der Sicht von Kulturschaffenden hier zu beachten:
+
 ➜ Der Absatz (z. B. von Eintrittskarten oder Katalogen) ist in der Regel nicht gewinnorientiert.
+
 ➜ Die Werbung für ein Kulturprodukt wie eine Ausstellung folgt nicht den gleichen Grundsätzen wie die Werbung für einen Sportschuh. Es lässt sich durch Werbung schwerlich aus schlechtem Produkt „gutes“ machen und Distinktionskriterien im Spannungsfeld zwischen “Geiz ist geil” und “Bayreuth”, also billig/zugänglich vs. teuer/elitär funktioniert nicht nach diesen Maßstäben und ist in den meisten Fällen weder von der Hauptzielgruppe, noch von den Institutionen gewünscht. Das heißt aber nicht, dass es nicht geht. Hier herrscht Konfliktpotential.
 
-### Wo werbe ich für meine Ausstellung? 
+## Wo werbe ich für meine Ausstellung? 
+
 Wie bringen Sie die Termine Ihrer Ausstellung und ihre Pressemitteilung (die Sie immer schreiben sollten!) unter die Leute? Dieser Prozess heißt **Mediaselektion**. 
 
 Folgende Möglichkeiten gibt es für Museen und Ausstellungsmacher, mit sächsischen Beispielen
+
 * Pressedienste: dpa, Evangelischer Pressedienst, newsropa.de Leipzig
 * Zeitungen: regional / überregional, z. B. LVZ, DNN, Morgenpost, Freie Presse, Sächsische Zeitung, BILD Leipzig, BILD Dresden / FAZ, SZ, taz
 * Wochenzeitungen: Die ZEIT, kreuzer leipzig, Leipziger (Internet-)Zeitung, Leipziger Rundschau, Elbhang Kurier, SAX (Dresden) (Sachsen-)Sonntag,Amtsblätter
@@ -77,7 +84,8 @@ Bestimmte Formen der Werbung können teuer und aufwändig sein. Folgende Punkte 
 
 ✪ Guerillamarketing meint kurzfristige Aktionen, die spontan eine hohe Aufmerksamkeit generieren können wie Flyerverteilen durch verkleidete Mitarbeiter/innen, Bekleben von Wänden und Böden oder andere kreative Aktionen (Flashmob, mysteriöse Aufkleber). Was auch immer Sie tun: Prüfen Sie die Rechtslage und denken Sie auch ans Aufräumen/Entfernen danach.
 
-### Kultur als Marke – Corporate Identity oder: Wie mache ich mich unverwechselbar?
+## Kultur als Marke – Corporate Identity oder: Wie mache ich mich unverwechselbar?
+
 Die Corporate Identity eines Hauses besteht aus den drei Teilgebieten:
 * Corporate Design (einheitliche Web- und Druckerzeugnisse, u. a. Logo, Schriftart, ...)
 * Corporate Communication (einheitliches Kommunikationsverhalten, Richtlinien)
@@ -92,7 +100,8 @@ Es geht darum, eine professionelles, einheitliches Bild und Erwartbarkeit in Qua
 
 ✪ Ihr Empfangspersonal ist die Visitenkarte Ihres Hauses! Unterstützen Sie Ihre Kolleg/innen mit aktuellen Informationen zu Haus und Projekt, Terminen, Neuigkeiten und schulen Sie es im Umgang mit unterschiedlichen und diversen Kundengruppen (Stichwort Barrierefreiheit), im Beschwerdemanagement und auch im professionellen Umgang mit schwierigen Besucher/innen (streitlustig, alkoholisiert, unter Drogen, obdachlos etc.) und in Notfällen (medizinische Notfälle, Straftatbestände, Brandstiftung etc.).
 
-### Wie schreibe ich eine Pressemitteilung?
+## Wie schreibe ich eine Pressemitteilung?
+
 Der Versand einer Pressemitteilung ist in der Regel ihr Erstkontakt mit den Medien. Pressemitteilungen dienen Redaktionen als Vorlage. Doch mehr und mehr gehen Presse und Portale dazu über, eine solche “PM” einfach zu übernehmen. Das Verfassen einer solchen Textsorte will also gelernt sein, um sich von anderen abzuheben und Lust auf mehr zu machen.
 
 **Regeln einer guten Pressemitteilung „PM“**
