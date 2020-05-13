@@ -23,6 +23,7 @@ Daher kann eine Definition von Kulturmanagement lauten:
 [Dies ist eher funktionaler Zugang im Vergleich zu Management, Controlling, Marketing und Materialwirtschaft als Teil der Betriebswirtschaft und Wirtschaftswissenschaft.]
 
 ✪ Welche Regeln bestehen dazu in Ihrer Institution?
+
 ✪ Verkaufen Sie Tickets für die Ausstellung, Events, Kataloge und andere Produkte? Unterliegt dies speziellen Regeln?
 
 ### Kulturmarketing als wichtiger Teil des Kulturmanagements
@@ -35,9 +36,11 @@ Daher kann eine Definition von Kulturmanagement lauten:
 Die Idee des “Warenaustauschs” und der “Bedürfnisbefriedigung” stammt aus den Anfängen der Betriebswirtschaft und ist stark durch die Nachkriegszeit von westlichen Industrienationen geprägt: Die Nachfrage regelt das Angebot. Seit den 1990er Jahren wird auch von Bedürfnissteuerung und Bedürfnisweckung gesprochen, also einem Paradigmenwandel: das Angebot regelt die Nachfrage. Daher hat Marketing auch die Konnotation von “Manipulation” bekommen und wird oft nur auf Werbung reduziert. “Vermarktung” und “Promotion” haben deshalb in manchen Kreisen eine negative Konnotation.
 
 **Aber Marketing ist viel mehr.**
+
 ➜ Marketing ist nicht gleichzusetzen mit PR (Public Relations) und mit Öffentlichkeitsarbeit - dies sind meist institutionell und strategisch voneinander getrennte Bereiche (mehr dazu im im Abschnitt zu Kommunikationspolitik).
 
 Auch Marketing lässt sich grob als Projektmanagement in folgenden Schritten darstellen:
+
 **➜ Analyse ➜ Planung ➜ Durchführung ➜ Kontrolle**
 
 ✪ Im Kulturbereich, gerade in Museen, fallen die Tätigkeiten von Marketing, PR und Öffentlichkeitsarbeit oft zusammen - gerade in Zeiten knapper Kassen. Wer sind Ihre Ansprechpartner, gerade in übergeordneten Einrichtungen? Gibt es Richtlinien, die unbedingt einzuhalten sind?
@@ -76,6 +79,7 @@ Erläuterungen dazu:
 * Und, nicht zu vergessen: die Mitarbeiter/innen des eigenen Hauses.
 
 ✪ Wer gehört zum Netzwerk Ihres Hauses? Fallen Ihnen noch weitere “Tauschpartner” ein?
+
 ✪ Wen laden Sie zur Vernissage, (Spezial-)Führung ein?
 
 ### Marketing-Management-Prozess I: Ich habe ein Projekt - wie fange ich an?
