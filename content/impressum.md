@@ -16,7 +16,7 @@ Tel.: +49 341 71153
 **Ansprechpartner**
 
 Franziska Naether\
-Dirk Goldahn\
+Dirk Goldhahn\
 Peter Mühleder\
 E-Mail: kompetenzwerkd@saw-leipzig.de
 
