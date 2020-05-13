@@ -87,6 +87,7 @@ Bestimmte Formen der Werbung können teuer und aufwändig sein. Folgende Punkte 
 ## Kultur als Marke – Corporate Identity oder: Wie mache ich mich unverwechselbar?
 
 Die Corporate Identity eines Hauses besteht aus den drei Teilgebieten:
+
 * Corporate Design (einheitliche Web- und Druckerzeugnisse, u. a. Logo, Schriftart, ...)
 * Corporate Communication (einheitliches Kommunikationsverhalten, Richtlinien)
 * Corporate Behaviour (einheitliches Verhalten, auch Dienstkleidung)
@@ -105,6 +106,7 @@ Es geht darum, eine professionelles, einheitliches Bild und Erwartbarkeit in Qua
 Der Versand einer Pressemitteilung ist in der Regel ihr Erstkontakt mit den Medien. Pressemitteilungen dienen Redaktionen als Vorlage. Doch mehr und mehr gehen Presse und Portale dazu über, eine solche “PM” einfach zu übernehmen. Das Verfassen einer solchen Textsorte will also gelernt sein, um sich von anderen abzuheben und Lust auf mehr zu machen.
 
 **Regeln einer guten Pressemitteilung „PM“**
+
 1. Verständlich Scheiben - mit dem 14. Wort setzt bei der Hälfte der Erwachsenen das Verständnis aus ➜ keine Schachtelsätze, lieber: ein Satz, ein Gedanke
 2. Absätze sind eine Lesehilfe. ➜ Strukturieren Sie Ihren Text kleinteilig.
 3. Je ungewöhnlicher die Botschaft, desto gewöhnlicher die Wortwahl. ➜ Mit Fremdwörtern und Fachjargon aufpassen. (Aktive) Verben sind die Hauptworte verständlicher Sprache, Nominalstil vermeiden (-ung, -heit, keit).
@@ -115,6 +117,7 @@ Der Versand einer Pressemitteilung ist in der Regel ihr Erstkontakt mit den Medi
 **Faustregel**: Einer muss sich immer plagen - entweder der Leser, oder der Autor. Der Autor ist einer, der Leser sind viele - also ist es fairer, wenn sich der Autor plagt :-)
 
 **Aufbau und Format einer Pressemitteilung:**
+
 * eine Neugier weckende Schlagzeile ➜ gerne kurz und knapp
 * ein erklärender Untertitel ➜ optional, darf länger sein als der Titel (oder umgekehrt)
 * Lead-Absatz mit wichtigsten Infos, ohne alles zu verraten ➜ 1-2 Sätze
@@ -124,6 +127,7 @@ Der Versand einer Pressemitteilung ist in der Regel ihr Erstkontakt mit den Medi
 * ganz wichtig: 1-3 Bilder und Bildunterschriften dazu ➜ Artikel mit Bildern werden 4x häufiger gelesen
 
 **Anregungen zum Formulieren:**
+
 * Versetzen Sie sich in Ihr Publikum hinein - die Gäste, die Kolleg/innen, aber auch die Allgemeinheit. Die müssen es verstehen! Führen Sie diesen Perspektivwechsel durch, und fragen Sie sich, was vielleicht gesondert erklärt werden muss. 
 * Fragen Sie sich, ob Ihr Artikel eine Botschaft hat und Sie diese selbst in 2-3 Sätzen wiedergeben können. Gibt es einen roten Faden oder lenkt etwas (Beispiele?) von der Botschaft ab?
 * Gerade Forschungsthemen sind oft “work in progress”. Journalist/innen haben es aber auf Resultate abgesehen und möchten gerne exklusiv berichten. Überlegen Sie sich, welche vorläufigen oder Zwischenresultate Sie in Ihrer PM beschreiben können.

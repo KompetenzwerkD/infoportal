@@ -97,6 +97,7 @@ Für die Kontrollphase ist zu vermerken: Am Ende kontrollieren ist gut (“ex po
 Dafür ist es wichtig, Ziele zu definieren. Man unterscheidet dabei strategische (= langfristig zu erreichende) und operative (= kurzfristig bis mittelfristig zu erreichende) Ziele. Im Idealfall sind die operativen Ziele in Einklang mit den strategischen Zielen.
 
 Beispiele:
+
 * strategisches Ziel: Wir wollen mit unserer Ausstellung 1000 Besucher/innen erreichen.
 * operatives Ziel: Wir müssen bis Dienstag 150 Kataloge nachdrucken.
 
@@ -109,6 +110,7 @@ Beispiele:
 ### Marketing-Management-Prozess: Wie sehen meine Zielgruppe und mein Umfeld genau aus?
 
 Die Betriebswirtschaft kennt zahlreiche Analyseverfahren, um den Markt zu analysieren. Als Kulturbetrieb oder kuratierende/r Wissenschaftler/in kann man nur selten “Big Data” potentieller Besucher/innen erheben, aber sich Inspirationen holen z. B. von der
+
 * Marktanalyse: Wie kann ich mich sachlich, räumlich, zeitlich von anderen Angeboten, “Konkurrenten” und Mitbewerbern abgrenzen? 
 
 ✪ Gibt es im Ort schon eine Ausstellung mit einem ähnlichen Thema? 
@@ -167,6 +169,7 @@ Ziele können unterschiedliche Hierarchien haben. In der Regel bewährt sich ein
 ✪ Erstellen Sie Ober-, Unter-, Zwischenziele 
 
 Außerdem kann man Ziele thematisch anlegen. Diese hängen von Zweck, Mission, Vision, Auftrag ab.
+
 ✪ Erstellen Sie themenabhängige Ziele: Kuratierungs-Ziele, Finanzierungs-Ziele, Publikations-Ziele, Marketing-Ziele
 
 **Nächster Schritt: Planung und Strategie des Marketings**
@@ -192,6 +195,7 @@ Telefonlisten, Adressen)?
 
 **Produkt-Markt-Matrix**
 Das klassische Instrument der Marketingstrategie ist die Produkt-Markt-Matrix oder: die "4 Ps". Die Produkt-Markt-Matrix lässt über folgende Punkte nachdenken, u. a.:
+
 * Marktpotential ausschöpfen, Neukunden/neue Gäste überzeugen
 * Konkurrenz abwerben; Preissenkungen
 * psychologisch konzipierte Werbung
@@ -288,6 +292,7 @@ Das weist jedoch zahlreiche Störgrößen auf, die bei der Beurteilung beachtet 
 Die Qualitätsmessung bei Kultur ist schwierig, weil ein Konzerterlebnis, ein Museumsbesuch immateriell sind (außer Mitschnitte). Produktion und Konsumption fallen zusammen, und können unberechenbar sein: das nennt man das “uno actu-Prinzip”. Hinzu kommt, dass die schönste Aufführung am Konzertabend wertlos sein, wenn ein Besucher einen schlechten Tagtag hatte und bei ihm ein kleiner Fauxpas an der Garderobe das Fass zum Überlaufen bringt. Das ist menschlich, und solche Reaktionen müssen mit einbezogen werden, denn sonst kann auch unverschuldet schlechte Presse riskiert werden.
 
 Es gibt zahlreiche Evaluierungsverfahren der empirischen Kulturwissenschaft zu Serviceleistungen, Besucherorientierung, Marktforschung) wie 
+
 * die Grönroos Qualitätsdimensionen,
 * die Kontrapunktanalyse, 
 * die Sequentielle Ereignismethode, 
@@ -299,6 +304,7 @@ Es gibt zahlreiche Evaluierungsverfahren der empirischen Kulturwissenschaft zu S
 ✪ Etwas, das sich um Museum leichter umsetzen lässt, sind Tests der Besucherorientierung in eigene Haus, z. B. durch Besucherbefragung oder als anonymer Testbesucher im Museum. 
 
 Kriterien hier können sein:
+
 * Vorab-Informationen (Homepage, Telefon, Google-Anzeige, Triadvisor und mögliche andere Profile checken, die man vielleicht selbst nie angelegt hat): Wie gut sind wir zu finden? Was schreiben Gäste als Rezensionen?
 * Kasse/Infoschalter: informativ, gut organisiert, einladend?
 * Führung: Angebote vorhanden, kompetent durchgeführt?

@@ -21,6 +21,7 @@ Visualisierung in 3D nimmt man für Einzelobjekte, aber auch ganzen Strukturen (
 ## Werden wir im Museum der Zukunft ein „Holodeck“ bauen?
 
 Mittelfristig vermutlich nur in Einzelfällen – die Umsetzung ist teuer (Herstellung, Hardware, Rechenpower, Stromausgaben) und platzintensiv. Im Freien ist die Projektion noch herausfordernder. Das „Holodeck“ ist bereits entstanden – auf dem Handybildschirm, der in ein Brillensystem eingebaut wird (z. B. Oculus Rift).
+
 * Inspiration: [Star Trek: Captain Picard kämpft gegen die Borg](https://www.youtube.com/watch?v=d7dfsLfWJvc)
 * [Real Life Holodeck (MPI)](https://www.youtube.com/watch?v=7ZPs7knvs7M)
 * [großes 3D-Projekt "Giza 3D"](https://www.3ds.com/stories/giza-3d/)

@@ -9,6 +9,7 @@ insert_anchor_links = "right"
 
 ## Organisationsformen von Ausstellungshäusern
 Je nachdem, welche Rechtsform ein Ausstellungsbetrieb hat, so gestalten sich die rechtlichen Rahmenbedingungen. Folgende Rechtsformen werden unterschieden:
+
 * kommunale Rechtsformen (Chef = OBM): städtischer Eigenbetrieb, Regiebetrieb (wirtschaftlich selbständig), Anstalt öffentlichen Rechts (Nutzungszweck), Zweckverband (rechtsfähige Körperschaft öffentlichen Rechts)
 * Einrichtungen der Länder (Chef = zuständiges Landesministerium, z. B. Universitäten, außeruniversitäre Einrichtungen): Gemeinnützigkeit
 * Einrichtungen des Bundes (Chef = zuständiges Bundesministerium, z. B. Nationalmuseen, außeruniversitäre Einrichtungen): Gemeinnützigkeit
@@ -28,6 +29,7 @@ Je nachdem, welche Rechtsform ein Ausstellungsbetrieb hat, so gestalten sich die
 Breitenförderung im Kulturbereich ist Staatsaufgabe. Sie ist im im GG verankert als meritorisches Gut, aber es gibt kein klares Gesetz dafür. Dazu dienen die Länderverfassungen. 
 
 Kulturförderung ist
+
 * freiwillig, und damit keine Pflichtaufgabe
 * die Kulturhoheit liegt in Einzelfällen immer beim Land statt beim Bund
 
@@ -37,6 +39,7 @@ Aus historischen Gründen (das so-genannte “Dritte Reich” mit Reichsminister
 Der Bund ist traditionell für auswärtige Kulturpflege zuständig, koordiniert über das Auswärtige Amt. Darunter werden z. B. die Goethe-Institute und die Außenstellen des Deutschen Archäologischen Instituts koordiniert.
 
 Das Staatsministerium für Kultur und Medien und der Bund kümmern auch um:
+
 * die Deutsche Nationalbibliothek mit Standorten in Frankfurt/M. und Leipzig
 * überregionale Kultureinrichtungen jüdischen Lebens
 * Buchpreise
@@ -60,16 +63,19 @@ Kulturfinanzierung umfasst die Rahmenbedingungen und Instrumente zur Beschaffung
 In der Regel finanziert die öffentliche Hand Kultur. Die zumeist ca. 80% Personalausgaben und 20% Fixkosten von Kulturbetrieben können nicht 1:1 auf die Gäste umgelegt werden, z. B. auf Eintritts-/Ticketpreise. Diese wären sonst nicht mehr erschwinglich. Input ist also nicht gleich Output: es ist mit hohen Fehlbeträgen zu rechnen - und dies bei hohen Erwartungshaltungen in Bezug auf die Qualität und zunehmender Staatsverschuldung und Finanzkrisen, denn das Geld ist Steuergeld.
 
 Für Finanzierungen werden Haushalte aufgestellt, z. B.
+
 * städtische Verwaltungs- und Vermögenshaushalte (meist im Oktober/November; das Haushaltsjahr beginnt ab Januar) - dies stellt Kultur- und Wissenschaftsbetriebe oft vor Abrechnungsprobleme, weil deren Haushaltsjahre im September (Beginn der Spielzeit) oder im Oktober (Start des deutschen Wintersemesters) beginnt
 * es gibt Fehl-, Fest-, Anteilsbedarfsfinanzierung
 
 Folgende Punkte sind zum Thema Kulturfinanzierung wissenswert:
+
 * Kulturraum: Förderungswege durchlaufen den Zweckverband, Beirat und Konvent (Umlageverfahren)
 * Public Private Partnership: Unternehmen unterstützen staatliche Einrichtungen durch Sachleistungen (z. B. Ausstattung von Chemiekabinetten in Schulen)
 * Merchandising: Verkauf von “Fanartikeln” des eigenen Hauses (Achtung, insbesondere in Universitätseinrichtungen gibt es dafür strenge Regeln)
 
 ### Fundraising
 Woher können Sach- und Geldleistungen für Ausstellungen herkommen? Abgesehen vom Haushalt der eigenen Institution und den klassischen (wissenschaftlichen) Fördergebern gibt es dafür noch folgende Varianten:
+
 * Mäzenatentum (eine Einzelperson oder Familie)
 * Spende (von Einzelpersonen oder Unternehmen, freiwillige, unentgeltliche Leistung ohne Gegenleistung)
 * Sponsoring (von Unternehmen, unbegrenzt abziehbar als Betriebsausgabe)
@@ -89,6 +95,7 @@ Woher können Sach- und Geldleistungen für Ausstellungen herkommen? Abgesehen v
 **Sponsoring**
 
 Eine wichtige Einkommensquelle für Museen kann Sponsoring durch Unternehmen sein.
+
 * im Vordergrund steht der Fördergedanke
 * Sponsoring besteht aus Leistung und Gegenleistung, die in einem Sponsoringvertrag festgehalten werden
 * Gegenleistungen durch ein Museum können sein: Zitate (Details s. u.), exklusive Führungen für das Unternehmen, Firmenfeier im Museum
@@ -108,19 +115,23 @@ Eine wichtige Einkommensquelle für Museen kann Sponsoring durch Unternehmen sei
 Controlling ist das Führungs- und Unterstützungssystem für Planung, Steuerung, Kontrolle. Die Ausgestaltung hängt vom Budget und der Rechtsform der Institution ab.
 
 Ganz simpel ist ein
+
 * Ist-Soll-Vergleich (Input vs. Output), Transparenz
 
 Controlling-Instrumente werden so eingesetzt:
+
 * operativ: Break-Even-Analyse (Trennung Gewinn-/Verlustzone), Deckungsbeitragsanalyse, Investitionsrechnungsverfahren
 * strategisch: Früherkennung von Trends, Chancen + Risiken, Portfolio, Swot-Analyse (= Strengths, Weaknesses, Opportunities, Threats), Szenarien (s. o.)
 
 Im Controlling treffen die zwei Zielsysteme des Kulturmanagements wohl am Härtesten aufeinander: das künstlerische und das ökonomische.
+
 * Wirtschaftlichkeit = Ertrag/Leistung im Verhältnis zu Aufwand/Kosten
 * Produktivität = Output/Input
 * Gewinn = Ertrag (Umsatz) – Kosten
 * Rentabilität = (Gewinn x 100) / eingesetztes Kapital
 
 Bereiche im Kulturbetrieb, wo Controlling eine Rolle spielt, sind:
+
 * Beschaffung
 * Absatz
 * Produktion

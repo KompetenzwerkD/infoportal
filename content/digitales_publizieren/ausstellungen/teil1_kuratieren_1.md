@@ -10,6 +10,7 @@ insert_anchor_links = "right"
 ## Was macht eine gute Ausstellung aus?
 
 Wenn man eine Ausstellung angeht, ist folgende Herangehensweise ratsam:
+
 * ein Brainstorming machen, was man von der Ausstellung erwartet (Thema, wen erreichen, was genau kommunizieren, was analog, was digital zeigen)
 * Vorbereitung: andere Sammlungen analog/digital besuchen
 * Vernetzung
@@ -89,6 +90,7 @@ Abgesehen von den Objekten ist die Textgestaltung oft das, worüber sich am meis
 ### „Botschaft“
 
 Wie ist die Aussagekraft der Objekte, v. a. in Bezug auf Ihr Ausstellungsthema? 
+
 * Sind einschlägige Leihgaben dabei, erwartbare Themen abgedeckt?
 * Ist die Objektauswahl schlüssig?
 * Wie ist das Verhältnis von Objekt und Text? Ist eine Aussageabsicht der Ausstellungmacher/innen erkennbar und wenn ja/nein, ist das so gewollt?
