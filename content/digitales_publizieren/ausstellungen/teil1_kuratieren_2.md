@@ -5,7 +5,7 @@ description = "Description"
 insert_anchor_links = "right"
 +++
 
-# "I.2. Digitale und analoge Begleittexte schreiben
+# I.2. Digitale und analoge Begleittexte schreiben
 
 ## Ausstellungstexte schreiben: inhaltliche Kriterien und Metadaten
 

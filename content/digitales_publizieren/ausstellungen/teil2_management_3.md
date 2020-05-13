@@ -7,8 +7,6 @@ insert_anchor_links = "right"
 
 # II.8. Kulturmanagement
 
-## Kulturmanagement
-
 Kulturmanagement ist auch Projektmanagement.Aber ein ganz besonderes! Kulturmanagement (und Abwandlungen davon) gibt es seit einigen Jahren als Studienfach. Der Beruf des “Kultur- und Eventmanagers” hat Konjunktur. Was steckt dahinter? Kann man Kultur - das schöpferische, kreative Chaos, das in oft individuellen Freiräumen entsteht, überhaupt “managen”? Kann man Maßgaben nach Plänen, Zahlen und Zielkontrollen, die auf Effektivität, Produktivität und wirtschaftlichen Erfolg ausgelegt sind, überhaupt auf Tätigkeiten anlegen, die kreatives Denken und Handeln beinhalten? Ist das nicht nur etwas für den Kunstmarkt, der ohnehin auf einem manchmal fragwürdigen Wertesystem basiert? 
 
 Ja, das geht! Management ist immer personen- und aufgabenbezogen. Ganz allgemein geht es um Steuerung, grob bestehend aus folgenden Schritten:
@@ -19,7 +17,7 @@ In der Regel ist Kultur in Deutschland gemeinnützig organisiert, durch so genan
 
 * Methoden und Techniken der Betriebswirtschaft lassen sich auf die Kultur- und Kreativwirtschaft übertragen, aber nicht 1:1
 * es wird in der Regel nach folgender Prämisse gearbeitet: die Management-Ebene unterstützt die künstlerische Ebene, bei einer Doppelspitze (Beispiel: künstlerische Intendanz und Verwaltungsleitung hat die künstlerische Intendanz die höhere Entscheidungsbefugnis)
-* 
+
 Daher kann eine Definition von Kulturmanagement lauten:
 ➜ **Kulturmanagement umfasst die Methoden und Techniken, um Kultur zu ermöglichen.** 
 [Dies ist eher funktionaler Zugang im Vergleich zu Management, Controlling, Marketing und Materialwirtschaft als Teil der Betriebswirtschaft und Wirtschaftswissenschaft.]
