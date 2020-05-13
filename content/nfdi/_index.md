@@ -10,7 +10,7 @@ insert_anchor_links = "right"
 
 ## Übersicht - Konsortien im Bereich Digital Humanities
 
-*Stand: 20.03.2020*
+*Stand: 13.05.2020*
 
 “Die nationale Forschungsdateninfrastruktur (NFDI) soll die Datenbestände  von Wissenschaft und Forschung systematisch erschließen, nachhaltig sichern und zugänglich machen sowie (inter-)national vernetzen. Sie wird  in einem aus der Wissenschaft getriebenen Prozess als vernetzte Struktur eigeninitiativ agierender Konsortien aufgebaut werden.” Quelle: DFG
 
