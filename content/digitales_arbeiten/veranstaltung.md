@@ -1,6 +1,6 @@
 +++
 title = "Digitale Veranstaltungen"
-weight = 1
+weight = 2
 description = "Description"
 insert_anchor_links = "right"
 +++
@@ -53,7 +53,7 @@ Neue, digitale Vermittlungsformen sind **Chats**. So kann eine Experten- oder Po
 
 ## Tools für synchrone Formate
 
-Wir haben in unserem Leitfaden ["Digitales Arbeiten"](@/digitales_arbeiten/_index.md) zahlreiche Tools getestet und vorgestellt. Hier sind unsere Favoriten:
+Wir haben in unserem Leitfaden ["Digitales Arbeiten"](@/digitales_arbeiten/corona.md) zahlreiche Tools getestet und vorgestellt. Hier sind unsere Favoriten:
 
 * für kleine Gruppen (max. 23 Gäste, besser kleinere Gruppen): DFN Conftool (Login einer deutschen Universität erforderlich). Guter Datenschutz, arbeitet auf der Basis von Adobe Connect/Pexip browserbasiert, etwas störungsanfällig 
 * dito: [Jitsi](https://jitsi.org/) (open source). Browserbasiert, [manche Institutionen betreiben lokale Instanzen](https://github.com/jitsi/jitsi-meet/wiki/Jitsi-Meet-Instances) 
