@@ -16,10 +16,10 @@ Allea ist der Zusammenschluss aller europäischen Akademien der Wissenschaften. 
 [Application Programming Interface] Eine Schnittstelle, welche den programmatischen Zugriff auf ein Programm/Datenbank oder Online-Dienst erlaubt.
 
 ###### Archivierung
-Datensicherung, die über ein Backup hinausgehen. Archivierte Forschungsdaten können den Kolleg/innen, Institutionen, Folgeprojekten, Fördergebern zur Verfügung gestellt werden. Eine Erweiterung der Archivierung ist die Langzeitdatenarchivierung, für die mindestens 10 Jahre der Sicherung gewährleistet werden müssen.
+"die dauerhafte und unveränderbare Speicherung von elektronischen Dokumenten und anderen Daten" (Bundesamt für Sicherheit in der Informationstechnik) mit dem Ziel aufbewahrungspflichtige oder -würdige Daten vorzuhalten. Archivierte Forschungsdaten können den Kolleg/innen, Institutionen, Folgeprojekten und Fördergebern zur Verfügung gestellt werden. Eine Erweiterung der Archivierung ist die [Langzeitdatenarchivierung](#langzeitarchivierung), für die mindestens 10 Jahre der Sicherung gewährleistet werden müssen.
 
 ##### Backup
-Sicherungskopie von Daten, beispielsweise derer, die aktuell in einem Forschungsprojekt verwendet werden, mit dem Ziel der Wiederherstellung der ursprünglichen Daten im Falle eines Datenverlusts. Kann auf weiteren Computern, in einer Cloud oder auf einem externen Datenträger erfolgen und sollte regelmäßig (z. B. wöchentlich, täglich) geupdated werden - idealerweise automatisiert.
+Sicherungskopie von Daten, beispielsweise derer, die aktuell in einem Forschungsprojekt verwendet werden, mit dem Ziel der Wiederherstellung der ursprünglichen Daten im Falle eines Datenverlusts. Kann auf weiteren Computern, in einer [Cloud](#cloud) oder auf einem externen Datenträger erfolgen und sollte regelmäßig (z. B. wöchentlich, täglich) geupdated werden - idealerweise automatisiert.
 
 ##### [BMBF](https://www.bmbf.de/)
 Bundesministerium für Bildung und Forschung 
@@ -31,10 +31,10 @@ Bundesministerium für Bildung und Forschung
 Offene Wissenschaftsform, bei dem Forschungsprojekte Mithilfe von interessierten Laien oder Bürgerbeteiligung durchgeführt werden. 
 
 ##### [CLARIAH-DE](https://www.clariah.de/)
-CLARIAH-DE ist ein Kooperationsprojekt der Verbünde [CLARIN-D](#clarin-d) und [DARIAH-DE](#dariah-de), welche in diesem Rahmen zusammengeführt werden. Es ist ein Beitrag zur digitalen Forschungsinfrastruktur für die Geisteswissenschaften und weitere Disziplinen.
+CLARIAH-DE ist ein Kooperationsprojekt der Verbünde [CLARIN-D](#clarin-d) und [DARIAH-DE](#dariah-de), welche in diesem Rahmen zusammengeführt werden. Es ist ein Beitrag zur digitalen [Forschungsinfrastruktur](#forschungsdateninfrastruktur) für die Geisteswissenschaften und weitere Disziplinen.
 
 ###### [CLARIN-D](https://www.clarin-d.net/)
-[Common Language Resources and Technology Infrastructure] Forschungsdateninfrastruktur für die text- oder sprachbasierten Geistes- und Sozialwissenschaften.
+[Common Language Resources and Technology Infrastructure] Deutscher Teil einer [Forschungsdateninfrastruktur](#forschungsdateninfrastruktur) für die text- oder sprachbasierten Geistes- und Sozialwissenschaften.
 
 ###### Cloud
 Über ein Rechnernetz (bzw. das Internet) zur Verfügung gestellte IT-Infrastruktur. Dabei kann es sich um Speicherplatz (Cloud Storage), Rechenleistung (Cloud Computing) oder Anwendungsdienste (Cloud Application) handeln.
@@ -43,20 +43,22 @@ CLARIAH-DE ist ein Kooperationsprojekt der Verbünde [CLARIN-D](#clarin-d) und [
 [Content Management System] Softwaresystem zur kollaborativen Erstellung, Bearbeitung und Organisation von digitalen Inhalten. Bekannte CMS-Systeme sind Wordpress, Drupal und Typo3.
 
 ###### [Core Trust Seal](https://www.coretrustseal.org/)
-Eine gemeinsame Zertifizierung für vertrauenswürdige Forschungsdatenrepositorien des International Science Council (WDS) und des Data Seal of Approval (DSA).
+Eine gemeinsame Zertifizierung für vertrauenswürdige [Forschungsdatenrepositorien](#repositorium) des International Science Council (WDS) und des Data Seal of Approval (DSA).
 
 ###### [Creative Commons](https://creativecommons.org/)
-Gemeinnützige Organisation, die Standard-Lizenzverträge veröffentlicht, mittels derer man Nutzungsrechte für seine Werke einräumen kann. Diese Lizenzen sind für beliebige Wekre anwendbar, welche unter das Urheberrecht fallen (Texte, Bilder, Filme, ...).
+Gemeinnützige Organisation, die Standard-[Lizenzverträge](#lizenz) veröffentlicht, mittels derer man Nutzungsrechte für seine Werke einräumen kann. Diese Lizenzen sind für beliebige Werke anwendbar, welche unter das Urheberrecht fallen (Texte, Bilder, Filme, ...).
 
 ###### [DARIAH-DE](https://de.dariah.eu)
-[Digital Research Infrastructure for the Arts and Humanities] Eine Initiative zur Schaffung einer digitalen Forschungsinfrastruktur für die Geistes- und Kulturwissenschaften.
+[Digital Research Infrastructure for the Arts and Humanities] Deutscher Anteil einer Initiative zur Schaffung einer digitalen [Forschungsinfrastruktur](#forschungsdateninfrastruktur) für die Geistes- und Kulturwissenschaften.
 
 ###### Dateiformat
-Art und Weise, wie eine Datei gespeichert wird und mit welcher Software sie geöffnet werden kann - in der Regel erkennbar am Suffix im Dateinamen wie “*.PDF” (= Datei kann mit einem PDF-Programm angezeigt und bearbeitet werden. Wichtig ist es, auf verbreitete nachhaltige und freie Dateiformate zu setzen und kommerzielle, nicht quelloffene Formate zu vermeiden.
+Art und Weise, wie eine Datei gespeichert wird und mit welcher Software sie geöffnet werden kann - in der Regel erkennbar am Suffix im Dateinamen wie ".PDF" (= Datei kann mit einem PDF-Programm angezeigt und bearbeitet werden. Wichtig ist es, auf verbreitete nachhaltige und freie Dateiformate zu setzen und kommerzielle, nicht quelloffene Formate zu vermeiden.
 
 ###### Datenmanagementplan
-strukturiert den Umgang mit Forschungsdaten eines wissenschaftlichen Projekts und legt dabei unter anderem fest, welche Forschungsdaten wann, wie, wo, durch wen erhoben, gesichert, gespeichert und archiviert werden.
-Datenschutz: Unter Datenschutz versteht man allgemein den Schutz vor missbräuchlicher Verarbeitung von Daten durch technische und organisatorische Maßnahmen. Darunter fallen unter anderem der Schutz der Privatsphäre, der Schutz des Rechts auf informationelle Selbstbestimmung und der Schutz von Persönlichkeitsrechten.
+strukturiert den Umgang mit [Forschungsdaten](#forschungsdaten) eines wissenschaftlichen Projekts und legt dabei unter anderem fest, welche [Forschungsdaten](#forschungsdaten) wann, wie, wo, durch wen erhoben, gesichert, gespeichert und archiviert werden.
+
+###### Datenschutz
+Unter Datenschutz versteht man allgemein den Schutz vor missbräuchlicher Verarbeitung von Daten durch technische und organisatorische Maßnahmen. Darunter fallen unter anderem der Schutz der Privatsphäre, der Schutz des Rechts auf informationelle Selbstbestimmung und der Schutz von Persönlichkeitsrechten.
 
 ###### [DFG](https://www.dfg.de/)
 Deutsche Forschungsgemeinschaft
@@ -65,61 +67,64 @@ Deutsche Forschungsgemeinschaft
 Dubnow Institut - Leibniz-Institut für jüdische Geschichte und Kultur
 
 ###### [Digital Curation Center](http://www.dcc.ac.uk/)
-Das Digital Curation Center ist ein international anerkanntes Kompetenzzentrum für digitale Kuration mit dem Schwerpunkt auf dem Aufbau von Fähigkeiten und Fertigkeiten für das Management von Forschungsdaten.
+Das Digital Curation Center ist ein international anerkanntes Kompetenzzentrum für digitale Kuration mit dem Schwerpunkt auf dem Aufbau von Fähigkeiten und Fertigkeiten für das [Management](#forschungsdatenmanagement) von [Forschungsdaten](#forschungsdaten).
 
 ###### DMP
-siehe Datenmanagementplan
+siehe [Datenmanagementplan](#datenmanagementplan)
 
 ###### [DNB](https://www.dnb.de)
 Deutsche Nationalbibliothek
 
 ###### [DOBES](https://dobes.mpi.nl/)
-Documentation of Endangered Languages - Portal zur Erforschung von bedrohten Sprachen.
+[Documentation of Endangered Languages] Portal zur Erforschung von bedrohten Sprachen.
 
 ###### Docker
-Freie Virtualisierungssoftware zur Bereitstellung von Anwendungen. Dabei werden alle für eine Anwendung benötigten Pakete und Abhängigkeiten in einen ‘Container’ verpackt, welche dann auf einfachem Wege über die Docker-Software gestartet und verwaltet werden können. 
+Freie Virtualisierungssoftware zur Bereitstellung von Anwendungen. Dabei werden alle für eine Anwendung benötigten Pakete und Abhängigkeiten in "Container" verpackt, welche dann auf einfachem Wege über die Docker-Software gestartet und verwaltet werden können. 
 
 ###### [DOI](https://www.doi.org/)
-[Digital Object Identifier] Gebräuchlicher eindeutiger und dauerhafter digitaler Identifikator (Persistent Identifier) für beliebige physische, digitale oder abstrakte Objekte. Das DOI-System wird von der International DOI Foundation betrieben.
+[Digital Object Identifier] Gebräuchlicher eindeutiger und dauerhafter digitaler Identifikator ([Persistent Identifier](#persistent-identifier)) für beliebige physische, digitale oder abstrakte Objekte. Das DOI-System wird von der International DOI Foundation betrieben.
 
 ###### DSGVO
 [Datenschutz-Grundverordnung] Verordnung der Europäischen Union, mit der die Regeln zur Verarbeitung personenbezogener Daten EU-weit vereinheitlicht werden.
 
 ###### [Dublin Core](https://www.dublincore.org/)
-Ein verbreitetes Metadaten-Schema, das aufbauend auf ein kleines Vokabular zur Beschreibung von digitalen sowie physischen Ressourcen genutzt werden kann.
+Ein verbreitetes [Metadaten](#metadaten)-[Schema](#schema), das aufbauend auf ein kleines Vokabular zur Beschreibung von digitalen sowie physischen Ressourcen genutzt werden kann.
 
 ###### [EOSC](https://www.eosc-hub.eu/)
-[European Open Science Cloud] Initiative der Europäischen Kommission zur Entwicklung einer Infrastruktur, die ihren Nutzern Dienste zur Förderung von Open Science bietet. Dabei soll der Zugang zu wissenschaftlichen Daten sowie zu Plattformen und Dienstleistungen für deren Verarbeitung erleichtert werden.
+[European Open Science Cloud] Initiative der Europäischen Kommission zur Entwicklung einer Infrastruktur, die ihren Nutzern Dienste zur Förderung von [Open Science](#open-science) bietet. Dabei soll der Zugang zu wissenschaftlichen Daten sowie zu Plattformen und Dienstleistungen für deren Verarbeitung erleichtert werden.
 
 ###### [ESFRI](https://www.esfri.eu/)
-[European Strategy Forum on Research Infrastructures] Multidisziplinäres Forum der Europäischen Union, welches eine Roadmap im Bereich der Forschungsdateninfrastrukturen entwickelt. Unter anderem sind CLARIN und DARIAH ESFRI-Initiativen.
+[European Strategy Forum on Research Infrastructures] Multidisziplinäres Forum der Europäischen Union, welches eine Roadmap im Bereich der [Forschungsdateninfrastrukturen](#forschungsdateninfrastruktur) entwickelt. Unter anderem sind [CLARIN](#clarin-d) und [DARIAH](#dariah-de) ESFRI-Initiativen.
 
 ###### [EUDAT](https://eudat.eu/)
-Kollaborative Dateninfrastruktur für integrierte Datendienste und Ressourcen zur Unterstützung der Forschung in Europa. EUDAT bietet unter anderem Dienste in den Bereichen Hosting, Backup, Persistent Identifier und Archivierung.
+Kollaborative Dateninfrastruktur für integrierte Datendienste und Ressourcen zur Unterstützung der Forschung in Europa. EUDAT bietet unter anderem Dienste in den Bereichen Hosting, [Backup](#backup), [Persistent Identifier](#persisten-identifier) und [Archivierung](#archivierung).
 
 ###### [EU Horizon](https://ec.europa.eu/programmes/horizon2020/en)
 Förderformat für Wissenschaftsprojekte der Europäischen Union.
 
 ###### [FAIR-Prinzipien](https://www.go-fair.org/fair-principles/)
-Die "FAIR Data Principles" stellen wichtige Grundsätze nachhaltig nachnutzbarer Forschungsdaten dar. Die Prinzipien besagen, dass Daten  "Findable, Accessible, Interoperable, and Re-usable" sein sollen, also auffindbar, zugänglich, interoperabel und wiederverwendbar.
+Die "FAIR Data Principles" stellen wichtige Grundsätze nachhaltig nachnutzbarer [Forschungsdaten](#forschungsdaten) dar. Die Prinzipien besagen, dass Daten  "Findable, Accessible, Interoperable, and Re-usable" sein sollen, also auffindbar, zugänglich, interoperabel und wiederverwendbar.
 
 ###### FDM
-Siehe Forschungsdatenmanagement
+Siehe [Forschungsdatenmanagement](#forschungsdatenmanagement)
 
 ###### Forschungsdaten
 All jene Quellen, Materialien und Ergebnisse, die im Rahmen eines Forschungsvorhabens erhoben, gesammelt, ermittelt,  erzeugt, beschrieben und/oder analysiert werden.
 
+###### Forschungsdateninfrastruktur
+TODO
+
 ###### Forschungsdatenmanagement
-Alle Aktionen wie Erhebung, Aufzeichnung, Qualitätssicherung,  Speicherung, (Langzeitdaten-)Archivierung, Veröffentlichung zur  Zugänglichmachung und Nachnutzbarkeit von Forschungsdaten sind Teil des  Forschungsdatenmanagements. Dazu gehören alle im Rahmen der Organisation und technischen Umsetzung unternommenen Maßnahmen.
+Alle Aktionen wie Erhebung, Aufzeichnung, Qualitätssicherung, Speicherung, (Langzeitdaten-)[Archivierung](#archivierung), Veröffentlichung zur Zugänglichmachung und Nachnutzbarkeit von Forschungsdaten sind Teil des Forschungsdatenmanagements. Dazu gehören alle im Rahmen der Organisation und technischen Umsetzung unternommenen Maßnahmen.
 
 ###### Forschungsdatenrichtlinie
-Dokument, das vorgibt, wie an einer Institution mit Forschungsdaten umgegangen werden soll. 
+Dokument, das vorgibt, wie an einer Institution mit [Forschungsdaten](#forschungsdaten) umgegangen werden soll. 
 
 ###### Gemeinfreiheit
 Gemeinfreiheit gilt für all jene geistigen Schöpfungen, an denen keinerlei Immaterialgüterrechte, also insbesondere kein Urheberrecht, bestehen. Die Gemeinfreiheit richtet sich dabei stets nach dem jeweiligen nationalen Recht des Nutzungsvorgangs. 
 
 ###### [Geonames](https://www.geonames.org/)
-GeoNames.org ist eine freie, geograpische Datenbank, welche verschiedene Webdienste bereitstellt und unter einer Creative Commons Namensnennung Lizenz bereitsteht.
+GeoNames.org ist eine freie, geograpische Datenbank, welche verschiedene Webdienste bereitstellt und unter einer [Creative Commons Namensnennung Lizenz](#creative-commons) bereitsteht.
 
 ###### Git
 Git ist ein freies Versionskontrollsystem, welches es ermöglicht Änderungen in Dateien nachzuverfolgen. Eingesetzt wird Git in erster Linie in der (verteilten) Softwareentwicklung.
@@ -128,13 +133,13 @@ Git ist ein freies Versionskontrollsystem, welches es ermöglicht Änderungen in
 Github ist ein netzbasierter Versionsverwaltungsdienst, welcher in erster Linie bei der Softwareentwicklung eingesetzt wird. Es wird angeboten von GitHub Inc., welches 2018 von Microsoft übernommen wurde.
 
 ###### [GND](https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html)
-[Gemeinsame Normdatei] Normdatensatz geführt durch die Deutsche Nationalbibliothek, die deutschsprachigen Bibliotheksverbünde, die Zeitschriftendatenbank und weitere Institutionen. Die GND enthält verschiedene Entitäten, darunter Personen, Institutionen, geographische Daten, Sachbegriffe und Werktitel mit kulturellem oder wissenschaftlichem Bezug. Eingesetzt wird sie zur Katalogisierung in Bibliotheken, aber mittlerweile verstärkt auch in Archiven, Museen und wissenschaftlichen Projekten.
+[Gemeinsame Normdatei] [Normdatensatz](#normdaten) geführt durch die Deutsche Nationalbibliothek, die deutschsprachigen Bibliotheksverbünde, die Zeitschriftendatenbank und weitere Institutionen. Die GND enthält verschiedene Entitäten, darunter Personen, Institutionen, geographische Daten, Sachbegriffe und Werktitel mit kulturellem oder wissenschaftlichem Bezug. Eingesetzt wird sie zur Katalogisierung in Bibliotheken, aber mittlerweile verstärkt auch in Archiven, Museen und wissenschaftlichen Projekten.
 
 ###### Good Practice
 Der verbreitete Begriff Best Practice impliziert, dass eine einzelne Vorgehensweise der beste und damit einzige Weg zur Lösung eines Problems ist. In der Regel trifft dies nicht zu. Good Practices beschreiben daher Vorgehensweisen, die gut geeignet sind, bestimmte Aufgaben zu lösen. Es gibt in der Regel mehr als eine Good Practice für ein Problem, eventuell auch bessere. Good Practices beruhen oft auf positiven Erfahrungen oder sogenannten "Lessons Learned", die bezüglich eines konkreten Problems mit einer bestimmten Lösungsstrategie erzielt wurden.
 
 ###### [Gute wissenschaftliche Praxis](https://www.dfg.de/download/pdf/dfg_im_profil/reden_stellungnahmen/download/empfehlung_wiss_praxis_1310.pdf)
-Bereits 1998 wurden seitens der DFG " Vorschläge zur Sicherung guter wissenschaftlicher Praxis"  erarbeitet, welche 2013 ergänzt wurden und mittlerweile ihren Weg in die Ordnungen der meisten wissenschaftlichen Institutionen gefunden haben. Diese sollten ein Leitbild in der täglichen wissenschaftlichen Arbeit darstellen.
+Bereits 1998 wurden seitens der DFG "Vorschläge zur Sicherung guter wissenschaftlicher Praxis"  erarbeitet, welche 2013 ergänzt wurden und mittlerweile ihren Weg in die Ordnungen der meisten wissenschaftlichen Institutionen gefunden haben. Diese sollten ein Leitbild in der täglichen wissenschaftlichen Arbeit darstellen.
 
 ###### GUI
 [Graphic User Interface] Nutzeroberfläche einer Anwendung, z. B. klickbare Buttons, Menüs, Fenster.
@@ -152,10 +157,10 @@ Hannah-Arendt-Institut für Totalitarismusforschung
 Das Handle-System ist eine Registrierung, die Informationsressourcen spezielle persistente Kennungen (Persistent Identifier) - sogenannte Handles - zuweist und diese Handles auflöst, wodurch ein Zugriff auf die eigentliche Ressource ermöglicht wird.
 
 ###### [IIIF](https://iiif.io/)
-Das [International Image Interoperability Framework] definiert mehrere Anwendungsschnittstellen zur standardisierten Beschreibung und Bereitstellung von Bildern über das Internet. Werden Bildsammlungen seitens einer Institution über eine IIIF-Schnittstelle bereitgestellt, können diese (samt ihrer Metadaten) durch beliebige IIIF-kompatible Viewer oder Anwendungen angezeigt und verwendet werden.
+Das [International Image Interoperability Framework] definiert mehrere Anwendungsschnittstellen zur standardisierten Beschreibung und Bereitstellung von Bildern über das Internet. Werden Bildsammlungen seitens einer Institution über eine IIIF-Schnittstelle bereitgestellt, können diese (samt ihrer [Metadaten](#metadaten)) durch beliebige IIIF-kompatible Viewer oder Anwendungen angezeigt und verwendet werden.
 
 ###### Interoperabilität
-Möglichkeit, Daten zwischen verschiedenen Systemen auszutauschen. Die Grundlage dafür sind gemeinsame Standards.
+Möglichkeit, Daten zwischen verschiedenen Systemen auszutauschen. Die Grundlage dafür sind gemeinsame [Standards](#standard).
 
 ###### [ISGV](https://www.isgv.de/)
 Institut für Sächsische Geschichte und Volkskunde
@@ -164,7 +169,7 @@ Institut für Sächsische Geschichte und Volkskunde
 Unter dem Begriff Java versteht man eine Programmiersprache sowie die dazugehörige Software-Plattform als Laufzeitumgebung für in Java geschriebene Programme. Java ist eine universelle, klassenbasierte und objektorientierte Programmiersprache mit möglichst wenigen Implementierungsabhängigkeiten. Somit kann kompilierter Java-Code auf allen Plattformen ausgeführt werden, die Java unterstützen, ohne dass eine Neukompilierung erforderlich ist.
 
 ###### Langzeitarchivierung
-Unter Langzeitarchivierung versteht man die langfristige Aufbewahrung von Informationen und somit die Erhaltung ihrer dauerhaften Verfügbarkeit. Die Langzeitarchivierung spielt im Bereich des Forschungsdatenmanagements eine wichtige Rolle.
+Unter Langzeitarchivierung versteht man die langfristige Aufbewahrung von Informationen und somit die Erhaltung ihrer dauerhaften Verfügbarkeit (jedoch mindestens 10 Jahre). Die Langzeitarchivierung spielt im Bereich des [Forschungsdatenmanagements](#forschungsdatenmanagement) eine wichtige Rolle.
 
 ###### Legacy Project
 Vom englischen “Legacy”: Vermächtnis, Hinterlassenschaft, aber auch Altlast. In der Wissenschaft oft abgeschlossene Projekte, die z. B. digital weiter vorgehalten werden wie Internet-Datenbanken.
@@ -190,8 +195,8 @@ Ein Siegel bzw. eine Zertifizierung für digitale Langzeitarchive, das in einer 
 ###### [Nextcloud](https://nextcloud.com/)
 Open-Source-Cloudanbieter zum Sichern, Austauschen und gemeinsamen Bearbeiten zahlreicher Dateniformate, weit verbreitet an Forschungseinrichtungen.
 
-###### Normdaten bzw. Normdatei
-Teil der Metadaten, z. B. bei Personen- oder Ortsnamen, die nach einer bestimmten Ontologie verschlagwortet werden. Beispiele: GND (die “Gemeinsame Normdatei” der Deutschen Nationalbibliothek).
+###### Normdaten
+bzw. Normdatei. Teil der Metadaten, z. B. bei Personen- oder Ortsnamen, die nach einer bestimmten Ontologie verschlagwortet werden. Beispiele: GND (die “Gemeinsame Normdatei” der Deutschen Nationalbibliothek).
 
 ###### [NFDI](https://www.dfg.de/foerderung/programme/nfdi/)
 Nationale Forschungsdateninfrastruktur; Es handelt sich um eine Förderinitiative der DFG zum Aufbau einer deutschlandweiten Forschungsdateninfrastruktur. Sie "...soll die Datenbestände von Wissenschaft und Forschung systematisch erschließen, nachhaltig sichern und zugänglich machen sowie (inter-)national vernetzen. Sie wird in einem aus der Wissenschaft getriebenen Prozess als vernetzte Struktur eigeninitiativ agierender Konsortien aufgebaut werden." (DFG)
