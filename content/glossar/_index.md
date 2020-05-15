@@ -112,7 +112,7 @@ Siehe [Forschungsdatenmanagement](#forschungsdatenmanagement)
 All jene Quellen, Materialien und Ergebnisse, die im Rahmen eines Forschungsvorhabens erhoben, gesammelt, ermittelt,  erzeugt, beschrieben und/oder analysiert werden.
 
 ###### Forschungsdateninfrastruktur
-TODO
+Forschungsdateninfrastrukturen haben das Ziel Daten, Werkzeuge und Dienste aus Wissenschaft und Forschung systematisch zu erschließen, zugänglich zu machen, nachhaltig zu sichern und zu vernetzen.
 
 ###### Forschungsdatenmanagement
 Alle Aktionen wie Erhebung, Aufzeichnung, Qualitätssicherung, Speicherung, (Langzeitdaten-)[Archivierung](#archivierung), Veröffentlichung zur Zugänglichmachung und Nachnutzbarkeit von Forschungsdaten sind Teil des Forschungsdatenmanagements. Dazu gehören alle im Rahmen der Organisation und technischen Umsetzung unternommenen Maßnahmen.
@@ -258,7 +258,6 @@ Repositorien sind Einrichtungen, welche verschiedene Arten digitaler Objekte spe
 ###### [SAW](https://www.saw-leipzig.de/)
 Sächsische Akademie der Wissenschaften zu Leipzig
 
-
 ###### [SaxFDM](https://saxfdm.de/)
 Initiative sächsischer Hochschulen und Forschungseinrichtungen zur Vernetzung, Kooperation und Koordination der Aktivitäten rund um das [Forschungsdatenmanagement](#forschungsdatenmanagement).
 
@@ -308,19 +307,19 @@ Wikis sind Webseiten, deren Inhalte von den Besuchern im Webbrowser bearbeitet u
 Freie Erweiterung zu [MediaWiki](#mediawiki), mithilfe derer maschinenlesbare, strukturierte Wissensdatenbanken erstellt werden können.  Es verwendet dabei [LOD](#linked-pen-data)-Prinzipien und die Daten können mittels [Standards](#standard) wie SPARQL abgefragt werden bzw. u.a. als RDF/[XML](#xml), N3, Json, Yaml etc. exportiert  werden.
 
 ###### [Wikidata](https://www.wikidata.org/)
-Eine gescheinschaftlich kuratierte offene Wissensbasis, welche von der [Wikimedia Foundation](#wikimedia) betrieben wird. Darin werden Informationen strukturiert erfasst und maschinenlesbar zur Verfügung gestellt. Die Daten werden auch in anderen Wikimedia-Projekten wie z.B. Wikipedia eingebunden. Technisch basiert Wikidata auf [MediaWiki](#mediawiki) mit der [Wikibase](#wikibase)-Erweiterung.
+Eine gescheinschaftlich kuratierte offene [Wissensbasis](#wissensbasis), welche von der [Wikimedia Foundation](#wikimedia) betrieben wird. Darin werden Informationen strukturiert erfasst und maschinenlesbar zur Verfügung gestellt. Die Daten werden auch in anderen Wikimedia-Projekten wie z.B. Wikipedia eingebunden. Technisch basiert Wikidata auf [MediaWiki](#mediawiki) mit der [Wikibase](#wikibase)-Erweiterung.
 
 ###### [Wikimedia](https://wikimediafoundation.org/)
-[Wikimedia Foundation] Gemeinnützige Gesellschaft nach US-amerikanischen Recht mit dem Ziel freies Wissen zu fördern. Zu ihren Projekten zählen Wikipedia, Wikidata, Wikimedia Commons sowie zahlreiche weitere Wiki-Projekte (Wiktionary, Wikibooks, Wikisource, ...)
+[Wikimedia Foundation] Gemeinnützige Gesellschaft nach US-amerikanischen Recht mit dem Ziel freies Wissen zu fördern. Zu ihren Projekten zählen Wikipedia, [Wikidata](#wikidata), [Wikimedia Commons](#wikimedia-commons) sowie zahlreiche weitere Wiki-Projekte (Wiktionary, Wikibooks, [Wikisource](#wikisource), ...)
 
 ###### [Wikimedia Commons](https://commons.wikimedia.org/)
-Freie Mediendatenbank mit Bildern, Videos und Audiodateien. Wird von der Wikimedia Foundation betrieben. Es können nur Inhalte veröffentlicht werden welche den Ansprüchen von freiem Wissen entsprechen, d.h. Public Domain sind, oder unter einer Freien Lizenz veröffentlicht werden .
+Freie Mediendatenbank mit Bildern, Videos und Audiodateien. Wird von der [Wikimedia Foundation](#wikimedia) betrieben. Es können nur Inhalte veröffentlicht werden welche den Ansprüchen von freiem Wissen entsprechen, d.h. Public Domain sind, oder unter einer Freien [Lizenz](#lizenz) veröffentlicht werden .
 
 ###### [Wikisource](https://wikisource.org/)
-Sammlung von urheberrechtsfreien oder unter freien Lizenen veröffentlichten Texten. Das Projekt ein Schwesterprojekt von Wikipedia und wird ebenso von der Wikimedia Foundation betrieben.
+Sammlung von urheberrechtsfreien oder unter freien [Lizenzen](#lizenz) veröffentlichten Texten. Das Projekt ein Schwesterprojekt von Wikipedia und wird ebenso von der [Wikimedia Foundation](#wikimedia) betrieben.
 
 ###### Wissensbasis
-Eine spezielle Datenbank oder Sammlung von Dokumenten zur Hinterlegung von (oft domänen- oder problemspezifischen )Wissen. Idealerweise ist das in der Wissensbasis hinterlege Wissen auch maschinenlesbar abrufbar. Manchmal wird auch von Wissensdatenbanken gesprochen. Eine klare begriffliche Trennung ist hier schwierig.
+Eine spezielle Datenbank oder Sammlung von Dokumenten zur Hinterlegung von (oft domänen- oder problemspezifischem) Wissen, das maschinenlesbar und interpretierbar ist. Häufig wird auch von Wissensdatenbanken gesprochen. Eine klare begriffliche Trennung ist hier schwierig.
 
 ###### XML
 [Extensible Markup Language] Menschen- und maschinenlesbare Auszeichnungssprache zur Darstellung hierarchisch strukturierter Daten in einer Textdatei.
