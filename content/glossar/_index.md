@@ -326,5 +326,5 @@ Eine spezielle Datenbank oder Sammlung von Dokumenten zur Hinterlegung von (oft 
 [Extensible Markup Language] Menschen- und maschinenlesbare Auszeichnungssprache zur Darstellung hierarchisch strukturierter Daten in einer Textdatei.
 
 ###### [Zenodo](https://zenodo.org/)
-Zenodo ist ein fachübergreifendes Forschungsdatenrepositorium, welches vom Datenzentrum des CERN betrieben wird. Als OpenAIRE-Projekt unterstützt es ausdrücklich Open Access, Open Data und Open Science.
+Zenodo ist ein fachübergreifendes [Forschungsdatenrepositorium](#repositorium), welches vom Datenzentrum des CERN betrieben wird. Als [OpenAIRE](#openaire)-Projekt unterstützt es ausdrücklich [Open Access](#open-access), [Open Data](#open-data) und [Open Science](#open-science).
 
