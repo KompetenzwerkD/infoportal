@@ -18,19 +18,19 @@ Allea ist der Zusammenschluss aller europäischen Akademien der Wissenschaften. 
 ###### Archivierung
 "die dauerhafte und unveränderbare Speicherung von elektronischen Dokumenten und anderen Daten" (Bundesamt für Sicherheit in der Informationstechnik) mit dem Ziel aufbewahrungspflichtige oder -würdige Daten vorzuhalten. Archivierte Forschungsdaten können den Kolleg/innen, Institutionen, Folgeprojekten und Fördergebern zur Verfügung gestellt werden. Eine Erweiterung der Archivierung ist die [Langzeitdatenarchivierung](#langzeitarchivierung), für die mindestens 10 Jahre der Sicherung gewährleistet werden müssen.
 
-##### Backup
+###### Backup
 Sicherungskopie von Daten, beispielsweise derer, die aktuell in einem Forschungsprojekt verwendet werden, mit dem Ziel der Wiederherstellung der ursprünglichen Daten im Falle eines Datenverlusts. Kann auf weiteren Computern, in einer [Cloud](#cloud) oder auf einem externen Datenträger erfolgen und sollte regelmäßig (z. B. wöchentlich, täglich) geupdated werden - idealerweise automatisiert.
 
-##### [BMBF](https://www.bmbf.de/)
+###### [BMBF](https://www.bmbf.de/)
 Bundesministerium für Bildung und Forschung 
 
-##### CIS
+###### CIS
 [Contact Image Sensor] Technologie für Bildsensoren beim Scanvorgang.
 
-##### Citizen Science
+###### Citizen Science
 Offene Wissenschaftsform, bei dem Forschungsprojekte Mithilfe von interessierten Laien oder Bürgerbeteiligung durchgeführt werden. 
 
-##### [CLARIAH-DE](https://www.clariah.de/)
+###### [CLARIAH-DE](https://www.clariah.de/)
 CLARIAH-DE ist ein Kooperationsprojekt der Verbünde [CLARIN-D](#clarin-d) und [DARIAH-DE](#dariah-de), welche in diesem Rahmen zusammengeführt werden. Es ist ein Beitrag zur digitalen [Forschungsinfrastruktur](#forschungsdateninfrastruktur) für die Geisteswissenschaften und weitere Disziplinen.
 
 ###### [CLARIN-D](https://www.clarin-d.net/)
