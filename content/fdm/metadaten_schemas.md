@@ -20,14 +20,14 @@ insert_anchor_links = "right"
 
 ## Informationen
 
-Auf dieser Seite werden Schemas und Templates für die strukturierte Erfassung von Metadaten zu Forschungsprojekten und -datensätzen seitens des KompetenzwerkD bereitgestellt.
+Auf dieser Seite werden Schemas und Templates für die strukturierte Erfassung von [Metadaten](@/glossar/_index.md#metadaten) zu Forschungsprojekten und -datensätzen seitens des KompetenzwerkD bereitgestellt.
 
-Die Beschreibung durch strukturierte Metadaten spielt eine wichtige Rolle in der Nachnutzbarkeit Ihrer Forschungsdaten, indem sie unter anderem die Auffindbarkeit gewährleisten bzw. erleichtern können. Die auf diese Weise strukturiert erfassten Metadaten können später bei Veröffentlichung oder Archivierung beispielsweise als Teil der Dokumentation den Daten beigelegt werden. Ebenso können sie eine hilfreiche Basis sein, falls Metadaten für die Übergabe an ein Forschungsdatenrepositorium oder Archiv zusammengetragen werden müssen.
+Die Beschreibung durch strukturierte Metadaten spielt eine wichtige Rolle in der Nachnutzbarkeit Ihrer [Forschungsdaten](@/glossar/_index.md#forschungsdaten), indem sie unter anderem die Auffindbarkeit gewährleisten bzw. erleichtern können. Die auf diese Weise strukturiert erfassten Metadaten können später bei Veröffentlichung oder [Archivierung](@/glossar/_index.md#archivierung) beispielsweise als Teil der Dokumentation den Daten beigelegt werden. Ebenso können sie eine hilfreiche Basis sein, falls Metadaten für die Übergabe an ein [Forschungsdatenrepositorium](@/glossar/_index.md#repositorium) oder Archiv zusammengetragen werden müssen.
 
 Von technischer Seite sei auf die maschinelle Auswertbarkeit dank vorgegebener Struktur, Nutzung standardisierter Konventionen wie Dublin Core und Verwendung von verbreiteten Vokabularen oder Klassifikationen wie Dewey Decimal Classification hingewiesen.
 
 Generell sind die Templates sehr allgemein / generisch gehalten, um eine breite Einsetzbarkeit zu gewährleisten. Im Gegenzug  
-leidet die Spezifität und es werden eventuell nicht alle Anforderungen Ihres speziellen Szenarios erfüllt. In diesem Fall sollte die Erstellung eigener Lösungen zur Metadatenerhebung möglichst schon als Teil des Projektantrags und des Datenmanagementplans aufgeführt sein, um entsprechende Arbeiten finanziell und personell abdecken zu können.
+leidet die Spezifität und es werden eventuell nicht alle Anforderungen Ihres speziellen Szenarios erfüllt. In diesem Fall sollte die Erstellung eigener Lösungen zur Metadatenerhebung möglichst schon als Teil des Projektantrags und des [Datenmanagementplans](@/glossar/_index.md#datenmanagementplan) aufgeführt sein, um entsprechende Arbeiten finanziell und personell abdecken zu können.
 
 ## Anleitung
 
