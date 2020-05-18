@@ -60,6 +60,9 @@ strukturiert den Umgang mit [Forschungsdaten](#forschungsdaten) eines wissenscha
 ###### Datenschutz
 Unter Datenschutz versteht man allgemein den Schutz vor missbräuchlicher Verarbeitung von Daten durch technische und organisatorische Maßnahmen. Darunter fallen unter anderem der Schutz der Privatsphäre, der Schutz des Rechts auf informationelle Selbstbestimmung und der Schutz von Persönlichkeitsrechten.
 
+###### Datensicherheit
+bezieht sich auf Eigenschaften von Systemen, die Daten halten oder verarbeiten. Maßnahmen der Datensicherheit sollen Vertraulichkeit, Verfügbarkeit und Integrität von Daten sicherstellen und somit wirtschaftliche Schäden und andere Riskien minimieren. 
+
 ###### [DFG](https://www.dfg.de/)
 Deutsche Forschungsgemeinschaft
 
