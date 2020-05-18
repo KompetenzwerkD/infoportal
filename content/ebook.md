@@ -12,7 +12,7 @@ Das E-book wird aus den Inhaltsseiten dieser Website automatisiert mit [pandoc](
 * [Download E-book](https://github.com/KompetenzwerkD/infoportal-ebook/raw/master/ebook/kompetenzwerkd_infoportal.pdf)
 
 
-> Dieses Feature befindet sich noch im beta-Status. Layout und Struktur werden laufend verbessert. Feedback dazu nehmen wir genre entgegen :) 
+> Dieses Feature befindet sich noch im beta-Status. Layout und Struktur werden laufend verbessert. Feedback dazu nehmen wir genne entgegen :) 
 
 * [Source code und Archiv](https://github.com/KompetenzwerkD/infoportal-ebook)
 
