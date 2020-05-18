@@ -12,9 +12,9 @@ insert_anchor_links = "right"
 
 *Stand: 13.05.2020*
 
-“Die nationale Forschungsdateninfrastruktur (NFDI) soll die Datenbestände  von Wissenschaft und Forschung systematisch erschließen, nachhaltig sichern und zugänglich machen sowie (inter-)national vernetzen. Sie wird  in einem aus der Wissenschaft getriebenen Prozess als vernetzte Struktur eigeninitiativ agierender Konsortien aufgebaut werden.” Quelle: DFG
+“Die nationale [Forschungsdateninfrastruktur](@/glossar/_index.md#forschungsdateninfrastruktur) (NFDI) soll die Datenbestände  von Wissenschaft und Forschung systematisch erschließen, nachhaltig sichern und zugänglich machen sowie (inter-)national vernetzen. Sie wird  in einem aus der Wissenschaft getriebenen Prozess als vernetzte Struktur eigeninitiativ agierender Konsortien aufgebaut werden.” Quelle: DFG
 
-Sie soll maßgeblich die Entwicklung von Forschungsdatenservices und -standards entsprechend der FAIR Prinzipien (findable, accessible, interoperable, reuseable) mitgestalten. Solche Unternehmungen können nur durch nationale, fachliche Kooperationen zum Erfolg führen, auch mit Blick auf eine europäische und internationale Anschlussfähigkeit.
+Sie soll maßgeblich die Entwicklung von Forschungsdatenservices und -standards entsprechend der [FAIR Prinzipien](@/glossar/_index.md#fair-prinzipien) (findable, accessible, interoperable, reuseable) mitgestalten. Solche Unternehmungen können nur durch nationale, fachliche Kooperationen zum Erfolg führen, auch mit Blick auf eine europäische und internationale Anschlussfähigkeit.
 
 Wichtige Fakten:
 * festgeschrieben im Koalitionsvertrag des Bundes
@@ -22,7 +22,7 @@ Wichtige Fakten:
 * rund 30 Konsortien geplant
 * drei Ausschreibungsrunden mit Deadlines im Herbst 2019, 2020, 2021
 * wurden/werden über die einschlägigen Fachcommunities standortübergreifend beantragt 
-* in der Zukunft die maßgebliche Anlaufstelle im Bereich (digitaler) Forschungsdaten
+* in der Zukunft die maßgebliche Anlaufstelle im Bereich (digitaler) [Forschungsdaten](@/glossar/_index.md#forschungsdaten)
 * Konsortien werden zunächst für fünf Jahre mit einem Budget von jeweils ca. 2-4 Mio EUR jährlich gefördert
 
 [mehr zur Förderlinie und dem Stand der Antragsverfahren](https://www.dfg.de/foerderung/programme/nfdi/)
