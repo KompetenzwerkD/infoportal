@@ -19,7 +19,7 @@ Die Werkstatt, institutionell angebunden an die Digital-Humanities-Abteilung der
 
 ## Unsere Ziele
 
-* Realisierung von Open Access, Open Data, Open Source und Open Science in der Breite geisteswissenschaftlicher Forschung in Sachsen
+* Realisierung von [Open Access](@/glossar/_index.md#open-access), [Open Data](@/glossar/_index.md#linked-open-data), [Open Source](@/glossar/_index.md#open-source) und [Open Science](@/glossar/_index.md#open-science) in der Breite geisteswissenschaftlicher Forschung in Sachsen
 * Optimierung der Auffindbarkeit, Zugänglichkeit, Interoperabilität und Nachnutzbarkeit geisteswissenschaftlicher Forschungsdaten (FAIR-Data-Prinzipien)
 * Bündelung lokaler Kompetenzen und methodischen Know-Hows in den Digital Humanities
 * Aufbau langfristig stabiler digitaler Angebote
