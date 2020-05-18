@@ -52,7 +52,7 @@ Gemeinnützige Organisation, die Standard-[Lizenzverträge](#lizenz) veröffentl
 [Digital Research Infrastructure for the Arts and Humanities] Deutscher Anteil einer Initiative zur Schaffung einer digitalen [Forschungsinfrastruktur](#forschungsdateninfrastruktur) für die Geistes- und Kulturwissenschaften.
 
 ###### Dateiformat
-Art und Weise, wie eine Datei gespeichert wird und mit welcher Software sie geöffnet werden kann - in der Regel erkennbar am Suffix im Dateinamen wie ".PDF" (= Datei kann mit einem PDF-Programm angezeigt und bearbeitet werden. Wichtig ist es, auf verbreitete nachhaltige und freie Dateiformate zu setzen und kommerzielle, nicht quelloffene Formate zu vermeiden.
+Art und Weise, wie eine Datei gespeichert wird und mit welcher Software sie geöffnet werden kann - in der Regel erkennbar am Suffix im Dateinamen wie ".PDF" (= Datei kann mit einem PDF-Programm angezeigt und bearbeitet werden. Zu bedenken ist, dass sich nicht alle Dateiformate für die Langzeitarchivierung von Forschungsdaten eignen. Wichtig ist es, auf nachhaltige, offene und gut dokumentierte Dateiformate, die im jeweiligen Fachbereich verbreitet sind, zu setzen und kommerzielle, nicht quelloffene Formate zu vermeiden.
 
 ###### Datenmanagementplan
 strukturiert den Umgang mit [Forschungsdaten](#forschungsdaten) eines wissenschaftlichen Projekts und legt dabei unter anderem fest, welche [Forschungsdaten](#forschungsdaten) wann, wie, wo, durch wen erhoben, gesichert, gespeichert und archiviert werden.
