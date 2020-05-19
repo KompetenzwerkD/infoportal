@@ -9,13 +9,13 @@ insert_anchor_links = "right"
 
 ## Ausstellungstexte schreiben: inhaltliche Kriterien und Metadaten
 
-Wie Pressemitteilungen sind Texte in der Ausstellung (hier zusammengefasst als “Ausstellungstexte” bezeichnet; dazu gehören zahlreiche Textsorten), in Katalogen, in Audioguides, auf Websiten und in Ihren digitalen Angeboten andere Textsorten als wissenschaftliche Publikationen: Das liegt an den vielfältigen Zielgruppen und deren Situationen, in denen sie die Texte konsumieren. Manchmal sind Objekte analog oder virtuell direkt von den Betrachtenden wie bei Raum- und Taschentexten in der Ausstellung (analog oder online), manchmal nicht - insbesondere bei Katalogen oder Audioguides zum Nachhören.
+Wie Pressemitteilungen sind Texte in der Ausstellung (hier zusammengefasst als “Ausstellungstexte” bezeichnet; dazu gehören zahlreiche Textsorten), in Katalogen, in Audioguides, auf Webseiten und in Ihren digitalen Angeboten andere Textsorten als wissenschaftliche Publikationen: Das liegt an den vielfältigen Zielgruppen und deren Situationen, in denen sie die Texte konsumieren. Manchmal sind Objekte analog oder virtuell direkt von den Betrachtenden wie bei Raum- und Taschentexten in der Ausstellung (analog oder online), manchmal nicht - insbesondere bei Katalogen oder Audioguides zum Nachhören.
 
 **Es geht prinzipiell ums Sehen - Verstehen - Vermitteln.**
 
 Was erwarten die Gäste, was kann in den Texten angesprochen werden?
 
-Zentral: Kontexte - gewissermaßen die “Metadaten”:
+Zentral: Kontexte - gewissermaßen die “[Metadaten](@/glossar/_index.md#metadaten)”:
 
 * WAS ist das Objekt? Was stellt es dar? - Bezeichnung, Titel
 * WIE ist das Objekt? - Beschreibung
