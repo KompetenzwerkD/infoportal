@@ -65,7 +65,7 @@ Legen Sie sich als **Plan B** immer einen zweiten digitalen Raum an, in den Sie 
 
 ## Tools für asynchrone Formate
 
-Für Vorab-Aufzeichnungen empfehlen wir folgende Tools und Hiweise:
+Für Vorab-Aufzeichnungen empfehlen wir folgende Tools und Hinweise:
 
 * **Videotool**: [Studio Opencast](https://studio.opencast.org/) (open source, wird im Hochschulbereich weltweit verwendet). Eine etwas komplexere [Open-Source](@/glossar/_index.md#open-source) Software zum Videostreaming ist [Open Broadcaster Software (OBS)](https://obsproject.com/). [Dazu gibt es einen Leitfaden bei der Universität Greifswald](https://rz.uni-greifswald.de/dienste/studium-lehre/elearning/vod/videoaufzeichnung/)
 * **Streaming**: Falls Sie nicht auf interne Plattformen zurückgreifen können ([Universität Leipzig](https://www.zmk.uni-leipzig.de/live-streaming/); [TU Dresden](https://bildungsportal.sachsen.de/magma/), bieten sich derzeit nur kommerzielle Lösungen über Youtube ([Tutorial](https://www.youtube.com/watch?v=3WF1kNAXVaw)), [Twitch.tv](https://www.twitch.tv/creatorcamp/en/) oder [Facebook](https://de-de.facebook.com/business/help/167417030499767?id=1123223941353904) an. Überall werden Accounts benötigt. Dies ist vielleicht eine Option, wenn Sie dort ohnehin Accounts haben. Prüfen Sie genau, wie Ihre Einstellungen (Datenschutz usw.) aussehen.
@@ -94,9 +94,9 @@ Fragen Sie sich also, ob Sie Chairs einsetzen oder besser selbst moderieren und 
 ## Denkanstöße
 Wenn Sie eine Konferenz digital durchführen, kostet das **ein Mehr an Zeit** - Ihre Arbeitskraft. Zeit, die Ihnen für Forschung, Lehre, Verwaltung, Gremienarbeit etc. fehlt. Das ist gerade bei befristeten Verträgen nicht zu unterschätzen. Es wird zwar **billiger** werden, weil Sie keine Reisekosten, Catering und Raummieten aufbringen müssen (dafür vielleicht Programmlizenzen, Hardware, Hilfskraftmittel), aber **Anträge** (und damit auch potentielle **Einwerbungen**) werden nicht in gleichem Maße vorhanden sein wie bei einer Präsenzveranstaltung.
 
-**Digitale Formate sind kein Ersatz für Präsenzformate.** Sie sind anders. Sie können manche Dinge besser als Präsenzformate. Manche aber auch nicht. Wenn gerade das Miteinander und der **informelle Austausch** den Reiz Ihrer Veranstaltung ausmacht, dann sollten Sie vielleicht besser ein Präsenzformat ausrichten. Fragen Sie im Zweifelsfall vorab Ihre **Fachcommunity** auf Verteilern, Twitter oder Facebook für ein Stimmungsbild.
+**Digitale Formate sind kein Ersatz für Präsenzformate.** Sie sind anders. Sie können manche Dinge besser als Präsenzformate. Manche aber auch nicht. Wenn gerade das Miteinander und der **informelle Austausch** den Reiz Ihrer Veranstaltung ausmachen, dann sollten Sie vielleicht besser ein Präsenzformat ausrichten. Fragen Sie im Zweifelsfall vorab Ihre **Fachcommunity** auf Verteilern, Twitter oder Facebook für ein Stimmungsbild.
 
-Wenn man sich nicht physisch treffen kann, gibt es keine **Kaffeeschlangen** in der Pause, keine **Exkursionen**, keine **Konferenztaschen** mit Mappen und Flyern, keine **Büchertische** der Verlage. Das lässt sich digital kaum erstzen. Die Büchertische und die Werbung in den Mappen sind in der Regel Möglichkeiten, wo Verlage und andere Firmen und Institutionen werben können und was Teil Ihrer **Finanzierung** darstellt. Überlegen Sie, bezahlte Anzeigen ins Programmheft aufzunehmen (aktives **Sponsoring**) oder kleine Filme der Sponsoren in den Pausen zu zeigen. Hier sind kreative Lösungen gefragt.
+Wenn man sich nicht physisch treffen kann, gibt es keine **Kaffeeschlangen** in der Pause, keine **Exkursionen**, keine **Konferenztaschen** mit Mappen und Flyern, keine **Büchertische** der Verlage. Das lässt sich digital kaum ersetzen. Die Büchertische und die Werbung in den Mappen sind in der Regel Möglichkeiten, wo Verlage und andere Firmen und Institutionen werben können und was Teil Ihrer **Finanzierung** darstellt. Überlegen Sie, bezahlte Anzeigen ins Programmheft aufzunehmen (aktives **Sponsoring**) oder kleine Filme der Sponsoren in den Pausen zu zeigen. Hier sind kreative Lösungen gefragt.
 
 
 ## Nach der Veranstaltung

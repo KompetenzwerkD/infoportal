@@ -27,7 +27,7 @@ Diese Leitfäden beinhalten hilfreiche Checklisten, wenn Sie Ihren [Datenmanagem
 
 ## Online-Tools zur Erstellung eines DMP
 
-Es gibt auch Tools (Web-Application oder Software), mit denen Sie einen Datenmanagement erstellen können.
+Es gibt auch Tools (Web-Application oder Software), mit denen Sie einen Datenmanagementplan erstellen können.
 
 * [DMP-Online des Digital Curation Center](https://dmponline.dcc.ac.uk/)
 * [Online-Fragebogen von CLARIN-D zur Erstellung eines DMP](https://www.clarin-d.net/de/aufbereiten/datenmanagementplan-entwickeln)

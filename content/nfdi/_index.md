@@ -86,7 +86,7 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: Deutsches Archäologisches Institut
-* Schwerpunkt: Archäologien und materielle Kultur und Objekte; Samlungen, Feldforschung usw.
+* Schwerpunkt: Archäologien und materielle Kultur und Objekte; Sammlungen, Feldforschung usw.
 * Fachdisziplinen: Archäologie, Anthropologie, Architekturgeschichte, Ethnoarchäologie, Geoarchäologie, Paläobotanik, Archäozoologie, Archäogenetik, Paläopathologie, Geophysik und Archäometrie
 * Möglichkeiten der Teilhabe:
   * [Openscience-Projekt zur aktiven Mitarbeit](https://osf.io/4t29e/)

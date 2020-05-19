@@ -8,7 +8,7 @@ template = "impressum.html"
 
 Die nachstehenden Informationen enthalten die gesetzlich vorgesehenen Pflichtangaben zur Anbieterkennzeichnung, sowie wichtige rechtliche Hinweise zur vorliegenden Internetpräsenz, einer Veröffentlichung der
 
-Sächsische Akademie der Wissenschaften zu Leipzig\
+[Sächsische Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de/de/impressum)\
 Karl-Tauchnitz-Str. 1\
 04107 Leipzig\
 Tel.: +49 341 71153

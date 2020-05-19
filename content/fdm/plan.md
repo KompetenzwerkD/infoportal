@@ -7,7 +7,7 @@ insert_anchor_links = "right"
 
 # Wie erstelle ich einen Datenmanagementplan?
 
-Ein [Datenmanagementplan](@/glossar/_index.md#datenmanagementplan) ist heutzutage oft schon bei der Antragstellung oder spätestens bei Projektbeginn gefordert. Schließlich erleichtert die frühe Auseinandersetzung mit dem Thema [Forschungsdatenmanagement](@/glossar/_index.md#forschungsdatenmanagement) später viele Abläufe im Projekt. Im Plan legen Sie fest, wie Sie Daten erheben, speichern, archivieren und übergeben. Dies ist gerade bei zeitlich begrenzten Projekten wichtig, wenn das Projekt endet und an einer Institution nachhaltig gesichert oder weiterbetrieben werden soll, aber auch wenn Mitarbeiter_innen die Dienststelle wechseln oder neue hinzukommen Es empfiehlt sich, dafür frühzeitig die Weichen zu stellen und den DMP ggf. im Projektverlauf anzupassen.
+Ein [Datenmanagementplan](@/glossar/_index.md#datenmanagementplan) ist heutzutage oft schon bei der Antragstellung oder spätestens bei Projektbeginn gefordert. Schließlich erleichtert die frühe Auseinandersetzung mit dem Thema [Forschungsdatenmanagement](@/glossar/_index.md#forschungsdatenmanagement) später viele Abläufe im Projekt. Im Plan legen Sie fest, wie Sie Daten erheben, speichern, archivieren und übergeben. Dies ist gerade bei zeitlich begrenzten Projekten wichtig, wenn das Projekt endet und an einer Institution nachhaltig gesichert oder weiterbetrieben werden soll, aber auch wenn Mitarbeiter/innen die Dienststelle wechseln oder neue hinzukommen Es empfiehlt sich, dafür frühzeitig die Weichen zu stellen und den DMP ggf. im Projektverlauf anzupassen.
 
 Manche Institutionen wie die DFG oder die EU haben recht klare Vorgaben, und es existieren zahlreiche Vorlagen auf Webseiten und Publikationen.
 
@@ -15,7 +15,7 @@ Manche Institutionen wie die DFG oder die EU haben recht klare Vorgaben, und es 
 
 [Außerdem bieten wir Ihnen Vorlagen, die Ihnen helfen können, wichtige Metadaten zu Ihren Datensätze und Ihrem Projekt anzulegen um so eine Nachnutzung Ihrer Forschungsdaten zu erleichtern.](@/fdm/metadaten_schemas.md)
 
-Der folgende Leitfaden ist in praktischer Zusammenarbeit mit Kolleg_innen aus verschiedenen Forschungsprojekten entstanden und soll eine knappe Checkliste mit Tipps und Tricks darstellen, wie Sie schnell zu einem DMP gelangen können, ohne wichtige Aspekte aus den Augen zu lassen.
+Der folgende Leitfaden ist in praktischer Zusammenarbeit mit Kolleg/innen aus verschiedenen Forschungsprojekten entstanden und soll eine knappe Checkliste mit Tipps und Tricks darstellen, wie Sie schnell zu einem DMP gelangen können, ohne wichtige Aspekte aus den Augen zu lassen.
 
 Generell besteht ein DMP in der Regel aus folgenden Punkten:
 * Administrative Angaben (Projektname + kurze Beschreibung, Fördernummer,
@@ -88,10 +88,10 @@ Geben Sie Auskunft über Art und Format der [Metadaten](@/glossar/_index.md#meta
 * Welche Maßnahmen zum [Datenschutz](@/glossar/_index.md#datenschutz) sind falls nötig im Projekt vorgesehen?
 * Welche Maßnahmen zum Schutz von Urheber- und Persönlichkeitsrechten sind im Projekt vorgesehen?
 * Definieren Sie, welche Daten intern gespeichert werden und welche Sie der Öffentlichkeit (Fachcommunity, interessierte Bürger\*innen) zur Verfügung stellen. Dies ist insbesondere bei Daten wichtig, die Persönlichkeitsrechte und Copyrights involvieren (Interviews, Publikationen Dritter etc.).
-* Rechte: In Abhängigkeit von verwendeten Ausgangsdaten bzw. Datenquellen involviert die relevante deutsche Rechtslage zahlreiche Gesetze. Halten Sie hier gegebenenfalls Rücksprache mit Ihrer Administration oder Ihrem Justiziariat. Natürlich ist auch ihr KompetenzwerkD bemüht, Hilfestellung zu geben oder Kompetenz zu vermitteln. Als Einstieg gibt es beispielsweise hier weitere Infomationen: [Forschungsdaten - Rechte und gute wissenschaftliche Praxis](http://www.bartoc.org/) (ab Folie 19)
+* Rechte: In Abhängigkeit von verwendeten Ausgangsdaten bzw. Datenquellen involviert die relevante deutsche Rechtslage zahlreiche Gesetze. Halten Sie hier gegebenenfalls Rücksprache mit Ihrer Administration oder Ihrem Justiziariat. Natürlich ist auch ihr KompetenzwerkD bemüht, Hilfestellung zu geben oder Kompetenz zu vermitteln. Als Einstieg gibt es beispielsweise hier weitere Informationen: [Forschungsdaten - Rechte und gute wissenschaftliche Praxis](http://www.bartoc.org/) (ab Folie 19)
 * Die Frage der [Lizenzen](@/glossar/_index.md#lizenz) ist immer auch an die Frage der Rechte geknüpft. Wenn Sie keine Urheber- und ähnliche Rechte berühren, könnten Sie die Lizenz “CC0” verwenden, also Gemeinfreiheit.
 * Wichtiger Hinweis: Gemeinfreiheit und die Lizenzen bedeuten unter Umständen in verschiedenen Ländern etwas anderes. Wenn Sie also mit Projekten und Daten (Publikationen, Bilder etc.) aus anderen Ländern kooperieren, ist die Rechtlage verschieden. Wichtig hier: Setzen Sie eine Kooperationsvereinbarung mit den Justiziariaten aller beteiligten Institutionen auf und sprechen Sie diese Themen vorab an.
-* [Hier finden Sie eine Übersicht zu den Creative Comons Lizenzen](https://creativecommons.org/licenses/?lang=de)
+* [Hier finden Sie eine Übersicht zu den Creative Commons Lizenzen](https://creativecommons.org/licenses/?lang=de)
 
 ### Speicherung, Archivierung und Sicherung der Daten
 
