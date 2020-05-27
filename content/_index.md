@@ -12,8 +12,7 @@ Das KompetenzwerkD – D steht für alle Facetten der Digitalisierung – ist ei
 
  [![](images/gwzo-logo.png)](https://www.leibniz-gwzo.de/) [![](images/di-logo.png)](http://www.dubnow.de/) [![](images/hait-logo.png)](https://hait.tu-dresden.de/)  [![](images/isgv-logo.png)](https://www.isgv.de/) [![](images/si-logo.png)](https://www.serbski-institut.de/)  [![](images/saw-logo.png)](https://www.saw-leipzig.de/)
 
-
-Das Netzwerk bündelt die Kompetenz der beteiligten Institute auf dem Gebiet der Digital Humanities und entwickelt sie gezielt strategisch weiter. Im Vordergrund stehen dabei die Unterstützung bei der Nutzung und Übertragung von geeigneten Methoden auf geisteswissenschaftliche Fragestellungen und der Ausbau bereits vorhandener digitaler Forschungskomponenten.
+In enger Zusammenarbeit mit der Sächsischen Landesbibliothek - Staats- und Universitätsbibliothek Dresden (SLUB) und weiteren relevanten Einrichtungen im Freistaat bündelt  das Netzwerk die Kompetenz der beteiligten Institute auf dem Gebiet der Digital Humanities und entwickelt sie gezielt strategisch weiter. Im Vordergrund stehen dabei die Unterstützung bei der Nutzung und Übertragung von geeigneten Methoden auf geisteswissenschaftliche Fragestellungen und der Ausbau bereits vorhandener digitaler Forschungskomponenten.
 
 Die Werkstatt, institutionell angebunden an die Digital-Humanities-Abteilung der Akademie bildet den operativen Kern; das Netzwerk den inneren Raum für Transferleistungen.
 
