@@ -24,6 +24,7 @@ Wichtige Fakten:
 * wurden/werden über die einschlägigen Fachcommunities standortübergreifend beantragt 
 * in der Zukunft die maßgebliche Anlaufstelle im Bereich (digitaler) [Forschungsdaten](@/glossar/_index.md#forschungsdaten)
 * Konsortien werden zunächst für fünf Jahre mit einem Budget von jeweils ca. 2-4 Mio EUR jährlich gefördert
+* Ein NFDI-Expertengremium gibt für jedes Konsortium eine Empfehlung zur Förderung bzw. Nichtförderung ab 
 
 [mehr zur Förderlinie und dem Stand der Antragsverfahren](https://www.dfg.de/foerderung/programme/nfdi/)
 
@@ -48,6 +49,7 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 <br />
 
 #### NFDI4Culture
+* Update:  NFDI4Culture wurde in der ersten Ausschreibung als einzige Initiative innerhalb der Digital Humanities vom NFDI-Expertengremium zur Förderung empfohlen.
 * Webauftritt: [Link](https://www.nfdi4culture.de/)
 * Kontakt:
   * Prof. Dr. Dörte Schmidt dschmidt@udk-berlin.de
@@ -63,7 +65,7 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 <br />
 
 #### NFDI4Memory
-* Webauftritt: [Link](https://4memory.de/)
+* Webauftritt: [Link](https://4memory.de/) das NFDI Expertengremium den Antrag von NFDI4Culture zur Förderung in der NFDI empfohlen hat. 
 * Kontakt: Prof. Dr. Johannes Paulmann: 4memory@ieg-mainz.de
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
 * Beteiligte Netzwerkpartner: HAIT und ISGV
