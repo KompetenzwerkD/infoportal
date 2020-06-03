@@ -10,7 +10,9 @@ insert_anchor_links = "right"
 
 ## Übersicht - Konsortien im Bereich Digital Humanities
 
-*Stand: 13.05.2020*
+*Stand: 03.06.2020*
+
+Update: Die Förderempfehlungen des NFDI-Expertengremiums wurden veröffentlicht. Dabei wurde NFDI4Culture in der ersten Ausschreibungsrunde als einzige Initiative innerhalb der Digital Humanities zur Förderung empfohlen.
 
 “Die nationale [Forschungsdateninfrastruktur](@/glossar/_index.md#forschungsdateninfrastruktur) (NFDI) soll die Datenbestände  von Wissenschaft und Forschung systematisch erschließen, nachhaltig sichern und zugänglich machen sowie (inter-)national vernetzen. Sie wird  in einem aus der Wissenschaft getriebenen Prozess als vernetzte Struktur eigeninitiativ agierender Konsortien aufgebaut werden.” Quelle: DFG
 
@@ -36,20 +38,8 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 
 <br />
 
-#### NFDI Text+
-* Webauftritt: [Link](https://www.text-plus.org/)
-* Kontakt: Erhard Hinrichs hinrichs@ids-mannheim.de 
-* Stand: derzeit in Begutachtung, Entscheidung im Frühsommer 2020
-* Beteiligte Netzwerkpartner: SAW
-* Hauptantragssteller: Leibniz Institut für Deutsche Sprache (IDS), Mannheim
-* Schwerpunkt: Text- und Sprachdaten (digitale Sammlungen, lexikalische Ressourcen einschl. Wörterbücher und Editionen)
-* Fachdisziplinen: Sprach-, Literatur-, Kultur- und die                                 Geschichtswissenschaften, Philosophie und sprach- und textbasierte Forschung in den Sozial- und Politikwissenschaften
-* Möglichkeiten der Teilhabe: Nach der Förderentscheidung wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert
-
-<br />
-
 #### NFDI4Culture
-* Update:  NFDI4Culture wurde in der ersten Ausschreibung als einzige Initiative innerhalb der Digital Humanities vom NFDI-Expertengremium zur Förderung empfohlen.
+* Update:  NFDI4Culture wurde in der ersten Ausschreibungsrunde als einzige Initiative innerhalb der Digital Humanities vom NFDI-Expertengremium zur Förderung empfohlen.
 * Webauftritt: [Link](https://www.nfdi4culture.de/)
 * Kontakt:
   * Prof. Dr. Dörte Schmidt dschmidt@udk-berlin.de
@@ -60,6 +50,18 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 * Hauptantragssteller: Akademie der Wissenschaften und der Literatur, Mainz
 * Schwerpunkt: Materielles und immaterielles kulturelles Erbe
 * Fachdisziplinen: Kulturwissenschaften, Musikwissenschaft, Kunstgeschichte, Architektur, Theater-, Film- und Medienwissenschaft
+* Möglichkeiten der Teilhabe: Nach der Förderentscheidung wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert
+
+<br />
+
+#### NFDI Text+
+* Webauftritt: [Link](https://www.text-plus.org/)
+* Kontakt: Erhard Hinrichs hinrichs@ids-mannheim.de 
+* Stand: derzeit in Begutachtung, Entscheidung im Frühsommer 2020
+* Beteiligte Netzwerkpartner: SAW
+* Hauptantragssteller: Leibniz Institut für Deutsche Sprache (IDS), Mannheim
+* Schwerpunkt: Text- und Sprachdaten (digitale Sammlungen, lexikalische Ressourcen einschl. Wörterbücher und Editionen)
+* Fachdisziplinen: Sprach-, Literatur-, Kultur- und die                                 Geschichtswissenschaften, Philosophie und sprach- und textbasierte Forschung in den Sozial- und Politikwissenschaften
 * Möglichkeiten der Teilhabe: Nach der Förderentscheidung wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert
 
 <br />
