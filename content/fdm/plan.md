@@ -39,8 +39,8 @@ Hat mein Fördergeber gesonderte Vorgaben, vielleicht sogar einen Muster-DMP? Be
 ## Schritt 2: Gliederung / Tool auswählen
 
 Möchten Sie ein DMP-Dokument selbst erstellen z. B. in Word oder kollaborativ in einer [Cloud](@/glossar/_index.md#cloud)lösung? Hilfreich ist in diesem Fall die Verwendung einer Gliederungsvorlage, um alles Nötige im Blick zu behalten. Übernehmen Sie gerne die von uns vorgeschlagenen Punkte und gehen Sie diese in Ruhe durch: 
-* [Vorlage als odt](static/documents/Vorlage_DMP.odt)
-* [Vorlage als docx](static/documents/Vorlage_DMP.docx)
+* [Vorlage als odt](/static/documents/Vorlage_DMP.odt)
+* [Vorlage als docx](/static/documents/Vorlage_DMP.docx)
 
 oder wählen Sie eine alternative Gliederung z.B.:
 * [Leitfaden der Leibniz Universität Hannover](https://www.fdm.uni-hannover.de/fileadmin/fdm/Dokumente/Leitfaden-DMP_LUH_v2.2.pdf)
