@@ -4,6 +4,9 @@ sort_by = "weight"
 weight = 2
 description = "Description"
 insert_anchor_links = "right"
+
+[extra]
+show_in_topics = true
 +++
 
 # Nationale Forschungsdateninfrastruktur (NFDI)

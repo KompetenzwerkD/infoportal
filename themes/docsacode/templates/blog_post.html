@@ -1,0 +1,63 @@
+{% extends "index.html" %}
+
+{% block title %} {{ config.title }} | {{ page.title }} {% endblock title %}
+
+{% block nav %}
+  <ul id="breadcrumbs">
+    {% for parent in page.ancestors %}
+      {% set s = get_section(path=parent, include_pages=false) %}
+      <li><a href="{{s.permalink}}">{{s.title}}</a>&nbsp;&#8594;&nbsp;</li> 
+    {% endfor %}
+    <li><h4>{{ page.title }}</h4></li>
+  </ul>
+
+  <div class="blog-post-nav">
+    {% if page.later -%}
+     <div><a href="{{ page.later.permalink }}"><< {{ page.later.date }} | {{ page.later.title }}</a></div>
+    {%- endif %}
+
+    {% if page.earlier -%}
+    <div><a href="{{ page.earlier.permalink }}">>> {{ page.earlier.date }} | {{ page.earlier.title }}</a></div>
+    {%- endif %}
+  </div>
+
+  </div>
+
+  {% endblock nav %}
+
+{% block content %}
+
+{% set_global header_count = 0 %}
+{% for h2 in page.toc %}
+  {% set_global header_count = header_count + 1 %}
+  {% for h3 in h2.children %}
+    {% set_global header_count = header_count + 1 %}
+    {% for h4 in h3.children %}
+      {% set_global header_count = header_count + 1 %}
+    {% endfor %}
+  {% endfor %}
+{% endfor %}
+
+{{ page.date }}
+{% if header_count > 4 %}
+    <hr />
+    <ul id="toc">
+      {% for h2 in page.toc %}
+        <li><a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
+        {% if h2.children %}<ul>        
+          {% for h3 in h2.children %}
+          <li><a href="{{ h3.permalink | safe }}">{{ h3.title }}</a></li>
+        {% endfor %}
+       </ul>
+{% endif %}
+      </li>
+{% endfor %}
+    </ul>
+    <hr  />
+{% endif %}
+
+  <article>
+    {{ page.content | safe }}
+  </article>
+{% endblock content %}
+

@@ -3,6 +3,9 @@ title = "Leitfaden: Analoge und digitale Ausstellungen"
 weight = 1
 description = "Description"
 insert_anchor_links = "right"
+
+[extra]
+show_in_topics = true
 +++
 
 # Analoge und digitale Ausstellungen

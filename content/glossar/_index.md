@@ -5,6 +5,9 @@ sort_by = "weight"
 description = "Description"
 insert_anchor_links = "right"
 template = "glossar.html"
+
+[extra]
+show_in_topics = true
 +++
 
 # Glossar
