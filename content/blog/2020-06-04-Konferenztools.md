@@ -279,7 +279,7 @@ contra
 
 
 
-#### 4. Zoom
+### 4. Zoom
 
 Webseite
 https://zoom.us/
@@ -345,7 +345,7 @@ Abstimmungen sind möglich
 * [Hosting nur beim Anbieter Zoom Video Communications möglich](https://zoom.us/buy?plan=pro&from=webinar)
     * Beispiel: Kosten für unbegrenzt Meetings bis 100 Teilnehmer mit 2 Moderatoren + Webinare bis 500 Teilnehmer mit 2 Moderatoren + 100GB Speicher für Aufzeichnungen = 2917€ pro Jahr
 
-### Fazit 
+## Fazit 
 
 Zwei Lösungen haben sich als besonders vielversprechend für große Veranstaltungen erwiesen: BigBlueButton und Zoom. Hier sollte zwischen Kosten, garantierter Performanz und Skalierbarkeit und dem nötigen Datenschutz bzw. dem Commitment zu Open-Source-Lösungen abgewogen werden.
 
