@@ -142,7 +142,7 @@ contra:
 
 ### 2. Nextcloud Talk + High Performance Backend (HPB)
 
-(Anmerkung: die folgenden Punkte stützen sich auf die Annahme, dass Nextcloud Talk durch das HPB keine weiteren Features erhält), wir haben den Cloudzugang der SAW genutzt und von der Fa. Nextcloud Fragen beantwortet bekommen
+(Anmerkung: die folgenden Punkte stützen sich auf die Annahme, dass Nextcloud Talk durch das HPB keine weiteren Features erhält), Test erfolgte in der Nextcloud Talk-Instanz der SAW; zusätzlich wurden seitens der Fa. Nextcloud Fragen beantwortet.
 
 Webseite
 https://nextcloud.com/de/talk/
@@ -195,9 +195,9 @@ Aber gute Eignung (dank High Performance Backend) bei geringem Aufwand für mitt
 #### Hostingoptionen/Kosten 
 
 * Als Teil der Nextcloud Enterpriselösung: 80€/mo/User bei min. 50 User
-Da es sich um eine Open Source Lösung handelt, wäre ein eigenes Hosting möglich und besonders als Video-Meeting-Lösung bei <50 Teilnehmern sinnvoll da Integration mit bestehender Cloud möglich.
+Da es sich um eine Open Source Lösung handelt, wäre ein eigenes Hosting möglich und besonders als Video-Meeting-Lösung bei <50 Teilnehmern sinnvoll da Integration mit eventuell bestehender Cloud möglich.
 * [Kontakt für einen Kostenvoranschlag (Formular)](https://nextcloud.com/enterprise/buy/)
-* Nextcloud HPC ist mittlerweile Open-Source, [selber hosten ist daher eine Option](https://www.golem.de/news/videochat-nextcloud-talk-bekommt-offenes-enterprise-backend-2005-148582.html)
+* Nextcloud HPB ist mittlerweile Open-Source, [selber hosten ist daher eine Option](https://www.golem.de/news/videochat-nextcloud-talk-bekommt-offenes-enterprise-backend-2005-148582.html)
 
 
 ### 3. Adobe Connect
@@ -224,7 +224,7 @@ contra
 
 * Teilnehmen (an Meetings oder Webinaren) per Browser (HTML5 - plattformunabhängig); funktionierte im Test nicht, vermutlich erst in kommender Version
 * Teilnehmen per Browser mit Flash-Plugin (nur verfügbar bis 12/2020), vermutlich kein Teilen des Videos oder von Folien möglich (verschiedene Versionen der Oberfläche, unterschiedliche Features)
-* Präsentation nur über Client (nicht für Linux verfügbar) oder über ältere Version zweier unterschiedlicher Browser-Plugin-Lösungen; Situation nach 12/2020 unklar.
+* Präsentation nur über Client (nicht für Linux verfügbar) oder über die ältere Version zweier unterschiedlicher Browser-Plugin-Lösungen; Situation nach 12/2020 unklar.
 * Äußerst unübersichtliche Gesamtsituation in Bezug auf Teilnahmemöglichkeiten. Nur der Windows/Mac-Client scheint zuverlässig zu sein.
 
 #### Präsentationsfeatures
