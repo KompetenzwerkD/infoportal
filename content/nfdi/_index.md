@@ -12,7 +12,7 @@ insert_anchor_links = "right"
 
 *Stand: 03.06.2020*
 
-Update: Die Förderempfehlungen des NFDI-Expertengremiums wurden veröffentlicht. Dabei wurde NFDI4Culture in der ersten Ausschreibungsrunde als einzige Initiative innerhalb der Digital Humanities zur Förderung empfohlen.
+Update: Die Förderempfehlungen des NFDI-Expertengremiums wurden veröffentlicht. Dabei wurde von den Initiativen innerhalb der Digital Humanities das Konsortium NFDI4Culture in der ersten Ausschreibungsrunde zur Förderung empfohlen.
 
 “Die nationale [Forschungsdateninfrastruktur](@/glossar/_index.md#forschungsdateninfrastruktur) (NFDI) soll die Datenbestände  von Wissenschaft und Forschung systematisch erschließen, nachhaltig sichern und zugänglich machen sowie (inter-)national vernetzen. Sie wird  in einem aus der Wissenschaft getriebenen Prozess als vernetzte Struktur eigeninitiativ agierender Konsortien aufgebaut werden.” Quelle: DFG
 
@@ -39,7 +39,7 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 <br />
 
 #### NFDI4Culture
-* Update:  NFDI4Culture wurde in der ersten Ausschreibungsrunde als einzige Initiative innerhalb der Digital Humanities vom NFDI-Expertengremium zur Förderung empfohlen.
+* Update:  NFDI4Culture wurde in der ersten Ausschreibungsrunde vom NFDI-Expertengremium zur Förderung empfohlen.
 * Webauftritt: [Link](https://www.nfdi4culture.de/)
 * Kontakt:
   * Prof. Dr. Dörte Schmidt dschmidt@udk-berlin.de
