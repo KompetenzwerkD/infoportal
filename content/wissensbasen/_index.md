@@ -9,6 +9,16 @@ insert_anchor_links = "right"
 show_in_topics = false
 +++
 
+## Einleitung
+
+Eine Wissensbasis ist ein System zur Speicherung von strukturierten oder unstrukturierten Daten unterschiedlicher Komplexität.
+
+Diese Definition lässt schon erahnen: Wissensbasen umfassen ein weites Feld und fast alle Datensammlungen lassen sich als eine Art Wissensbasis verstehen und in entsprechenden Systemen digital ablegen.
+
+Es beginnt bei einfachen Auflistungen von Informationen, welche einem groben Schema folgen. Ein Beispiel wäre eine Sammlung von Dokumenten eines Themenbereichs, zu denen wichtige Daten zusammengetragen werden wie Titel, Autor oder Erscheinungsjahr.
+Auf der anderen Seite versteht man darunter insbesondere auch komplexe Netzwerke aus Wissen, welche Informationen über verschiedene Objektarten aufnehmen und miteinander verknüpfen könnnen. Vorstellbar wäre eine Wissensbasis über Personen, welche neben strukturierten Informationen über Individuen, auch Angaben zu Orten und Institutionen enthält und all diese miteinander verbindet.
+
+
 ## Ideen
 
 * Einführung WB: Definition, Einsatzbereiche, Vor- und Nachteile
