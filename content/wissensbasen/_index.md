@@ -25,3 +25,9 @@ Auf der anderen Seite versteht man darunter insbesondere auch komplexe Netzwerke
 * Technologien-Vergleich zur Entscheidungshilfe: Systeme für Wissensbasen inkl. Wiki-Ökosystem (Mediawiki+Extensions, Wikibase...), CMS-Systeme, Wisski; evtl auch Technologien zum Datenabgleich
   * welche Faktoren/Anforderungen sind entscheidend? (Datenaustausch/Import/Schnittstellen, formale Interpretierbarkeit, Nutzerfreundlichkeit [Anlegen neuer Einträge, Editieren...])
 * Übersicht zu Normdaten + Vokabularen: Was ist das? Unterschiede Normdaten/Vokabulare? Warum/Vorteile? Gibt es Übersichten oder wichtige Vertreter für unsere Fachbereiche?
+
+
+## Ressourcen
+
+* [Semantic Mediawiki Docker](https://www.semantic-mediawiki.org/wiki/Help:Using_Docker)
+* [How-to: Add extensions to the official MediaWiki Docker image](https://stackoverflow.com/questions/49267591/how-to-best-add-extensions-when-using-official-docker-image-for-mediawiki)
