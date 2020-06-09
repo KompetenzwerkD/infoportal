@@ -27,7 +27,7 @@ Wie so oft gilt dabei: Kontaktieren Sie uns mit Ihren Fragen oder Wünschen! Ger
 ## Ideen
 
 * Einführung WB: Definition, Einsatzbereiche, Vor- und Nachteile
-* Technologien-Vergleich zur Entscheidungshilfe: Systeme für Wissensbasen inkl. Wiki-Ökosystem (Mediawiki+Extensions, Wikibase...), CMS-Systeme (WordPress, Typo3 Joomla!, Drupal, Plone), Wisski, (Aufgeblähte) Knowledge Management Software? (z.B. OpenKM), Wissensgraphen als Aspekt? ; evtl auch Technologien zum Datenabgleich
+* Technologien-Vergleich zur Entscheidungshilfe: Systeme für Wissensbasen inkl. Wiki-Ökosystem (Mediawiki+Extensions, Wikibase, Wikidata...), CMS-Systeme (WordPress, Typo3 Joomla!, Drupal, Plone), Wisski, (Aufgeblähte) Knowledge Management Software? (z.B. OpenKM), Wissensgraphen als Aspekt?, zb structr als gaphbasierte eierlegende Wollmilchsau? ; evtl auch Technologien zum Datenabgleich
   * welche Faktoren/Anforderungen sind entscheidend?
     * Datenaustausch/Import/Schnittstellen
     * Nutzerfreundlichkeit (einfaches Anlegen neuer Einträge, Editieren...)
