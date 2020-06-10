@@ -24,6 +24,23 @@ Die schiere Menge an technischen Lösungen erschwert jedoch auch den Einstieg in
 
 Wie so oft gilt dabei: Kontaktieren Sie uns mit Ihren Fragen oder Wünschen! Gerne unterstützen wir ihr Projekt dabei, Informationen strukturiert in Form einer Wissensbasis abzulegen, zu bearbeiten und zugänglich zu machen.
 
+So vielfältig wie Wissensbasen sein können, stellen sich auch die Softwarelösungen zu ihrer Erstellung und Verwaltung dar.
+
+## Vorteile
+
+...des Einsatzes einer solchen Lösung sind in der Regel:
+
+* Nutzerfreundliche Möglichkeit des Erstellens und Bearbeitens von Daten
+* Nachverfolgbarkeit von Änderungen
+* Nutzer- bzw. Rechteverwaltung
+* Präsentation / Darstellung des zusammengetragenen Wissens
+* Suchfunktionalität
+* Möglichkeiten für den Import bzw. Export von Daten
+
+Anzumerken ist: Nicht jede Lösung unterstützt alle beschriebenen Eigenschaften!
+Beispielsweise sind die Möglichkeiten zum Datenexport davon abhängig, wie strukturiert Daten abgelegt werden.
+
+
 ## Ideen
 
 * Einführung WB: Definition, Einsatzbereiche, Vor- und Nachteile
