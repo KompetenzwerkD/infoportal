@@ -15,7 +15,7 @@ Eine Wissensbasis ist ein System zur Speicherung von strukturierten oder unstruk
 
 Diese Definition lässt schon erahnen: Wissensbasen umfassen ein weites Feld und fast alle Datensammlungen lassen sich als eine Art Wissensbasis verstehen und in entsprechenden Systemen digital ablegen.
 
-Es beginnt bei einfachen Auflistungen von Informationen, welche einem groben Schema folgen. Ein Beispiel wäre eine Sammlung von Dokumenten eines Themenbereichs, zu denen wichtige Daten zusammengetragen werden wie Titel, Autor oder Erscheinungsjahr.
+Es beginnt bei einfachen Auflistungen von Informationen, welche einem groben Schema folgen. Ein Beispiel wäre eine Sammlung von Dokumenten eines Themenbereichs, zu denen wichtige Daten zusammengetragen werden wie Titel, Autor oder Erscheinungsjahr (egal, ob die eigentlichen Dokumente bzw. deren Digitalisate mit abgelegt werden).
 Auf der anderen Seite versteht man darunter insbesondere auch komplexe Netzwerke aus Wissen, welche Informationen über verschiedene Objektarten aufnehmen und miteinander verknüpfen könnnen. Vorstellbar wäre eine Wissensbasis über Personen, welche neben strukturierten Informationen über Individuen, auch Angaben zu Orten und Institutionen enthält und all diese miteinander verbindet.
 
 Es gibt eine Vielzahl an Werkzeugen zur möglichst intuitiven **Erstellung, Bearbeitung und Verwaltung** von Wissensbasen. Oft lohnt deren Einsatz, schließlich ist ein wichtiges Ziel solcher Systeme auch, **Informationen auf einfachen Wege zugänglich, nutzbar, verknüpfbar und wiederverwendbar zu machen**. Dies unterstützt die Umsetzung der FAIR-Prinzipien für ein modernes und effizientes Datenmanagement.
@@ -45,7 +45,7 @@ Beispielsweise sind die Möglichkeiten zum Datenexport davon abhängig, wie stru
 ## Ideen
 
 * Einführung WB: Definition, Einsatzbereiche, Vor- und Nachteile
-* Technologien-Vergleich zur Entscheidungshilfe: Systeme für Wissensbasen inkl. Wiki-Ökosystem (Mediawiki+Extensions, Wikibase, Wikidata...), CMS-Systeme (WordPress, Typo3 Joomla!, Drupal, Plone), Wisski, (Aufgeblähte) Knowledge Management Software? (z.B. OpenKM), Wissensgraphen als Aspekt?, zb structr als gaphbasierte eierlegende Wollmilchsau? ; evtl auch Technologien zum Datenabgleich
+* Technologien-Vergleich zur Entscheidungshilfe: Systeme für Wissensbasen inkl. Wiki-Ökosystem (Mediawiki+Extensions, Wikibase, Wikidata...), CMS-Systeme (WordPress, Typo3 Joomla!, Drupal, Plone), Wisski, (Aufgeblähte) Knowledge Management Software? (z.B. OpenKM), Wissensgraphen als Aspekt?, zb structr als gaphbasierte eierlegende Wollmilchsau?, Lösungen für Forschungsdatenrepositorien wie Fedora Commons und DSpace? ; evtl auch Technologien zum Datenabgleich
   * welche Faktoren/Anforderungen sind entscheidend?
     * Datenaustausch/Import/Schnittstellen
     * Nutzerfreundlichkeit (einfaches Anlegen neuer Einträge, Editieren...)
