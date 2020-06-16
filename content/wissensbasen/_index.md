@@ -41,6 +41,8 @@ So vielfältig wie Wissensbasen sein können, stellen sich auch die existierende
 Anzumerken ist: Nicht jede Lösung unterstützt alle beschriebenen Eigenschaften!
 Beispielsweise sind die Möglichkeiten zum Datenexport davon abhängig, wie strukturiert Daten abgelegt werden.
 
+Wichtig ist die informierte Entscheidung für eine auf den jeweiligen Anwendungsfall abgestimmte Lösung. Idealerweise sollte diese auf existierenden Tools basieren, um den entstehenden Aufwand gering zu halten.
+
 
 ## Ideen
 
