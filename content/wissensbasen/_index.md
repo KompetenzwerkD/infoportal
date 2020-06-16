@@ -46,10 +46,10 @@ Wichtig ist die informierte Entscheidung für eine auf den jeweiligen Anwendungs
 ## Technologie-Übersicht
 
 Interner Hinweis: Idealerweise auf auch auf folgende vergleichbare Faktoren/Anforderungen eigehen, damit sich die Beschreibungen der sehr heterogenen Lösungen zumindest in ein paar Punkten berühren. Gerne diese Faktoren noch ergänzen, genauso wie die technischen Lösungen
-    * Datenaustausch/Import/Schnittstellen
-    * Nutzerfreundlichkeit (einfaches Anlegen neuer Einträge, Editieren...)
-    * Nutzerverwaltung
-    * Suchfunktionen
+* Datenaustausch/Import/Schnittstellen
+* Nutzerfreundlichkeit (einfaches Anlegen neuer Einträge, Editieren...)
+* Nutzerverwaltung
+* Suchfunktionen
 
 #### Mediawiki
 
@@ -103,9 +103,4 @@ Interner Hinweis: Idealerweise auf auch auf folgende vergleichbare Faktoren/Anfo
 
 * Einführung WB: Definition, Einsatzbereiche, Vor- und Nachteile
 * Technologien-Vergleich zur Entscheidungshilfe: Systeme für Wissensbasen inkl. Wiki-Ökosystem (Mediawiki+Extensions, Wikibase, Wikidata...), CMS-Systeme (WordPress, Typo3 Joomla!, Drupal, Plone), Wisski, (Aufgeblähte) Knowledge Management Software? (z.B. OpenKM), Wissensgraphen als Aspekt?, zb structr als gaphbasierte eierlegende Wollmilchsau?, Lösungen für Forschungsdatenrepositorien wie Fedora Commons und DSpace?, auch IIIF-Framework erwähnen mit Beispiel ; evtl auch Technologien zum Datenabgleich
-  * welche Faktoren/Anforderungen sind entscheidend?
-    * Datenaustausch/Import/Schnittstellen
-    * Nutzerfreundlichkeit (einfaches Anlegen neuer Einträge, Editieren...)
-    * Nutzerverwaltung
-    * Suchfunktionen
 * Übersicht zu Normdaten + Vokabularen: Was ist das? Unterschiede Normdaten/Vokabulare? Warum/Vorteile? Gibt es Übersichten oder wichtige Vertreter für unsere Fachbereiche?
