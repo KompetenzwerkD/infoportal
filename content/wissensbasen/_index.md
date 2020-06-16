@@ -43,6 +43,19 @@ Beispielsweise sind die Möglichkeiten zum Datenexport davon abhängig, wie stru
 
 Wichtig ist die informierte Entscheidung für eine auf den jeweiligen Anwendungsfall abgestimmte Lösung. Idealerweise sollte diese auf existierenden Tools basieren, um den entstehenden Aufwand gering zu halten.
 
+## Technologie-Übersicht
+
+#### Content-Management-Systeme
+
+* typische Vertreter: Plone, WordPress, Typo3, Joomla!, Drupal
+* Kooperative Erstellung, Bearbeitung und Organisation und Darstellung von digitalen Inhalten
+* Schwerpunkt: Darstellung des Content (vor allem Texte und Multimediainhalte wie Bilder oder Videos) im Webbrowser für das WWW
+* graphische Benutzeroberfläche zur Erstellung + Verwaltung der Inhalte
+* Definition der Verarbeitungsprozesse als Workflow
+* Vergabe von Rollen und Verantwortlichkeiten
+* Semantisches Ordnen der Inhalte
+* Import und Export des Content in der Regel einfach
+* Nutzen von Vorlagen zur Erstellung von Datensätzen eines festen Schemas i.d.R. möglich
 
 ## Ideen
 
