@@ -45,6 +45,12 @@ Wichtig ist die informierte Entscheidung für eine auf den jeweiligen Anwendungs
 
 ## Technologie-Übersicht
 
+Interner Hinweis: Idealerweise auf auch auf folgende vergleichbare Faktoren/Anforderungen eigehen, damit sich die Beschreibungen der sehr heterogenen Lösungen zumindest in ein paar Punkten berühren. Gerne diese Faktoren noch ergänzen, genauso wie die technischen Lösungen
+    * Datenaustausch/Import/Schnittstellen
+    * Nutzerfreundlichkeit (einfaches Anlegen neuer Einträge, Editieren...)
+    * Nutzerverwaltung
+    * Suchfunktionen
+
 #### Mediawiki
 
 * der Heilsbringer mit tollen Erweiterungen nur ohne eigentliche Knowledge Base (Wikibase)
