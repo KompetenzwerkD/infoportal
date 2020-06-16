@@ -45,9 +45,20 @@ Wichtig ist die informierte Entscheidung für eine auf den jeweiligen Anwendungs
 
 ## Technologie-Übersicht
 
+#### Mediawiki
+
+* der Heilsbringer mit tollen Erweiterungen nur ohne eigentliche Knowledge Base (Wikibase)
+* TODO
+
+#### Wikibase
+
+* Genutzt von Wikidata
+* Empfehlenswert als Backend eines Mediawiki
+* TODO
+
 #### Content-Management-Systeme
 
-* typische Vertreter: Plone, WordPress, Typo3, Joomla!, Drupal
+* typische Vertreter: Plone, WordPress, Typo3, Joomla!, Drupal, Omeka
 * Kooperative Erstellung, Bearbeitung und Organisation und Darstellung von digitalen Inhalten
 * Schwerpunkt: Darstellung des Content (vor allem Texte und Multimediainhalte wie Bilder oder Videos) im Webbrowser für das WWW
 * graphische Benutzeroberfläche zur Erstellung + Verwaltung der Inhalte
@@ -56,6 +67,31 @@ Wichtig ist die informierte Entscheidung für eine auf den jeweiligen Anwendungs
 * Semantisches Ordnen der Inhalte
 * Import und Export des Content in der Regel einfach
 * Nutzen von Vorlagen zur Erstellung von Datensätzen eines festen Schemas i.d.R. möglich
+
+#### Virtuelle Forschungsumgebung WissKI
+
+* TODO
+
+#### Knowledge Management Software
+
+* typische Vertreter: OpenKM, TODO
+
+#### Forschungsdatenrepositorien
+
+* typische Vertreter: Fedora Commons, DSpace
+* TODO
+
+#### Knowledge Graph-basierte Data Management Software
+
+* Beispiel: structr
+* eventuell auch mit "Knowledge Management Software" verschmelzen
+* TODO
+
+#### Eventuell: IIIF
+
+* Framework um die Interoperabilität von Bilddaten zu erhöhen
+* Beispielsweise als Erweiterung bestehender CMS-Systeme wie Omeka einsetzbar
+* TODO
 
 ## Ideen
 
