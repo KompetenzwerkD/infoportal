@@ -48,6 +48,7 @@ Wichtig ist die informierte Entscheidung für eine auf den jeweiligen Anwendungs
 Interner Hinweis: Idealerweise auf auch auf folgende vergleichbare Faktoren/Anforderungen eigehen, damit sich die Beschreibungen der sehr heterogenen Lösungen zumindest in ein paar Punkten berühren. Gerne diese Faktoren noch ergänzen, genauso wie die technischen Lösungen
 
 * typische Vertreter: 
+* Allgemeines: 
 * Fokus: 
 * Nutzerfreundlichkeit: 
 * Nutzerverwaltung: 
@@ -59,13 +60,29 @@ Interner Hinweis: Idealerweise auf auch auf folgende vergleichbare Faktoren/Anfo
 #### Mediawiki
 
 * der Heilsbringer mit tollen Erweiterungen nur ohne eigentliche Knowledge Base (Wikibase)
-* TODO
+
+* Allgemeines:
+* Fokus: 
+* Nutzerfreundlichkeit: 
+* Nutzerverwaltung: 
+* Durchsuchbarkeit: 
+* Datenschema:
+* Import/Export der Daten: 
+* Schnittstellen: 
 
 #### Wikibase
 
 * Genutzt von Wikidata
 * Empfehlenswert als Backend eines Mediawiki
-* TODO
+
+* Allgemeines:
+* Fokus: 
+* Nutzerfreundlichkeit: 
+* Nutzerverwaltung: 
+* Durchsuchbarkeit: 
+* Datenschema:
+* Import/Export der Daten: 
+* Schnittstellen: 
 
 #### Content-Management-Systeme
 
@@ -84,22 +101,52 @@ Interner Hinweis: Idealerweise auf auch auf folgende vergleichbare Faktoren/Anfo
 
 #### Virtuelle Forschungsumgebung WissKI
 
-* TODO
+* Allgemeines: 
+* Fokus: 
+* Nutzerfreundlichkeit: 
+* Nutzerverwaltung: 
+* Durchsuchbarkeit: 
+* Datenschema:
+* Import/Export der Daten: 
+* Schnittstellen: 
 
 #### Knowledge Management Software
 
 * typische Vertreter: OpenKM, TODO
+* Allgemeines: 
+* Fokus: 
+* Nutzerfreundlichkeit: 
+* Nutzerverwaltung: 
+* Durchsuchbarkeit: 
+* Datenschema:
+* Import/Export der Daten: 
+* Schnittstellen: 
 
 #### Forschungsdatenrepositorien
 
 * typische Vertreter: Fedora Commons, DSpace
-* TODO
+* Allgemeines: 
+* Fokus: 
+* Nutzerfreundlichkeit: 
+* Nutzerverwaltung: 
+* Durchsuchbarkeit: 
+* Datenschema:
+* Import/Export der Daten: 
+* Schnittstellen: 
 
 #### Knowledge Graph-basierte Data Management Software
 
-* Beispiel: structr
 * eventuell auch mit "Knowledge Management Software" verschmelzen
-* TODO
+
+* typische Vertreter: struct, TODO
+* Allgemeines: 
+* Fokus: 
+* Nutzerfreundlichkeit: 
+* Nutzerverwaltung: 
+* Durchsuchbarkeit: 
+* Datenschema:
+* Import/Export der Daten: 
+* Schnittstellen: 
 
 #### Eventuell: IIIF
 
