@@ -103,7 +103,9 @@ Interner Hinweis: Idealerweise auf auch auf folgende vergleichbare Faktoren/Anfo
   * Accounterstellung möglich, sowie Vergabe von Rollen und Verantwortlichkeiten
   * Definition der Verarbeitungsprozesse als Workflow möglich
 * Durchsuchbarkeit: Volltextsuche
-* Datenschema: keine vollständige Unterstützung, aber Nutzen von Seitenvorlagen zur Erstellung von Inhalten eines festen Schemas i.d.R. möglich
+* Datenschema:
+  * keine vollständige Unterstützung, aber Nutzen von Seitenvorlagen zur Erstellung von Inhalten eines festen Schemas i.d.R. möglich
+  * semantisches Ordnen der Inhalte möglich
 * Import/Export der Daten: als flache Daten in der Regel möglich
 * Schnittstellen: Bereitstellung der Daten über typische Schnittstellen wie Sparql i.d.R. nicht möglich
 
