@@ -46,10 +46,15 @@ Wichtig ist die informierte Entscheidung für eine auf den jeweiligen Anwendungs
 ## Technologie-Übersicht
 
 Interner Hinweis: Idealerweise auf auch auf folgende vergleichbare Faktoren/Anforderungen eigehen, damit sich die Beschreibungen der sehr heterogenen Lösungen zumindest in ein paar Punkten berühren. Gerne diese Faktoren noch ergänzen, genauso wie die technischen Lösungen
-* Datenaustausch/Import/Schnittstellen
-* Nutzerfreundlichkeit (einfaches Anlegen neuer Einträge, Editieren...)
-* Nutzerverwaltung
-* Suchfunktionen
+
+* typische Vertreter: 
+* Fokus: 
+* Nutzerfreundlichkeit: 
+* Nutzerverwaltung: 
+* Durchsuchbarkeit: 
+* Datenschema:
+* Import/Export der Daten: 
+* Schnittstellen: 
 
 #### Mediawiki
 
@@ -65,14 +70,17 @@ Interner Hinweis: Idealerweise auf auch auf folgende vergleichbare Faktoren/Anfo
 #### Content-Management-Systeme
 
 * typische Vertreter: Plone, WordPress, Typo3, Joomla!, Drupal, Omeka
-* Kooperative Erstellung, Bearbeitung und Organisation und Darstellung von digitalen Inhalten
-* Schwerpunkt: Darstellung des Content (vor allem Texte und Multimediainhalte wie Bilder oder Videos) im Webbrowser für das WWW
-* graphische Benutzeroberfläche zur Erstellung + Verwaltung der Inhalte
-* Definition der Verarbeitungsprozesse als Workflow
-* Vergabe von Rollen und Verantwortlichkeiten
-* Semantisches Ordnen der Inhalte
-* Import und Export des Content in der Regel einfach
-* Nutzen von Vorlagen zur Erstellung von Datensätzen eines festen Schemas i.d.R. möglich
+* Fokus:
+  * Kooperative Erstellung, Bearbeitung und Organisation und Darstellung von digitalen Inhalten
+  * Schwerpunkt ist die Darstellung des Content (vor allem Texte und Multimediainhalte wie Bilder oder Videos) im Webbrowser für das WWW
+* Nutzerfreundlichkeit: graphische Benutzeroberfläche zur Erstellung + Verwaltung der Inhalte
+* Nutzerverwaltung:
+  * Accounterstellung möglich, sowie Vergabe von Rollen und Verantwortlichkeiten
+  * Definition der Verarbeitungsprozesse als Workflow möglich
+* Durchsuchbarkeit: Volltextsuche
+* Datenschema: keine vollständige Unterstützung, aber Nutzen von Seitenvorlagen zur Erstellung von Datensätzen eines festen Schemas i.d.R. möglich
+* Import/Export der Daten: als flache Daten in der Regel möglich
+* Schnittstellen: Bereitstellung der Daten über typische Schnittstellen wie Sparql i.d.R. nicht möglich
 
 #### Virtuelle Forschungsumgebung WissKI
 
