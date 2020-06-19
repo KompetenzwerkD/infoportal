@@ -62,11 +62,19 @@ Interner Hinweis: Idealerweise auf auch auf folgende vergleichbare Faktoren/Anfo
 * der Heilsbringer mit tollen Erweiterungen nur ohne eigentliche Knowledge Base (Wikibase)
 
 * Allgemeines:
+  * Verwaltungssoftware für Inhalte in Form eines Wiki-Systems
+  * Ökosystem mit einer Vielzahl hilfreicher Erweiterungen des Grundsystems
 * Fokus: 
-* Nutzerfreundlichkeit: 
-* Nutzerverwaltung: 
-* Durchsuchbarkeit: 
+* Nutzerfreundlichkeit:
+  * in das Wiki integrierte graphische Benutzeroberfläche zur Erstellung + Verwaltung der Inhalte
+  * Nachverfolgen von Änderungen
+* Nutzerverwaltung:
+  * integrierte Nutzerverwaltung und Rechteverwaltung
+  * auch offene Wikis sind möglich
+* Durchsuchbarkeit: Volltextsuche
 * Datenschema:
+  * keine native Unterstützung, aber Nutzen von Seitenvorlagen zur Erstellung von Datensätzen eines festen Schemas möglich
+  * Einordnung der Seiten in Kategorien und Namensräume
 * Import/Export der Daten: 
 * Schnittstellen: 
 
@@ -95,7 +103,7 @@ Interner Hinweis: Idealerweise auf auch auf folgende vergleichbare Faktoren/Anfo
   * Accounterstellung möglich, sowie Vergabe von Rollen und Verantwortlichkeiten
   * Definition der Verarbeitungsprozesse als Workflow möglich
 * Durchsuchbarkeit: Volltextsuche
-* Datenschema: keine vollständige Unterstützung, aber Nutzen von Seitenvorlagen zur Erstellung von Datensätzen eines festen Schemas i.d.R. möglich
+* Datenschema: keine vollständige Unterstützung, aber Nutzen von Seitenvorlagen zur Erstellung von Inhalten eines festen Schemas i.d.R. möglich
 * Import/Export der Daten: als flache Daten in der Regel möglich
 * Schnittstellen: Bereitstellung der Daten über typische Schnittstellen wie Sparql i.d.R. nicht möglich
 
