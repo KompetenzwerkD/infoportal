@@ -59,12 +59,12 @@ Interner Hinweis: Idealerweise auf auch auf folgende vergleichbare Faktoren/Anfo
 
 #### Mediawiki
 
-* der Heilsbringer mit tollen Erweiterungen nur ohne eigentliche Knowledge Base (Wikibase)
-
 * Allgemeines:
-  * Verwaltungssoftware für Inhalte in Form eines Wiki-Systems
+  * Verwaltungssoftware für Inhalte in Form eines Wiki-Systems, dessen Inhalte direkt im Webbrowser bearbeitet und geändert werden können
   * Ökosystem mit einer Vielzahl hilfreicher Erweiterungen des Grundsystems
-* Fokus: 
+* Fokus:
+  * Wissen gemeinschaftlich sammeln und bearbeiten
+  * Schwerpunkt auf textuellen Daten, die durch Fotos oder andere Medien ergänzt werden können
 * Nutzerfreundlichkeit:
   * in das Wiki integrierte graphische Benutzeroberfläche zur Erstellung + Verwaltung der Inhalte
   * Nachverfolgen von Änderungen
