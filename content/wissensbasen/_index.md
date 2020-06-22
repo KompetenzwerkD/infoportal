@@ -59,6 +59,8 @@ Interner Hinweis: Idealerweise auf auch auf folgende vergleichbare Faktoren/Anfo
 
 #### Mediawiki
 
+MediaWikis erlauben es auf einfache Weise Wissen zu teilen. Dieses Wissen liegt in für Menschen leicht lesbare Form (Texte bzw. Mediendateien) vor. Im Gegensatz dazu sind sie aber nicht dafür ausgelegt, einzelne Fakten/Informationen maschniell abrufbar zu machen bzw. Fakten automatsiche zu aggregieren. Um dieses Defizit auszugleichen gibt es enige Erweiterungen zu MediaWiki, die es erlauben Daten strukturiert zu erfassen und abzufragen. Die beiden wichtigsten hierfür sind Wikibase und Sematic MediaWiki.
+
 * Allgemeines:
   * Verwaltungssoftware für Inhalte in Form eines Wiki-Systems, dessen Inhalte direkt im Webbrowser bearbeitet und geändert werden können
   * Ökosystem mit einer Vielzahl hilfreicher Erweiterungen des Grundsystems
@@ -76,21 +78,40 @@ Interner Hinweis: Idealerweise auf auch auf folgende vergleichbare Faktoren/Anfo
   * keine native Unterstützung, aber Nutzen von Seitenvorlagen zur Erstellung von Datensätzen eines festen Schemas möglich
   * Einordnung der Seiten in Kategorien und Namensräume
 * Import/Export der Daten: 
+  * Datenexport als XML-Dump
+  * Mit Erweiterung auch CSV-Import möglich
 * Schnittstellen: 
+  * [Mediawiki API](https://www.mediawiki.org/wiki/API:Main_page)
+
 
 #### Wikibase
+
+Wikibase ist eine freie Erweiterung zu MediaWiki, welche mithilfe derer maschinlesbare, struturierte Wissensdatenbanken erstellt werden können. Es verwendet dabei Linked-Open-Data Prinzipien und die Daten können mittels SPARQL abgefragt werden bzw. u.a. als RDF/XML, N3, Json, Yaml etc. exportiert werden.
+
 
 * Genutzt von Wikidata
 * Empfehlenswert als Backend eines Mediawiki
 
 * Allgemeines:
+  * Mediawiki-Erweiterung zur strukturierten, maschinenlesbaren Datenerfassung
+  * Einfaches, aber flexibles Datenmodell
+  * Verwendet die Mediawiki-Oberfläche
 * Fokus: 
+  * Strukturierte Daten (Statements, ähnlich semantischen Tripel)
 * Nutzerfreundlichkeit: 
+  * Verwendet die Mediawiki-Oberfläche
 * Nutzerverwaltung: 
+  * Verwendet die Nutzerverwaltung von Mediawiki
 * Durchsuchbarkeit: 
+  * Suchindex aller angelegten Items/Properties
+  * Wikidata-Query-Service für SPARQL-Abfragen
 * Datenschema:
+  *  basiert auf zwei Typen von Entitäten: Items und Properties. Zu jeder Entität können Fakten in form von Statements (semantsiche Tripel) angelegt werden. Diese Statements können weiter qualifiziert bzw. mit Referenzen versehen werden.
 * Import/Export der Daten: 
+  * Datenimport über [Quickstatements](https://www.wikidata.org/wiki/Help:QuickStatements) 
+  * Datenabfrage über SPARQL-Endpoint
 * Schnittstellen: 
+  * Medaiwiki-API und SPARQL-Endpoint
 
 #### Content-Management-Systeme
 
