@@ -138,8 +138,14 @@ Wikibase ist eine freie Erweiterung zu MediaWiki, welche mithilfe derer maschinl
 * Nutzerverwaltung: 
 * Durchsuchbarkeit: Facettierte Suche und Volltextsuche möglich, Search APi und Solr Search API vorhanden
 * Datenschema: Flexible Erstellung von Datenstrukturen/Schemas, einfaches Einbinden lokaler oder globaler Normdaten/Authorities und fester Vokabulare. Unterstützung semantischer Annotationen von Texten.
-* Import/Export der Daten: Verwendung eines Triple Stores als Back-End mit Möglichkeiten des Imports/Exports von Ontologien als OWL/XML, RDF/XML, N-Triples, Turtle, SPARQL, Legacy XML, HTML tag soup, RSS 2.0 und Google Social Graph API JSON und von Instanzdaten mittels OWL-DL/XML or RDF/XML. 
-* Schnittstellen: SPARQL-Endpunkt zum strukturierten Zugriff auf die Daten. Integration einer Open Archive Initiative Protocol for Metadata Harvesting (OAI-PMH)-Schnittstelle für Metadaten. 
+* Import/Export der Daten:
+  * Verwendung eines Triple Stores als Back-End
+  * Import/Export von Ontologien als OWL/XML, RDF/XML, N-Triples, Turtle, SPARQL, Legacy XML, HTML tag soup, RSS 2.0 und Google Social Graph API JSON
+  * Import/Export von Instanzdaten mittels OWL-DL/XML or RDF/XML
+* Schnittstellen: 
+  * Trennung von Onotologieebene (Referenz und Anwendung), Datenebene (Instanzdaten) und eienr Ebene für Autoritätsdaten mit festen Schnittstellen
+  * SPARQL-Endpunkt zum strukturierten Zugriff auf die Daten
+  * Integration einer Open Archive Initiative Protocol for Metadata Harvesting (OAI-PMH)-Schnittstelle für Metadaten
 
 #### Knowledge Management Software
 
