@@ -128,7 +128,7 @@ Wikibase ist eine freie Erweiterung zu MediaWiki, welche mithilfe derer maschinl
   * keine vollständige Unterstützung, aber Nutzen von Seitenvorlagen zur Erstellung von Inhalten eines festen Schemas i.d.R. möglich
   * semantisches Ordnen der Inhalte möglich
 * Import/Export der Daten: als flache Daten in der Regel möglich
-* Schnittstellen: Bereitstellung der Daten über typische Schnittstellen wie Sparql i.d.R. nicht möglich
+* Schnittstellen: Bereitstellung der Daten über typische Schnittstellen wie Sparql i.d.R. nicht möglich, eventuell über Erweiterungen (Community-Support bzw. Engagement für einige CMS-Systeme sehr umfangreich)
 
 #### Virtuelle Forschungsumgebung WissKI
 
