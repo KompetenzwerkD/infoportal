@@ -132,14 +132,14 @@ Wikibase ist eine freie Erweiterung zu MediaWiki, welche mithilfe derer maschinl
 
 #### Virtuelle Forschungsumgebung WissKI
 
-* Allgemeines: 
+* Allgemeines: Auf dem CMS Drupal basierend
 * Fokus: 
 * Nutzerfreundlichkeit: 
 * Nutzerverwaltung: 
 * Durchsuchbarkeit: 
 * Datenschema:
-* Import/Export der Daten: 
-* Schnittstellen: 
+* Import/Export der Daten: Verwendung eines Triple Stores als Back-End mit Möglichkeiten des Imports/Exports von Ontologien als OWL/XML, RDF/XML, N-Triples, Turtle, SPARQL, Legacy XML, HTML tag soup, RSS 2.0 und Google Social Graph API JSON und von Instanzdaten mittels OWL-DL/XML or RDF/XML. 
+* Schnittstellen: SPARQL-Endpunkt zum strukturierten Zugriff auf die Daten. Integration einer Open Archive Initiative Protocol for Metadata Harvesting (OAI-PMH)-Schnittstelle für Metadaten. 
 
 #### Knowledge Management Software
 
