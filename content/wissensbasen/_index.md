@@ -97,16 +97,16 @@ Wikibase ist eine freie Erweiterung zu MediaWiki, welche mithilfe derer maschinl
   * Einfaches, aber flexibles Datenmodell
   * Verwendet die Mediawiki-Oberfläche
 * Fokus: 
-  * Strukturierte Daten (Statements, ähnlich semantischen Tripel)
+  * Strukturierte Daten (Statements, ähnlich semantischen Tripeln)
 * Nutzerfreundlichkeit: 
-  * Verwendet die Mediawiki-Oberfläche
+  * Verwendet die bekannte Mediawiki-Oberfläche
 * Nutzerverwaltung: 
-  * Verwendet die Nutzerverwaltung von Mediawiki
+  * Verwendet die vielseitige Nutzerverwaltung von Mediawiki
 * Durchsuchbarkeit: 
   * Suchindex aller angelegten Items/Properties
   * Wikidata-Query-Service für SPARQL-Abfragen
 * Datenschema:
-  *  basiert auf zwei Typen von Entitäten: Items und Properties. Zu jeder Entität können Fakten in form von Statements (semantsiche Tripel) angelegt werden. Diese Statements können weiter qualifiziert bzw. mit Referenzen versehen werden.
+  *  basiert auf zwei Typen von Entitäten: Items und Properties. Zu jeder Entität können Fakten in Form von Statements (semantische Tripel) angelegt werden. Diese Statements können weiter qualifiziert bzw. mit Referenzen versehen werden.
 * Import/Export der Daten: 
   * Datenimport über [Quickstatements](https://www.wikidata.org/wiki/Help:QuickStatements) 
   * Datenabfrage über SPARQL-Endpoint
@@ -134,10 +134,10 @@ Wikibase ist eine freie Erweiterung zu MediaWiki, welche mithilfe derer maschinl
 
 * Allgemeines: Auf dem CMS Drupal basierend
 * Fokus: 
-* Nutzerfreundlichkeit: 
+* Nutzerfreundlichkeit: Erstellung flexibler graphischer Eingabemasken für strukturierte Daten
 * Nutzerverwaltung: 
-* Durchsuchbarkeit: 
-* Datenschema:
+* Durchsuchbarkeit: Facettierte Suche und Volltextsuche möglich, Search APi und Solr Search API vorhanden
+* Datenschema: Flexible Erstellung von Datenstrukturen/Schemas, einfaches Einbinden lokaler oder globaler Normdaten/Authorities und fester Vokabulare. Unterstützung semantischer Annotationen von Texten.
 * Import/Export der Daten: Verwendung eines Triple Stores als Back-End mit Möglichkeiten des Imports/Exports von Ontologien als OWL/XML, RDF/XML, N-Triples, Turtle, SPARQL, Legacy XML, HTML tag soup, RSS 2.0 und Google Social Graph API JSON und von Instanzdaten mittels OWL-DL/XML or RDF/XML. 
 * Schnittstellen: SPARQL-Endpunkt zum strukturierten Zugriff auf die Daten. Integration einer Open Archive Initiative Protocol for Metadata Harvesting (OAI-PMH)-Schnittstelle für Metadaten. 
 
