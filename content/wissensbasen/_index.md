@@ -59,7 +59,7 @@ Interner Hinweis: Idealerweise auf auch auf folgende vergleichbare Faktoren/Anfo
 
 #### Mediawiki
 
-MediaWikis erlauben es auf einfache Weise Wissen zu teilen. Dieses Wissen liegt in für Menschen leicht lesbare Form (Texte bzw. Mediendateien) vor. Im Gegensatz dazu sind sie aber nicht dafür ausgelegt, einzelne Fakten/Informationen maschniell abrufbar zu machen bzw. Fakten automatsiche zu aggregieren. Um dieses Defizit auszugleichen gibt es enige Erweiterungen zu MediaWiki, die es erlauben Daten strukturiert zu erfassen und abzufragen. Die beiden wichtigsten hierfür sind Wikibase und Sematic MediaWiki.
+MediaWikis erlauben es auf einfache Weise Wissen zu teilen. Dieses Wissen liegt in für Menschen leicht lesbare Form (Texte bzw. Mediendateien) vor. Im Gegensatz dazu sind sie aber nicht dafür ausgelegt, einzelne Fakten/Informationen maschinell abrufbar zu machen bzw. Fakten automatisch zu aggregieren. Um dieses Defizit auszugleichen gibt es enige Erweiterungen zu MediaWiki, die es erlauben Daten strukturiert zu erfassen und abzufragen. Die beiden wichtigsten hierfür sind Wikibase und Sematic MediaWiki.
 
 * Allgemeines:
   * Verwaltungssoftware für Inhalte in Form eines Wiki-Systems, dessen Inhalte direkt im Webbrowser bearbeitet und geändert werden können
@@ -132,16 +132,32 @@ Wikibase ist eine freie Erweiterung zu MediaWiki, welche mithilfe derer maschinl
 
 #### Virtuelle Forschungsumgebung WissKI
 
-* Allgemeines: Auf dem CMS Drupal basierend
+Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur Verwaltung wissenschaftlicher Daten, die vollständig Open Source ist. Es stellt ein flexibles Tool für die Datenerfassung von ortsverteilt arbeitenden Forschern dar. Dabei setzt es auf Semantic-Web-Technologie und unterstützt entsprechende Schnittstellen und Standards.
+
+* Allgemeines:
+ * Umfangreiche virtuelle Forschungsumgebung
+ * Basierend auf dem CMS Drupal (dessen zahlreiche Erweiterungen genutzt werden können)
+ * Beachtung wichtiger Aspekte des Datenmanagements: Beständigkeit von Informationen, langfristige Aufbewahrung und Zugänglichkeit, Standards für digitale Dokumentation und E-Publishing
 * Fokus: 
-* Nutzerfreundlichkeit: Erstellung flexibler graphischer Eingabemasken für strukturierte Daten
-* Nutzerverwaltung: 
-* Durchsuchbarkeit: Facettierte Suche und Volltextsuche möglich, Search APi und Solr Search API vorhanden
-* Datenschema: Flexible Erstellung von Datenstrukturen/Schemas, einfaches Einbinden lokaler oder globaler Normdaten/Authorities und fester Vokabulare. Unterstützung semantischer Annotationen von Texten.
+  * Erstellung und Bereitstellung von semantisch angereichertem Content
+  * Kombination von Daten diverser Fachdisziplinen
+  * Gedächtnisinstitutionen (Museen, Archive, Bibliotheken), welche Wissen sammeln, speichern, verwalten und kommunizieren wollen
+  * Zusätzlich: Halbautomatische Textannotation
+* Nutzerfreundlichkeit:
+  * Erstellung von Definitionen/Schemata mittels graphischer Oberfläche (basierend auf importierbaren Ontologien)
+  * Daraus: Automatische Erstellung (anpassbarer) graphischer Masken für die Eingabe von Daten(instanzen)
+* Nutzerverwaltung:
+  * Nutzer- und Rechteverwaltung durch Drupal gegeben
+  * Kommunikationsfunktionalitäten wie Mailing(listen), Forum, Blog
+* Durchsuchbarkeit:
+  * Facettierte Suche und Volltextsuche möglich
+  * Search API und Solr Search API vorhanden
+* Datenschema: Flexible Erstellung von Datenstrukturen/Schemas, einfaches Einbinden lokaler oder globaler Normdaten und fester Vokabulare. Unterstützung semantischer Annotationen von Texten.
 * Import/Export der Daten:
   * Verwendung eines Triple Stores als Back-End
-  * Import/Export von Ontologien als OWL/XML, RDF/XML, N-Triples, Turtle, SPARQL, Legacy XML, HTML tag soup, RSS 2.0 und Google Social Graph API JSON
+  * Import/Export von Ontologien/Schemas als OWL/XML, RDF/XML, N-Triples, Turtle, SPARQL, Legacy XML, HTML tag soup, RSS 2.0 und Google Social Graph API JSON
   * Import/Export von Instanzdaten mittels OWL-DL/XML or RDF/XML
+  * Import/Export von Authorities (Normdaten/Vokabulare) mittels Simple Knowledge Organization System (SKOS)
 * Schnittstellen: 
   * Trennung von Onotologieebene (Referenz und Anwendung), Datenebene (Instanzdaten) und eienr Ebene für Autoritätsdaten mit festen Schnittstellen
   * SPARQL-Endpunkt zum strukturierten Zugriff auf die Daten
