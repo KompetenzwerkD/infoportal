@@ -88,14 +88,12 @@ MediaWikis erlauben es auf einfache Weise Wissen zu teilen. Dieses Wissen liegt 
 
 Wikibase ist eine freie Erweiterung zu MediaWiki, welche mithilfe derer maschinlesbare, struturierte Wissensdatenbanken erstellt werden können. Es verwendet dabei Linked-Open-Data Prinzipien und die Daten können mittels SPARQL abgefragt werden bzw. u.a. als RDF/XML, N3, Json, Yaml etc. exportiert werden.
 
-
-* Genutzt von Wikidata
-* Empfehlenswert als Backend eines Mediawiki
-
 * Allgemeines:
   * Mediawiki-Erweiterung zur strukturierten, maschinenlesbaren Datenerfassung
   * Einfaches, aber flexibles Datenmodell
   * Verwendet die Mediawiki-Oberfläche
+  * Genutzt von Wikidata
+  * Empfehlenswert als Backend eines Mediawiki
 * Fokus: 
   * Strukturierte Daten (Statements, ähnlich semantischen Tripeln)
 * Nutzerfreundlichkeit: 
