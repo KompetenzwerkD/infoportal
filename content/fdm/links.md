@@ -43,10 +43,16 @@ Zahlreiche Förderer verlangen mittlerweile einen Datenmanagementplan als Teil e
 
 ## Forschungsdatenrepositorien finden
 
-Um [Forschungsdaten](@/glossar/_index.md#forschungsdaten) entsprechend der [FAIR-Prinzipien](@/glossar/_index.md#fair-prinzipien) auffindbar, zugänglich und langfristig aufzubewahren, ist die Bereitstellung über ein nachhaltig betriebenes [Forschungsdatenrepositorium](@/glossar/_index.md#repositorium) anzuraten. Mittelfristig werden hier vermutlich die [NFDI-Initiativen](@/glossar/_index.md#nfdi) eine wichtige Rolle spielen. Momentan können sich unter anderem folgende Anlaufstellen als hilfreich erweisen:
+Um [Forschungsdaten](@/glossar/_index.md#forschungsdaten) entsprechend der [FAIR-Prinzipien](@/glossar/_index.md#fair-prinzipien) auffindbar, zugänglich und langfristig aufzubewahren, ist die Bereitstellung über ein nachhaltig betriebenes [Forschungsdatenrepositorium](@/glossar/_index.md#repositorium) anzuraten.
+Mittelfristig werden in diesem Zusammenhang vermutlich die [NFDI-Initiativen](@/glossar/_index.md#nfdi) eine wichtige Rolle spielen. Momentan können sich unter anderem folgende Anlaufstellen als hilfreich erweisen:
 
-* [Repositoriensuche in der Registry of Research Data Repositories zum Aufspüren fachspezifischer Repositorien](https://www.re3data.org/)
-* [Zenodo – Das offene fächerübergreifende Forschungsdatenrepositorium des CERN](https://zenodo.org/)
+* Bei der Wahl eines passenden Repositoriums kann die [Handreichung zur Wahl von Forschungsdatenrepositorien](https://forschungsdaten-thueringen.de/files/material/Infomaterial/Handreichungen/handreichung_forschungsdatenrepositorien.pdf) des *Kompetenznetzwerk Forschungsdatenmanagement an den Thüringer Hochschulen* hilfreich sein, in der unter anderem Qualitätsmerkmale eines guten Repositoriums vorgestellt werden.
+* Die [Repositoriensuche](https://www.re3data.org/) in der Registry of Research Data Repositories dient zum Aufspüren fachspezifischer Repositorien.
+
+Mögliche (universelle, nicht fachspezifische) Repositorien:
+
+* [Zenodo](https://zenodo.org/) – Das offene fächerübergreifende Forschungsdatenrepositorium des CERN
+* [B2Share](https://b2share.eudat.eu/) des EUDAT-Projekts bietet eine Plattform für die Zugänglichmachung interdisziplinärer Forschungsdaten
 
 ## Normdaten, Ontologien und Vokabulare nutzen
 
