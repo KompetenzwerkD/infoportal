@@ -135,9 +135,9 @@ Ein Content-Management-System (CMS) ist eine Software zur gemeinschaftlichen Ers
 Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur Verwaltung strukturierter wissenschaftlicher Daten, die vollständig Open Source ist. Sie stellt ein flexibles Tool für die Datenerfassung von ortsverteilt arbeitenden Forschern dar. Dabei setzt sie auf bewährte Semantic-Web-Technologie und unterstützt entsprechende Schnittstellen und Standards.
 
 * Allgemeines:
- * Umfangreiche virtuelle Forschungsumgebung
- * Basierend auf dem CMS Drupal (dessen zahlreiche Erweiterungen genutzt werden können)
- * Beachtung wichtiger Aspekte des Datenmanagements: Beständigkeit von Informationen, langfristige Aufbewahrung und Zugänglichkeit, Standards für digitale Dokumentation und E-Publishing
+  * Umfangreiche virtuelle Forschungsumgebung
+  * Basierend auf dem CMS Drupal (dessen zahlreiche Erweiterungen genutzt werden können)
+  * Beachtung wichtiger Aspekte des Datenmanagements: Beständigkeit von Informationen, langfristige Aufbewahrung und Zugänglichkeit, Standards für digitale Dokumentation und E-Publishing
 * Fokus: 
   * Erstellung und Bereitstellung von semantisch angereichertem Content
   * Kombination von Daten diverser Fachdisziplinen und Quellen
