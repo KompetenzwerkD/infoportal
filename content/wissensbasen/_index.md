@@ -165,15 +165,24 @@ Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur 
   * SPARQL-Endpunkt zum strukturierten Zugriff auf die Daten
   * Integration einer Open Archive Initiative Protocol for Metadata Harvesting (OAI-PMH)-Schnittstelle für Metadaten
 
-#### Forschungsdatenrepositorien
+#### Repositorien für Forschungsdaten
 
-* typische Vertreter: Fedora Commons, DSpace
+Repositorien sind universelle Speicherorte für digitale Objekte, die diese für einen öffentlichen oder beschränkten Nutzendenkreis bereitstellen. Ziel ist es dabei die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.
+
+* typische Vertreter: [Fedora Commons](https://duraspace.org/fedora/), [DSpace](https://duraspace.org/dspace/)
 * Allgemeines: 
-* Fokus: 
-  * technisch versierte Benutzer bzw. Systembetreuer
-* Nutzerfreundlichkeit: 
-* Nutzerverwaltung: 
-* Durchsuchbarkeit: 
+* Fokus:
+  * langfristiger, persistenter Zugriff auf Daten
+  * Archivierung steht im Mittelpunkt, erreicht durch Umsetzung des OAIS (Open Archival Information System - Referenzmodell für ein dynamisches, erweiterungsfähiges Archivinformationssystem)
+  * Hauptzielgruppe sind Archive und Bibliotheken
+  * Fokus auf Metadaten zur Datenbeschreibung um Zugänglichkeit und Durchsuchbarkeit sicherzustellen
+  * Referenzierbarkeit und Zitierbarkeit durch Vergabe endeutiger persistenter Identifikatoren 
+* Nutzerfreundlichkeit:
+  * Dateneinspeisung über webbasierte Benutzeroberfläche
+* Nutzerverwaltung:
+  * Nutzer- und Rechteverwaltung integriert
+* Durchsuchbarkeit:
+  * Volltextsuche und in der Regel metadatenbasierte Suche
 * Datenschema:
 * Import/Export der Daten: 
 * Schnittstellen: 
