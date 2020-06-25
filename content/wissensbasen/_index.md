@@ -37,7 +37,7 @@ So vielfältig wie Wissensbasen sein können, stellen sich auch die existierende
 * Präsentation bzw. Darstellung des zusammengetragenen Wissens
 * Suchfunktionalität (facettiert oder zumindest Volltext)
 * Möglichkeiten für den Import bzw. Export von Daten
-* Bereitstellung der Daten über standardisierte Schnittstellen (als Linked open Data oder ähnliches)
+* Bereitstellung der Daten über standardisierte Schnittstellen (als Linked Open Data oder ähnliches)
 
 Anzumerken ist: Nicht jede Lösung unterstützt alle beschriebenen Eigenschaften!
 Beispielsweise sind die Möglichkeiten zum Datenexport davon abhängig, wie strukturiert Daten abgelegt werden.
