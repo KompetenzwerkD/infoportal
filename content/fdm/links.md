@@ -51,8 +51,8 @@ Mittelfristig werden in diesem Zusammenhang vermutlich die [NFDI-Initiativen](@/
 
 Mögliche (universelle, nicht fachspezifische) Repositorien:
 
-* [Zenodo](https://zenodo.org/) – Das offene fächerübergreifende Forschungsdatenrepositorium des CERN
-* [B2Share](https://b2share.eudat.eu/) des EUDAT-Projekts bietet eine Plattform für die Zugänglichmachung interdisziplinärer Forschungsdaten
+* [Zenodo](https://zenodo.org/) ist das offene fächerübergreifende Forschungsdatenrepositorium des CERN.
+* [B2Share](https://b2share.eudat.eu/) des EUDAT-Projekts bietet eine Plattform für die Zugänglichmachung interdisziplinärer Forschungsdaten.
 
 ## Normdaten, Ontologien und Vokabulare nutzen
 
