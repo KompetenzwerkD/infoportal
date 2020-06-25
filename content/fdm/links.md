@@ -70,7 +70,7 @@ Zur Dokumentation der eigenen Forschungsdaten ist die Erstellung begleitender [M
 
 ## Praktische Tipps, lokale Hinweise, Vernetzung 
 
-Unter folgenden Links können Sie die Thematik weiter vertiefen und sich lokal in Sachsen informieren:
+Unter folgenden Links können Sie die Thematik weiter vertiefen bzw. sich lokal in Sachsen informieren:
 
 * [Leitfaden der Standford Libraries zum Erfassen von Metadaten zu Forschungsdaten](https://library.stanford.edu/research/data-management-services/data-best-practices/creating-metadata/basic-approach-metadata)
 * [UK Data Service - Documentation](https://www.ukdataservice.ac.uk/manage-data/document.aspx)
