@@ -48,6 +48,7 @@ Mittelfristig werden in diesem Zusammenhang vermutlich die [NFDI-Initiativen](@/
 
 * Bei der Wahl eines passenden Repositoriums kann die [Handreichung zur Wahl von Forschungsdatenrepositorien](https://forschungsdaten-thueringen.de/files/material/Infomaterial/Handreichungen/handreichung_forschungsdatenrepositorien.pdf) des *Kompetenznetzwerk Forschungsdatenmanagement an den Thüringer Hochschulen* hilfreich sein, in der unter anderem Qualitätsmerkmale eines guten Repositoriums vorgestellt werden.
 * Die [Repositoriensuche](https://www.re3data.org/) in der Registry of Research Data Repositories dient zum Aufspüren fachspezifischer Repositorien.
+* [RIsources](https://risources.dfg.de/), das Informationsportal der DFG zu wissenschaftlichen Forschungsinfrastrukturen und Repositorien
 
 Mögliche (universelle, nicht fachspezifische) Repositorien:
 
