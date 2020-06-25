@@ -113,9 +113,11 @@ Wikibase ist eine freie Erweiterung zu MediaWiki, welche mithilfe derer maschinl
 
 #### Content-Management-Systeme
 
+Ein Content-Management-System (CMS) ist eine Software zur gemeinschaftlichen Erstellung, Bearbeitung und Organisation und Darstellung von digitalen Inhalten zur Verwendung in Webseiten. Zur Bedienung eines CMS sind dank graphischer Benutzeroberfläche keine bzw. kaum Programmier- oder HTML-Kenntnisse nötig. Einschränkungen sind in der Regel bezüglich der Arbeit mit festen Schemata für Daten, der Integration von Normdaten oder Vokabularen und der verfügbaren Schnittstellen und Exportformate hinzunehmen. Dennoch kann in bestimmten Fällen der Einsatz eines CMS lohnen.
+
 * typische Vertreter: Plone, WordPress, Typo3, Joomla!, Drupal, Omeka
 * Fokus:
-  * Kooperative Erstellung, Bearbeitung und Organisation und Darstellung von digitalen Inhalten
+  * Kooperative Erstellung, Bearbeitung und Organisation von digitalen Inhalten
   * Schwerpunkt ist die Darstellung des Content (vor allem Texte und Multimediainhalte wie Bilder oder Videos) im Webbrowser für das WWW
 * Nutzerfreundlichkeit: graphische Benutzeroberfläche zur Erstellung + Verwaltung der Inhalte
 * Nutzerverwaltung:
@@ -162,6 +164,19 @@ Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur 
   * SPARQL-Endpunkt zum strukturierten Zugriff auf die Daten
   * Integration einer Open Archive Initiative Protocol for Metadata Harvesting (OAI-PMH)-Schnittstelle für Metadaten
 
+#### Forschungsdatenrepositorien
+
+* typische Vertreter: Fedora Commons, DSpace
+* Allgemeines: 
+* Fokus: 
+  * technisch versierte Benutzer bzw. Systembetreuer
+* Nutzerfreundlichkeit: 
+* Nutzerverwaltung: 
+* Durchsuchbarkeit: 
+* Datenschema:
+* Import/Export der Daten: 
+* Schnittstellen: 
+
 #### Knowledge Management Software
 
 * typische Vertreter: OpenKM, TODO
@@ -174,17 +189,6 @@ Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur 
 * Import/Export der Daten: 
 * Schnittstellen: 
 
-#### Forschungsdatenrepositorien
-
-* typische Vertreter: Fedora Commons, DSpace
-* Allgemeines: 
-* Fokus: 
-* Nutzerfreundlichkeit: 
-* Nutzerverwaltung: 
-* Durchsuchbarkeit: 
-* Datenschema:
-* Import/Export der Daten: 
-* Schnittstellen: 
 
 #### Knowledge Graph-basierte Data Management Software
 
