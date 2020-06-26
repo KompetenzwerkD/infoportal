@@ -169,6 +169,8 @@ Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur 
 
 Repositorien sind universelle Speicherorte für digitale Objekte, die diese für einen öffentlichen oder beschränkten Nutzendenkreis bereitstellen. Ziel solcher Systeme ist es dabei in erster Linie, die Auffindbarkeit und Zugänglichkeit der Daten zu sichern. Daher stellen sie unter anderem eine sinnvolle Basis für Anbieter nachhaltiger Forschungsdatenrepositorien dar, die Daten langfristig aufbewahren wollen.
 
+Empfehlenswert für Anwender könnte besonders das auf Fedora basierende Islandora sein, welches die typische Beschränkungen vieler Repositorien gezielt angeht. So bietet Islandora beispielsweise ein stark erweitertes Frontend durch Integration des CMS Drupal, eine Integration von Wissensgraphen (Blazegraph), einen IIIF-Server (Cantaloupe) und erweiterte SchnittstellenUnterstützung. 
+
 * typische Vertreter: [Fedora Commons](https://duraspace.org/fedora/), [DSpace](https://duraspace.org/dspace/), [Islandora](https://islandora.ca/)
 * Allgemeines: 
   * Universeller Speicherort für digitale Objekte
