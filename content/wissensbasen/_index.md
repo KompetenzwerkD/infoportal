@@ -165,27 +165,35 @@ Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur 
   * SPARQL-Endpunkt zum strukturierten Zugriff auf die Daten
   * Integration einer Open Archive Initiative Protocol for Metadata Harvesting (OAI-PMH)-Schnittstelle für Metadaten
 
-#### Repositorien für Forschungsdaten
+#### Repositorien für Forschungsdaten / DAM (Digital Asset Management) 
 
-Repositorien sind universelle Speicherorte für digitale Objekte, die diese für einen öffentlichen oder beschränkten Nutzendenkreis bereitstellen. Ziel ist es dabei die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.
+Repositorien sind universelle Speicherorte für digitale Objekte, die diese für einen öffentlichen oder beschränkten Nutzendenkreis bereitstellen. Ziel solcher Systeme ist es dabei in erster Linie, die Auffindbarkeit und Zugänglichkeit der Daten zu sichern. Daher stellen sie unter anderem eine sinnvolle Basis für Anbieter nachhaltiger Forschungsdatenrepositorien dar, die Daten langfristig aufbewahren wollen.
 
-* typische Vertreter: [Fedora Commons](https://duraspace.org/fedora/), [DSpace](https://duraspace.org/dspace/)
+* typische Vertreter: [Fedora Commons](https://duraspace.org/fedora/), [DSpace](https://duraspace.org/dspace/), [Islandora](https://islandora.ca/)
 * Allgemeines: 
+  * Universeller Speicherort für digitale Objekte
 * Fokus:
-  * langfristiger, persistenter Zugriff auf Daten
+  * Langfristiger, persistenter Zugriff auf Daten
   * Archivierung steht im Mittelpunkt, erreicht durch Umsetzung des OAIS (Open Archival Information System - Referenzmodell für ein dynamisches, erweiterungsfähiges Archivinformationssystem)
   * Hauptzielgruppe sind Archive und Bibliotheken
   * Fokus auf Metadaten zur Datenbeschreibung um Zugänglichkeit und Durchsuchbarkeit sicherzustellen
-  * Referenzierbarkeit und Zitierbarkeit durch Vergabe endeutiger persistenter Identifikatoren 
+  * Referenzierbarkeit und Zitierbarkeit durch Vergabe endeutiger persistenter Identifikatoren
+  * Hohe Skalierbarkeit
 * Nutzerfreundlichkeit:
   * Dateneinspeisung über webbasierte Benutzeroberfläche
+  * Üblicherweise werden über das Frontend jedoch nur wenige Basisdienste angeboten; Mögliche Lösung: Islandora, welches Drupal als Frontend integriert
 * Nutzerverwaltung:
   * Nutzer- und Rechteverwaltung integriert
+  * Workflowmanagement üblich
 * Durchsuchbarkeit:
   * Volltextsuche und in der Regel metadatenbasierte Suche
 * Datenschema:
+  * Unterstützung beliebiger Schemata durch universelle Datenhaltung und Unterstützung von Linked Data
 * Import/Export der Daten: 
-* Schnittstellen: 
+  * Unterstützung offener Standards wie RDF
+* Schnittstellen:
+  * RESTful APIs üblich
+  * typischerweise Schnittstellen zum Teilen der Metadaten vorhanden (z.B. per OAI-PMH)
 
 #### Knowledge Management Software
 
