@@ -165,7 +165,7 @@ Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur 
   * SPARQL-Endpunkt zum strukturierten Zugriff auf die Daten
   * Integration einer Open Archive Initiative Protocol for Metadata Harvesting (OAI-PMH)-Schnittstelle für Metadaten
 
-#### Repositorien für Forschungsdaten / DAM (Digital Asset Management) 
+#### Repositorien für Forschungsdaten / DAM-Systeme (Digital Asset Management) 
 
 Repositorien sind universelle Speicherorte für digitale Objekte, die diese für einen öffentlichen oder beschränkten Nutzendenkreis bereitstellen. Ziel solcher Systeme ist es dabei in erster Linie, die Auffindbarkeit und Zugänglichkeit der Daten zu sichern. Daher stellen sie unter anderem eine sinnvolle Basis für Anbieter nachhaltiger Forschungsdatenrepositorien dar, die Daten langfristig aufbewahren wollen.
 
@@ -181,14 +181,14 @@ Repositorien sind universelle Speicherorte für digitale Objekte, die diese für
   * Hohe Skalierbarkeit
 * Nutzerfreundlichkeit:
   * Dateneinspeisung über webbasierte Benutzeroberfläche
-  * Üblicherweise werden über das Frontend jedoch nur wenige Basisdienste angeboten; Mögliche Lösung: Islandora, welches Drupal als Frontend integriert
+  * Üblicherweise werden über das Frontend jedoch nur wenige Basisdienste angeboten; Mögliche Lösung: Islandora, welches zusätzlich das CMS Drupal als Frontend integriert
 * Nutzerverwaltung:
   * Nutzer- und Rechteverwaltung integriert
   * Workflowmanagement üblich
 * Durchsuchbarkeit:
   * Volltextsuche und in der Regel metadatenbasierte Suche
 * Datenschema:
-  * Unterstützung beliebiger Schemata durch universelle Datenhaltung und Unterstützung von Linked Data
+  * Unterstützung beliebiger Schemata durch universelle Datenhaltung (beispielsweise in MySQL-Datenbank) und Unterstützung von Linked Data
 * Import/Export der Daten: 
   * Unterstützung offener Standards wie RDF
 * Schnittstellen:
