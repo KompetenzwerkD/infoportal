@@ -197,9 +197,11 @@ Empfehlenswert für Anwender könnte besonders das auf Fedora basierende Islando
   * RESTful APIs üblich
   * typischerweise Schnittstellen zum Teilen der Metadaten vorhanden (z.B. per OAI-PMH)
 
-#### Knowledge Management Software
+#### Knowledge Management Software (KMS)
 
-* typische Vertreter: OpenKM, TODO
+Knowledge Management Software (Software zum Wissensmanagement) dient dem Identifizieren, Sammeln, Speichern, Auffinden, Abrufen, Darstellen und Weitergeben von Informationen. Typischerweise zielen KMS auf Unternehmen. Ziel ist es, Wissen, welches beispielsweise in Dokumenten gebunden ist, zugänglich und durchsuchbar zu machen, aber auch neues Wissen zu generieren.
+
+* typische Vertreter: [OpenKM](https://www.openkm.com/), [Confluence](https://www.atlassian.com/de/software/confluence)
 * Allgemeines: 
 * Fokus: 
 * Nutzerfreundlichkeit: 
