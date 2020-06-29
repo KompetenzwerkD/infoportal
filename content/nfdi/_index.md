@@ -13,9 +13,11 @@ show_in_topics = true
 
 ## Übersicht - Konsortien im Bereich Digital Humanities
 
-*Stand: 03.06.2020*
+*Stand: 29.06.2020*
 
-Update: Die Förderempfehlungen des NFDI-Expertengremiums wurden veröffentlicht. Dabei wurde von den Initiativen innerhalb der Digital Humanities das Konsortium NFDI4Culture in der ersten Ausschreibungsrunde zur Förderung empfohlen.
+Update 29.06.2020: Die Gemeinsame Wissenschaftskonferenz (GWK) hat NFDI4Culture, das Konsortium für Forschungsdaten zu materiellen un immateriellen Kulturgütern, zur Förderung ausgewählt.
+
+Update 03-06-2020: Die Förderempfehlungen des NFDI-Expertengremiums wurden veröffentlicht. Dabei wurde von den Initiativen innerhalb der Digital Humanities das Konsortium NFDI4Culture in der ersten Ausschreibungsrunde zur Förderung empfohlen.
 
 “Die nationale [Forschungsdateninfrastruktur](@/glossar/_index.md#forschungsdateninfrastruktur) (NFDI) soll die Datenbestände  von Wissenschaft und Forschung systematisch erschließen, nachhaltig sichern und zugänglich machen sowie (inter-)national vernetzen. Sie wird  in einem aus der Wissenschaft getriebenen Prozess als vernetzte Struktur eigeninitiativ agierender Konsortien aufgebaut werden.” Quelle: DFG
 
@@ -42,13 +44,13 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 <br />
 
 #### NFDI4Culture
-* Update:  NFDI4Culture wurde in der ersten Ausschreibungsrunde vom NFDI-Expertengremium zur Förderung empfohlen.
+* Update:  NFDI4Culture wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der ersten Runde (Antrag 2019, Förderzusage 2020) des NFDI-Aufbaus zur Förderung ausgewählt.
 * Webauftritt: [Link](https://www.nfdi4culture.de/)
 * Kontakt:
   * Prof. Dr. Dörte Schmidt dschmidt@udk-berlin.de
   * Prof. Dr. Holger Simon simon@pausanio.com
   * Prof. Torsten Schrade torsten.schrade@adwmainz.de
-* Stand: derzeit in Begutachtung, Entscheidung im Frühsommer 2020
+* Stand: Förderung zugesagt
 * Beteiligte Netzwerkpartner: SLUB
 * Hauptantragssteller: Akademie der Wissenschaften und der Literatur, Mainz
 * Schwerpunkt: Materielles und immaterielles kulturelles Erbe
