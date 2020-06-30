@@ -163,6 +163,7 @@ Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur 
 * Schnittstellen: 
   * Trennung von Onotologieebene (Referenz und Anwendung), Datenebene (Instanzdaten) und eienr Ebene für Autoritätsdaten mit festen Schnittstellen
   * SPARQL-Endpunkt zum strukturierten Zugriff auf die Daten
+  * Unterstützung von IIIF mittels Plugins
   * Integration einer Open Archive Initiative Protocol for Metadata Harvesting (OAI-PMH)-Schnittstelle für Metadaten
 
 #### Repositorien für Forschungsdaten / DAM-Systeme (Digital Asset Management) 
