@@ -214,8 +214,8 @@ Knowledge Management Software (Software zum Wissensmanagement) dient dem Identif
   * Volltextsuche
   * Meist Unterstützung durch automatische Kategorisierung
 * Datenschema: Fokus auf unstrukturierten Daten
-* Import/Export der Daten: 
-* Schnittstellen: 
+* Import/Export der Daten: Üblicherweise als plain/binary data
+* Schnittstellen: Häufig Rest-API, Plugin-SDK
 
 #### Eventuell als Sonderfall mit Bezug zu unseren Instituten: IIIF
 
