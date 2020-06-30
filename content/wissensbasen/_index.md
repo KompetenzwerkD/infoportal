@@ -211,22 +211,7 @@ Knowledge Management Software (Software zum Wissensmanagement) dient dem Identif
 * Import/Export der Daten: 
 * Schnittstellen: 
 
-
-#### Knowledge Graph-basierte Data Management Software
-
-* eventuell auch mit "Knowledge Management Software" verschmelzen
-
-* typische Vertreter: struct, TODO
-* Allgemeines: 
-* Fokus: 
-* Nutzerfreundlichkeit: 
-* Nutzerverwaltung: 
-* Durchsuchbarkeit: 
-* Datenschema:
-* Import/Export der Daten: 
-* Schnittstellen: 
-
-#### Eventuell: IIIF
+#### Eventuell als Sonderfall mit Bezug zu unseren Instituten: IIIF
 
 * Framework um die Interoperabilität von Bilddaten zu erhöhen
 * Beispielsweise als Erweiterung bestehender CMS-Systeme wie Omeka einsetzbar
