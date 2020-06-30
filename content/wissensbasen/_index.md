@@ -199,15 +199,21 @@ Empfehlenswert für Anwender könnte besonders das auf Fedora basierende Islando
 
 #### Knowledge Management Software (KMS)
 
-Knowledge Management Software (Software zum Wissensmanagement) dient dem Identifizieren, Sammeln, Speichern, Auffinden, Abrufen, Darstellen und Weitergeben von Informationen. Typischerweise zielen KMS auf Unternehmen. Ziel ist es, Wissen, welches beispielsweise in Dokumenten gebunden ist, zugänglich und durchsuchbar zu machen, aber auch neues Wissen zu generieren.
+Knowledge Management Software (Software zum Wissensmanagement) dient dem Identifizieren, Sammeln, Speichern, Auffinden, Abrufen, Darstellen und Weitergeben von Informationen. Typischerweise richtet sich KMS an Unternehmen. Ziel ist es, Wissen, welches beispielsweise in Dokumenten gebunden ist, zusammenzutragen und schließlich zugänglich und durchsuchbar zu machen, aber auch neues Wissen zu generieren.
 
 * typische Vertreter: [OpenKM](https://www.openkm.com/), [Confluence](https://www.atlassian.com/de/software/confluence)
-* Allgemeines: 
+* Allgemeines:
+  * Dient der Integration verschiedener Wissensquellen
+  * Meist nicht sinnvoll für strukturierte Daten einsetzbar
 * Fokus: 
-* Nutzerfreundlichkeit: 
-* Nutzerverwaltung: 
-* Durchsuchbarkeit: 
-* Datenschema:
+  * Kombination verschiedener (i.d.R.) unstrukturierter Informationsquellen (wie Word-Dokumente, Emails, PDFs) in einem System
+  * Richtet sich in der Regel an Unternehmen
+* Nutzerfreundlichkeit: Typischerweise Web-basierte graphische Benutzeroberfläche
+* Nutzerverwaltung: Zielgruppe sind auch größere Unternehmen, weshalb typischerweise auf eine umfassende Nutzerverwaltung Wert gelegt wird
+* Durchsuchbarkeit:
+  * Volltextsuche
+  * Meist Unterstützung durch automatische Kategorisierung
+* Datenschema: Fokus auf unstrukturierten Daten
 * Import/Export der Daten: 
 * Schnittstellen: 
 
