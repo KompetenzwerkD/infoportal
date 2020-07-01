@@ -174,6 +174,9 @@ Institut für Sächsische Geschichte und Volkskunde
 ###### [JAVA](https://www.java.com/de/)
 Unter dem Begriff Java versteht man eine Programmiersprache sowie die dazugehörige Software-Plattform als Laufzeitumgebung für in Java geschriebene Programme. Java ist eine universelle, klassenbasierte und objektorientierte Programmiersprache mit möglichst wenigen Implementierungsabhängigkeiten. Somit kann kompilierter Java-Code auf allen Plattformen ausgeführt werden, die Java unterstützen, ohne dass eine Neukompilierung erforderlich ist.
 
+###### Kontrolliertes Vokabular
+Sammlung von Bezeichnungen mit eindeutiger Zuordnung zu Begriffen, um Mehrdeutigkeiten zu verhindern. Das Vokabular wird üblicherweise in einem einem Thesaurus oder einer Normdatei zusammengefasst. 
+
 ###### Langzeitarchivierung
 Unter Langzeitarchivierung versteht man die langfristige Aufbewahrung von Informationen und somit die Erhaltung ihrer dauerhaften Verfügbarkeit (jedoch mindestens 10 Jahre). Die Langzeitarchivierung spielt im Bereich des [Forschungsdatenmanagements](#forschungsdatenmanagement) eine wichtige Rolle.
 
@@ -290,6 +293,9 @@ Einheitliche und weithin anerkannte Art und Weise etwas zu tun. Beispielsweise i
 
 ###### [TEI](https://tei-c.org/)
 [Text Encoding Initiative] Auf [XML](#xml) basierende Initiative zur Kodierung von Textdaten.
+
+###### Thesaurus
+Auch Wortnetz, ist ein kontrolliertes Vokabular, dessen Begriffe durch (semantische) Relationen wie Synonymie oder Hyponymie miteinander verbunden sind.
 
 ###### URI
 [Uniform Resource Identifier] Zeichenkette, welche eindeutig eine Ressource identifiziert. Dazu wird folgende Syntax verwendet:  `URI = scheme:[//authority]path[?query][#fragment]` 
