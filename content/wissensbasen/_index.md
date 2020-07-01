@@ -1,5 +1,5 @@
 +++
-title = "Wissensbasen"
+title = "Wissensspeicher"
 weight = 1
 sort_by = "weight"
 description = "Description"
@@ -217,12 +217,6 @@ Knowledge Management Software (Software zum Wissensmanagement) dient dem Identif
 * Datenschema: Fokus auf unstrukturierten Daten
 * Import/Export der Daten: Üblicherweise als plain/binary data
 * Schnittstellen: Häufig Rest-API, Plugin-SDK
-
-#### Eventuell als Sonderfall mit Bezug zu unseren Instituten: IIIF
-
-* Framework um die Interoperabilität von Bilddaten zu erhöhen
-* Beispielsweise als Erweiterung bestehender CMS-Systeme wie Omeka einsetzbar
-* TODO
 
 ## Ideen
 
