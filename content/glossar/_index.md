@@ -214,7 +214,8 @@ bzw. Normdatei.  Verzeichnis von normierten Begriffen, genutzt beispielsweise al
 [Optical Character Recognition] Maschinengesteuerte Erschließung von Text aus Bilddaten. Während die Genauigkeit bei gedruckten Daten recht gut ist, bieten handschriftliche Dokumente, Schreibschriften und nicht alphabet-basierte Schriften große Herausforderungen.
 
 ###### Ontologie
-Altgrch. die “Lehre vom Seienden”. In der Informatik Klassifikationssysteme für Daten, um diese maschinenlesbar einzuordnen und zu repräsentieren. Es gibt zahlreiche Ontologien, auf die man sich beziehen kann, z. B. das “Getty Vocabulary” oder der “UNESCO Thesaurus”. Steht in Zusammenhang mit den Begriffen Thesaurus, Taxonomie, kontrolliertes Vokabular.
+Altgrch. die “Lehre vom Seienden”. In der Informatik Klassifikationssysteme für Daten, um diese maschinenlesbar einzuordnen und zu repräsentieren. 
+Genauer handelt es sich um formal geordnete Darstellungen einer Menge von Begriffen und der zwischen ihnen bestehenden Beziehungen in einem bestimmten Gegenstandsbereich. Es gibt zahlreiche Ontologien, auf die man sich beziehen kann, z. B. das “Getty Vocabulary” oder der “UNESCO Thesaurus”. Steht in Zusammenhang mit den Begriffen Thesaurus, Taxonomie, kontrolliertes Vokabular.
 
 ###### [Open Access](https://open-access.net)
 Bezeichnet den freien Zugang zu Werken im Internet, z. B. wissenschaftliche Artikel und Bücher, manchmal mit Datensätzen. Wird durch Fördergeber verstärkt gefordert und gefördert (Unterstützung bei Publikationskosten). Es gibt den grauen, den grünen und den goldenen Weg der Veröffentlichungsform.
