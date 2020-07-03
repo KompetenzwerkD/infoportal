@@ -1,6 +1,13 @@
-+++ title = "Technologie-Übersicht" weight = 3 sort_by = "weight" description = "Description" insert_anchor_links = "right"
++++
+title = "Technologie-Übersicht"
+weight = 3
+sort_by = "weight"
+description = "Description"
+insert_anchor_links = "right"
 
-[extra] show_in_topics = false +++
+[extra]
+show_in_topics = false
++++
 
 ## Technologie-Übersicht
 
