@@ -180,6 +180,9 @@ Institut für Sächsische Geschichte und Volkskunde
 ###### [JAVA](https://www.java.com/de/)
 Unter dem Begriff Java versteht man eine Programmiersprache sowie die dazugehörige Software-Plattform als Laufzeitumgebung für in Java geschriebene Programme. Java ist eine universelle, klassenbasierte und objektorientierte Programmiersprache mit möglichst wenigen Implementierungsabhängigkeiten. Somit kann kompilierter Java-Code auf allen Plattformen ausgeführt werden, die Java unterstützen, ohne dass eine Neukompilierung erforderlich ist.
 
+###### JSON
+[JavaScript Object Notation] Datenformat in auch für Menschen lesbarer Textform, das für den  Datenaustausches zwischen Anwendungen genutzt wird.
+
 ###### Kontrolliertes Vokabular
 Sammlung von Bezeichnungen mit eindeutiger Zuordnung zu Begriffen, um Mehrdeutigkeiten zu verhindern. Das Vokabular wird üblicherweise in einem einem Thesaurus oder einer Normdatei zusammengefasst. 
 
