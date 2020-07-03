@@ -32,7 +32,7 @@ Wie so oft gilt dabei: Kontaktieren Sie uns mit Ihren Fragen oder Wünschen! Ger
 * Nachverfolgbarkeit von Änderungen
 * Nutzer- bzw. Rechteverwaltung
 * Präsentation bzw. Darstellung des zusammengetragenen Wissens
-* Suchfunktionalität (facettiert oder zumindest Volltext)
+* Suchfunktionalität ([facettiert](@/glossar/_index.md#facettensuche) oder zumindest Volltext)
 * Möglichkeiten für den Import bzw. Export von Daten
 * Bereitstellung der Daten über standardisierte Schnittstellen (als [Linked Open Data](@/glossar/_index.md#linked-open-data) oder ähnliches)
 
