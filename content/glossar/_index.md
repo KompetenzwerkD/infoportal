@@ -45,6 +45,9 @@ CLARIAH-DE ist ein Kooperationsprojekt der Verbünde [CLARIN-D](#clarin-d) und [
 ###### CMS
 [Content Management System] Softwaresystem zur kollaborativen Erstellung, Bearbeitung und Organisation von digitalen Inhalten. Bekannte CMS-Systeme sind Wordpress, Drupal und Typo3.
 
+###### CSV
+[Comma-separated values (seltener Character-separated values)] Dateiformat zur Speicherung von Listen oder Tabellen, bei denen ein festgelegtes Zeichen zur Trennung von Datensätzen benutzt wird.
+
 ###### [Core Trust Seal](https://www.coretrustseal.org/)
 Eine gemeinsame Zertifizierung für vertrauenswürdige [Forschungsdatenrepositorien](#repositorium) des International Science Council (WDS) und des Data Seal of Approval (DSA).
 
