@@ -9,9 +9,9 @@ insert_anchor_links = "right"
 show_in_topics = false
 +++
 
-## Technologie-Übersicht
+# Technologie-Übersicht
 
-#### Mediawiki
+## Mediawiki
 
 MediaWikis erlauben es auf einfache Weise Wissen zu teilen. Dieses Wissen liegt in für Menschen leicht lesbare Form (Texte bzw. Mediendateien) vor. Im Gegensatz dazu sind sie aber nicht dafür ausgelegt, einzelne Fakten/Informationen maschinell abrufbar zu machen bzw. Fakten automatisch zu aggregieren. Um dieses Defizit auszugleichen gibt es enige Erweiterungen zu MediaWiki, die es erlauben Daten strukturiert zu erfassen und abzufragen. Die beiden wichtigsten hierfür sind Wikibase und Sematic MediaWiki.
 
@@ -38,7 +38,7 @@ MediaWikis erlauben es auf einfache Weise Wissen zu teilen. Dieses Wissen liegt 
   * [Mediawiki API](https://www.mediawiki.org/wiki/API:Main_page)
 
 
-#### Wikibase
+## Wikibase
 
 Wikibase ist eine freie Erweiterung zu MediaWiki, welche mithilfe derer maschinlesbare, struturierte Wissensdatenbanken erstellt werden können. Es verwendet dabei Linked-Open-Data Prinzipien und die Daten können mittels SPARQL abgefragt werden bzw. u.a. als RDF/XML, N3, Json, Yaml etc. exportiert werden.
 
@@ -65,7 +65,7 @@ Wikibase ist eine freie Erweiterung zu MediaWiki, welche mithilfe derer maschinl
 * Schnittstellen: 
   * Medaiwiki-API und SPARQL-Endpoint
 
-#### Content-Management-Systeme
+## Content-Management-Systeme
 
 Ein Content-Management-System (CMS) ist eine Software zur gemeinschaftlichen Erstellung, Bearbeitung und Organisation und Darstellung von digitalen Inhalten zur Verwendung in Webseiten. Zur Bedienung eines CMS sind dank graphischer Benutzeroberfläche keine bzw. kaum Programmier- oder HTML-Kenntnisse nötig. Einschränkungen sind in der Regel bezüglich der Arbeit mit festen Schemata für Daten, der Integration von Normdaten oder Vokabularen und der verfügbaren Schnittstellen und Exportformate hinzunehmen. Dennoch kann in bestimmten Fällen der Einsatz eines CMS lohnen.
 
@@ -84,7 +84,7 @@ Ein Content-Management-System (CMS) ist eine Software zur gemeinschaftlichen Ers
 * Import/Export der Daten: als flache Daten in der Regel möglich
 * Schnittstellen: Bereitstellung der Daten über typische Schnittstellen wie Sparql i.d.R. nicht möglich, eventuell über Erweiterungen (Community-Support bzw. Engagement für einige CMS-Systeme sehr umfangreich)
 
-#### Virtuelle Forschungsumgebung WissKI
+## Virtuelle Forschungsumgebung WissKI
 
 Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur Verwaltung strukturierter wissenschaftlicher Daten, die vollständig Open Source ist. Sie stellt ein flexibles Tool für die Datenerfassung von ortsverteilt arbeitenden Forschern dar. Dabei setzt sie auf bewährte Semantic-Web-Technologie und unterstützt entsprechende Schnittstellen und Standards.
 
@@ -119,7 +119,7 @@ Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur 
   * Unterstützung von IIIF mittels Plugins
   * Integration einer Open Archive Initiative Protocol for Metadata Harvesting (OAI-PMH)-Schnittstelle für Metadaten
 
-#### Repositorien für Forschungsdaten / DAM-Systeme (Digital Asset Management) 
+## Repositorien für Forschungsdaten / DAM-Systeme (Digital Asset Management) 
 
 Repositorien sind universelle Speicherorte für digitale Objekte, die diese für einen öffentlichen oder beschränkten Nutzendenkreis bereitstellen. Ziel solcher Systeme ist es dabei in erster Linie, die Auffindbarkeit und Zugänglichkeit der Daten zu sichern. Daher stellen sie unter anderem eine sinnvolle Basis für Anbieter nachhaltiger Forschungsdatenrepositorien dar, die Daten langfristig aufbewahren wollen.
 
@@ -151,7 +151,7 @@ Empfehlenswert für Anwender könnte besonders das auf Fedora basierende Islando
   * RESTful APIs üblich
   * typischerweise Schnittstellen zum Teilen der Metadaten vorhanden (z.B. per OAI-PMH)
 
-#### Knowledge Management Software (KMS)
+## Knowledge Management Software (KMS)
 
 Knowledge Management Software (Software zum Wissensmanagement) dient dem Identifizieren, Sammeln, Speichern, Auffinden, Abrufen, Darstellen und Weitergeben von Informationen. Typischerweise richtet sich KMS an Unternehmen. Ziel ist es, Wissen, welches beispielsweise in Dokumenten gebunden ist, zusammenzutragen und schließlich zugänglich und durchsuchbar zu machen, aber auch neues Wissen zu generieren.
 
