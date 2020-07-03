@@ -332,7 +332,7 @@ Freie Mediendatenbank mit Bildern, Videos und Audiodateien. Wird von der [Wikime
 Sammlung von urheberrechtsfreien oder unter freien [Lizenzen](#lizenz) veröffentlichten Texten. Das Projekt ein Schwesterprojekt von Wikipedia und wird ebenso von der [Wikimedia Foundation](#wikimedia) betrieben.
 
 ###### Wissensbasis
-Eine spezielle Datenbank oder Sammlung von Dokumenten zur Hinterlegung von (oft domänen- oder problemspezifischem) Wissen, das maschinenlesbar und interpretierbar ist. Häufig wird auch von Wissensdatenbanken gesprochen. Eine klare begriffliche Trennung ist hier schwierig.
+System zur Speicherung von strukturierten oder unstrukturierten Daten unterschiedlicher Komplexität. Die Hinterlegung von (oft domänen- oder problemspezifischem) Wissen erfolgt maschinenlesbar und -interpretierbar. Häufig wird auch von Wissensdatenbanken gesprochen. Eine klare begriffliche Trennung ist hier schwierig.
 
 ###### XML
 [Extensible Markup Language] Menschen- und maschinenlesbare Auszeichnungssprache zur Darstellung hierarchisch strukturierter Daten in einer Textdatei.
