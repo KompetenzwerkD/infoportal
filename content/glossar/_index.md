@@ -355,6 +355,9 @@ System zur Speicherung von strukturierten oder unstrukturierten Daten unterschie
 ###### XML
 [Extensible Markup Language] Menschen- und maschinenlesbare Auszeichnungssprache zur Darstellung hierarchisch strukturierter Daten in einer Textdatei.
 
+###### YAML
+[YAML Ain’t Markup Language, bzw. ursprünglich Yet Another Markup Language] Einfache Auszeichnungssprache zur Datenserialisierung, angelehnt an XML.
+
 ###### [Zenodo](https://zenodo.org/)
 Zenodo ist ein fachübergreifendes [Forschungsdatenrepositorium](#repositorium), welches vom Datenzentrum des CERN betrieben wird. Als [OpenAIRE](#openaire)-Projekt unterstützt es ausdrücklich [Open Access](#open-access), [Open Data](#open-data) und [Open Science](#open-science).
 
