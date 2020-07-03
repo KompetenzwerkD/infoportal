@@ -108,6 +108,9 @@ Kollaborative Dateninfrastruktur für integrierte Datendienste und Ressourcen zu
 ###### [EU Horizon](https://ec.europa.eu/programmes/horizon2020/en)
 Förderformat für Wissenschaftsprojekte der Europäischen Union.
 
+###### Facettensuche
+Bei der Facettensuche oder facettierten Suche werden die Suchergebnisse anhand einer oder mehrerer Klassifikationen eingegrenzt. In einem Bibliothekskatalog könnte dies zum Beispiel auf Basis des Erscheinungsdatums oder des Sachgebiets erfolgen. Die Facetten nutzen zur Filterung die Metadaten der Einträge. 
+
 ###### [FAIR-Prinzipien](https://www.go-fair.org/fair-principles/)
 Die "FAIR Data Principles" stellen wichtige Grundsätze nachhaltig nachnutzbarer [Forschungsdaten](#forschungsdaten) dar. Die Prinzipien besagen, dass Daten  "Findable, Accessible, Interoperable, and Re-usable" sein sollen, also auffindbar, zugänglich, interoperabel und wiederverwendbar.
 
