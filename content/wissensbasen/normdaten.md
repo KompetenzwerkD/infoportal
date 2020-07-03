@@ -135,7 +135,7 @@ So genannte "Reconciliation"-Services dienen dazu, Daten verschiedener Wissensba
 
 #### Reconciliation Endpoints
 
-* List of Reconciliation endpoints - http://okfnlabs.org/reconcile-csv/
-* Wikidata - https://tools.wmflabs.org/openrefine-wikidata
-* GND - http://blog.lobid.org/2019/08/19/openrefine.html
-* VIAF - http://refine.codefork.com/reconcile/viaf - http://refine.codefork.com/
+* [List of Reconciliation endpoints](http://okfnlabs.org/reconcile-csv/)
+* [Wikidata](https://tools.wmflabs.org/openrefine-wikidata)
+* [GND](http://blog.lobid.org/2019/08/19/openrefine.html)
+* [VIAF](http://refine.codefork.com/reconcile/viaf - http://refine.codefork.com/)
