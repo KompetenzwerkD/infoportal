@@ -1,6 +1,6 @@
 +++
 title = "Technologie-Übersicht"
-weight = 3
+weight = 2
 sort_by = "weight"
 description = "Description"
 insert_anchor_links = "right"

@@ -1,6 +1,6 @@
 +++
 title = "Einführung in Normdaten"
-weight = 1
+weight = 2
 description = "Description"
 insert_anchor_links = "right"
 +++
@@ -11,14 +11,14 @@ insert_anchor_links = "right"
 
 Um Inhalte und Daten zu kategorisieren, benutzen Forschende Ontologien, Thesauri und (kontrollierte) Normvokabulare. Dabei handelt es sich um Klassifikationssysteme oder Taxonomien, um die Daten maschinenlesbar einzuordnen und zu repräsentieren. Auch in die Metadaten dieser Forschungsinhalte können solche kontrollierten Vokabulare eingefügt werden. Personen, Orten und anderen Entitäten kann über solche Taxonomien ein dauerhafter (persistenter) Identifikator, beispielsweise eine Nummer oder ein Link, zugewiesen werden. Das ist besonders hilfreich, denn es vermeidet Mehrdeutigkeiten (z. B. Autornamen) und neues Wissen (z. B. neue Publikationen) kann dem bestehenden konkret zugewiesen werden und in Wissensbasen wie Wikidata eingehen.
 
-## Begrifflichkeiten:
+## Begrifflichkeiten
 
 In der Praxis werden die folgenden Begriffe häufig ohne klare Abgrenzung bzw. sogar synonym verwendet. Als kurze Einordnung soll dennoch die nachstehende Auflistung dienen:
 * Kontrolliertes Vokabular: Sammlung von Bezeichnungen mit eindeutiger Zuordnung zu Begriffen, um Mehrdeutigkeiten zu verhindern.
 * Thesaurus: Kontrolliertes Vokabular, dessen Begriffe durch (semantische) Relationen wie Synonymie oder Hyponymie miteinander verbunden sind.
 * Ontologie: Klassifikationssysteme für Daten, um diese maschinenlesbar einzuordnen und zu repräsentieren. Eine formal geordnete Darstellung einer Menge von Begriffen und der zwischen ihnen bestehenden Beziehungen in einem bestimmten Gegenstandsbereich.
 
-## Vorteile der Nutzung von Normdaten:
+## Vorteile der Nutzung von Normdaten
 
 * Eindeutige Zuordnung verschiedenartiger Entitäten
 * Verknüpfung mit anderen Datensätzen möglich (Linked Data)
@@ -138,4 +138,4 @@ So genannte "Reconciliation"-Services dienen dazu, Daten verschiedener Wissensba
 * [List of Reconciliation endpoints](http://okfnlabs.org/reconcile-csv/)
 * [Wikidata](https://tools.wmflabs.org/openrefine-wikidata)
 * [GND](http://blog.lobid.org/2019/08/19/openrefine.html)
-* [VIAF](http://refine.codefork.com/reconcile/viaf - http://refine.codefork.com/)
+* [VIAF, ORCID, Open Library](http://refine.codefork.com/)
