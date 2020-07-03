@@ -204,6 +204,9 @@ Unter der GPL-Lizenz stehendes quell-offenes [Wiki](#wiki)-System, welches als C
 ###### Metadaten
 Beschreibende Daten zu z. B. [Forschungsdaten](#forschungsdaten). Metadaten sind strukturiert und geben Hinweise zu Eigenschaften der Daten, die sie näher bestimmen. Dazu gehören Name, ISBN, Sachgebiet, Autor etc.
 
+###### N3
+Formale Sprache, die als Syntax für [RDF](#rdf)-Daten verwendet werden kann und von Tim Berners-Lee entwickelt wurde.
+
 ###### [Nestor](https://www.langzeitarchivierung.de/Webs/nestor/DE/Zertifizierung/zertifizierung_node.html)
 Ein Siegel bzw. eine Zertifizierung für digitale [Langzeitarchive](#langzeitarchivierung), das in einer erweiterten Selbstevaluierung auf der Grundlage der DIN-Norm 31644 „Kriterien für vertrauenswürdige digitale Langzeitarchive“ erlangt werden kann.
 
