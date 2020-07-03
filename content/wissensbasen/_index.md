@@ -18,14 +18,11 @@ Diese Definition lässt schon erahnen: Wissensbasen umfassen ein weites Feld und
 Es beginnt bei einfachen Auflistungen von Informationen, welche einem groben Schema folgen. Ein Beispiel wäre eine Sammlung von Dokumenten eines Themenbereichs, zu denen wichtige Daten zusammengetragen werden wie Titel, Autor oder Erscheinungsjahr (egal, ob die eigentlichen Dokumente bzw. deren Digitalisate mit abgelegt werden).
 Auf der anderen Seite versteht man darunter insbesondere auch komplexe Netzwerke aus Wissen, welche Informationen über verschiedene Objektarten aufnehmen und miteinander verknüpfen könnnen. Vorstellbar wäre eine Wissensbasis über Personen, welche neben strukturierten Informationen über Individuen, auch Angaben zu Orten und Institutionen enthält und all diese miteinander verbindet.
 
-Es gibt eine Vielzahl an Werkzeugen zur möglichst intuitiven **Erstellung, Bearbeitung und Verwaltung** von Wissensbasen. Oft lohnt deren Einsatz, schließlich ist ein wichtiges Ziel solcher Systeme auch, **Informationen auf einfachen Wege zugänglich, nutzbar, verknüpfbar und wiederverwendbar zu machen**. Dies unterstützt die Umsetzung der FAIR-Prinzipien für ein modernes und effizientes Datenmanagement.
+Es gibt eine Vielzahl an Werkzeugen zur möglichst intuitiven **Erstellung, Bearbeitung und Verwaltung** von Wissensbasen. Oft lohnt deren Einsatz, schließlich ist ein wichtiges Ziel solcher Systeme auch, **Informationen auf einfachen Wege zugänglich, nutzbar, verknüpfbar und wiederverwendbar zu machen**. Dies unterstützt die Umsetzung der [FAIR-Prinzipien](@/glossar/_index.md#fair-prinzipien) für ein modernes und effizientes [Datenmanagement](@/glossar/_index.md#forschungsdatenmanagement).
 
 Die schiere Menge an technischen Lösungen erschwert jedoch auch den Einstieg in dieses spannende Feld. Daher wollen wir an dieser Stelle eine kurze Übersicht zu Wissensbasen, Werkzeugen und erfolgreichen Anwendungsfällen bieten.
 
 Wie so oft gilt dabei: Kontaktieren Sie uns mit Ihren Fragen oder Wünschen! Gerne unterstützen wir ihr Projekt dabei, Informationen strukturiert in Form einer Wissensbasis abzulegen, zu bearbeiten und zugänglich zu machen.
-
-
-So vielfältig wie Wissensbasen sein können, stellen sich auch die existierenden Softwarelösungen zu ihrer Erstellung und Verwaltung dar.
 
 ## Vorteile
 
@@ -37,7 +34,7 @@ So vielfältig wie Wissensbasen sein können, stellen sich auch die existierende
 * Präsentation bzw. Darstellung des zusammengetragenen Wissens
 * Suchfunktionalität (facettiert oder zumindest Volltext)
 * Möglichkeiten für den Import bzw. Export von Daten
-* Bereitstellung der Daten über standardisierte Schnittstellen (als Linked Open Data oder ähnliches)
+* Bereitstellung der Daten über standardisierte Schnittstellen (als [Linked Open Data](@/glossar/_index.md#linked-open-data) oder ähnliches)
 
 Anzumerken ist: Nicht jede Lösung unterstützt alle beschriebenen Eigenschaften!
 Beispielsweise sind die Möglichkeiten zum Datenexport davon abhängig, wie strukturiert Daten abgelegt werden.
