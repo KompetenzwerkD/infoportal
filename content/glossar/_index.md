@@ -265,6 +265,9 @@ Programmiersprache, welche sich über durch ihre einfache, gut lesbare Syntax au
 ###### [RDA](https://www.rd-alliance.org/)
 [Research Data Alliance] Internationale Organisation mit dem Ziel, eine soziale und technische Infrastruktur aufzubauen, damit Daten offen ausgetauscht und wiederverwendet werden können.
 
+###### RDF
+[Resource Description Framework] vom World Wide Web Consortium (W3C) entwickelter Standard, der die Formulierung logischer Aussagen über beliebige Entitäten (Ressourcen) ermöglicht. Einzelne Aussagen bestehen stets aus den drei Einheiten Subjekt, Prädikat und Objekt. RDF ist ein grundlegender Baustein des Semantic Web.
+
 ###### Repositorium
 Repositorien sind Einrichtungen, welche verschiedene Arten digitaler Objekte speichern und verwalten und wenn gewünscht Zugriff darauf bieten. Handelt es sich bei diesen Objekten um [Forschungsdaten](#forschungsdaten), so spricht man von einem Forschungsdatenrepositorium. Das dortige Ablegen von Forschungsdaten ist in der Regel Teil der Nachhaltigkeitsbestrebungen des [Datenmanagementplans](#datenmanagementplan) von Forschungsprojekten und dient der Zugänglichmachung, dem Publizieren und teilweise der [Archivierung](#archivierung) der Daten. Durch Ablegen der Daten zusammen mit [Metadaten](#metadaten) kann seitens des Repositoriums eine Durchsuchbarkeit gewährleistet werden. Die Vergabe eines dauerhaften Identifikators ([Persistent Identifier](#persistent-identifier)) durch das Repositorium ermöglicht zusätzlich die langfristige Zitierbarkeit. Repositorien weisen in der Regel die Einhaltung gewisser Qualitätsstandards durch erfolgreiche Zertifizierungen nach (z.B. Core Trust Seal oder Nestor).
 
@@ -294,6 +297,9 @@ Sächsische Landesbibliothek – Staats- und Universitätsbibliothek
 
 ###### [SMWKT](https://www.smwk.sachsen.de/)
 Sächsisches Staatsministerium für Wissenschaft, Kultur und Tourismus
+
+###### SPARQL
+[SPARQL Protocol And RDF Query Language] ist eine graphbasierte Abfragesprache für [RDF](#rdf).
 
 ###### Standard
 Einheitliche und weithin anerkannte Art und Weise etwas zu tun. Beispielsweise ist die Einhaltung von Standards für die automatische Verarbeitung von Daten von großer Bedeutung.
