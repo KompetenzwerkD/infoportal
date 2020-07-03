@@ -11,12 +11,15 @@ show_in_topics = false
 
 # Technologie-Übersicht
 
+So vielfältig wie Wissensbasen sein können, stellen sich auch die existierenden Softwarelösungen zu ihrer Erstellung und Verwaltung dar. Die folgende Übersicht soll einen Einblick in die wichtigsten Ansätze für das Zusammentragen von Wissen liefern.
+Je nach Art der Daten, sowie den eigenen Zielen bzw. dem eigenen Fokus kann die sinnvollste technologische Basis der Datensammlung dabei sehr unterschiedliche Formen annehmen.
+
 ## Mediawiki
 
-MediaWikis erlauben es auf einfache Weise Wissen zu teilen. Dieses Wissen liegt in für Menschen leicht lesbare Form (Texte bzw. Mediendateien) vor. Im Gegensatz dazu sind sie aber nicht dafür ausgelegt, einzelne Fakten/Informationen maschinell abrufbar zu machen bzw. Fakten automatisch zu aggregieren. Um dieses Defizit auszugleichen gibt es enige Erweiterungen zu MediaWiki, die es erlauben Daten strukturiert zu erfassen und abzufragen. Die beiden wichtigsten hierfür sind Wikibase und Sematic MediaWiki.
+MediaWikis erlauben es auf einfache Weise Wissen zu teilen. Dieses Wissen liegt in für Menschen leicht lesbare Form (Texte bzw. Mediendateien) vor. Im Gegensatz dazu sind sie aber nicht dafür ausgelegt, einzelne Fakten/Informationen maschinell abrufbar zu machen bzw. Fakten automatisch zu aggregieren. Um dieses Defizit auszugleichen gibt es einige Erweiterungen zu MediaWiki, die es erlauben, Daten strukturiert zu erfassen und abzufragen. Die beiden wichtigsten hierfür sind [Wikibase](#wikibase) und Sematic MediaWiki.
 
 * Allgemeines:
-  * Verwaltungssoftware für Inhalte in Form eines Wiki-Systems, dessen Inhalte direkt im Webbrowser bearbeitet und geändert werden können
+  * Verwaltungssoftware für Inhalte in Form eines [Wiki-Systems](@/glossar/_index.md#wiki), dessen Inhalte direkt im Webbrowser bearbeitet und geändert werden können
   * Ökosystem mit einer Vielzahl hilfreicher Erweiterungen des Grundsystems
 * Fokus:
   * Wissen gemeinschaftlich sammeln und bearbeiten
@@ -29,11 +32,11 @@ MediaWikis erlauben es auf einfache Weise Wissen zu teilen. Dieses Wissen liegt 
   * auch offene Wikis sind möglich
 * Durchsuchbarkeit: Volltextsuche
 * Datenschema:
-  * keine native Unterstützung, aber Nutzen von Seitenvorlagen zur Erstellung von Datensätzen eines festen Schemas möglich
+  * keine native Unterstützung, aber Nutzen von Seitenvorlagen zur Erstellung von Datensätzen eines festen [Schemas](@/glossar/_index.md#schema) möglich
   * Einordnung der Seiten in Kategorien und Namensräume
 * Import/Export der Daten: 
-  * Datenexport als XML-Dump
-  * Mit Erweiterung auch CSV-Import möglich
+  * Datenexport als [XML](@/glossar/_index.md#xml)-Dump
+  * Mit Erweiterung auch [CSV](@/glossar/_index.md#csv)-Import möglich
 * Schnittstellen: 
   * [Mediawiki API](https://www.mediawiki.org/wiki/API:Main_page)
 
