@@ -250,14 +250,14 @@ Wissenschaftsprinzip, das sich [Open Access](#open-access), [Open Source](#open-
 ###### Open Source
 Bezeichnet den freien Zugang zu quelloffener Software im Internet. Oftmals ist die Verwendung auch kostenlos. Wird durch Fördergeber verstärkt gefordert.
 
-###### OWL
-[Web Ontology Language] Formale Sprache zur Wissensrepräsentation, welche der Beschreibung von [Ontologien](#ontologie) dient und einen wichtige Rolle im Bereich des [Semantic Web](#semantic-web,-semantische-technologien) spielt.
-
 ###### [OpenAIRE](https://www.openaire.eu/)
 [Open Access Infrastructure for Research in Europe] Europäisches Forschungsinformationssystem für Forschungsergebnisse, welches Metadaten aus verschiedenen Quellen aggregiert. Unter anderem wird [Zenodo](#zenodo) durch OpenAIRE gefördert.
 
 ###### [ORCID](https://orcid.org/)
 [Open Researcher Contributor Identification Initiative] Dienst, der wissenschaftlichen Autor/innen eine eindeutige Identifikationsnummer zuweist, die Orcid-ID. Wird oft für elektronische Publikationen abgefragt.
+
+###### OWL
+[Web Ontology Language] Formale Sprache zur Wissensrepräsentation, welche der Beschreibung von [Ontologien](#ontologie) dient und einen wichtige Rolle im Bereich des [Semantic Web](#semantic-web,-semantische-technologien) spielt.
 
 ###### [Owncloud](https://owncloud.com/)
 Open-Source-[Cloud](#cloud)-Anbieter zum Sichern, Austauschen und gemeinsamen Bearbeiten zahlreicher Dateiformate, weit verbreitet an Forschungseinrichtungen.
