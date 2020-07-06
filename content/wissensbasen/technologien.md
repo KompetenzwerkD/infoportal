@@ -113,7 +113,7 @@ Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur 
 * Datenschema: Flexible Erstellung von Datenstrukturen/Schemas, einfaches Einbinden lokaler oder globaler Normdaten und fester Vokabulare. Unterstützung semantischer Annotationen von Texten.
 * Import/Export der Daten:
   * Verwendung eines Triple Stores als Back-End
-  * Import/Export von Ontologien/Schemas als [OWL](@/glossar/_index.md#owl)/XML, [RDF](@/glossar/_index.md#rdf)/XML, [N-Triples](@/glossar/_index.md#N3), [Turtle](@/glossar/_index.md#turtle), [SPARQL](@/glossar/_index.md#sparql), Legacy [XML](@/glossar/_index.md#xml), HTML tag soup, [RSS](@/glossar/_index.md#rss) 2.0 und Google Social Graph API [JSON](@/glossar/_index.md#json)
+  * Import/Export von Ontologien/Schemas als [OWL](@/glossar/_index.md#owl)/XML, [RDF](@/glossar/_index.md#rdf)/XML, [N-Triples](@/glossar/_index.md#n3), [Turtle](@/glossar/_index.md#turtle), [SPARQL](@/glossar/_index.md#sparql), Legacy [XML](@/glossar/_index.md#xml), HTML tag soup, [RSS](@/glossar/_index.md#rss) 2.0 und Google Social Graph API [JSON](@/glossar/_index.md#json)
   * Import/Export von Instanzdaten mittels OWL-DL/XML or RDF/XML
   * Import/Export von Authorities (Normdaten/Vokabulare) mittels Simple Knowledge Organization System (SKOS)
 * Schnittstellen: 
