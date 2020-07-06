@@ -164,7 +164,7 @@ Knowledge Management Software (Software zum Wissensmanagement) dient dem Identif
   * Meist nicht sinnvoll für strukturierte Daten einsetzbar
 * Fokus: 
   * Kombination verschiedener (i.d.R.) unstrukturierter Informationsquellen (wie Word-Dokumente, Emails, PDFs) in einem System
-  * Richtet sich in der Regel an Unternehmen
+  * Richtet sich in erster Linie an Unternehmen
 * Nutzerfreundlichkeit: Typischerweise Web-basierte graphische Benutzeroberfläche
 * Nutzerverwaltung: Zielgruppe sind auch größere Unternehmen, weshalb typischerweise auf eine umfassende Nutzerverwaltung Wert gelegt wird
 * Durchsuchbarkeit:
