@@ -257,7 +257,7 @@ Bezeichnet den freien Zugang zu quelloffener Software im Internet. Oftmals ist d
 [Open Researcher Contributor Identification Initiative] Dienst, der wissenschaftlichen Autor/innen eine eindeutige Identifikationsnummer zuweist, die Orcid-ID. Wird oft für elektronische Publikationen abgefragt.
 
 ###### OWL
-[Web Ontology Language] Formale Sprache zur Wissensrepräsentation, welche der Beschreibung von [Ontologien](#ontologie) dient und einen wichtige Rolle im Bereich des [Semantic Web](#semantic-web,-semantische-technologien) spielt.
+[Web Ontology Language] Formale Sprache zur Wissensrepräsentation, welche der Beschreibung von [Ontologien](#ontologie) dient und einen wichtige Rolle im Bereich des [Semantic Web](#semantic-web-semantische-technologien) spielt.
 
 ###### [Owncloud](https://owncloud.com/)
 Open-Source-[Cloud](#cloud)-Anbieter zum Sichern, Austauschen und gemeinsamen Bearbeiten zahlreicher Dateiformate, weit verbreitet an Forschungseinrichtungen.
