@@ -63,6 +63,9 @@ Art und Weise, wie eine Datei gespeichert wird und mit welcher Software sie geö
 ###### Datenmanagementplan
 strukturiert den Umgang mit [Forschungsdaten](#forschungsdaten) eines wissenschaftlichen Projekts und legt dabei unter anderem fest, welche [Forschungsdaten](#forschungsdaten) wann, wie, wo, durch wen erhoben, gesichert, gespeichert und archiviert werden.
 
+###### Datenmodell
+Modell das dazu dient, die Struktur der in einem System zu verarbeitenden und zu speichernden Daten (und ihre Beziehungen zueinander) festzulegen. 
+
 ###### Datenschutz
 Unter Datenschutz versteht man allgemein den Schutz vor missbräuchlicher Verarbeitung von Daten durch technische und organisatorische Maßnahmen. Darunter fallen unter anderem der Schutz der Privatsphäre, der Schutz des Rechts auf informationelle Selbstbestimmung und der Schutz von Persönlichkeitsrechten.
 
