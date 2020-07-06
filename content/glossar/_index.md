@@ -286,6 +286,9 @@ Repositorien sind Einrichtungen, welche verschiedene Arten digitaler Objekte spe
 ###### [RfII](http://www.rfii.de/)
 [Rat für Informationsinfrastrukturen] Gremium, welches Politik und Wissenschaft im Bereich von Digitalstrategien berät.
 
+###### RSS
+[[RDF](#rdf) Site Summary or Really Simple Syndication] Dateiformat für Web-Feeds, welche Updates von Webseiten erfassen können.
+
 ###### [SAW](https://www.saw-leipzig.de/)
 Sächsische Akademie der Wissenschaften zu Leipzig
 
