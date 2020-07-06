@@ -225,6 +225,9 @@ bzw. Normdatei.  Verzeichnis von normierten Begriffen, genutzt beispielsweise al
 ###### [NFDI](https://www.dfg.de/foerderung/programme/nfdi/)
 [Nationale [Forschungsdateninfrastruktur](#forschungsdateninfrastruktur)] Förderinitiative der DFG zum Aufbau einer deutschlandweiten Forschungsdateninfrastruktur. Sie "...soll die Datenbestände von Wissenschaft und Forschung systematisch erschließen, nachhaltig sichern und zugänglich machen sowie (inter-)national vernetzen. Sie wird in einem aus der Wissenschaft getriebenen Prozess als vernetzte Struktur eigeninitiativ agierender Konsortien aufgebaut werden." (DFG)
 
+###### OAI-PMH
+[Open Archives Initiative - Protocol for Metadata Harvesting] Auf [XML](#xml) und [REST](#rest) basierendes Protokoll zum Bereitstellen und Übertragen von Metadaten. OAI-PMH dient dem Sammeln von Metadaten, welche von so genannten Data Providern bereitgestellt werden, um beispielsweise eine zentrale Suche in Metadaten ermöglichen zu können. Ein Beispiel ist das [CLARIN Virtual Language Observatory](https://vlo.clarin.eu).
+
 ###### OCR
 [Optical Character Recognition] Maschinengesteuerte Erschließung von Text aus Bilddaten. Während die Genauigkeit bei gedruckten Daten recht gut ist, bieten handschriftliche Dokumente, Schreibschriften und nicht alphabet-basierte Schriften große Herausforderungen.
 
@@ -282,6 +285,9 @@ Programmiersprache, welche sich über durch ihre einfache, gut lesbare Syntax au
 
 ###### Repositorium
 Repositorien sind Einrichtungen, welche verschiedene Arten digitaler Objekte speichern und verwalten und wenn gewünscht Zugriff darauf bieten. Handelt es sich bei diesen Objekten um [Forschungsdaten](#forschungsdaten), so spricht man von einem Forschungsdatenrepositorium. Das dortige Ablegen von Forschungsdaten ist in der Regel Teil der Nachhaltigkeitsbestrebungen des [Datenmanagementplans](#datenmanagementplan) von Forschungsprojekten und dient der Zugänglichmachung, dem Publizieren und teilweise der [Archivierung](#archivierung) der Daten. Durch Ablegen der Daten zusammen mit [Metadaten](#metadaten) kann seitens des Repositoriums eine Durchsuchbarkeit gewährleistet werden. Die Vergabe eines dauerhaften Identifikators ([Persistent Identifier](#persistent-identifier)) durch das Repositorium ermöglicht zusätzlich die langfristige Zitierbarkeit. Repositorien weisen in der Regel die Einhaltung gewisser Qualitätsstandards durch erfolgreiche Zertifizierungen nach (z.B. Core Trust Seal oder Nestor).
+
+###### REST
+[Representational State Transfer] Programmierparadigma für verteilte Systeme, in erster Linie Webservices im World Wide Web. 
 
 ###### [RfII](http://www.rfii.de/)
 [Rat für Informationsinfrastrukturen] Gremium, welches Politik und Wissenschaft im Bereich von Digitalstrategien berät.
