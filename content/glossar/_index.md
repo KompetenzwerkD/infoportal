@@ -228,6 +228,9 @@ bzw. Normdatei.  Verzeichnis von normierten Begriffen, genutzt beispielsweise al
 ###### OAI-PMH
 [Open Archives Initiative - Protocol for Metadata Harvesting] Auf [XML](#xml) und [REST](#rest) basierendes Protokoll zum Bereitstellen und Übertragen von Metadaten. OAI-PMH dient dem Sammeln von Metadaten, welche von so genannten Data Providern bereitgestellt werden, um beispielsweise eine zentrale Suche in Metadaten ermöglichen zu können. Ein Beispiel ist das [CLARIN Virtual Language Observatory](https://vlo.clarin.eu).
 
+######  OAIS
+[Open Archival Information System oder Offenes Archiv-Informations-System] Referenzmodell für ein dynamisches, erweiterungsfähiges Archivinformationssystem. ISO-Standard.
+
 ###### OCR
 [Optical Character Recognition] Maschinengesteuerte Erschließung von Text aus Bilddaten. Während die Genauigkeit bei gedruckten Daten recht gut ist, bieten handschriftliche Dokumente, Schreibschriften und nicht alphabet-basierte Schriften große Herausforderungen.
 
