@@ -16,7 +16,7 @@ Je nach Art der Daten, sowie den eigenen Zielen bzw. dem eigenen Fokus kann die 
 
 ## Mediawiki
 
-MediaWikis erlauben es auf einfache Weise Wissen zu teilen. Dieses Wissen liegt in für Menschen leicht lesbare Form (Texte bzw. Mediendateien) vor. Im Gegensatz dazu sind sie aber nicht dafür ausgelegt, einzelne Fakten/Informationen maschinell abrufbar zu machen bzw. Fakten automatisch zu aggregieren. Um dieses Defizit auszugleichen gibt es einige Erweiterungen zu MediaWiki, die es erlauben, Daten strukturiert zu erfassen und abzufragen. Die beiden wichtigsten hierfür sind [Wikibase](#wikibase) und Sematic MediaWiki.
+MediaWikis erlauben es, auf einfache Weise Wissen zu teilen. Dieses Wissen liegt in für Menschen leicht lesbarer Form (Texte bzw. Mediendateien) vor. Im Gegensatz dazu sind sie aber nicht dafür ausgelegt, einzelne Fakten/Informationen maschinell abrufbar zu machen bzw. Fakten automatisch zu aggregieren. Um dieses Defizit auszugleichen gibt es einige Erweiterungen zu MediaWiki, die es erlauben, Daten strukturiert zu erfassen und abzufragen. Die beiden wichtigsten hierfür sind [Wikibase](#wikibase) und Sematic MediaWiki.
 
 * Allgemeines:
   * Verwaltungssoftware für Inhalte in Form eines [Wiki-Systems](@/glossar/_index.md#wiki), dessen Inhalte direkt im Webbrowser bearbeitet und geändert werden können
@@ -25,14 +25,14 @@ MediaWikis erlauben es auf einfache Weise Wissen zu teilen. Dieses Wissen liegt 
   * Wissen gemeinschaftlich sammeln und bearbeiten
   * Schwerpunkt auf textuellen Daten, die durch Fotos oder andere Medien ergänzt werden können
 * Nutzerfreundlichkeit:
-  * in das Wiki integrierte graphische Benutzeroberfläche zur Erstellung + Verwaltung der Inhalte
+  * In das Wiki integrierte graphische Benutzeroberfläche zur Erstellung + Verwaltung der Inhalte
   * Nachverfolgen von Änderungen
 * Nutzerverwaltung:
-  * integrierte Nutzerverwaltung und Rechteverwaltung
-  * auch offene Wikis sind möglich
+  * Integrierte Nutzerverwaltung und Rechteverwaltung
+  * Auch offene Wikis sind möglich
 * Durchsuchbarkeit: Volltextsuche
 * Datenschema:
-  * keine native Unterstützung, aber Nutzen von Seitenvorlagen zur Erstellung von Datensätzen eines festen [Schemas](@/glossar/_index.md#schema) möglich
+  * Keine native Unterstützung, aber Nutzen von Seitenvorlagen zur Erstellung von Datensätzen eines festen [Schemas](@/glossar/_index.md#schema) möglich
   * Einordnung der Seiten in Kategorien und Namensräume
 * Import/Export der Daten: 
   * Datenexport als [XML](@/glossar/_index.md#xml)-Dump
@@ -43,7 +43,7 @@ MediaWikis erlauben es auf einfache Weise Wissen zu teilen. Dieses Wissen liegt 
 
 ## Wikibase
 
-Wikibase ist eine freie Erweiterung zu [MediaWiki](#mediawiki), welche mithilfe derer maschinlesbare, struturierte Wissensdatenbanken erstellt werden können. Es verwendet dabei [Linked-Open-Data](@/glossar/_index.md#linked-open-data) Prinzipien und die Daten können mittels [SPARQL](@/glossar/_index.md#sparql) abgefragt werden bzw. u.a. als [RDF](@/glossar/_index.md#rdf)/[XML](@/glossar/_index.md#xml), [N3](@/glossar/_index.md#n3), [JSON](@/glossar/_index.md#json), [YAML](@/glossar/_index.md#yaml) etc. exportiert werden.
+Wikibase ist eine freie Erweiterung zu [MediaWiki](#mediawiki), welche mithilfe derer maschinlesbare, struturierte Wissensdatenbanken erstellt werden können. Es verwendet dabei [Linked-Open-Data](@/glossar/_index.md#linked-open-data)-Prinzipien und die Daten können mittels [SPARQL](@/glossar/_index.md#sparql) abgefragt werden bzw. u.a. als [RDF](@/glossar/_index.md#rdf)/[XML](@/glossar/_index.md#xml), [N3](@/glossar/_index.md#n3), [JSON](@/glossar/_index.md#json), [YAML](@/glossar/_index.md#yaml) etc. exportiert werden.
 
 * Allgemeines:
   * Mediawiki-Erweiterung zur strukturierten, maschinenlesbaren Datenerfassung
@@ -82,8 +82,8 @@ Ein Content-Management-System (CMS) ist eine Software zur gemeinschaftlichen Ers
   * Definition der Verarbeitungsprozesse als Workflow möglich
 * Durchsuchbarkeit: Volltextsuche
 * Datenschema:
-  * keine vollständige Unterstützung, aber Nutzen von Seitenvorlagen zur Erstellung von Inhalten eines festen Schemas i.d.R. möglich
-  * semantisches Ordnen der Inhalte möglich
+  * Keine vollständige Unterstützung, aber Nutzen von Seitenvorlagen zur Erstellung von Inhalten eines festen Schemas i.d.R. möglich
+  * Semantisches Ordnen der Inhalte möglich
 * Import/Export der Daten: als flache Daten in der Regel möglich
 * Schnittstellen: Bereitstellung der Daten über typische Schnittstellen wie [SPARQL](@/glossar/_index.md#sparql) i.d.R. nicht möglich, eventuell über Erweiterungen (Community-Support bzw. Engagement für einige CMS-Systeme sehr umfangreich)
 
@@ -99,8 +99,8 @@ Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur 
   * Erstellung und Bereitstellung von semantisch angereichertem Content
   * Kombination von Daten diverser Fachdisziplinen und Quellen
   * Integration von [Normdaten](@/glossar/_index.md#normdaten) und [Vokabularen](@/glossar/_index.md#kontrolliertes-vokabular)
-  * Gedächtnisinstitutionen (Museen, Archive, Bibliotheken), welche Wissen sammeln, speichern, verwalten und kommunizieren wollen
-  * Zusätzlich: Halbautomatische Textannotation
+  * Gedächtnisinstitutionen (Museen, Archive, Bibliotheken), welche Wissen sammeln, speichern, verwalten und kommunizieren wollen, als Zielgruppe
+  * Zusätzlich: Halbautomatische Textannotation integriert
 * Nutzerfreundlichkeit:
   * Erstellung von Definitionen/[Schemata](@/glossar/_index.md#schema) mittels graphischer Oberfläche (basierend auf importierbaren [Ontologien](@/glossar/_index.md#ontologie))
   * Daraus: Automatische Erstellung (anpassbarer) graphischer Masken für die Eingabe von Daten(instanzen)
@@ -119,23 +119,23 @@ Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur 
 * Schnittstellen: 
   * Trennung von Onotologieebene (Referenz und Anwendung), Datenebene (Instanzdaten) und eienr Ebene für Autoritätsdaten mit festen Schnittstellen
   * SPARQL-Endpunkt zum strukturierten Zugriff auf die Daten
-  * Unterstützung von IIIF mittels Plugins
-  * Integration einer Open Archive Initiative Protocol for Metadata Harvesting (OAI-PMH)-Schnittstelle für Metadaten
+  * Unterstützung von [IIIF](@/glossar/_index.md#iiif) mittels Plugins
+  * Integration einer Open Archive Initiative Protocol for Metadata Harvesting ([OAI-PMH](@/glossar/_index.md#oai-pmh))-Schnittstelle für Metadaten
 
 ## Repositorien für Forschungsdaten / DAM-Systeme (Digital Asset Management) 
 
-Repositorien sind universelle Speicherorte für digitale Objekte, die diese für einen öffentlichen oder beschränkten Nutzendenkreis bereitstellen. Ziel solcher Systeme ist es dabei in erster Linie, die Auffindbarkeit und Zugänglichkeit der Daten zu sichern. Daher stellen sie unter anderem eine sinnvolle Basis für Anbieter nachhaltiger Forschungsdatenrepositorien dar, die Daten langfristig aufbewahren wollen.
+Repositorien sind universelle Speicherorte für digitale Objekte, die diese für einen öffentlichen oder beschränkten Nutzendenkreis bereitstellen. Ziel solcher Systeme ist es dabei in erster Linie, die Auffindbarkeit und Zugänglichkeit der Daten zu sichern. Daher stellen sie unter anderem eine sinnvolle Basis für Anbieter nachhaltiger [Forschungsdatenrepositorien](@/glossar/_index.md#repositorium) dar, die Daten langfristig aufbewahren wollen.
 
-Empfehlenswert für Anwender könnte besonders das auf Fedora basierende Islandora sein, welches die typische Beschränkungen vieler Repositorien gezielt angeht. So bietet Islandora beispielsweise ein stark erweitertes Frontend durch Integration des CMS Drupal, eine Integration von Wissensgraphen (Blazegraph), einen IIIF-Server (Cantaloupe) und erweiterte SchnittstellenUnterstützung. 
+Empfehlenswert für Anwender könnte besonders das auf Fedora basierende Islandora sein, welches die typische Beschränkungen vieler Repositorien gezielt angeht. So bietet Islandora beispielsweise ein stark erweitertes Frontend durch Integration des [CMS[(#content-management-systeme) Drupal, eine Integration von Wissensgraphen (Blazegraph), einen [IIIF](@/glossar/_index.md#iiif)-Server (Cantaloupe) und erweiterte Schnittstellenunterstützung. 
 
 * typische Vertreter: [Fedora Commons](https://duraspace.org/fedora/), [DSpace](https://duraspace.org/dspace/), [Islandora](https://islandora.ca/)
 * Allgemeines: 
   * Universeller Speicherort für digitale Objekte
 * Fokus:
   * Langfristiger, persistenter Zugriff auf Daten
-  * Archivierung steht im Mittelpunkt, erreicht durch Umsetzung des OAIS (Open Archival Information System - Referenzmodell für ein dynamisches, erweiterungsfähiges Archivinformationssystem)
+  * Archivierung steht im Mittelpunkt, erreicht durch Umsetzung von [OAIS](@/glossar/_index.md#oais)
   * Hauptzielgruppe sind Archive und Bibliotheken
-  * Fokus auf Metadaten zur Datenbeschreibung um Zugänglichkeit und Durchsuchbarkeit sicherzustellen
+  * Fokus auf [Metadaten](@/glossar/_index.md#metadaten) zur Datenbeschreibung um Zugänglichkeit und Durchsuchbarkeit sicherzustellen
   * Referenzierbarkeit und Zitierbarkeit durch Vergabe endeutiger persistenter Identifikatoren
   * Hohe Skalierbarkeit
 * Nutzerfreundlichkeit:
@@ -147,12 +147,12 @@ Empfehlenswert für Anwender könnte besonders das auf Fedora basierende Islando
 * Durchsuchbarkeit:
   * Volltextsuche und in der Regel metadatenbasierte Suche
 * Datenschema:
-  * Unterstützung beliebiger Schemata durch universelle Datenhaltung (beispielsweise in MySQL-Datenbank) und Unterstützung von Linked Data
+  * Unterstützung beliebiger Schemata durch universelle Datenhaltung (beispielsweise in MySQL-Datenbank) und Unterstützung von [Linked Data](@/glossar/_index.md#linked-open-data)
 * Import/Export der Daten: 
-  * Unterstützung offener Standards wie RDF
+  * Unterstützung offener Standards wie [RDF](@/glossar/_index.md#rdf)
 * Schnittstellen:
-  * RESTful APIs üblich
-  * typischerweise Schnittstellen zum Teilen der Metadaten vorhanden (z.B. per OAI-PMH)
+  * [RESTful](@/glossar/_index.md#rest) [APIs](@/glossar/_index.md#api) üblich
+  * typischerweise Schnittstellen zum Teilen der Metadaten vorhanden (z.B. per [OAI-PMH](@/glossar/_index.md#oai-pmh))
 
 ## Knowledge Management Software (KMS)
 
@@ -172,4 +172,4 @@ Knowledge Management Software (Software zum Wissensmanagement) dient dem Identif
   * Meist Unterstützung durch automatische Kategorisierung
 * Datenschema: Fokus auf unstrukturierten Daten
 * Import/Export der Daten: Üblicherweise als plain/binary data
-* Schnittstellen: Häufig Rest-API, Plugin-SDK
+* Schnittstellen: Häufig [REST-API](@/glossar/_index.md#rest), Plugin-SDK
