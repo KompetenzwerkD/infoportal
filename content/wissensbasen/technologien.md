@@ -47,12 +47,12 @@ Wikibase ist eine freie Erweiterung zu [MediaWiki](#mediawiki), welche mithilfe 
 
 * Allgemeines:
   * Mediawiki-Erweiterung zur strukturierten, maschinenlesbaren Datenerfassung
-  * Einfaches, aber flexibles Datenmodell
+  * Einfaches, aber flexibles [Datenmodell](@/glossar/_index.md#datenmodell)
   * Verwendet die Mediawiki-Oberfläche
-  * Genutzt von Wikidata
+  * Genutzt von [Wikidata](@/glossar/_index.md#wikidata)
   * Empfehlenswert als Backend eines Mediawiki
 * Fokus: 
-  * Strukturierte Daten (Statements, ähnlich semantischen Tripeln)
+  * Strukturierte Daten (Statements ähnlich semantischen Tripeln)
 * Nutzerfreundlichkeit: 
   * Verwendet die bekannte Mediawiki-Oberfläche
 * Nutzerverwaltung: 
@@ -66,11 +66,11 @@ Wikibase ist eine freie Erweiterung zu [MediaWiki](#mediawiki), welche mithilfe 
   * Datenimport über [Quickstatements](https://www.wikidata.org/wiki/Help:QuickStatements) 
   * Datenabfrage über SPARQL-Endpoint
 * Schnittstellen: 
-  * Medaiwiki-API und SPARQL-Endpoint
+  * Mediawiki-[API](@/glossar/_index.md#api) und SPARQL-Endpoint
 
 ## Content-Management-Systeme
 
-Ein Content-Management-System (CMS) ist eine Software zur gemeinschaftlichen Erstellung, Bearbeitung und Organisation und Darstellung von digitalen Inhalten zur Verwendung in Webseiten. Zur Bedienung eines CMS sind dank graphischer Benutzeroberfläche keine bzw. kaum Programmier- oder HTML-Kenntnisse nötig. Einschränkungen sind in der Regel bezüglich der Arbeit mit festen Schemata für Daten, der Integration von Normdaten oder Vokabularen und der verfügbaren Schnittstellen und Exportformate hinzunehmen. Dennoch kann in bestimmten Fällen der Einsatz eines CMS lohnen.
+Ein Content-Management-System (CMS) ist eine Software zur gemeinschaftlichen Erstellung, Bearbeitung und Organisation und Darstellung von digitalen Inhalten zur Verwendung in Webseiten. Zur Bedienung eines CMS sind dank graphischer Benutzeroberfläche keine bzw. kaum Programmier- oder HTML-Kenntnisse nötig. Einschränkungen sind in der Regel bezüglich der Arbeit mit festen Schemata für Daten, der Integration von [Normdaten](@/glossar/_index.md#normdaten) oder [Vokabularen](@/glossar/_index.md#kontrolliertes-vokabular) und der verfügbaren Schnittstellen und Exportformate hinzunehmen. Dennoch kann in bestimmten Fällen der Einsatz eines CMS lohnen.
 
 * typische Vertreter: Plone, WordPress, Typo3, Joomla!, Drupal, Omeka
 * Fokus:
