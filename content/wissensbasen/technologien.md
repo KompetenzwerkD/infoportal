@@ -70,7 +70,7 @@ Wikibase ist eine freie Erweiterung zu [MediaWiki](#mediawiki), welche mithilfe 
 
 ## Content-Management-Systeme
 
-Ein Content-Management-System (CMS) ist eine Software zur gemeinschaftlichen Erstellung, Bearbeitung und Organisation und Darstellung von digitalen Inhalten zur Verwendung in Webseiten. Zur Bedienung eines CMS sind dank graphischer Benutzeroberfläche keine bzw. kaum Programmier- oder HTML-Kenntnisse nötig. Einschränkungen sind in der Regel bezüglich der Arbeit mit festen Schemata für Daten, der Integration von [Normdaten](@/glossar/_index.md#normdaten) oder [Vokabularen](@/glossar/_index.md#kontrolliertes-vokabular) und der verfügbaren Schnittstellen und Exportformate hinzunehmen. Dennoch kann in bestimmten Fällen der Einsatz eines CMS lohnen.
+Ein Content-Management-System (CMS) ist eine Software zur gemeinschaftlichen Erstellung, Bearbeitung und Organisation und Darstellung von digitalen Inhalten zur Verwendung in Webseiten. Zur Bedienung eines CMS sind dank graphischer Benutzeroberfläche keine bzw. kaum Programmier- oder HTML-Kenntnisse nötig. Einschränkungen sind in der Regel bezüglich der Arbeit mit festen [Schemata](@/glossar/_index.md#schema) für Daten, der Integration von [Normdaten](@/glossar/_index.md#normdaten) oder [Vokabularen](@/glossar/_index.md#kontrolliertes-vokabular) und der verfügbaren Schnittstellen und Exportformate hinzunehmen. Dennoch kann in bestimmten Fällen der Einsatz eines CMS lohnen.
 
 * typische Vertreter: Plone, WordPress, Typo3, Joomla!, Drupal, Omeka
 * Fokus:
@@ -85,35 +85,35 @@ Ein Content-Management-System (CMS) ist eine Software zur gemeinschaftlichen Ers
   * keine vollständige Unterstützung, aber Nutzen von Seitenvorlagen zur Erstellung von Inhalten eines festen Schemas i.d.R. möglich
   * semantisches Ordnen der Inhalte möglich
 * Import/Export der Daten: als flache Daten in der Regel möglich
-* Schnittstellen: Bereitstellung der Daten über typische Schnittstellen wie Sparql i.d.R. nicht möglich, eventuell über Erweiterungen (Community-Support bzw. Engagement für einige CMS-Systeme sehr umfangreich)
+* Schnittstellen: Bereitstellung der Daten über typische Schnittstellen wie [SPARQL](@/glossar/_index.md#sparql) i.d.R. nicht möglich, eventuell über Erweiterungen (Community-Support bzw. Engagement für einige CMS-Systeme sehr umfangreich)
 
 ## Virtuelle Forschungsumgebung WissKI
 
-Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur Verwaltung strukturierter wissenschaftlicher Daten, die vollständig Open Source ist. Sie stellt ein flexibles Tool für die Datenerfassung von ortsverteilt arbeitenden Forschern dar. Dabei setzt sie auf bewährte Semantic-Web-Technologie und unterstützt entsprechende Schnittstellen und Standards.
+Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur Verwaltung strukturierter wissenschaftlicher Daten, die vollständig [Open Source](@/glossar/_index.md#open-source) ist. Sie stellt ein flexibles Tool für die Datenerfassung von ortsverteilt arbeitenden Forschern dar. Dabei setzt sie auf bewährte [Semantic-Web](@/glossar/_index.md#semantic-web,-semantische-technologien)-Technologie und unterstützt entsprechende Schnittstellen und Standards.
 
 * Allgemeines:
   * Umfangreiche virtuelle Forschungsumgebung
-  * Basierend auf dem CMS Drupal (dessen zahlreiche Erweiterungen genutzt werden können)
-  * Beachtung wichtiger Aspekte des Datenmanagements: Beständigkeit von Informationen, langfristige Aufbewahrung und Zugänglichkeit, Standards für digitale Dokumentation und E-Publishing
+  * Basierend auf dem [CMS](@/glossar/_index.md#cms) Drupal (dessen zahlreiche Erweiterungen genutzt werden können)
+  * Beachtung wichtiger Aspekte des [Datenmanagements](@/glossar/_index.md#forschungsdatenmanagement): Beständigkeit von Informationen, langfristige Aufbewahrung und Zugänglichkeit, Standards für digitale Dokumentation und E-Publishing
 * Fokus: 
   * Erstellung und Bereitstellung von semantisch angereichertem Content
   * Kombination von Daten diverser Fachdisziplinen und Quellen
-  * Integration von Normdaten und Vokabularen
+  * Integration von [Normdaten](@/glossar/_index.md#normdaten) und [Vokabularen](@/glossar/_index.md#kontrolliertes-vokabular)
   * Gedächtnisinstitutionen (Museen, Archive, Bibliotheken), welche Wissen sammeln, speichern, verwalten und kommunizieren wollen
   * Zusätzlich: Halbautomatische Textannotation
 * Nutzerfreundlichkeit:
-  * Erstellung von Definitionen/Schemata mittels graphischer Oberfläche (basierend auf importierbaren Ontologien)
+  * Erstellung von Definitionen/[Schemata](@/glossar/_index.md#schema) mittels graphischer Oberfläche (basierend auf importierbaren [Ontologien](@/glossar/_index.md#ontologie))
   * Daraus: Automatische Erstellung (anpassbarer) graphischer Masken für die Eingabe von Daten(instanzen)
 * Nutzerverwaltung:
   * Nutzer- und Rechteverwaltung durch Drupal gegeben
   * Kommunikationsfunktionalitäten wie Mailing(listen), Forum, Blog
 * Durchsuchbarkeit:
-  * Facettierte Suche und Volltextsuche möglich
-  * Search API und Solr Search API vorhanden
+  * [Facettierte Suche](@/glossar/_index.md#facettensuche) und Volltextsuche möglich
+  * Search [API](@/glossar/_index.md#api) und Solr Search API vorhanden
 * Datenschema: Flexible Erstellung von Datenstrukturen/Schemas, einfaches Einbinden lokaler oder globaler Normdaten und fester Vokabulare. Unterstützung semantischer Annotationen von Texten.
 * Import/Export der Daten:
   * Verwendung eines Triple Stores als Back-End
-  * Import/Export von Ontologien/Schemas als OWL/XML, RDF/XML, N-Triples, Turtle, SPARQL, Legacy XML, HTML tag soup, RSS 2.0 und Google Social Graph API JSON
+  * Import/Export von Ontologien/Schemas als [OWL](@/glossar/_index.md#owl)/XML, [RDF](@/glossar/_index.md#rdf)/XML, [N-Triples](@/glossar/_index.md#N3), [Turtle](@/glossar/_index.md#turtle), [SPARQL](@/glossar/_index.md#sparql), Legacy [XML](@/glossar/_index.md#xml), HTML tag soup, [RSS](@/glossar/_index.md#rss) 2.0 und Google Social Graph API [JSON](@/glossar/_index.md#json)
   * Import/Export von Instanzdaten mittels OWL-DL/XML or RDF/XML
   * Import/Export von Authorities (Normdaten/Vokabulare) mittels Simple Knowledge Organization System (SKOS)
 * Schnittstellen: 
