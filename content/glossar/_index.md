@@ -322,6 +322,9 @@ Einheitliche und weithin anerkannte Art und Weise etwas zu tun. Beispielsweise i
 ###### Thesaurus
 Auch Wortnetz, ist ein kontrolliertes Vokabular, dessen Begriffe durch (semantische) Relationen wie Synonymie oder Hyponymie miteinander verbunden sind.
 
+###### Turtle
+[Terse RDF Triple Language]  Syntax, die es ermöglicht, Daten im [RDF](#rdf)-Datenmodell zu beschreiben. 
+
 ###### URI
 [Uniform Resource Identifier] Zeichenkette, welche eindeutig eine Ressource identifiziert. Dazu wird folgende Syntax verwendet:  `URI = scheme:[//authority]path[?query][#fragment]` 
 
