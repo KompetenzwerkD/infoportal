@@ -89,7 +89,7 @@ Ein Content-Management-System (CMS) ist eine Software zur gemeinschaftlichen Ers
 
 ## Virtuelle Forschungsumgebung WissKI
 
-Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur Verwaltung strukturierter wissenschaftlicher Daten, die vollständig [Open Source](@/glossar/_index.md#open-source) ist. Sie stellt ein flexibles Tool für die Datenerfassung von ortsverteilt arbeitenden Forschern dar. Dabei setzt sie auf bewährte [Semantic-Web](@/glossar/_index.md#semantic-web,-semantische-technologien)-Technologie und unterstützt entsprechende Schnittstellen und Standards.
+Wisski ist eine virtuelle Forschungsumgebung (Virtual Research Environment) zur Verwaltung strukturierter wissenschaftlicher Daten, die vollständig [Open Source](@/glossar/_index.md#open-source) ist. Sie stellt ein flexibles Tool für die Datenerfassung von ortsverteilt arbeitenden Forschern dar. Dabei setzt sie auf bewährte [Semantic-Web](@/glossar/_index.md#semantic-web-semantische-technologien)-Technologie und unterstützt entsprechende Schnittstellen und Standards.
 
 * Allgemeines:
   * Umfangreiche virtuelle Forschungsumgebung
