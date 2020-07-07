@@ -6,7 +6,7 @@ description = "Description"
 insert_anchor_links = "right"
 
 [extra]
-show_in_topics = false
+show_in_topics = true
 +++
 
 ## Einleitung

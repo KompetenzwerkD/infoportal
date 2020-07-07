@@ -114,6 +114,7 @@ h1 {
   line-height:2.4rem;
   font-weight: 500;
   margin:1rem 0;
+  text-align: left;
 }
 
 html {
@@ -124,7 +125,7 @@ body {
   padding: 3rem 3rem 3rem 3rem;
   //margin-right: 5rem;
   
-
+  text-align: justify;
 
   height: auto;
   text-rendering: optimizeLegibility;
@@ -324,6 +325,7 @@ footer {
     font-size:1.5rem;
     line-height:2rem;
     font-weight: 500;
+    text-align: left;
   }
 
   nav {
