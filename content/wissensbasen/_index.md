@@ -42,10 +42,3 @@ Anzumerken ist: Nicht jede Lösung unterstützt alle beschriebenen Eigenschaften
 Beispielsweise sind die Möglichkeiten zum Datenexport davon abhängig, wie strukturiert Daten abgelegt werden.
 
 Wichtig ist die informierte Entscheidung für eine auf den jeweiligen Anwendungsfall abgestimmte Lösung. Idealerweise sollte diese möglichst stark auf existierenden Tools basieren, um den entstehenden Aufwand gering zu halten.
-
-
-## Ideen
-
-* Einführung WB: Definition, Einsatzbereiche, Vor- und Nachteile
-* Technologien-Vergleich zur Entscheidungshilfe: Systeme für Wissensbasen inkl. Wiki-Ökosystem (Mediawiki+Extensions, Wikibase, Wikidata...), CMS-Systeme (WordPress, Typo3 Joomla!, Drupal, Plone), Wisski, (Aufgeblähte) Knowledge Management Software? (z.B. OpenKM), Wissensgraphen als Aspekt?, zb structr als gaphbasierte eierlegende Wollmilchsau?, Lösungen für Forschungsdatenrepositorien wie Fedora Commons und DSpace?, auch IIIF-Framework erwähnen mit Beispiel ; evtl auch Technologien zum Datenabgleich
-* Übersicht zu Normdaten + Vokabularen: Was ist das? Unterschiede Normdaten/Vokabulare? Warum/Vorteile? Gibt es Übersichten oder wichtige Vertreter für unsere Fachbereiche?
