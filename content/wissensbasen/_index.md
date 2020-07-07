@@ -9,6 +9,8 @@ insert_anchor_links = "right"
 show_in_topics = true
 +++
 
+# Wissensbasen
+
 ## Einleitung
 
 Eine Wissensbasis ist ein System zur Speicherung von strukturierten oder unstrukturierten Daten unterschiedlicher Komplexität.
