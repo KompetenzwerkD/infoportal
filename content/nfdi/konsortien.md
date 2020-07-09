@@ -1,8 +1,17 @@
-## Konsortien
++++
+title = "NFDI-Konsortien"
+sort_by = "weight"
+weight = 2
+description = "Description"
+insert_anchor_links = "right"
+
+[extra]
+show_in_topics = true
++++
+
+# NFDI-Konsortien
 
 Für den Schwerpunkt der (Digitalen) Geisteswissenschaften existieren folgende Konsortieninitiativen:
-
-<br />
 
 #### NFDI4Culture
 * Update:  NFDI4Culture wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der ersten Runde (Antrag 2019, Förderzusage 2020) des NFDI-Aufbaus zur Förderung ausgewählt.
