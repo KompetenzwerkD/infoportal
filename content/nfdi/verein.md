@@ -1,7 +1,7 @@
 +++
 title = "NFDI-Verein"
 sort_by = "weight"
-weight = 3
+weight = 4
 description = "Description"
 insert_anchor_links = "right"
 
