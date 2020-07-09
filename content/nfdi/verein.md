@@ -31,10 +31,4 @@ können auch externe Personen Mitglied werden und sich und ihre Expertise einbri
 
 > Andere juristische Personen, von denen ein wesentlicher Beitrag zur Verwirklichung des Vereinszwecks zu erwarten ist, können als Mitglieder aufgenommen werden.
 
-Dabei ist allerdings anzumerken, dass Mitglieder bereits geförderter NFDI-Konsortien in den internen Abläufen vorrangig behandelt werden. Auch ist eine Mitgliedschaft nur zu empfehlen, wenn ein Mitwirken in übergreifenden Aspekte des NFDI-Aufbaus (wie den sogenannten Querschnittsthemen) gewünscht ist. Fachgebietsspezifische Aspekte werden am sinnvollsten in den jeweiligen Konsortien (NFDI4Culture oder andere) zur Sprache gebracht.
-
-
-
-
-
-
+Dabei ist allerdings anzumerken, dass Mitglieder bereits geförderter NFDI-Konsortien in den internen Abläufen vorrangig behandelt werden. Auch ist eine Mitgliedschaft nur zu empfehlen, wenn ein Mitwirken in übergreifenden Aspekten des NFDI-Aufbaus (wie den sogenannten Querschnittsthemen) gewünscht ist. Fachgebietsspezifische Aspekte werden am sinnvollsten in den jeweiligen [Konsortien](@/nfdi/konsortien.md) (NFDI4Culture oder andere) zur Sprache gebracht.
