@@ -1,7 +1,7 @@
 +++
 title = "NFDI-Konsortien"
 sort_by = "weight"
-weight = 2
+weight = 3
 description = "Description"
 insert_anchor_links = "right"
 
