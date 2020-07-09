@@ -9,7 +9,6 @@ insert_anchor_links = "right"
 show_in_topics = true
 +++
 
-
 # NFDI-Verein
 
 In der Governance der im Aufbau befindlichen Nationalen Forschungsdateninfrastruktur wird der Verein „Nationale Forschungsdateninfrastruktur (NFDI)" eine entscheidende und zentrale Rolle spielen.
