@@ -36,7 +36,6 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Stand: KonsortSWD wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der ersten Runde (Antrag 2019, Förderzusage 2020) des NFDI-Aufbaus zur Förderung ausgewählt.
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: GESIS – Leibniz Institut für Sozialwissenschaften
-
 * Schwerpunkt: multi- und interdisziplinäre Projekte; verschiedenen Datentypen; Daten mit rechtlichen oder ethischen Beschränkungen
 * Fachdisziplinen: Sozial-, Verhaltens-, Bildungs- und Wirtschaftswissenschaften 
 * Möglichkeiten der Teilhabe: Sobald Informationen bereitstehen, werden diese hier veröffentlicht.
