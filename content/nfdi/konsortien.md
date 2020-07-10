@@ -41,6 +41,8 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Fachdisziplinen: Sozial-, Verhaltens-, Bildungs- und Wirtschaftswissenschaften 
 * Möglichkeiten der Teilhabe: Sobald Informationen bereitstehen, werden diese hier veröffentlicht.
 
+<br />
+
 ### Beantragte bzw. zu beantragende Initiativen
 
 #### NFDI Text+
