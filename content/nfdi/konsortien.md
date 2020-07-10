@@ -11,16 +11,17 @@ show_in_topics = true
 
 # NFDI-Konsortien
 
-Für den Schwerpunkt der (Digitalen) Geisteswissenschaften existieren folgende Konsortieninitiativen:
+Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existieren folgende Konsortieninitiativen:
+
+### Bereits geförderte Initiativen
 
 #### NFDI4Culture
-* Update:  NFDI4Culture wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der ersten Runde (Antrag 2019, Förderzusage 2020) des NFDI-Aufbaus zur Förderung ausgewählt.
 * Webauftritt: [Link](https://www.nfdi4culture.de/)
 * Kontakt:
   * Prof. Dr. Dörte Schmidt dschmidt@udk-berlin.de
   * Prof. Dr. Holger Simon simon@pausanio.com
   * Prof. Torsten Schrade torsten.schrade@adwmainz.de
-* Stand: Förderung zugesagt
+* Stand: NFDI4Culture wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der ersten Runde (Antrag 2019, Förderzusage 2020) des NFDI-Aufbaus zur Förderung ausgewählt.
 * Beteiligte Netzwerkpartner: SLUB
 * Hauptantragssteller: Akademie der Wissenschaften und der Literatur, Mainz
 * Schwerpunkt: Materielles und immaterielles kulturelles Erbe
@@ -28,6 +29,19 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften existieren folgende K
 * Möglichkeiten der Teilhabe: Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert
 
 <br />
+
+#### KonsortSWD - Konsortium für die Sozial-, Verhaltens-, Bildungs- und Wirtschaftswissenschaften
+* Webauftritt: [Link](https://www.ratswd.de/konsortswd) 
+* Kontakt: Christof Wolf: Christof.Wolf@gesis.org
+* Stand: KonsortSWD wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der ersten Runde (Antrag 2019, Förderzusage 2020) des NFDI-Aufbaus zur Förderung ausgewählt.
+* Beteiligte Netzwerkpartner: -
+* Hauptantragssteller: GESIS – Leibniz Institut für Sozialwissenschaften
+
+* Schwerpunkt: multi- und interdisziplinäre Projekte; verschiedenen Datentypen; Daten mit rechtlichen oder ethischen Beschränkungen
+* Fachdisziplinen: Sozial-, Verhaltens-, Bildungs- und Wirtschaftswissenschaften 
+* Möglichkeiten der Teilhabe: Sobald Informationen bereitstehen, werden diese hier veröffentlicht.
+
+### Beantragte bzw. zu beantragende Initiativen
 
 #### NFDI Text+
 * Webauftritt: [Link](https://www.text-plus.org/)
@@ -42,7 +56,7 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften existieren folgende K
 <br />
 
 #### NFDI4Memory
-* Webauftritt: [Link](https://4memory.de/) das NFDI Expertengremium den Antrag von NFDI4Culture zur Förderung in der NFDI empfohlen hat. 
+* Webauftritt: [Link](https://4memory.de/)
 * Kontakt: Prof. Dr. Johannes Paulmann: 4memory@ieg-mainz.de
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
 * Beteiligte Netzwerkpartner: HAIT und ISGV
