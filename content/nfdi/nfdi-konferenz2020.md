@@ -49,12 +49,13 @@ In der Regel gelang es den Initiativen dabei sehr gut, ihre Vorhaben für den co
 Es folgte ein [Vortrag von Prof. Dr. Sure-Vetter](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/nfdi_konferenz_2020/querschnittsthemen_sure_vetter.pdf) zu NFDI-Querschnittsthemen. Darunter sollen jene Aspekte des NFDI-Aufbaus verstanden werden, die mehrere Initiativen betreffen und die entscheidend sind für die Zusammenarbeit der einzelnen durch Fachcommunities geschaffenen Konsortien.
 Es wurden wichtige Handlungsfelder identifiziert und anhand des typischen Forschungsdatenlebenszyklus erläutert, welcher im Rahmen des Aufbaus der NFDI eine entscheidende Rolle spielt. Schließlich ist eine Unterstützung der Forschenden in jedem Teilschritt dieses Zyklus gewünscht.
 Dabei wurde eine Einteilung der Handlungsfelder vorgenommen in:
-* jene, wo müssen sich alle beteiligen,
+* jene, wo sich alle beteiligen müssen,
 * jene, wo Einzelne vordenken müssen und
 * jene, wo nationale Strategien entwickelt werden müssen.
 
-Auch wurde ein anderer wichtiger Punkt angesprochen: Die nötige Technik, also "Compute and Storage". Es wurde vermittelt, dass dies bewusst nicht Teil der NFDI-Förderung ist, man sich aber bewusst ist, dass das Vorhandensein der technischen Grundausstattung für viele Fragestellungen unerlässlich ist. Entsprechend wird es von Bedeutung sein, entsprechende Strategien zu entwickeln oder zu übernehmen.
-
-Im Zusammenhang mit den Querschnittsthemen sei unsererseits noch auf die folgenden bedeutsamen Dokumente verwiesen:
+Im Zusammenhang mit den Querschnittsthemen sei unsererseits noch auf die folgenden bedeutsamen Dokumente verwiesen, welche eine wichtige Grundlage für die zukünftige Arbeit bilden werden:
 * [Leipzig-Berlin-Erklärung zu NFDI-Querschnittsthemen der Infrastrukturentwicklung vom 15.06.20](https://zenodo.org/record/3895209)
 * [Berlin Declaration on NFDI Cross-Cutting Topics vom 15.08.19](https://zenodo.org/record/3457213)
+
+Auch wurde ein anderer wichtiger Punkt angesprochen: Die nötige Technik, also "Compute and Storage". Es wurde vermittelt, dass dieser Aspekt bewusst nicht Teil der NFDI-Förderung ist, man sich aber bewusst ist, dass das Vorhandensein der technischen Grundausstattung für viele Fragestellungen unerlässlich ist. Entsprechend wird es von Bedeutung sein, passende Strategien zu entwickeln oder zu übernehmen.
+
