@@ -23,11 +23,11 @@ Die Gründung des Vereins steht Stichtag 9.7.2020 noch aus, die [Vereinssatzung]
 > * c) die Entwicklung disziplinübergreifender Metadatenstandards zur flächendeckenden Verfügbarmachung von Forschungsdaten und die Optimierung ihrer Nachnutzbarkeit;d)die Anbindung der deutschen Forschungsdateninfrastrukturen an europäische und internationale Plattformen;
 
 ### Mitwirken
-Wer den Weg der zukünftigen NFDI mitgestalten möchte, wird dazu im Rahmen des Vereins Möglichkeit haben. Interessierte können Mitglied werden und sich einbringen. Neben Beteiligten geplanter und geförderter Konsortien:
+Wer den Weg der zukünftigen NFDI mitgestalten möchte, wird dazu im Rahmen des Vereins Möglichkeit haben. Interessierte Institutionen können Mitglied werden und sich einbringen. Neben Beteiligten an geplanten bzw. bereits geförderten Konsortien:
 
 > Als weitere Mitglieder des Vereins können juristische Personen aufgenommen werden,die sich auf Grundlage der Bund-Länder-Vereinbarung zu Aufbau und Förderung einer Nationalen Forschungsdateninfrastruktur (NFDI) vom 26.November 2018 zu Konsortien zusammengeschlossen haben und in diesem Rahmen aus öffentlichen Mitteln gefördert werden oder eine solche Förderung anstreben (im Folgenden: „Konsortien gemäß BLV“). Die Aufnahme in den Verein präjudiziert nicht die Entscheidung über eine Förderung nach der genannten Bund-Länder-Vereinbarung.
 
-können auch externe Personen Mitglied werden und sich und ihre Expertise einbringen:
+können auch externe juristische Personen Mitglied werden und sich und ihre Expertise einbringen:
 
 > Andere juristische Personen, von denen ein wesentlicher Beitrag zur Verwirklichung des Vereinszwecks zu erwarten ist, können als Mitglieder aufgenommen werden.
 
