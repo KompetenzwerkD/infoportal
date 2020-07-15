@@ -11,7 +11,7 @@ show_in_topics = true
 
 # NFDI-Konferenz 2020
 
-Wie im letzten Jahr, fand auch 2020 wieder eine NFDI-Konferenz statt. Dieses Veranstaltungsformat dient der Information von geplanten Konsortien über das Konzept und die Ziele der NFDI sowie über zentrale Aspekte der Antragstellung. Die Konferenz dient aber auch der Vorstellung der Konsortien und deren Austausch untereinander.
+Wie im letzten Jahr, fand auch 2020 wieder eine NFDI-Konferenz statt. Dieses Veranstaltungsformat dient der Information von geplanten Konsortien über das Konzept und die Ziele der NFDI sowie über zentrale Aspekte der Antragstellung. Ziel der Konferenz ist aber auch Raum für die Vorstellung der Konsortien und deren Austausch untereinander zu bieten.
 
 Im Folgenden wird eine kurze Übersicht über den Ablauf und zentrale Ergebnisse gegeben.
 
