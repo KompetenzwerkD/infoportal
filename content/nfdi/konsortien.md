@@ -64,10 +64,10 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Hauptantragssteller: Leibniz Institut für Europäische Geschichte Mainz (IEG)
 * Schwerpunkt: historische Methoden, historische Kontextualisierung
 * Fachdisziplinen: historisch engagierte Disziplinen wie Geschichtswissenschaften, aber auch Wirtschaftswissenschaften, Sozialwissenschaften und Geographie
-* Möglichkeiten der Teilhabe: Es wurden und werden (virtuelle) Community-Treffen zur Ermittlung der Bedarfe der historisch arbeitenden Fächer abgehalten. Umplanungen aufgrund der COVID-19-Pandemie wurdne hier nötig.
+* Möglichkeiten der Teilhabe: Es wurden und werden (virtuelle) Community-Treffen zur Ermittlung der Bedarfe der historisch arbeitenden Fächer abgehalten. Umplanungen aufgrund der COVID-19-Pandemie wurden hier nötig.
   * [Informationen zu den Community-Treffen](https://4memory.de/community-treffen/)
   * [Fragen und Antworten](https://4memory.de/fragen-und-antworten-zu-4memory/) aus den bisherigen Community-Treffen
-  * [Call for Problem Stories](https://4memory.de/problem-stories/): Herausforderungen im Umgang mit Forschungsdaten sollen per Formular gesammelt und in einem virtuellen Community-Treffen diskutiert werden.
+  * Call for Problem Stories (Webseite wurde leider seitens 4Memory entfernt): Herausforderungen im Umgang mit Forschungsdaten sollen per Formular gesammelt und in einem virtuellen Community-Treffen diskutiert werden.
 
 <br />
 
