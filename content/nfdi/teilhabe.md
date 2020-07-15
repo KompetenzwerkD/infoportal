@@ -11,13 +11,13 @@ show_in_topics = true
 
 # Teilhabe am NFDI-Prozess
 
-Ein Mitwirken an Aspekten rund um den Aufbau der Nationalen Forschungsdateninfrastruktur (NFDI) scheint für Viele von Ihnen von großem Interesse. 
+Ein Mitwirken an Aspekten rund um den Aufbau der Nationalen Forschungsdateninfrastruktur (NFDI) scheint für viele von Ihnen von großem Interesse. 
 Die meisten Beteiligten an den Institutionen des KompetenzwerkD werden dabei aus **Anwendersicht** mitwirken wollen. Es geht Ihnen also nicht darum, im Rahmen der Förderung von Konsortien aktive Infrastrukturentwicklung voranzutreiben, wie es beispielsweise Infrastruktureinrichtungen oder Anbieter zentraler Ressourcen des jeweiligen Fachgebietes tun möchten.
 
 ## Mitwirken aus Anwendersicht
 
-#### Mitwirken in den fachspezifischen NFDIs
-NFDI4Culture, Text+, NFDI4Memory und NFDI4Objects werden (vermutlich) die wichtigsten Ansprechpartner unter den entstehenden Konsortien im Bereich der Geisteswissenschaften darstellen. Sich als Forschender in diese mit seinen Erfahrungen und Anliegen einzubringen kann für Alle von großem Nutzen sein. Schließlich ist es Aufgabe der Konsortien die real anfallende wissenschaftliche Arbeit durch den Aufbau der Infrastruktur zu unterstützen und zu erleichtern.
+#### Mitwirken in den fachspezifischen NFDI-Konsortien
+NFDI4Culture, Text+, NFDI4Memory und NFDI4Objects werden (vermutlich) die wichtigsten Ansprechpartner unter den entstehenden Konsortien im Bereich der Geisteswissenschaften darstellen. Sich als Forschender in diese mit seinen Erfahrungen und Anliegen einzubringen, kann für Alle von großem Nutzen sein. Schließlich ist es Aufgabe der Konsortien, die real anfallende wissenschaftliche Arbeit durch den Aufbau der Infrastruktur zu unterstützen und zu erleichtern.
 
 Beteiligung kann je nach Konsortium erfolgen durch:
 
