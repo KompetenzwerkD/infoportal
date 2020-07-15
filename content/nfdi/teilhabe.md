@@ -24,6 +24,7 @@ Beteiligung kann je nach Konsortium erfolgen durch:
 * Teilnahme oder Mitwirken an **Veranstaltungen**
 * Mitwirken in **Gremien**
 * **direkte Kontaktaufnahme** mit Ihren Anliegen
+* Mitarbeit in **Fachverbänden**, die sich oft aktiv an NFDIs beteiligen
 
 Detailliertere Möglichkeiten der Teilhabe an einzelnen Initiativen sowie die Kontaktmöglichkeiten werden stets im Dokument zu den [Konsortien](@/nfdi/konsortien.md) aktualisiert.
 
