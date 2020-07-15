@@ -43,7 +43,7 @@ Es gibt zwei grundlegende Möglichkeiten sich in den NFDIs zu engagieren:
 NFDI4Culture, Text+, NFDI4Memory und NFDI4Objects werden (vermutlich) die wichtigsten Ansprechpartner unter den entstehenden Konsortien im Bereich der Geisteswissenschaften darstellen. Neben einer direkten Kontaktaufnahme werden beispielweise das Mitwirken bei Veranstaltungen oder in Gremien des jeweiligen Konsortiums für fachspezifische Anliegen der beste Weg sein, auf sich aufmerksam zu machen. Detailliertere Möglichkeiten der Teilhabe werden stets im Dokument zu den [Konsortien](@/nfdi/konsortien.md) aktualisiert.
 
 #### Einwirken auf die generelle Entwicklung der NFDI
-Ein Mitwirken in übergreifenden Aspekten des NFDI-Aufbaus (wie den sogenannten Querschnittsthemen) ist über den NFDI-Verein möglich. Weitere Informationen werden auf folgender Seite vorgestellt: [NFDI-Verein](@/nfdi/verein.md)
+Ein Mitwirken in übergreifenden Aspekten des NFDI-Aufbaus (wie den sogenannten Querschnittsthemen) ist Institutionen über den NFDI-Verein möglich. Weitere Informationen werden auf folgender Seite vorgestellt: [NFDI-Verein](@/nfdi/verein.md)
 
 ### Konsortien
 
