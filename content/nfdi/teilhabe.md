@@ -12,7 +12,7 @@ show_in_topics = true
 # Teilhabe am NFDI-Prozess
 
 ein Mitwirken an Aspekten rund um den Aufbau der Nationalen Forschungsdateninfrastruktur (NFDI) scheint für Viele von Ihnen von großem Interesse. 
-Die meisten Beteiligten an den Institutionen des KompetenzwerkD werden dabei aus *Anwendersicht* mitwirken wollen. Es geht Ihnen also nicht darum, im Rahmen der Förderung von Konsortien aktive Infrastrukturentwicklung voranzutreiben, wie es beispielsweise Infrastruktureinrichtungen oder Anbieter zentraler Ressourcen des jeweiligen Fachgebietes tun möchten.
+Die meisten Beteiligten an den Institutionen des KompetenzwerkD werden dabei aus **Anwendersicht** mitwirken wollen. Es geht Ihnen also nicht darum, im Rahmen der Förderung von Konsortien aktive Infrastrukturentwicklung voranzutreiben, wie es beispielsweise Infrastruktureinrichtungen oder Anbieter zentraler Ressourcen des jeweiligen Fachgebietes tun möchten.
 
 ## Mitwirken aus Anwendersicht
 
@@ -21,13 +21,13 @@ NFDI4Culture, Text+, NFDI4Memory und NFDI4Objects werden (vermutlich) die wichti
 
 Beteiligung kann je nach Konsortium erfolgen durch:
 
-* Teilnahme oder Mitwirken an Veranstaltungen
-* Mitwirken in Gremien
-* direkte Kontaktaufnahme mit Ihren Anliegen
+* Teilnahme oder Mitwirken an **Veranstaltungen**
+* Mitwirken in **Gremien**
+* **direkte Kontaktaufnahme** mit Ihren Anliegen
 
 Detailliertere Möglichkeiten der Teilhabe an einzelnen Initiativen sowie die Kontaktmöglichkeiten werden stets im Dokument zu den [Konsortien](@/nfdi/konsortien.md) aktualisiert.
 
-Gerade in der Antrags- und Aufbauphase der NFDI benötigen die Konsortien viele Informationen aus den Nutzenden-Communities, um auf die tatsächlichen Anforderungen der Forschenden beim Aufbau der Infrastruktur eingehen zu können. Häufig geschieht dies über das Einsammeln sogenannter Problem Stories oder Use Cases, also Beschreibungen typischer oder gewünschter Abläufe des Forschendenalltags bzw. der Probleme die dabei zur Zeit auftreten.
+Gerade in der Antrags- und Aufbauphase der NFDI benötigen die Konsortien viele Informationen aus den Nutzenden-Communities, um auf die tatsächlichen Anforderungen der Forschenden beim Aufbau der Infrastruktur eingehen zu können. Häufig geschieht dies über das Einsammeln sogenannter **Problem Stories** oder **Use Cases**, also Beschreibungen typischer oder gewünschter Abläufe des Forschendenalltags bzw. der Probleme die dabei zur Zeit auftreten.
 
 Ihr KompetenzwerkD wird zeitnah auf Sie zukommen, um gemeinsam mit Ihnen an solchen Problem Stories zu arbeiten und diese koordiniert an die passenden Konsortien zu übergeben.
 
