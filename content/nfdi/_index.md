@@ -14,7 +14,7 @@ show_in_topics = true
 *Stand: 09.07.2020*
 
 ### Updates:
-* 09.07.2020: Die NFDI Webkonferenz 2020 hat stattgefunden. Neuigkeiten werden ergänzt.
+* 09.07.2020: Die [NFDI Webkonferenz 2020](@/nfdi/nfdi-konferenz2020.md) hat stattgefunden und wir haben Informationen für Sie zusammengetragen.
 * 29.06.2020: Die Gemeinsame Wissenschaftskonferenz (GWK) hat NFDI4Culture, das Konsortium für Forschungsdaten zu materiellen un immateriellen Kulturgütern, zur Förderung ausgewählt.
 * 03-06-2020: Die Förderempfehlungen des NFDI-Expertengremiums wurden veröffentlicht. Dabei wurde von den Initiativen innerhalb der Digital Humanities das Konsortium NFDI4Culture in der ersten Ausschreibungsrunde zur Förderung empfohlen.
 
