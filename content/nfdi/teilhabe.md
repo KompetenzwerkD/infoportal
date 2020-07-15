@@ -11,7 +11,7 @@ show_in_topics = true
 
 # Teilhabe am NFDI-Prozess
 
-ein Mitwirken an Aspekten rund um den Aufbau der Nationalen Forschungsdateninfrastruktur (NFDI) scheint für Viele von Ihnen von großem Interesse. 
+Ein Mitwirken an Aspekten rund um den Aufbau der Nationalen Forschungsdateninfrastruktur (NFDI) scheint für Viele von Ihnen von großem Interesse. 
 Die meisten Beteiligten an den Institutionen des KompetenzwerkD werden dabei aus **Anwendersicht** mitwirken wollen. Es geht Ihnen also nicht darum, im Rahmen der Förderung von Konsortien aktive Infrastrukturentwicklung voranzutreiben, wie es beispielsweise Infrastruktureinrichtungen oder Anbieter zentraler Ressourcen des jeweiligen Fachgebietes tun möchten.
 
 ## Mitwirken aus Anwendersicht
