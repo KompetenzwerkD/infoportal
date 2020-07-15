@@ -40,7 +40,7 @@ Als wichtiger Baustein wird hier derzeit der NFDI-Verein in Stellung gebracht. E
 
 ### Vorstellung der Konsortien
 
-Es folgte die Vorstellung von Konsortien, die sich am Aufbauprozess der NFDI beteiligen wollen oder bereits gefördert werden. Folgende Konsortien mit Schwerpunkt Digitalen Geistes- und Sozialwissenschaften waren dabei vertreten: KonsortSWD, Berd@NFDI, NFDI4Culture, Text+, NFDI4Memory, NFDI4Objects, NFDI Web, 2linkNFDI und CompeNDI.
+Es folgte die Vorstellung von Konsortien, die sich am Aufbauprozess der NFDI beteiligen wollen oder bereits gefördert werden. Folgende Konsortien mit Schwerpunkt in den Digitalen Geistes- und Sozialwissenschaften waren vertreten: KonsortSWD, Berd@NFDI, NFDI4Culture, Text+, NFDI4Memory, NFDI4Objects, NFDI Web, 2linkNFDI und CompeNDI.
 
 In der Regel gelang es den Initiativen dabei sehr gut, ihre Vorhaben für den community-geführten Aufbau einer NFDI in ihrem Fachbereich darzustellen.
 
