@@ -36,15 +36,7 @@ Sie soll maßgeblich die Entwicklung von Forschungsdatenservices und -standards 
 [mehr zur Förderlinie und dem Stand der Antragsverfahren](https://www.dfg.de/foerderung/programme/nfdi/)
 
 ### Mitwirken/Teilhabe:
-
-Es gibt zwei grundlegende Möglichkeiten sich in den NFDIs zu engagieren:
-
-#### Mitwirken in den fachspezifischen NFDIs
-NFDI4Culture, Text+, NFDI4Memory und NFDI4Objects werden (vermutlich) die wichtigsten Ansprechpartner unter den entstehenden Konsortien im Bereich der Geisteswissenschaften darstellen. Neben einer direkten Kontaktaufnahme werden beispielweise das Mitwirken bei Veranstaltungen oder in Gremien des jeweiligen Konsortiums für fachspezifische Anliegen der beste Weg sein, auf sich aufmerksam zu machen. Detailliertere Möglichkeiten der Teilhabe werden stets im Dokument zu den [Konsortien](@/nfdi/konsortien.md) aktualisiert.
-
-#### Einwirken auf die generelle Entwicklung der NFDI
-Ein Mitwirken in übergreifenden Aspekten des NFDI-Aufbaus (wie den sogenannten Querschnittsthemen) ist Institutionen über den NFDI-Verein möglich. Weitere Informationen werden auf folgender Seite vorgestellt: [NFDI-Verein](@/nfdi/verein.md)
+Eine Übersicht zu verschiedenen Möglichkeiten des Mitwirkens an und der Einflussnahme auf die NFDI-Initiativen haben wir hier für Sie zusammengestellt: [Teilhabe](@/nfdi/teilhabe.md)
 
 ### Konsortien
-
 Eine Auflistung der Konsortien mit Schwerpunkt in den (Digitalen) Geisteswissenschaften finden Sie hier: [NFDI-Konsortien](@/nfdi/konsortien.md)
