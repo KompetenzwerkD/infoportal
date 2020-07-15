@@ -22,7 +22,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
   * Prof. Dr. Holger Simon simon@pausanio.com
   * Prof. Torsten Schrade torsten.schrade@adwmainz.de
 * Stand: NFDI4Culture wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der ersten Runde (Antrag 2019, Förderzusage 2020) des NFDI-Aufbaus zur Förderung ausgewählt.
-* Beteiligte Netzwerkpartner: SLUB
+* Beteiligte Netzwerkpartner: SLUB (Antragstellung)
 * Hauptantragssteller: Akademie der Wissenschaften und der Literatur, Mainz
 * Schwerpunkt: Materielles und immaterielles kulturelles Erbe
 * Fachdisziplinen: Kulturwissenschaften, Musikwissenschaft, Kunstgeschichte, Architektur, Theater-, Film- und Medienwissenschaft
@@ -48,7 +48,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Webauftritt: [Link](https://www.text-plus.org/)
 * Kontakt: Prof. Dr. Erhard Hinrichs hinrichs@ids-mannheim.de 
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
-* Beteiligte Netzwerkpartner: SAW
+* Beteiligte Netzwerkpartner: SAW (Antragstellung)
 * Hauptantragssteller: Leibniz Institut für Deutsche Sprache (IDS), Mannheim
 * Schwerpunkt: Text- und Sprachdaten (digitale Sammlungen, lexikalische Ressourcen einschl. Wörterbücher und Editionen)
 * Fachdisziplinen: Sprach-, Literatur-, Kultur- und die Geschichtswissenschaften, Philosophie und sprach- und textbasierte Forschung in den Sozial- und Politikwissenschaften
@@ -60,7 +60,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Webauftritt: [Link](https://4memory.de/)
 * Kontakt: Prof. Dr. Johannes Paulmann 4memory@ieg-mainz.de
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
-* Beteiligte Netzwerkpartner: HAIT und ISGV
+* Beteiligte Netzwerkpartner: ISGV (Problem Stories), SLUB (Antragstellung)
 * Hauptantragssteller: Leibniz Institut für Europäische Geschichte Mainz (IEG)
 * Schwerpunkt: historische Methoden, historische Kontextualisierung
 * Fachdisziplinen: historisch engagierte Disziplinen wie Geschichtswissenschaften, aber auch Wirtschaftswissenschaften, Sozialwissenschaften und Geographie
