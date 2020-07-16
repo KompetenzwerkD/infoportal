@@ -9,7 +9,7 @@ insert_anchor_links = "right"
 
 **Ontologien, Thesauri und Normvokabulare für Wissensbasen**
 
-Um Inhalte und Daten zu kategorisieren, benutzen Forschende Ontologien, Thesauri und (kontrollierte) Normvokabulare. Dabei handelt es sich um Klassifikationssysteme oder Taxonomien, um die Daten maschinenlesbar einzuordnen und zu repräsentieren. Auch in die Metadaten dieser Forschungsinhalte können solche kontrollierten Vokabulare eingefügt werden. Personen, Orten und anderen Entitäten kann über solche Taxonomien ein dauerhafter (persistenter) Identifikator, beispielsweise eine Nummer oder ein Link, zugewiesen werden. Das ist besonders hilfreich, denn es vermeidet Mehrdeutigkeiten (z. B. Autornamen) und neues Wissen (z. B. neue Publikationen) kann dem bestehenden konkret zugewiesen werden und in Wissensbasen wie Wikidata eingehen.
+Um Inhalte und Daten zu kategorisieren, benutzen Forschende Ontologien, Thesauri und (kontrollierte) Normvokabulare. Dabei handelt es sich um Klassifikationssysteme oder Taxonomien, um die Daten maschinenlesbar einzuordnen und zu repräsentieren. Auch in die Metadaten dieser Forschungsinhalte können solche kontrollierten Vokabulare eingefügt werden. Personen, Orten und anderen Entitäten kann über solche Taxonomien ein dauerhafter (persistenter) Identifikator, beispielsweise eine Nummer oder ein Link, zugewiesen werden. Das ist besonders hilfreich, denn es vermeidet Mehrdeutigkeiten (z. B. Autornamen) und neues Wissen (z. B. neue Publikationen) kann dem bestehenden konkret zugewiesen werden und in Wissensbasen wie Wikidata eingehen. Generell ist die Verwendung von Normdaten daher von großer Bedeutung für gutes und [**FAIR**](@/glossar/_index.md#fair-prinzipien)es [Forschungsdatenmanagement](@/fdm/_index.md), unter anderem bei der Erstellung von [Metadaten](@/fdm/metadaten_schemas.md).
 
 ## Begrifflichkeiten
 
@@ -23,7 +23,7 @@ In der Praxis werden die folgenden Begriffe häufig ohne klare Abgrenzung bzw. s
 * Eindeutige Zuordnung verschiedenartiger Entitäten
 * Verknüpfung mit anderen Datensätzen möglich (Linked Data)
 * Unabhängigkeit von Schreibweisen
-* Nachnutzbarkeit wissenschaftlicher Daten wird erleichtert
+* Nachnutzbarkeit wissenschaftlicher Daten entsprechend [FAIR-Prinzipien](@/glossar/_index.md#fair-prinzipien) wird erleichtert
 
 ## Normdaten für Entitäten
 
@@ -94,8 +94,13 @@ Dieses Vokabular beinhaltet Forschungsmethoden, -gegenstände, und -aktivitäten
 
 Allgemeines Vokabular zur Verschlagwortung/Klassifizierung/Indexierung von Wissen.
 
-> The Universal Decimal Classification (UDC) is a document indexing language in the form of a classification scheme covering the whole universe of knowledge. The UDC is designed for subject description and indexing of content of information resources irrespective of the carrier, form, format or language
+> The Universal Decimal Classification (UDC) is a document indexing language in the form of a classification scheme covering the whole universe of knowledge. The UDC is designed for subject description and indexing of content of information resources irrespective of the carrier, form, format or language.
 
+### [Dewey Decimal Classification](http://www.oclc.org/en/dewey.html)
+
+Proprietäres Klassifikationssystem, das vorallem in Bibliotheken Verwendung findet.
+
+> The Dewey Decimal Classification (DDC) system is the world’s most widely used way to organize library collections. The DDC constantly updates to enable better discovery across any topic in multiple languages. Because the DDC is easy to use, you can increase the visibility of your materials quickly and efficiently.
 
 ### Existierende Ontologien finden - für alle Fachbereiche
 
