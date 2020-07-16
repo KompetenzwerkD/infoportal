@@ -24,7 +24,8 @@
     $theme-dark-first-text-color: #888;
     $theme-light-second-text-color: #444;
     $theme-dark-second-text-color: #666;
-    $theme-light-bg-color:#fafafa;
+    //$theme-light-bg-color:#fafafa;
+    $theme-light-bg-color:#fff;
     $theme-dark-bg-color:#262626;
   
     @mixin color($property, $var, $fallback){
@@ -45,12 +46,13 @@ a:link {
   color:royalblue;
 }
 
-a:hover {
-  @include color(color, --second-text-color, $theme-light-second-text-color);
-}
 
 a:visited {
   color:royalblue;
+}
+
+a:hover {
+  @include color(color, --second-text-color, $theme-light-second-text-color);
 }
 
 h1, h2, h3, h4, h5, h6 {
