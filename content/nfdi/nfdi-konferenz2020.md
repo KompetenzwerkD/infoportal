@@ -16,7 +16,7 @@ Wie im letzten Jahr fand auch 2020 wieder eine NFDI-Konferenz statt. Dieses Vera
 Im Folgenden wird eine kurze Übersicht über den Ablauf und zentrale Ergebnisse gegeben.
 
 -----------
-### Einführung: Beobachtungen, Reflexionen, Informationen
+## Einführung: Beobachtungen, Reflexionen, Informationen
 
 Die Einführung begann mit allgemeinen Informationen zum Aufbau der NFDI und einem Rückblick auf die erste Antragsrunde. Es war eine allgemeine Zufriedenheit mit den bisherigen Abläufen erkennbar. Positiv war festzuhalten, dass die GWK der Förderempfehlung der DFG auf ganzer Linie gefolgt ist - ein Zeichen, dass der geplante wissenschaftsgeleitete Prozess ernst genommen wurde. 
 
@@ -31,20 +31,20 @@ Die Vortragsfolien dieses Blocks finden sich hier:
 [Lernen aus der ersten Auswahlrunde](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/nfdi_konferenz_2020/vortrag_gehring.pdf), Prof. Dr. Petra Gehring, RfII
 [Anmerkungen zu den Abstracts und Ausblick auf das Verfahren](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/nfdi_konferenz_2020/vortrag_eickhoff.pdf), Dr. Ulrike Eickhoff, DFG
 
-### Vorstellung NFDI-Direktorat
+## Vorstellung NFDI-Direktorat
 
 Mittlerweile wurde auch das NFDI-Direktorat besetzt, die NFDI-Geschäftsstelle in Karlsruhe nimmt also Gestalt an. Zum Direktor wurde Prof. Dr. York Sure-Vetter ernannt. Die GWK teilte hierzu mit: "Als Direktor wird Prof. Dr. Sure-Vetter die NFDI steuern und vorantreiben, zentraler Ansprechpartner für Kooperationen mit relevanten nationalen, europäischen und internationalen Projekten sein und dabei eng mit den weiteren NFDI-Gremien wie dem Wissenschaftlichen Senat und der Konsortialversammlung zusammenarbeiten."
 
 Im [Vortrag von Prof. Dr. Sure-Vetter](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/nfdi_konferenz_2020/vortrag_sure_vetter.pdf) wurden Aufbau und zukünftige Rolle des Direktorats skizziert und auch weitere Aspekte der Governance vorgestellt.
 Als wichtiger Baustein wird hier derzeit der NFDI-Verein in Stellung gebracht. Eine Satzung wurde bereits verabschiedet und die Gründung steht unmittelbar bevor. Der Verein wird es unter engen Auflagen auch fachkundigen außenstehenden Organisationen ermöglichen, sich in übergreifende Aspekte der NFDI-Entwicklung einzubringen.
 
-### Vorstellung der Konsortien
+## Vorstellung der Konsortien
 
 Es folgte die Vorstellung von Konsortien, die sich am Aufbauprozess der NFDI beteiligen wollen oder bereits gefördert werden. Folgende Konsortien mit Schwerpunkt in den Digitalen Geistes- und Sozialwissenschaften waren vertreten: KonsortSWD, Berd@NFDI, NFDI4Culture, Text+, NFDI4Memory, NFDI4Objects, NFDI Web, 2linkNFDI und CompeNDI.
 
 In der Regel gelang es den Initiativen dabei sehr gut, ihre Vorhaben für den community-geführten Aufbau einer NFDI in ihrem Fachbereich darzustellen.
 
-### Querschnittsthemen
+## Querschnittsthemen
 
 Es folgte ein [Vortrag von Prof. Dr. Sure-Vetter](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/nfdi_konferenz_2020/querschnittsthemen_sure_vetter.pdf) zu NFDI-Querschnittsthemen. Darunter sollen jene Aspekte des NFDI-Aufbaus verstanden werden, die mehrere Initiativen betreffen und die entscheidend sind für die Zusammenarbeit der einzelnen durch Fachcommunities geschaffenen Konsortien.
 Es wurden wichtige Handlungsfelder identifiziert und anhand des typischen Forschungsdatenlebenszyklus erläutert, welcher im Rahmen des Aufbaus der NFDI eine entscheidende Rolle spielt. Schließlich ist eine Unterstützung der Forschenden in jedem Teilschritt dieses Zyklus gewünscht.

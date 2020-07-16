@@ -14,7 +14,7 @@ show_in_topics = true
 In der Governance der im Aufbau befindlichen Nationalen Forschungsdateninfrastruktur wird der Verein „Nationale Forschungsdateninfrastruktur (NFDI)" eine entscheidende und zentrale Rolle spielen.
 Die Gründung des Vereins steht Stichtag 9.7.2020 noch aus, die [Vereinssatzung](https://cdn.website-editor.net/25abfc2078d74313bbe63818c335df0e/files/uploaded/Satzung%2520NFDI%2520eV_final.pdf) wurde jedoch bereits durch die Gemeinsame Wissenschaftskonferenz am 26. Juni 2020 gebilligt.
 
-### Ziele
+## Ziele
 > Zweck des Vereins ist die Förderung von Wissenschaft und Forschung durch eine Nationale Forschungsdateninfrastruktur, die ein übergreifendes Forschungsdatenmanagement in Deutschland etabliert und fortentwickelt und die Effizienz des gesamten deutschen Wissenschaftssystems steigert.
 
 > Der Satzungszweck wird in erster Linie durch operative Tätigkeiten verwirklicht, insbesondere durch
@@ -22,7 +22,7 @@ Die Gründung des Vereins steht Stichtag 9.7.2020 noch aus, die [Vereinssatzung]
 > * b) die Etablierung von in den einzelnen wissenschaftlichen Disziplinen akzeptierten Prozessen und Verfahren zum standardisierten Umgang mit Forschungsdaten;
 > * c) die Entwicklung disziplinübergreifender Metadatenstandards zur flächendeckenden Verfügbarmachung von Forschungsdaten und die Optimierung ihrer Nachnutzbarkeit;d)die Anbindung der deutschen Forschungsdateninfrastrukturen an europäische und internationale Plattformen;
 
-### Mitwirken
+## Mitwirken
 Wer den Weg der zukünftigen NFDI mitgestalten möchte, wird dazu im Rahmen des Vereins Möglichkeit haben. Interessierte Institutionen können Mitglied werden und sich einbringen. Neben Beteiligten an geplanten bzw. bereits geförderten Konsortien:
 
 > Als weitere Mitglieder des Vereins können juristische Personen aufgenommen werden,die sich auf Grundlage der Bund-Länder-Vereinbarung zu Aufbau und Förderung einer Nationalen Forschungsdateninfrastruktur (NFDI) vom 26.November 2018 zu Konsortien zusammengeschlossen haben und in diesem Rahmen aus öffentlichen Mitteln gefördert werden oder eine solche Förderung anstreben (im Folgenden: „Konsortien gemäß BLV“). Die Aufnahme in den Verein präjudiziert nicht die Entscheidung über eine Förderung nach der genannten Bund-Länder-Vereinbarung.

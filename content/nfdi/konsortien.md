@@ -13,9 +13,9 @@ show_in_topics = true
 
 Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existieren folgende Konsortieninitiativen:
 
-### Bereits geförderte Initiativen
+## Bereits geförderte Initiativen
 
-#### NFDI4Culture
+### NFDI4Culture
 * Webauftritt: [Link](https://www.nfdi4culture.de/)
 * Kontakt:
   * Prof. Dr. Dörte Schmidt dschmidt@udk-berlin.de
@@ -30,7 +30,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 
 <br />
 
-#### KonsortSWD - Konsortium für die Sozial-, Verhaltens-, Bildungs- und Wirtschaftswissenschaften
+### KonsortSWD - Konsortium für die Sozial-, Verhaltens-, Bildungs- und Wirtschaftswissenschaften
 * Webauftritt: [Link](https://www.ratswd.de/konsortswd) 
 * Kontakt: Prof. Dr. Christof Wolf Christof.Wolf@gesis.org
 * Stand: KonsortSWD wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der ersten Runde (Antrag 2019, Förderzusage 2020) des NFDI-Aufbaus zur Förderung ausgewählt.
@@ -42,9 +42,9 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 
 <br />
 
-### Beantragte bzw. zu beantragende Initiativen
+## Beantragte bzw. zu beantragende Initiativen
 
-#### NFDI Text+
+### NFDI Text+
 * Webauftritt: [Link](https://www.text-plus.org/)
 * Kontakt: Prof. Dr. Erhard Hinrichs hinrichs@ids-mannheim.de 
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
@@ -56,7 +56,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 
 <br />
 
-#### NFDI4Memory
+### NFDI4Memory
 * Webauftritt: [Link](https://4memory.de/)
 * Kontakt: Prof. Dr. Johannes Paulmann 4memory@ieg-mainz.de
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
@@ -71,7 +71,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 
 <br />
 
-#### NFDI4Objects
+### NFDI4Objects
 * Webauftritt: [Link](https://www.nfdi4objects.net/)
 * Kontakt:
   * Prof. Dr. Philipp von Rummel philipp.von.rummel@berliner-antike-kolleg.org
@@ -88,7 +88,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 
 <br />
 
-#### Berd@NFDI
+### Berd@NFDI
 * Webauftritt: https://www.berd-nfdi.de/
 * Kontakt: Prof. Dr. Florian  Stahl  florian.stahl@uni-mannheim.de
 * Stand: Antragstellung 2020 geplant
@@ -100,7 +100,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 
 <br />
 
-#### NFDI4TheoReS
+### NFDI4TheoReS
 * Webauftritt: bisher nicht vorhanden
 * Kontakt: Prof. Dr. Hans-Peter Grosshans grosshans@uni-muenster.de
 * Stand: Antragstellung 2020 geplant
@@ -112,7 +112,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 
 <br />
 
-#### NFDI Small Disciplines
+### NFDI Small Disciplines
 * Webauftritt: bisher nicht vorhanden
 * Kontakt:
   * Prof. Dr. Gerd Graßhoff gerd.graßhoff@hu-berlin.de
@@ -126,7 +126,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 
 <br />
 
-#### NFDI4Language (für Künstliche Intelligenz und historische und linguistische Fächer)
+### NFDI4Language (für Künstliche Intelligenz und historische und linguistische Fächer)
 * Webauftritt: bisher nicht vorhanden
 * Kontakt: Dr. Georg Rehm georg.rehm@dfki.de
 * Stand: Antragstellung 2021 geplant, auffällig inaktiv

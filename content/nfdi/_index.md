@@ -13,17 +13,17 @@ show_in_topics = true
 
 *Stand: 09.07.2020*
 
-### Updates:
+## Updates
 * 09.07.2020: Die [NFDI Webkonferenz 2020](@/nfdi/nfdi-konferenz2020.md) hat stattgefunden und wir haben Informationen für Sie zusammengetragen.
 * 29.06.2020: Die Gemeinsame Wissenschaftskonferenz (GWK) hat NFDI4Culture, das Konsortium für Forschungsdaten zu materiellen un immateriellen Kulturgütern, zur Förderung ausgewählt.
 * 03-06-2020: Die Förderempfehlungen des NFDI-Expertengremiums wurden veröffentlicht. Dabei wurde von den Initiativen innerhalb der Digital Humanities das Konsortium NFDI4Culture in der ersten Ausschreibungsrunde zur Förderung empfohlen.
 
-### Allgemeines:
+## Allgemeines
 “Die nationale [Forschungsdateninfrastruktur](@/glossar/_index.md#forschungsdateninfrastruktur) (NFDI) soll die Datenbestände  von Wissenschaft und Forschung systematisch erschließen, nachhaltig sichern und zugänglich machen sowie (inter-)national vernetzen. Sie wird  in einem aus der Wissenschaft getriebenen Prozess als vernetzte Struktur eigeninitiativ agierender Konsortien aufgebaut werden.” Quelle: DFG
 
 Sie soll maßgeblich die Entwicklung von Forschungsdatenservices und -standards entsprechend der [FAIR Prinzipien](@/glossar/_index.md#fair-prinzipien) (findable, accessible, interoperable, reuseable) mitgestalten. Solche Unternehmungen können nur durch nationale, fachliche Kooperationen zum Erfolg führen, auch mit Blick auf eine europäische und internationale Anschlussfähigkeit.
 
-### Wichtige Fakten:
+## Wichtige Fakten
 * festgeschrieben im Koalitionsvertrag des Bundes
 * Abwicklung über die Deutsche Forschungsgemeinschaft (DFG) 
 * rund 30 Konsortien geplant
@@ -35,8 +35,8 @@ Sie soll maßgeblich die Entwicklung von Forschungsdatenservices und -standards 
 
 [mehr zur Förderlinie und dem Stand der Antragsverfahren](https://www.dfg.de/foerderung/programme/nfdi/)
 
-### Mitwirken/Teilhabe:
+## Mitwirken/Teilhabe
 Eine Übersicht zu verschiedenen Möglichkeiten des Mitwirkens an und der Einflussnahme auf die NFDI-Initiativen haben wir hier für Sie zusammengestellt: [Teilhabe](@/nfdi/teilhabe.md)
 
-### Konsortien
+## Konsortien
 Eine Auflistung der Konsortien mit Schwerpunkt in den (Digitalen) Geisteswissenschaften finden Sie hier: [NFDI-Konsortien](@/nfdi/konsortien.md)
