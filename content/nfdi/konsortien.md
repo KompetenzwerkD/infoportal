@@ -52,7 +52,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Hauptantragssteller: Leibniz Institut für Deutsche Sprache (IDS), Mannheim
 * Schwerpunkt: Text- und Sprachdaten (digitale Sammlungen, lexikalische Ressourcen einschl. Wörterbücher und Editionen)
 * Fachdisziplinen: Sprach-, Literatur-, Kultur- und die Geschichtswissenschaften, Philosophie und sprach- und textbasierte Forschung in den Sozial- und Politikwissenschaften
-* Möglichkeiten der Teilhabe: Nach der Förderentscheidung wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert
+* Möglichkeiten der Teilhabe: Derzeit gibt es einen [Call for User Stories](https://www.text-plus.org/de/userStories.html) mit Deadline 16.08.2020
 
 <br />
 
