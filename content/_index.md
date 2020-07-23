@@ -11,7 +11,7 @@ show_in_topics = true
 
 # KompetenzwerkD - Netzwerk und Werkstatt
 
-Das KompetenzwerkD – D steht für alle Facetten der Digitalisierung – ist ein Forschungszentrum (Werkstatt) und ein Kompetenz- und Leistungsverbund (Netzwerk) für die Bereiche Digitale Geisteswissenschaften und Digitales Kulturelles Erbe. Angesiedelt an der [SAW Leipzig](https://www.saw-leipzig.de/), ist es tätig für die außeruniversitären, geisteswissenschaftlichen Forschungseinrichtungen in Sachsen.:
+Das KompetenzwerkD – D steht für alle Facetten der Digitalisierung – ist ein Forschungszentrum (Werkstatt) und ein Kompetenz- und Leistungsverbund (Netzwerk) für die Bereiche Digitale Geisteswissenschaften und Digitales Kulturelles Erbe. Angesiedelt an der [SAW Leipzig](https://www.saw-leipzig.de/), ist es tätig für die außeruniversitären, geisteswissenschaftlichen Forschungseinrichtungen in Sachsen:
 
  [![](images/saw-logo.png)](https://www.saw-leipzig.de/) 
  [![](images/gwzo-logo.png)](https://www.leibniz-gwzo.de/) <br />[![](images/di-logo.png)](http://www.dubnow.de/) 
