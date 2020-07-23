@@ -11,7 +11,7 @@ Die nachstehenden Informationen enthalten die gesetzlich vorgesehenen Pflichtang
 [Sächsische Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de/de/impressum)\
 Karl-Tauchnitz-Str. 1\
 04107 Leipzig\
-Tel.: +49 341 71153
+Tel.: +49 371 697642-13
 
 **Ansprechpartner**
 
