@@ -26,7 +26,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Hauptantragssteller: Akademie der Wissenschaften und der Literatur, Mainz
 * Schwerpunkt: Materielles und immaterielles kulturelles Erbe
 * Fachdisziplinen: Kulturwissenschaften, Musikwissenschaft, Kunstgeschichte, Architektur, Theater-, Film- und Medienwissenschaft
-* Möglichkeiten der Teilhabe: Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert
+* Möglichkeiten der Teilhabe: Virtual Culture Community Workshop *NFDI4Culture explained*, 09.09.2020, 10:00-12:00, siehe [NFDI4Culture-Webseite](https://www.nfdi4culture.de/)
 
 <br />
 
