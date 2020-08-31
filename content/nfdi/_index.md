@@ -14,6 +14,7 @@ show_in_topics = true
 *Stand: 09.07.2020*
 
 ## Updates
+* 31.08.2020: Ankündigung des Virtual Culture Community Workshop *NFDI4Culture explained*, 09.09.2020, 10:00-12:00, siehe [NFDI4Culture-Webseite](https://www.nfdi4culture.de/)
 * 28.07.2020: Aufrufe zum Einreichen von User Stories und Datenangeboten seitens Text+, siehe bei [konsortien](@/nfdi/konsortien.md)
 * 09.07.2020: Die [NFDI Webkonferenz 2020](@/nfdi/nfdi-konferenz2020.md) hat stattgefunden und wir haben Informationen für Sie zusammengetragen.
 * 29.06.2020: Die Gemeinsame Wissenschaftskonferenz (GWK) hat NFDI4Culture, das Konsortium für Forschungsdaten zu materiellen un immateriellen Kulturgütern, zur Förderung ausgewählt.
@@ -27,7 +28,7 @@ Sie soll maßgeblich die Entwicklung von Forschungsdatenservices und -standards 
 ## Wichtige Fakten
 * festgeschrieben im Koalitionsvertrag des Bundes
 * Abwicklung über die Deutsche Forschungsgemeinschaft (DFG) 
-* rund 30 Konsortien geplant
+* rund 30 Konsortien geplant, neun in der ersten Runde gefördert
 * drei Ausschreibungsrunden mit Deadlines im Herbst 2019, 2020, 2021
 * wurden/werden über die einschlägigen Fachcommunities standortübergreifend beantragt 
 * in der Zukunft die maßgebliche Anlaufstelle im Bereich (digitaler) [Forschungsdaten](@/glossar/_index.md#forschungsdaten)
