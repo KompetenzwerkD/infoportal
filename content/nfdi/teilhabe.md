@@ -16,6 +16,10 @@ Die meisten Beteiligten an den Institutionen des KompetenzwerkD werden dabei aus
 
 ## Mitwirken aus Anwendersicht
 
+### Aktuell
+
+* Virtual Culture Community Workshop *NFDI4Culture explained*, 09.09.2020, 10:00-12:00, siehe [NFDI4Culture-Webseite](https://www.nfdi4culture.de/)
+
 ### Mitwirken in den fachspezifischen NFDI-Konsortien
 NFDI4Culture, Text+, NFDI4Memory und NFDI4Objects werden (vermutlich) die wichtigsten Ansprechpartner unter den entstehenden Konsortien im Bereich der Geisteswissenschaften darstellen. Sich als Forschender in diese mit seinen Erfahrungen und Anliegen einzubringen, kann für Alle von großem Nutzen sein. Schließlich ist es Aufgabe der Konsortien, die real anfallende wissenschaftliche Arbeit durch den Aufbau der Infrastruktur zu unterstützen und zu erleichtern.
 
