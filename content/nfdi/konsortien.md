@@ -53,8 +53,9 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Schwerpunkt: Text- und Sprachdaten (digitale Sammlungen, lexikalische Ressourcen einschl. Wörterbücher und Editionen)
 * Fachdisziplinen: Sprach-, Literatur-, Kultur- und die Geschichtswissenschaften, Philosophie und sprach- und textbasierte Forschung in den Sozial- und Politikwissenschaften
 * Möglichkeiten der Teilhabe:
-  * Derzeit gibt es einen [Call for User Stories](https://www.text-plus.org/de/userStories.html) mit Deadline 16.08.2020
-  * Außerdem wird gebeten um das [Einreichen von Forschungsdaten](https://www.text-plus.org/de/datenBeitraege.html) mit Deadline 16.08.2020
+  * Running Call zu Angeboten von [Forschungsdaten](https://www.text-plus.org/forschungsdaten/daten-aus-der-community/) - Ende August 2020 bereits ungefähr 150 Angebote eingegangen
+  * Abgeschlossen: [Call for User Stories](https://www.text-plus.org/forschungsdaten/user-stories/) (Deadline 16.08.2020) - Ergebnis: Mehr als 120 User Stories sind eingegangen
+  
 <br />
 
 ### NFDI4Memory
