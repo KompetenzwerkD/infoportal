@@ -15,6 +15,7 @@ show_in_topics = true
 
 ## Updates
 * 31.08.2020: Ankündigung des Virtual Culture Community Workshop *NFDI4Culture explained*, 09.09.2020, 10:00-12:00, siehe [NFDI4Culture-Webseite](https://www.nfdi4culture.de/)
+* 31.08.2020: Ergebnisse des [Call for User Stories](https://www.text-plus.org/forschungsdaten/user-stories/) von Text+ wurden online gestellt und schrittweise ergänzt
 * 28.07.2020: Aufrufe zum Einreichen von User Stories und Datenangeboten seitens Text+, siehe bei [konsortien](@/nfdi/konsortien.md)
 * 09.07.2020: Die [NFDI Webkonferenz 2020](@/nfdi/nfdi-konferenz2020.md) hat stattgefunden und wir haben Informationen für Sie zusammengetragen.
 * 29.06.2020: Die Gemeinsame Wissenschaftskonferenz (GWK) hat NFDI4Culture, das Konsortium für Forschungsdaten zu materiellen un immateriellen Kulturgütern, zur Förderung ausgewählt.
