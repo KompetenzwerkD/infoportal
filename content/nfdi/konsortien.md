@@ -55,6 +55,11 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Möglichkeiten der Teilhabe:
   * Running Call zu Angeboten von [Forschungsdaten](https://www.text-plus.org/forschungsdaten/daten-aus-der-community/) - Ende August 2020 bereits ungefähr 150 Angebote eingegangen
   * Abgeschlossen: [Call for User Stories](https://www.text-plus.org/forschungsdaten/user-stories/) (Deadline 16.08.2020) - Ergebnis: Mehr als 120 User Stories sind eingegangen
+  * Bisher veröffentlichte Stories mit Bezug zum Kompetenzwerk, der SAW oder uns Dreien:
+    * [Dialect dictionaries](https://www.text-plus.org/en/research-data/user-story-512/)
+    * [Egyptological metadata thesauri](https://www.text-plus.org/en/research-data/user-story-509/)
+    * [Mobile application for lexical resources](https://www.text-plus.org/en/research-data/user-story-505/)
+    * [Webportal for null-results](https://www.text-plus.org/en/research-data/user-story-604/)
   
 <br />
 
