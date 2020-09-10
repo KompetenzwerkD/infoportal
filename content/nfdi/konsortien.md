@@ -59,7 +59,13 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
     * [Dialect dictionaries](https://www.text-plus.org/en/research-data/user-story-512/)
     * [Egyptological metadata thesauri](https://www.text-plus.org/en/research-data/user-story-509/)
     * [Mobile application for lexical resources](https://www.text-plus.org/en/research-data/user-story-505/)
+    * [Integration of lexical data](https://www.text-plus.org/en/research-data/user-story-519/)
     * [Webportal for null-results](https://www.text-plus.org/en/research-data/user-story-604/)
+    * [Dictionary data at the Saxon Academy of Sciences in Leipzig](https://www.text-plus.org/en/research-data/user-story-521/)
+    * [Old High German Dictionary: Supplements](https://www.text-plus.org/en/research-data/user-story-517/)
+    * [Old High German Dictionary: External Links](https://www.text-plus.org/en/research-data/user-story-520/)
+    * [Bibliotheca Arabica at the Sächsische Akademie der Wissenschaften](https://www.text-plus.org/en/research-data/user-story-346/)
+    * [Science in Ancient Egypt](https://www.text-plus.org/en/research-data/user-story-341/)
   
 <br />
 
