@@ -15,6 +15,9 @@ show_in_topics = true
 ###### [Allea](https://allea.org/)
 Allea ist der Zusammenschluss aller europäischen Akademien der Wissenschaften. Das Gremium wird von der EU unterstützt und ist derzeit stark deutsch/österreichisch dominiert.
 
+###### Anonymisierung
+Veränderung von personen- oder sachbezogenen Daten, dass Angaben dazu gar nicht oder nur durch unverhältnismäßigen Aufwand einer Person oder Sache zugeordnet werden können. Gehört zum Datenschutz, ist Teil der guten wissenschaftlichen Praxis z. B. bei Interviews mit Zeitzeugen. Siehe auch Pseudonymisierung.
+
 ###### API
 [Application Programming Interface] Eine Schnittstelle, welche den programmatischen Zugriff auf ein Programm/Datenbank oder Online-Dienst erlaubt.
 
@@ -60,6 +63,12 @@ Gemeinnützige Organisation, die Standard-[Lizenzverträge](#lizenz) veröffentl
 ###### Dateiformat
 Art und Weise, wie eine Datei gespeichert wird und mit welcher Software sie geöffnet werden kann - in der Regel erkennbar am Suffix im Dateinamen wie ".PDF" (= Datei kann mit einem PDF-Programm angezeigt und bearbeitet werden. Zu bedenken ist, dass sich nicht alle Dateiformate für die Langzeitarchivierung von Forschungsdaten eignen. Wichtig ist es, auf nachhaltige, offene und gut dokumentierte Dateiformate, die im jeweiligen Fachbereich verbreitet sind, zu setzen und kommerzielle, nicht quelloffene Formate zu vermeiden.
 
+###### Datenbankschutzrecht
+Die methodische und systematische Zusammenstellung von Daten kann geschützt sein - das sieht das Datenbankschutzrecht vor, und zwar bis zu 15 Jahre. Dies ist getrennt vom Urheberrecht zu sehen.
+
+###### Datenkuration
+Alle Aufgabenbereiche, die das Verwalten von Daten im Rahmen des [Lebenszyklus](#lebenszyklus-von-forschungs-daten) umfassen, z. B. speichern, archivieren, validieren. 
+
 ###### Datenmanagementplan
 strukturiert den Umgang mit [Forschungsdaten](#forschungsdaten) eines wissenschaftlichen Projekts und legt dabei unter anderem fest, welche [Forschungsdaten](#forschungsdaten) wann, wie, wo, durch wen erhoben, gesichert, gespeichert und archiviert werden.
 
@@ -102,6 +111,8 @@ Freie Virtualisierungssoftware zur Bereitstellung von Anwendungen. Dabei werden 
 ###### [Dublin Core](https://www.dublincore.org/)
 Ein verbreitetes [Metadaten](#metadaten)-[Schema](#schema), das aufbauend auf ein kleines Vokabular zur Beschreibung von digitalen sowie physischen Ressourcen genutzt werden kann.
 
+Embargo: Durch ein Embargo kann verhindert werden, dass bestimmte Daten in einem bestimmten Zeitraum eingesehen werden können, z. B. Metadaten zu einem Forschungsprojekt o. ä.
+
 ###### [EOSC](https://www.eosc-hub.eu/)
 [European Open Science Cloud] Initiative der Europäischen Kommission zur Entwicklung einer Infrastruktur, die ihren Nutzern Dienste zur Förderung von [Open Science](#open-science) bietet. Dabei soll der Zugang zu wissenschaftlichen Daten sowie zu Plattformen und Dienstleistungen für deren Verarbeitung erleichtert werden.
 
@@ -113,6 +124,9 @@ Kollaborative Dateninfrastruktur für integrierte Datendienste und Ressourcen zu
 
 ###### [EU Horizon](https://ec.europa.eu/programmes/horizon2020/en)
 Förderformat für Wissenschaftsprojekte der Europäischen Union.
+
+###### Fachinformationsdienst (FID)
+Früher Sondersammelgebiete, sind FIDs heute in ausgewählten Bibliotheken eingerichtete Abteilungen, die i.d.R. den kompletten Bestand der Fachliteratur zu einem Themengebiet erwerben und bereithalten. Neben Publikationen (print und digital) betrifft dies auch Fachkenntnisse über Forschungsdatenmanagement in der jeweiligen Fachkultur.
 
 ###### Facettensuche
 Bei der Facettensuche oder facettierten Suche werden die Suchergebnisse anhand einer oder mehrerer Klassifikationen eingegrenzt. In einem Bibliothekskatalog könnte dies zum Beispiel auf Basis des Erscheinungsdatums oder des Sachgebiets erfolgen. Die Facetten nutzen zur Filterung die Metadaten der Einträge. 
@@ -171,6 +185,9 @@ Hannah-Arendt-Institut für Totalitarismusforschung
 ###### Handle
 Das Handle-System ist eine Registrierung, die Informationsressourcen spezielle persistente Kennungen (Persistent Identifier) - sogenannte Handles - zuweist und diese Handles auflöst, wodurch ein Zugriff auf die eigentliche Ressource ermöglicht wird.
 
+###### Harvesting
+Bezeichnet das maschinelle Zusammensammeln von Daten und Metadaten aus vorhandenen Archiven oder Repositorien. Dafür gibt es Provider, die den Prozess mittels festgelegter Protokolle z. B. nach Metadatenstandards wie Dublin Core durchführen und somit die Daten gezielt abgreifen. 
+
 ###### [IIIF](https://iiif.io/)
 Das [International Image Interoperability Framework] definiert mehrere Anwendungsschnittstellen zur standardisierten Beschreibung und Bereitstellung von Bildern über das Internet. Werden Bildsammlungen seitens einer Institution über eine IIIF-Schnittstelle bereitgestellt, können diese (samt ihrer [Metadaten](#metadaten)) durch beliebige IIIF-kompatible Viewer oder Anwendungen angezeigt und verwendet werden.
 
@@ -192,6 +209,9 @@ Sammlung von Bezeichnungen mit eindeutiger Zuordnung zu Begriffen, um Mehrdeutig
 ###### Langzeitarchivierung
 Unter Langzeitarchivierung versteht man die langfristige Aufbewahrung von Informationen und somit die Erhaltung ihrer dauerhaften Verfügbarkeit (jedoch mindestens 10 Jahre). Die Langzeitarchivierung spielt im Bereich des [Forschungsdatenmanagements](#forschungsdatenmanagement) eine wichtige Rolle.
 
+###### Lebenszyklus von (Forschungs-)Daten
+Dieser wird grob in sieben Phasen eingeteilt: Antragstellung und Vorbereitung, Erstellung/Erhebung, Verarbeitung, Analyse, Archivierung, Zugang und Nachnutzung. Variationen bestehen je nach Forschungsfrage und Fachdisziplin.
+
 ###### Legacy Project
 Vom englischen “Legacy”: Vermächtnis, Hinterlassenschaft, aber auch Altlast. In der Wissenschaft oft abgeschlossene Projekte, die z. B. digital weiter vorgehalten werden, wie Internet-Datenbanken.
 
@@ -203,6 +223,9 @@ Juristisches Dokument, das angibt, was ein Benutzer mit einer digitalen Ressourc
 
 ###### LOD
 Siehe [Linked Open Data](#linked-open-data)
+
+###### Mapping
+Mapping bezeichnet den Prozess des Abgleiches von Datenfeldern zwischen Datenmodellen -bzw. -banken. Mappings ermöglichen oder erleichtern somit den (automatisierten) Datenaustausch zwischen unterschiedlichen Systemen (z.B. die Übertragung von Metadaten in ein neues System).
 
 ###### [MediaWiki](https://www.mediawiki.org)
 Unter der GPL-Lizenz stehendes quell-offenes [Wiki](#wiki)-System, welches als Community-Projekt der [Wikimedia Foundation](#wikimedia) entstanden ist und weiterentwickelt wird. Eingesetzt wird MediaWiki unter anderem von der Wikipedia.
@@ -273,6 +296,9 @@ Erlaubt die eindeutige und dauerhafte Referenzierung einer (digitalen) Ressource
 
 ###### PID
 Siehe [Persistent Identifier](#persistent-identifier).
+
+###### Pseudonymisierung
+Anders als bei [Anonymisierung](#anonymisierung) werden Codes oder Tarnnamen für Personen und Sachen verwendet, für die es intern eine Aufschlüsselung gibt.
 
 ###### Public Domain
 Siehe [Gemeinfreiheit](#gemeinfreiheit)
@@ -381,4 +407,3 @@ System zur Speicherung von strukturierten oder unstrukturierten Daten unterschie
 
 ###### [Zenodo](https://zenodo.org/)
 Zenodo ist ein fachübergreifendes [Forschungsdatenrepositorium](#repositorium), welches vom Datenzentrum des CERN betrieben wird. Als [OpenAIRE](#openaire)-Projekt unterstützt es ausdrücklich [Open Access](#open-access), [Open Data](#open-data) und [Open Science](#open-science).
-
