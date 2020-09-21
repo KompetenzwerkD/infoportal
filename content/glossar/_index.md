@@ -193,7 +193,7 @@ bezeichnet das maschinelle Zusammentragen von Daten und/oder Metadaten aus (mehr
 Das [International Image Interoperability Framework] definiert mehrere Anwendungsschnittstellen zur standardisierten Beschreibung und Bereitstellung von Bildern über das Internet. Werden Bildsammlungen seitens einer Institution über eine IIIF-Schnittstelle bereitgestellt, können diese (samt ihrer [Metadaten](#metadaten)) durch beliebige IIIF-kompatible Viewer oder Anwendungen angezeigt und verwendet werden.
 
 ###### Ingest
-Teil des Datenlebenszyklus von Forschungsdaten, genauer der Archivierung. Dabei werden die Daten in ein Forschungsdatenrepositorium oder in ein Archiv aufgenommen. Der Ingest kann je nach Datensatz verschiedene Arbeitsschritte beinhalten. Wichtige Aspekte sind beispielsweise Qualitätskontrollen aber auch weitere Formen der Datenaufbereitung bzw. der Kuration (Konvertierung, Metadatenanreicherung usw.).
+Teil des [Lebenszyklus von Forschungsdaten](#lebenszyklus-von-forschungsdaten), genauer der [Archivierung](#archivierung). Dabei werden die Daten in ein [Forschungsdatenrepositorium](#repositorium) oder in ein Archiv aufgenommen. Der Ingest kann je nach Datensatz verschiedene Arbeitsschritte beinhalten. Wichtige Aspekte sind beispielsweise Qualitätskontrollen aber auch weitere Formen der Datenaufbereitung bzw. der [Kuration](#datenkuration) (Konvertierung, Metadatenanreicherung usw.).
 
 ###### Interoperabilität
 Möglichkeit, Daten zwischen verschiedenen Systemen auszutauschen. Die Grundlage dafür sind gemeinsame [Standards](#standard).
@@ -213,7 +213,7 @@ Sammlung von Bezeichnungen mit eindeutiger Zuordnung zu Begriffen, um Mehrdeutig
 ###### Langzeitarchivierung
 Unter Langzeitarchivierung versteht man die langfristige Aufbewahrung von Informationen und somit die Erhaltung ihrer dauerhaften Verfügbarkeit (jedoch mindestens 10 Jahre). Die Langzeitarchivierung spielt im Bereich des [Forschungsdatenmanagements](#forschungsdatenmanagement) eine wichtige Rolle.
 
-###### Lebenszyklus von (Forschungs-)Daten
+###### Lebenszyklus von Forschungsdaten
 beinhaltet all jene Stationen, die Forschungsdaten von der Generierung bis zu einer möglichen Nachnutzung durchlaufen können. Die typischen Phasen in diesem Zyklus sind: Antragstellung und Vorbereitung, Erstellung/Erhebung, Verarbeitung, Analyse, Archivierung, Zugang und Nachnutzung. Variationen bestehen je nach Forschungsfrage und Fachdisziplin.
 
 ###### Legacy Project
