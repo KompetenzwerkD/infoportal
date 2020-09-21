@@ -16,7 +16,7 @@ show_in_topics = true
 Allea ist der Zusammenschluss aller europäischen Akademien der Wissenschaften. Das Gremium wird von der EU unterstützt und ist derzeit stark deutsch/österreichisch dominiert.
 
 ###### Anonymisierung
-Veränderung von personen- oder sachbezogenen Daten, dass Angaben dazu gar nicht oder nur durch unverhältnismäßigen Aufwand einer Person oder Sache zugeordnet werden können. Gehört zum Datenschutz, ist Teil der guten wissenschaftlichen Praxis z. B. bei Interviews mit Zeitzeugen. Siehe auch Pseudonymisierung.
+Veränderung von personen- oder sachbezogenen Daten, so dass Angaben dazu gar nicht oder nur durch unverhältnismäßigen Aufwand einer Person oder Sache zugeordnet werden können. Wichtiger Aspekt des [Datenschutzes](#datenschutz), ist Teil der guten wissenschaftlichen Praxis z. B. bei Interviews mit Zeitzeugen. Siehe auch [Pseudonymisierung](#pseudonymisierung).
 
 ###### API
 [Application Programming Interface] Eine Schnittstelle, welche den programmatischen Zugriff auf ein Programm/Datenbank oder Online-Dienst erlaubt.
@@ -67,7 +67,7 @@ Art und Weise, wie eine Datei gespeichert wird und mit welcher Software sie geö
 Die methodische und systematische Zusammenstellung von Daten kann geschützt sein - das sieht das Datenbankschutzrecht vor, und zwar bis zu 15 Jahre. Dies ist getrennt vom Urheberrecht zu sehen.
 
 ###### Datenkuration
-Alle Aufgabenbereiche, die das Verwalten von Daten im Rahmen des [Lebenszyklus](#lebenszyklus-von-forschungs-daten) umfassen, z. B. speichern, archivieren, validieren. 
+verschiedenartige Aktivitäten, die nötig sind, um Forschungsdaten langfristig zu pflegen und ihre Qualität zu erhalten. Die Kuration hat in erster Linie eine mögliche Wiederverwendung, Nachnutzung bzw. Erhaltung von Daten zum Ziel und soll beispielsweise eine Auffindbarkeit und Abrufbarkeit der Daten gewährleisten. 
 
 ###### Datenmanagementplan
 strukturiert den Umgang mit [Forschungsdaten](#forschungsdaten) eines wissenschaftlichen Projekts und legt dabei unter anderem fest, welche [Forschungsdaten](#forschungsdaten) wann, wie, wo, durch wen erhoben, gesichert, gespeichert und archiviert werden.
@@ -111,7 +111,8 @@ Freie Virtualisierungssoftware zur Bereitstellung von Anwendungen. Dabei werden 
 ###### [Dublin Core](https://www.dublincore.org/)
 Ein verbreitetes [Metadaten](#metadaten)-[Schema](#schema), das aufbauend auf ein kleines Vokabular zur Beschreibung von digitalen sowie physischen Ressourcen genutzt werden kann.
 
-Embargo: Durch ein Embargo kann verhindert werden, dass bestimmte Daten in einem bestimmten Zeitraum eingesehen werden können, z. B. Metadaten zu einem Forschungsprojekt o. ä.
+###### Embargo
+Durch ein (meist zeitlich beschränktes) Embargo kann verhindert werden, dass bestimmte Daten in einem festgelegten Zeitraum eingesehen werden können, z. B. Primärdaten zu einem Forschungsprojekt o. ä.
 
 ###### [EOSC](https://www.eosc-hub.eu/)
 [European Open Science Cloud] Initiative der Europäischen Kommission zur Entwicklung einer Infrastruktur, die ihren Nutzern Dienste zur Förderung von [Open Science](#open-science) bietet. Dabei soll der Zugang zu wissenschaftlichen Daten sowie zu Plattformen und Dienstleistungen für deren Verarbeitung erleichtert werden.
@@ -126,7 +127,7 @@ Kollaborative Dateninfrastruktur für integrierte Datendienste und Ressourcen zu
 Förderformat für Wissenschaftsprojekte der Europäischen Union.
 
 ###### Fachinformationsdienst (FID)
-Früher Sondersammelgebiete, sind FIDs heute in ausgewählten Bibliotheken eingerichtete Abteilungen, die i.d.R. den kompletten Bestand der Fachliteratur zu einem Themengebiet erwerben und bereithalten. Neben Publikationen (print und digital) betrifft dies auch Fachkenntnisse über Forschungsdatenmanagement in der jeweiligen Fachkultur.
+Früher Sondersammelgebiete, sind FIDs heute in ausgewählten Bibliotheken eingerichtete Abteilungen, die i.d.R. den kompletten Bestand der Fachliteratur zu einem Themengebiet erwerben und bereithalten. Neben Publikationen (print und digital) betrifft dies auch Fachkenntnisse über [Forschungsdatenmanagement](#forschungsdatenmanagement) in der jeweiligen Fachkultur.
 
 ###### Facettensuche
 Bei der Facettensuche oder facettierten Suche werden die Suchergebnisse anhand einer oder mehrerer Klassifikationen eingegrenzt. In einem Bibliothekskatalog könnte dies zum Beispiel auf Basis des Erscheinungsdatums oder des Sachgebiets erfolgen. Die Facetten nutzen zur Filterung die Metadaten der Einträge. 
@@ -186,10 +187,13 @@ Hannah-Arendt-Institut für Totalitarismusforschung
 Das Handle-System ist eine Registrierung, die Informationsressourcen spezielle persistente Kennungen (Persistent Identifier) - sogenannte Handles - zuweist und diese Handles auflöst, wodurch ein Zugriff auf die eigentliche Ressource ermöglicht wird.
 
 ###### Harvesting
-Bezeichnet das maschinelle Zusammensammeln von Daten und Metadaten aus vorhandenen Archiven oder Repositorien. Dafür gibt es Provider, die den Prozess mittels festgelegter Protokolle z. B. nach Metadatenstandards wie Dublin Core durchführen und somit die Daten gezielt abgreifen. 
+bezeichnet das maschinelle Zusammentragen von Daten und/oder Metadaten aus (mehreren) vorhandenen Archiven oder [Repositorien](#repositorium). Dafür existieren Provider, die den Prozess über festgelegte Protokolle (z. B. [OAI-PMH](#oai-pmh)) unter Verwendung verbreiteter Standards (wie [Dublin Core](#dublin-core) für [Metadaten](#metadaten)) durchführen und somit die Daten gezielt einsammeln und beispielweise zentral durchsuchbar bereitstellen.
 
 ###### [IIIF](https://iiif.io/)
 Das [International Image Interoperability Framework] definiert mehrere Anwendungsschnittstellen zur standardisierten Beschreibung und Bereitstellung von Bildern über das Internet. Werden Bildsammlungen seitens einer Institution über eine IIIF-Schnittstelle bereitgestellt, können diese (samt ihrer [Metadaten](#metadaten)) durch beliebige IIIF-kompatible Viewer oder Anwendungen angezeigt und verwendet werden.
+
+###### Ingest
+Teil des Datenlebenszyklus von Forschungsdaten, genauer der Archivierung. Dabei werden die Daten in ein Forschungsdatenrepositorium oder in ein Archiv aufgenommen. Der Ingest kann je nach Datensatz verschiedene Arbeitsschritte beinhalten. Wichtige Aspekte sind beispielsweise Qualitätskontrollen aber auch weitere Formen der Datenaufbereitung bzw. der Kuration (Konvertierung, Metadatenanreicherung usw.).
 
 ###### Interoperabilität
 Möglichkeit, Daten zwischen verschiedenen Systemen auszutauschen. Die Grundlage dafür sind gemeinsame [Standards](#standard).
@@ -210,7 +214,7 @@ Sammlung von Bezeichnungen mit eindeutiger Zuordnung zu Begriffen, um Mehrdeutig
 Unter Langzeitarchivierung versteht man die langfristige Aufbewahrung von Informationen und somit die Erhaltung ihrer dauerhaften Verfügbarkeit (jedoch mindestens 10 Jahre). Die Langzeitarchivierung spielt im Bereich des [Forschungsdatenmanagements](#forschungsdatenmanagement) eine wichtige Rolle.
 
 ###### Lebenszyklus von (Forschungs-)Daten
-Dieser wird grob in sieben Phasen eingeteilt: Antragstellung und Vorbereitung, Erstellung/Erhebung, Verarbeitung, Analyse, Archivierung, Zugang und Nachnutzung. Variationen bestehen je nach Forschungsfrage und Fachdisziplin.
+beinhaltet all jene Stationen, die Forschungsdaten von der Generierung bis zu einer möglichen Nachnutzung durchlaufen können. Die typischen Phasen in diesem Zyklus sind: Antragstellung und Vorbereitung, Erstellung/Erhebung, Verarbeitung, Analyse, Archivierung, Zugang und Nachnutzung. Variationen bestehen je nach Forschungsfrage und Fachdisziplin.
 
 ###### Legacy Project
 Vom englischen “Legacy”: Vermächtnis, Hinterlassenschaft, aber auch Altlast. In der Wissenschaft oft abgeschlossene Projekte, die z. B. digital weiter vorgehalten werden, wie Internet-Datenbanken.
@@ -225,7 +229,8 @@ Juristisches Dokument, das angibt, was ein Benutzer mit einer digitalen Ressourc
 Siehe [Linked Open Data](#linked-open-data)
 
 ###### Mapping
-Mapping bezeichnet den Prozess des Abgleiches von Datenfeldern zwischen Datenmodellen -bzw. -banken. Mappings ermöglichen oder erleichtern somit den (automatisierten) Datenaustausch zwischen unterschiedlichen Systemen (z.B. die Übertragung von Metadaten in ein neues System).
+Mapping bezeichnet den Prozess des Abgleiches von Datenfeldern zwischen Datenmodellen und somit in der Regel das Übertragen von Daten oder anderen Elementen von einem Modell auf ein anderes - z. B. das Übertragen von Metadaten in ein anderes Schema oder in einen anderen Standard zur Datenspeicherung.
+Mappings ermöglichen oder erleichtern somit den (automatisierten) Datenaustausch zwischen unterschiedlichen Systemen (z.B. die Übertragung von Metadaten in ein neues System).
 
 ###### [MediaWiki](https://www.mediawiki.org)
 Unter der GPL-Lizenz stehendes quell-offenes [Wiki](#wiki)-System, welches als Community-Projekt der [Wikimedia Foundation](#wikimedia) entstanden ist und weiterentwickelt wird. Eingesetzt wird MediaWiki unter anderem von der Wikipedia.
