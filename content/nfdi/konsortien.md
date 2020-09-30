@@ -48,6 +48,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Webauftritt: [Link](https://www.text-plus.org/)
 * Kontakt: Prof. Dr. Erhard Hinrichs hinrichs@ids-mannheim.de 
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
+* Letter of Intent: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2020_nfdi_Text.pdf)
 * Beteiligte Netzwerkpartner: SAW (Antragstellung)
 * Hauptantragssteller: Leibniz Institut für Deutsche Sprache (IDS), Mannheim
 * Schwerpunkt: Text- und Sprachdaten (digitale Sammlungen, lexikalische Ressourcen einschl. Wörterbücher und Editionen)
@@ -73,6 +74,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Webauftritt: [Link](https://4memory.de/)
 * Kontakt: Prof. Dr. Johannes Paulmann 4memory@ieg-mainz.de
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
+* Letter of Intent: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2020_ndfi_4memory.pdf)
 * Beteiligte Netzwerkpartner: ISGV (Problem Stories), SLUB (Antragstellung)
 * Hauptantragssteller: Leibniz Institut für Europäische Geschichte Mainz (IEG)
 * Schwerpunkt: historische Methoden, historische Kontextualisierung
@@ -91,6 +93,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
   * Prof. Dr. Alexandra Busch generaldirektorin@rgzm.de
   * Prof. Dr. Kai-Christian Bruhn kai-christian.bruhn@hs-mainz.de
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
+* Letter of Intent: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2020_ndfi_4objects.pdf)
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: Deutsches Archäologisches Institut
 * Schwerpunkt: Archäologien und materielle Kultur und Objekte; Sammlungen, Feldforschung usw.
@@ -105,6 +108,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Webauftritt: https://www.berd-nfdi.de/
 * Kontakt: Prof. Dr. Florian  Stahl  florian.stahl@uni-mannheim.de
 * Stand: Antragstellung 2020 geplant
+* Letter of Intent: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2020_nfdi_berdatnfdi.pdf)
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: Universität Mannheim
 * Schwerpunkt: Unstrukturierte Daten
@@ -116,7 +120,8 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 ### NFDI4TheoReS
 * Webauftritt: bisher nicht vorhanden
 * Kontakt: Prof. Dr. Hans-Peter Grosshans grosshans@uni-muenster.de
-* Stand: Antragstellung 2020 geplant
+* Stand: Antragstellung 2021 geplant
+* Unverbindliche Voranmeldung: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2021_nfdi_theores.pdf)
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: Evangelisch-Theologische Fakultät der Westfälischen Wilhelms Universität Münster
 * Schwerpunkt: Textdaten mit religiösem Bezug
@@ -126,11 +131,11 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 <br />
 
 ### NFDI Small Disciplines
+* Stand: Initiative ist scheinbar in NFDI4Memory aufgegangen und wird eigenständig scheinbar nicht weiter verfolgt
 * Webauftritt: bisher nicht vorhanden
 * Kontakt:
   * Prof. Dr. Gerd Graßhoff gerd.graßhoff@hu-berlin.de
   * Prof. Dr. Andreas Degkwitz andreas.degkwitz@ub.hu-berlin.de
-* Stand: Einreichung ursprünglich geplant für Oktober 2020, geht scheinbar in NFDI4Memory auf
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: Humboldt-Universität zu Berlin
 * Schwerpunkt: vielschichtig, u.a. kollaboratives Arbeiten, Kommunikation
@@ -142,7 +147,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 ### NFDI4Language (für Künstliche Intelligenz und historische und linguistische Fächer)
 * Webauftritt: bisher nicht vorhanden
 * Kontakt: Dr. Georg Rehm georg.rehm@dfki.de
-* Stand: Antragstellung 2021 geplant, auffällig inaktiv
+* Stand: Antragstellung 2021 geplant, nach außen auffällig inaktiv
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: Deutsches Forschungszentrum für Künstliche Intelligenz GmbH, DFKI, Kaiserslautern
 * Schwerpunkt: AI services for Natural Language Research Data
