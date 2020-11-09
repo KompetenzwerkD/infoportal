@@ -20,11 +20,11 @@ Der folgende Leitfaden ist in praktischer Zusammenarbeit mit Kolleg/innen aus ve
 Generell besteht ein DMP in der Regel aus folgenden Punkten:
 * Administrative Angaben (Projektname + kurze Beschreibung, Fördernummer,
 Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw.)
-* Beschreibung der Daten (Art, [Format](@/glossar/_index.md#dateiformat) und Erstellung)
+* Beschreibung der Daten + Datenerhebung (Art, [Format](@/glossar/_index.md#dateiformat) und Erstellung)
 * Angaben zu [Metadaten](@/glossar/_index.md#metadaten) und Dokumentation (Art und Format der Metadaten und Dokumentation; Verwendung von [Normdaten](@/glossar/_index.md#normdaten) oder Vokabularen)
 * Ethische und rechtliche Aspekte ([Datenschutz](@/glossar/_index.md#datenschutz), Copyright)
-* Speicherung, [Archivierung](@/glossar/_index.md#archivierung) und [Sicherung](@/glossar/_index.md#backup) der Daten (Welche Daten werden wo und wie lange verfügbar sein? Reichen vorhandene Ressourcen?)
-* Datenverfügbarkeit (Auffindbarkeit, Zugriffsbeschränkungen)
+* Datenhaltung und Verarbeitung: Speicherung, [Archivierung](@/glossar/_index.md#archivierung) und [Sicherung](@/glossar/_index.md#backup) der Daten (Welche Daten werden wo und wie lange verfügbar sein? Reichen vorhandene Ressourcen?)
+* Datenverfügbarkeit und Publikation (Auffindbarkeit, Zugriffsbeschränkungen)
 * Verantwortlichkeiten (Wer ist für den DMP verantwortlich, wer für Einzelaspekte des FDM?)
 * Kostenfragen (Welche Ressourcen – personell und materiell – sind für die Maßnahmen nötig?)
 
@@ -56,11 +56,11 @@ oder wählen Sie eine alternative Gliederung z.B.:
 * Tragen Sie Informationen wie Projektname + kurze Beschreibung, Fördernummer, Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw. zusammen
 * Eventuell sind zunächst einige dieser Punkte noch unbestimmt. Füllen Sie also zunächst aus, was schon bekannt ist und ergänzen Sie später.
 
-### Beschreibung der Daten (Art, Format und Erstellung)
+### Beschreibung der Daten und Datenerhebung (Art, Format und Erstellung)
 
 * Mit welcher Art [Forschungsdaten](@/glossar/_index.md#forschungsdaten) arbeiten Sie im Projekt? Dies betrifft sowohl existierende Daten, die Sie verwenden, vielleicht als Grundlage Ihrer Forschungen, aber auch jene Forschungsdaten, die erst im Rahmen des Projekts entstehen.
 * Beschreiben Sie, in welchem [Format](@/glossar/_index.md#dateiformat) Sie planen, Ihre Daten abzulegen. Behalten Sie bei der Wahl frühzeitig die Nachnutzung im Blick und verwenden Sie möglichst etablierte [Standards](@/glossar/_index.md#standard). Dies gilt auch für die Nutzung von [Normdaten](@/glossar/_index.md#normdaten) oder fachspezifischen Vokabularen (siehe Dokumentation).
-* Die Erstellung Ihrer Daten sollte ebenfalls dargelegt werden. Welche Verfahren setzen Sie ein? Was sind die Quellen? Aus diesen Fragen können sich wichtige Aspekte rund um Copyright, [Persönlichkeitsrechte](@/glossar/_index.md#datenschutz) oder ähnliches ergeben.
+* Die Erstellung selbst erstellter bzw. zusammengestellter Daten sollte ebenfalls dargelegt werden. Welche Verfahren setzen Sie ein? Wie steht es um die Qualität? Was sind die Quellen? Aus diesen Fragen können sich wichtige Aspekte rund um Copyright, [Persönlichkeitsrechte](@/glossar/_index.md#datenschutz) oder ähnliche Themen ergeben.
 
 ### Dokumentation und Metadaten
 
@@ -91,16 +91,17 @@ Geben Sie Auskunft über Art und Format der [Metadaten](@/glossar/_index.md#meta
 
 * Welche Maßnahmen zum [Datenschutz](@/glossar/_index.md#datenschutz) sind falls nötig im Projekt vorgesehen?
 * Welche Maßnahmen zum Schutz von Urheber- und Persönlichkeitsrechten sind im Projekt vorgesehen?
-* Definieren Sie, welche Daten intern gespeichert werden und welche Sie der Öffentlichkeit (Fachcommunity, interessierte Bürger\*innen) zur Verfügung stellen. Dies ist insbesondere bei Daten wichtig, die Persönlichkeitsrechte und Copyrights involvieren (Interviews, Publikationen Dritter etc.).
+* Definieren Sie, welche Daten intern gespeichert werden und welche Sie der Öffentlichkeit (Fachcommunity, interessierte Bürger\*innen) zur Verfügung stellen. Wer hat jeweils Zugang? Dies ist insbesondere bei Daten wichtig, die Persönlichkeitsrechte und Copyrights involvieren (Interviews, Publikationen Dritter etc.).
 * Rechte: In Abhängigkeit von verwendeten Ausgangsdaten bzw. Datenquellen involviert die relevante deutsche Rechtslage zahlreiche Gesetze. Halten Sie hier gegebenenfalls Rücksprache mit Ihrer Administration oder Ihrem Justiziariat. Natürlich ist auch ihr KompetenzwerkD bemüht, Hilfestellung zu geben oder Kompetenz zu vermitteln. Als Einstieg gibt es beispielsweise hier weitere Informationen: [Forschungsdaten - Rechte und gute wissenschaftliche Praxis](https://zenodo.org/record/3763040#.X1IO7dTgpaQ) (ab Folie 19)
 * Die Frage der [Lizenzen](@/glossar/_index.md#lizenz) ist immer auch an die Frage der Rechte geknüpft. Wenn Sie keine Urheber- und ähnliche Rechte berühren, könnten Sie die Lizenz “CC0” verwenden, also Gemeinfreiheit.
 * Wichtiger Hinweis: Gemeinfreiheit und die Lizenzen bedeuten unter Umständen in verschiedenen Ländern etwas anderes. Wenn Sie also mit Projekten und Daten (Publikationen, Bilder etc.) aus anderen Ländern kooperieren, ist die Rechtlage verschieden. Wichtig hier: Setzen Sie eine Kooperationsvereinbarung mit den Justiziariaten aller beteiligten Institutionen auf und sprechen Sie diese Themen vorab an.
 * [Hier finden Sie eine Übersicht zu den Creative Commons Lizenzen](https://creativecommons.org/licenses/?lang=de)
 
-### Speicherung, Archivierung und Sicherung der Daten
+### Datenhaltung und Verarbeitung: Speicherung, Archivierung und Sicherung der Daten
 
 #### Datenspeicherung:
 * Wie bzw. wo werden Daten im Projekt vorgehalten (Arbeitsplatzrechner, Server, [Cloudlösungen](@/glossar/_index.md#cloud) o.ä.)?
+* Wie erfolgt der Zugriff und welche typischen Arbeitsabläufe rund um die Daten gibt es?
 * Werden Dateidienste, Datenbanken, [Wissensgraphen](@/glossar/_index.md#linked-open-data) oder ähnliche Technologien zur Datenablage eingesetzt?
 * Ist kollaboratives Arbeiten an Ressourcen im Projekt von Bedeutung? Wie stellen Sie es sicher?
 
@@ -120,7 +121,7 @@ Geben Sie Auskunft über Art und Format der [Metadaten](@/glossar/_index.md#meta
 * Eine niederschwellige Variante für Langzeitdatenarchivierung ist die Publikation der Daten im Repositorium “Zenodo” des CERN in der Schweiz. Unsere Empfehlung: Speichern Sie Ihre Daten in möglichst “einfachen” Formaten - beispielsweise Datenbank-Daten in CSV-Dateien -, erstellen Sie strukturierte Metadaten dazu und schreiben Sie ein Dokument (“readme”-Datei) mit weiteren Informationen, die für eine korrekte Interpretation und Nachnutzung wichtig sind. Sie können alles in einem ZIP-Archiv sozusagen “pur” in Zenodo ablegen (dies erfüllt auch Open Access-Anforderungen).
 Für größere Datenmengen (z. B. umfangreiches Bild- und Videomaterial) werden andere Lösungen zur Langzeitdatenarchivierung benötigt. Hier könnte in Sachsen die SLUB mögliche Lösungen bieten.
 
-### Datenverfügbarkeit (Auffindbarkeit, Zugriffsbeschränkungen)
+### Datenverfügbarkeit und Publikation (Auffindbarkeit, Zugriffsbeschränkungen)
 * Wie wird sichergestellt, dass wichtige Projektdaten nicht nur nachhaltig aufbewahrt werden sondern auch auffindbar sind? Dies ist eine wichtige Voraussetzung, um eine möglichst breite Nachnutzung zu ermöglichen.
 * Häufig bieten [Forschungsdatenrepositorien](@/glossar/_index.md#repositorium) / Archive nicht nur eigene Suchmöglichkeiten in den (begrenzten) Datenbeständen sondern integrieren sich in größere Verbünde, welche eine gemeinsame zentrale (oft fachspezifische) Suchfunktionalität anbieten (beispielsweise das [CLARIN Virtual Language Observatory](https://vlo.clarin.eu/)). Geben Sie dies gegebenenfalls an.
 * Werden die Daten frei verfügbar sein oder sind Zugriffsbeschränkungen nötig (Bezug zu Persönlichkeitsrechten / Copyright gegebenenfalls sinnvoll)? Wie werden diese umgesetzt?
