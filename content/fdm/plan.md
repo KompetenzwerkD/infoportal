@@ -59,7 +59,7 @@ oder wählen Sie eine alternative Gliederung z.B.:
 ### Beschreibung der Daten und Datenerhebung (Art, Format und Erstellung)
 
 * Mit welcher Art [Forschungsdaten](@/glossar/_index.md#forschungsdaten) arbeiten Sie im Projekt? Dies betrifft sowohl existierende Daten, die Sie verwenden, vielleicht als Grundlage Ihrer Forschungen, aber auch jene Forschungsdaten, die erst im Rahmen des Projekts entstehen.
-* Beschreiben Sie, in welchem [Format](@/glossar/_index.md#dateiformat) Sie planen, Ihre Daten abzulegen. Behalten Sie bei der Wahl frühzeitig die Nachnutzung im Blick und verwenden Sie möglichst etablierte [Standards](@/glossar/_index.md#standard). Dies gilt auch für die Nutzung von [Normdaten](@/glossar/_index.md#normdaten) oder fachspezifischen Vokabularen (siehe Dokumentation).
+* Beschreiben Sie, in welchem [Format](@/glossar/_index.md#dateiformat) Sie planen, Ihre Daten abzulegen. Behalten Sie bei der Wahl frühzeitig die Nachnutzung im Blick und verwenden Sie möglichst etablierte und offene [Standards](@/glossar/_index.md#standard). Dies gilt auch für die Nutzung von [Normdaten](@/glossar/_index.md#normdaten) oder fachspezifischen Vokabularen (siehe Dokumentation).
 * Die Erstellung selbst erstellter bzw. zusammengestellter Daten sollte ebenfalls dargelegt werden. Welche Verfahren setzen Sie ein? Wie steht es um die Qualität? Was sind die Quellen? Aus diesen Fragen können sich wichtige Aspekte rund um Copyright, [Persönlichkeitsrechte](@/glossar/_index.md#datenschutz) oder ähnliche Themen ergeben.
 
 ### Dokumentation und Metadaten
@@ -84,13 +84,14 @@ Geben Sie Auskunft über Art und Format der [Metadaten](@/glossar/_index.md#meta
 
 #### Allgemeine Dokumentation
 * Die Dokumentation besteht aus mehr als nur den nötigen (meist beschränkten) Metadaten.
-* Um eine vollständige Interpretierbarkeit der Daten zu gewährleisten, sollte eine ausführliche Beschreibung angelegt werden.
+* Um eine vollständige und langfristige Interpretierbarkeit der Daten zu gewährleisten, sollte eine ausführliche Beschreibung angelegt werden.
 * Diese Beschreibung kann beispielsweise als separate Datei einem Datensatz beigelegt und mit archiviert werden.
+* Frage: Wann erfolgt die Dokumentation?
 
 ### Ethische und rechtliche Aspekte (Datenschutz, Copyright)
 
-* Welche Maßnahmen zum [Datenschutz](@/glossar/_index.md#datenschutz) sind falls nötig im Projekt vorgesehen?
-* Welche Maßnahmen zum Schutz von Urheber- und Persönlichkeitsrechten sind im Projekt vorgesehen?
+* Welche Maßnahmen zum [Datenschutz](@/glossar/_index.md#datenschutz) sind falls nötig im Projekt vorgesehen? (Sensible Daten nach Bundesdatenschutzgesetz (BDSG) §3: Personenbezogene Daten, insbesondere Herkunft, politische Meinung, Religion, Gesundheit und Sexualleben)
+* Welche Maßnahmen zum Schutz von Urheber- und Persönlichkeitsrechten sind im Projekt vorgesehen? Wie werden die Rechte an geistigem Eigentum für die Daten dokumentiert?
 * Definieren Sie, welche Daten intern gespeichert werden und welche Sie der Öffentlichkeit (Fachcommunity, interessierte Bürger\*innen) zur Verfügung stellen. Wer hat jeweils Zugang? Dies ist insbesondere bei Daten wichtig, die Persönlichkeitsrechte und Copyrights involvieren (Interviews, Publikationen Dritter etc.).
 * Rechte: In Abhängigkeit von verwendeten Ausgangsdaten bzw. Datenquellen involviert die relevante deutsche Rechtslage zahlreiche Gesetze. Halten Sie hier gegebenenfalls Rücksprache mit Ihrer Administration oder Ihrem Justiziariat. Natürlich ist auch ihr KompetenzwerkD bemüht, Hilfestellung zu geben oder Kompetenz zu vermitteln. Als Einstieg gibt es beispielsweise hier weitere Informationen: [Forschungsdaten - Rechte und gute wissenschaftliche Praxis](https://zenodo.org/record/3763040#.X1IO7dTgpaQ) (ab Folie 19)
 * Die Frage der [Lizenzen](@/glossar/_index.md#lizenz) ist immer auch an die Frage der Rechte geknüpft. Wenn Sie keine Urheber- und ähnliche Rechte berühren, könnten Sie die Lizenz “CC0” verwenden, also Gemeinfreiheit.
@@ -101,17 +102,20 @@ Geben Sie Auskunft über Art und Format der [Metadaten](@/glossar/_index.md#meta
 
 #### Datenspeicherung:
 * Wie bzw. wo werden Daten im Projekt vorgehalten (Arbeitsplatzrechner, Server, [Cloudlösungen](@/glossar/_index.md#cloud) o.ä.)?
-* Wie erfolgt der Zugriff und welche typischen Arbeitsabläufe rund um die Daten gibt es?
+* Wie erfolgt der Zugriff und welche typischen Arbeitsabläufe rund um die Daten gibt es? Welche Software wird zur Datenverarbeitung eingesetzt?
 * Werden Dateidienste, Datenbanken, [Wissensgraphen](@/glossar/_index.md#linked-open-data) oder ähnliche Technologien zur Datenablage eingesetzt?
 * Ist kollaboratives Arbeiten an Ressourcen im Projekt von Bedeutung? Wie stellen Sie es sicher?
+* Welche Daten sollen oder müssen aufbewahrt werden, welche Daten sollen oder können gelöscht werden? 
 
 #### Sicherung:
 * Es sollte eine Strategie bezüglich [Datenbackups](@/glossar/_index.md#backup) entwickelt werden: Wie stellen Sie sicher, dass der Ausfall einzelner Rechner (zur Projektlaufzeit) nicht zum Datenverlust führt?
 * Beispiel: Nutzung Instituts-interner Server für wöchentliche Backups oder Nutzung einer internen Cloudlösung, z. B. SAW Cloud (Daten liegen dann parallel auf Arbeitsplatzrechnern und auf einem Server des Instituts)
 * Beziehen Sie evtl. vorhandene Backup-Strategien der Rechner/Server Ihres Instituts ein.
+* Idealerweise existieren stets mind. 3 Kopien aller Dateien, mind. eine Kopie davon an einem anderen Ort.
 
 #### Archivierung: 
 * Welche Daten werden im Anschluss wo (welches Repositorium oder Archiv) und wie lange verfügbar sein? Definieren Sie, welche Daten extern, öffentlich und langfristig gespeichert werden, idealerweise mindestens zehn Jahre.
+* Möglich und oft sogar empfehlenswert ist auch die institutsinterne Langzeitarchivierung, welche durch eine zugängliche Publikation in einem Forschungsdatenrepositorium ergänzt wird.
 * Selektieren Sie: Was müssen Sie aufheben, um Ihre Forschung nachvollziehbar oder nachprüfbar zu machen? (Metadaten, Anleitungen/Dokumentation) 
 * Bei welchen Daten besteht ein “Recht auf Vergessen”?
 * Legen Sie dar, inwieweit die Wahl der [Datenformate](@/glossar/_index.md#dateiformat) eine langfristige Nutzung ermöglicht.
