@@ -8,15 +8,15 @@ insert_anchor_links = "right"
 
 # Arbeiten in Zeiten von Corona
 
-*Stand: 22.04.2020*
+*Stand: 10.11.2020*
 
 Die meisten Mitarbeiter der sächsischen außeruniversitären Institute müssen sich derzeit aufgrund der außergewöhnlichen Situation mit dem Thema “Home Office” auseinandersetzen. Um dennoch produktiv und kooperativ arbeiten zu können, hat das KompetenzwerkD Ihnen eine Liste mit Links und Hinweisen zusammengestellt, wie Sie die nächste Zeit an verteilten Arbeitsplätzen mit digitalen Besprechungen & Co. hoffentlich meistern können. Sicherlich wird nicht alles perfekt funktionieren, denn gerade technische Lösungen erfordern oft Zeit zur Vorbereitung und werden überlastet sein. Deshalb führen wir hier Optionen auf und erlauben uns Hinweise aus unserer Erfahrung.
 
-Bitte beachten Sie gegebenenfalls Vorgaben Ihres Instituts bezüglich der Nutzung externer Dienste. Häufig erfolgt eine Übertragung bzw. Speicherung der jeweiligen Daten auf den Servern eines kommerziellen im Ausland ansässigen Unternehmens, die datenschutzrechtlich in Deutschland nicht immer gestattet sind. Nach unserem Kenntnisstand sind derzeit die Vorgaben der Institutionen gelockert, aber das kann sich später wieder ändern. Generell empfehlen wir Lösungen, die [open access](@/glossar/_index.md#open-access)/[open source](@/glossar/_index.md#open-source) gewährleisten.
+Bitte beachten Sie gegebenenfalls Vorgaben Ihres Instituts bezüglich der Nutzung externer Dienste. Häufig erfolgt eine Übertragung bzw. Speicherung der jeweiligen Daten auf den Servern eines kommerziellen im Ausland ansässigen Unternehmens, die datenschutzrechtlich in Deutschland nicht immer gestattet sind. Nach unserem Kenntnisstand sind derzeit die Vorgaben der Institutionen gelockert, aber das kann sich später wieder ändern. Generell empfehlen wir Lösungen, die open access/open source/open science gewährleisten.
 
 *Für die Mitarbeiter der SAW:*
 
-Bereits jetzt können Sie in der [SAW-Cloud](https://cloud.saw-leipzig.de) mit ihrem SAW-Login: an Word bzw. MS-Office Dokumenten arbeiten (genutzte Software: Only Office), Dateien speichern (Cloud-Service), einen Kalender führen, Aufgabenlisten erstellen etc..
+Bereits jetzt können Sie in der [SAW-Cloud](https://cloud.saw-leipzig.de) mit ihrem SAW-Login: an Word bzw. MS-Office Dokumenten arbeiten (genutzte Software: Only Office), Dateien speichern (Cloud-Service), einen Kalender führen, Aufgabenlisten erstellen (Deck), Videocalls durchführen (Talk und BigBlueButton) etc..
 
 Alles Gute und bleiben Sie gesund!
 
@@ -29,23 +29,32 @@ Kontakt: [KompetenzwerkD@saw-leipzig.de](mailto:KompetenzwerkD@saw-leipzig.de)
 Hier gilt: Durch den erhöhten Bedarf ist aktuell mit technischen Ausfällen einzelner Anbieter zu rechnen. Wir empfehlen, einen Plan B und C zu haben. Leider muss dafür auch auf kommerzielle Anbieter zurückgegriffen werden. Eine gute Übersicht mit Einrichtungshinweisen einzelner Programme finden sich [hier](https://hochschulforumdigitalisierung.de/de/Toolsammlung-Corona).
 
 ### Weitere Programme
-* [Big Blue Button](https://bigbluebutton.org/) - [Open Source](@/glossar/_index.md#open-source) und guter [Datenschutz](@/glossar/_index.md#datenschutz), unsere Empfehlung, auch für große Gruppen (Vorlesungen)
+open source:
+* [Big Blue Button](https://bigbluebutton.org/) - Open Source und guter Datenschutz, unsere Empfehlung, auch für große Gruppen (Vorlesungen)
 * [DFN - der Konferenzdienst im Deutschen Forschungsnetz](https://www.conf.dfn.de/nur) - Mit DFN/Uni-Account nutzbar, verwendet die Plattformen Adobe Connect und Pexip 
 * [Jitsi](https://jitsi.org/) - [Liste von öffentlichen Jitsi- Instanzen](https://github.com/jitsi/jitsi-meet/wiki/Jitsi-Meet-Instances) - für kleinere Gruppen unter 10 Leute
-* [Microsoft Teams](https://products.office.com/de-de/microsoft-teams/group-chat-software) - für kleinere Gruppen
+* [Palava](https://palava.tv/) - für max. 5 Personen
+* [Streamyard](https://streamyard.com/) - Software zum Livestreamen in YouTube, Facebook, LinkedIn etc., z. B. für Vorträge und Lehrveranstaltungen
+
+kommerzielle Anbieter:
 * [Adobe Connect](https://www.adobe.com/products/adobeconnect.html) - auch für größere Gruppen geeignet (500+ Leute)
-* [Google Hangouts](https://hangouts.google.com/) - abgespeckte Version, Google hat einige Funktionen eingestellt
+* [Circuit](https://www.circuit.com)
+* [Google Hangouts](https://hangouts.google.com/) - abgespeckte Version, Google hat einige Funktionen eingestellt; ehemals Google Talk, beides wird ersetzt durch [Google Meet](https://apps.google.com/meet/)
 * [GoToMeeting](https://www.gotomeeting.com/de-de) - Datenschutz ähnlich problematisch wie Zoom
-* [Skype](https://www.skype.com/de/) - Datenschutz problematisch
-* [WebEx](https://www.webex.com) - es gibt eine Erweiterung innerhalb von SAW-Zimbra-Mail
-* [Zoom](https://zoom.us/kostenlose) - Videomeetings für Gruppen jeweils nur bis maximal 40 Minuten. [Ein detailierter Überblick zur Datenschutz-Problematik auf Hackernews](https://thehackernews.com/2020/04/zoom-cybersecurity-hacking.html): "The most important takeaway for regular users is simply to think carefully about their security and privacy needs for each call they make. Zoom's security is likely sufficient if it's just for casual conversations or to hold social events and organize lectures. For everything else that requires sharing sensitive information, there are more secure options like self-hosted Jitsi, Signal and Wire. Citizen Lab, which has identified a severe security issue with Zoom's Waiting Room feature, has encouraged users to use the password feature for a "higher level of confidentiality than waiting rooms." Mittlerweile existieren Browser Addons, mit denen man die Installation des Zoom-Clients entgehen kann, hier für [Mozilla Firefox](https://addons.mozilla.org/de/firefox/addon/zoom-redirector/) und für [Chrome](https://chrome.google.com/webstore/detail/zoom-redirector/fmaeeiocbalinknpdkjjfogehkdcbkcd?hl=en).
-* Tools innerhalb von [Clouds](@/glossar/_index.md#cloud), z. B. "Talk" innerhalb der SAW-Cloud (basiert auf Nextcloud), nur für kleinere Gruppen unter 10 Leute
+* [Microsoft Teams](https://products.office.com/de-de/microsoft-teams/group-chat-software) - für kleinere Gruppen
+* [Skype](https://www.skype.com/de/) - Datenschutz problematisch; vgl. auch [Skype for Business](https://www.skype.com/de/business/)
+* [Spreed](https://www.spreed.com/eu)
+* [Streamio](https://streamio.de/) - Anbieter aus Leipzig
+* [WebEx (von Cisco)](https://www.webex.com) - es gibt eine Erweiterung innerhalb von SAW-Zimbra-Mail
+* [Whereby](https://whereby.com/) - bis 50 Personen
+* [Zoom](https://zoom.us/kostenlose) - Videomeetings für Gruppen jeweils nur bis maximal 40 Minuten. [Ein detailierter Überblick zur Datenschutz-Problematik auf Hackernews](https://thehackernews.com/2020/04/zoom-cybersecurity-hacking.html): "The most important takeaway for regular users is simply to think carefully about their security and privacy needs for each call they make. Zoom's security is likely sufficient if it's just for casual conversations or to hold social events and organize lectures. For everything else that requires sharing sensitive information, there are more secure options like self-hosted Jitsi, Signal and Wire. Citizen Lab, which has identified a severe security issue with Zoom's Waiting Room feature, has encouraged users to use the password feature for a "higher level of confidentiality than waiting rooms." Mittlerweile bieten Browser Addons an, mit denen man die Installation des Zoom-Clients entgehen kann, hier für [Mozilla Firefox](https://addons.mozilla.org/de/firefox/addon/zoom-redirector/) und für [Chrome](https://chrome.google.com/webstore/detail/zoom-redirector/fmaeeiocbalinknpdkjjfogehkdcbkcd?hl=en).
+* Tools innerhalb von Clouds, z. B. [Talk](https://nextcloud.com/talk/) innerhalb der SAW-Cloud (basiert auf Nextcloud), nur für kleinere Gruppen unter 10 Leute
 
 ### Hinweise
 * Vor der Aktivierung des Video auf Hintergrund, Lichtverhältnisse und Kleidung achten.
 * Wenn Videos abbrechen wegen Netzüberlastung, reicht vielleicht der Audio-Kanal. Auch eine Option für Lehrveranstaltungen.
 * Meetings: Eine/r in der Gruppe sollte bei den Gesprächen moderieren (Gesprächsanteile prüfen, nachhaken, Reihenfolge der Sprecher festlegen)
-* Handzeichen und Melden hilft, um sich in Diskussionen einzubringen.
+* Handzeichen im Video, digitales Melden oder ein Hinweis im Chat helfen, um sich in Diskussionen einzubringen.
 * Bei Bedarf lohnt es sich, ein Protokoll gleich parallel zum Video zu schreiben (siehe unten unter “Kommunikationstools”) oder auch mit Zielen und Aufgabenlisten in Projektmanagement-Tools zu arbeiten (siehe unten unter “Projektmanagement”).
 
 ### Weiterlesen
@@ -54,6 +63,8 @@ Hier gilt: Durch den erhöhten Bedarf ist aktuell mit technischen Ausfällen ein
 ## Kommunikationstools zum Chatten im Team
 Es kann hilfreich sein, sich über andere Kommunikationsformen als E-Mails, Anrufe oder Videokonferenzen abzustimmen und auf dem Laufenden zu halten. Chat-Formate können dabei helfen:
 
+* [Rocket.Chat](https://rocket.chat/de/) - open source
+* [Mattermost](https://mattermost.com/) - open source
 * [Signal](https://signal.org/) - Freier, verschlüsselter Nachrichtendienst (Messenger) für Smartphones und Desktop-Computer, generell eine Alternative zu WhatsApp/Facebook Messenger
 * [Telegram](https://telegram.org/) - dito
 * [Slack](https://slack.com/) - Teamarbeitsumgebung
@@ -86,18 +97,18 @@ Wenn Sie mehr benötigen als simple To-Do-Listen, dann werden Sie bei diesem Anb
 ## Digitale Lehre
 Die Hochschulen starten in der Regel zum regulären Beginn der Vorlesungszeit mit digitalen Lehrveranstaltungen. Das bedeutet einen hohen Arbeitsaufwand für Lehrende, denn neben der Vorbereitung der Sitzungen kommt noch die technische Umsetzung dazu. Machen Sie sich keine Illusionen: digitale Lehre braucht Zeit, es geht auch mal etwas schief und nicht immer erreicht man alle Studierenden. Aber es ist kein Hexenwerk und macht Spaß! Hier ein paar Hinweise dazu:
 * [Eine sehr gute Zusammenstellung auch zu digitalen Lernplattformen (z. B. Moodle), Software zum Aufnehmen von Vorträgen bietet die Link- und Toolsammlung des Hochschulforum Digitalisierung](https://hochschulforumdigitalisierung.de/de/Toolsammlung-Corona)
-* Moodle, Universität Leipzig (Uni-Login erforderlich): Viele Hinweise bietet der [Autorenhilfekurs](https://moodle2.uni-leipzig.de/course/info.php?id=104)
+* Moodle: Viele Hinweise bietet der [Autorenhilfekurs](https://moodle2.uni-leipzig.de/course/info.php?id=104) der Universität Leipzig (ggf. Login erforderlich)
 
 ### Hinweise
 * Spontane digitale Lehre muss nicht perfekt sein!
 * Rundmails an Studierende mit verlässlichen Ansagen zu Anforderungen und Abläufen sind hilfreich für alle Beteiligten, gerne mit Ermunterungen.
 * Planen Sie bei Vorbereitung und während der Kurse einen Zeitpuffer für unvorhergesehene Unterbrechungen (“Troubleshooting”) ein - gerade, wenn Sie und Ihre Studierenden Software installieren müssen.
 * Es ist effektiver, Sitzungen in kleinen “Häppchen” von 15-30 Minuten mit Unterbrechungen aufzuzeichnen/abzuhalten statt als 90minütige Vorlesungen.
-* Unter Umständen werden Sie nicht alle Studierenden online erreichen. Nicht alle werden aus unterschiedlichen Gründen (Behinderung, Krankheiten, technische Ausstattung, Netzprobleme etc.) Zugang zu Ihrer digitalen Lehre haben. Bieten Sie virtuelle Sprechstunden an oder eine Erreichbarkeit per E-Mail.
-* Betreuung von Qualifikationsarbeiten: Hier bietet sich an, mit den Kandidat/innen den Zeitplan unter Umständen zu aktualisieren, da die Bibliotheken geschlossen sind und Hochschulen nach und nach ihre Prüfungszeiträume aussetzen.
+* Unter Umständen werden Sie nicht alle Studierenden online erreichen. Nicht alle werden aus unterschiedlichen Gründen (Behinderung, Krankheiten, technische Ausstattung, Netzprobleme etc.) Zugang zu Ihrer digitalen Lehre haben. Bieten Sie virtuelle Sprechstunden an oder eine Erreichbarkeit per E-Mail. Dazu können Sie z. B. die "Breakout-Rooms" in Videokonferenztools nutzen.
+* Betreuung von Qualifikationsarbeiten: Hier bietet es sich an, mit den Kandidat/innen den Zeitplan unter Umständen zu aktualisieren, da die Bibliotheken geschlossen sind, Feldforschung nicht möglich ist etc. und Hochschulen nach und nach ihre Prüfungszeiträume aussetzen. Beschäftigungsverhältniss bei Drittmittelgebern oder nach [Wissenschaftszeitvertragsgesetz](https://www.bmbf.de/de/karrierewege-fuer-den-wissenschaftlichen-nachwuchs-an-hochschulen-verbessern-1935.html) können ggf. verlängert werden.
 
 ### Weiterlesen
-* [Materialien und Websites zur digitalen Hochschulbildung (via Hochschuldikatisches Zentrum Sachsen/Projekt Lit+)]( https://yourpart.eu/p/6Ot0NhCVGb); [siehe auch hier](https://www.hd-sachsen.de)
+* [Materialien und Websites zur digitalen Hochschulbildung (via Hochschuldikatisches Zentrum Sachsen/Projekt Lit+)](https://www.hd-sachsen.de)
 * [Michelle D. Miller, The Chronicle of Highler Education (Englisch), Going Online in a Hurry: What to Do and Where to Start]( https://www.chronicle.com/article/Going-Online-in-a-Hurry-What/248207)
 * [Rebecca Barrett-Fox (Englisch), Please do a bad job of putting your courses online]( https://anygoodthing.com/2020/03/12/please-do-a-bad-job-of-putting-your-courses-online/) 
 * Interessante Hashtags auf Twitter mit Kontakt zum Austausch mit Kolleg*innen aller Fachbereiche weltweit: [#CoronaCampus](https://twitter.com/hashtag/CoronaCampus), [#CovidCampus](https://twitter.com/hashtag/CovidCampus)
@@ -113,7 +124,6 @@ Die Hochschulen starten in der Regel zum regulären Beginn der Vorlesungszeit mi
 ## Lernen, Helfen, Ideen für Abwechslung
 Ein paar Links, die für Arbeit und Leben im home office (auch mit Kindern) von Interesse sein können. Ganz arbiträr und als Anregung gedacht, bestimmt fällt Ihnen noch viel mehr ein.
 * [Status von Bibliotheken](http://blog.bibliothekarisch.de/blog/2020/03/11/corona-und-bibliotheken-auflistung/)
-* [Französische Fachliteratur: das Deutsche Historische Institut Paris hilft bei der Online-Beschaffung](https://www.dhi-paris.fr/bibliothek/ueberblick.html)
 * [Forscher*innen berichten über ihre Arbeit (für Schulen/Mitmachen möglich)]( https://www.ring-a-scientist.org)
 * [Digitale Sammlungsbestände großer Museen, z B. British Museum London, Guggenheim New York, Gemäldegalerie Alte Meister, Staatliche Kunstsammlungen Dresden](https://artsandculture.google.com/partner); [dito](https://www.apollo-magazine.com/open-access-image-libraries-a-handy-list/)
 * [Sketchfab](https://sketchfab.com/members?segment=organization%2Fmuseum) - 3D-Modelle von Artefakten in Museen
@@ -122,7 +132,7 @@ Ein paar Links, die für Arbeit und Leben im home office (auch mit Kindern) von 
 * [Textsammlung "The Politics of COVID-19 (The Syllabus)](https://the-syllabus.com/coronavirus-readings/)
 * Ein paar Beispiele zur Abwechslung:
     * [“Die Sendung mit der Maus” und zusätzliche Lernprogramme für Kinder](https://www1.wdr.de/nachrichten/die-wdr-maus-kommt-jetzt-taeglich-100.html)
-    * [Hausmusik mit dem Pianisten Igor Levit im Livestream](https://twitter.com/igorpianist)
+    * [Hausmusik mit dem Pianisten Igor Levit im Livestream](https://twitter.com/igorpianist), bis Anfang September 2020
     * [Geschichten und Essays von Neil Gaiman (Englisch)](https://www.neilgaiman.com/Cool_Stuff)
     * [Bob Ross - The Joy of Painting auf Twitch.tv](https://www.twitch.tv/bobross)
     * [Opern der Metropolitan Opera](https://www.metopera.org/about/press-releases/met-to-launch-nightly-met-opera-streams-a-free-series-of-encore-live-in-hd-presentations-streamed-on-the-company-website-during-the-coronavirus-closure/)
@@ -132,12 +142,18 @@ Ein paar Links, die für Arbeit und Leben im home office (auch mit Kindern) von 
 
 ## Allgemeine Links und Hinweise
 Sicherlich sind Ihnen diese wichtigen Adressen bekannt. Beziehen Sie von dort Ihre Nachrichten und informieren Sie Ihr Umfeld - insbesondere Personen, die schwer zwischen Nachricht und Fehlmeldung unterscheiden können.
-* [Informationen des Robert-Koch-Instituts](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html ) Diagnostik, Prävention, Krisenmaßnahmen etc. 
+* [Informationen des Robert-Koch-Instituts](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) - Diagnostik, Prävention, Krisenmaßnahmen etc. 
 * [Reisewarnung/Rückholaktion des Auswärtigen Amts nach Deutschland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/covid-19/2296762?isLocal=false&isPreview=false)
 * [Corona-Karte der Johns Hopkins University, Baltimore/USA mit weltweiter Visualisierung der Fallzahlen](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+* [Corona-Übersicht fürs Handy](https://ncov2019.live/) - basiert auf Daten der Johns Hopkins University
+* [Corona-Fallzahlen in Sachsen](https://www.coronavirus.sachsen.de/infektionsfaelle-in-sachsen-4151.html) oder beim [Mitteldeutschen Rundfunk](https://www.mdr.de/sachsen/corona-covid-fallzahlen-grafik-100.html)
 * [Informationen der Universität Leipzig](https://www.uni-leipzig.de/universitaet/service/informationen-zum-coronavirus/)
 * [Informationen der TU Dresden](https://tu-dresden.de/tu-dresden/gesundheitsmanagement/information-regarding-covid-19-coronavirus-sars-cov-2)
 
 Gibt es weitere Themen, zu denen Sie sich Informationen wünschen? Dann schreiben Sie uns: [KompetenzwerkD@saw-leipzig.de](mailto:KompetenzwerkD@saw-leipzig.de)
 
+
+
+---
+![CC-0](https://licensebuttons.net/p/zero/1.0/88x31.png) [CC-0 "Public Domain"](https://creativecommons.org/share-your-work/public-domain/cc0/) 
 
