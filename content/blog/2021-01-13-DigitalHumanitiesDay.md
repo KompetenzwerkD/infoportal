@@ -14,6 +14,5 @@ Am 2. Dezember 2020 fand der [Vierte Digital Humanties Day der Universität Leip
 
 * [Interaktives Poster](https://kompetenzwerkd.github.io/dh-day-leipzig-2020/)
 * [PDF-Version des Posters](https://kompetenzwerkd.github.io/dh-day-leipzig-2020/poster.pdf)
-(Link zum interaktiven Poster und zur PDF-Version hier: https://fdhl.info/dhdl-2020/). 
 
 Außerdem haben wir ein Panel zu digitaler Lehre mitorganisiert. Darüber berichtet der folgende Blogbeitrag: [https://fdhl.info/blogbeitrag-digitale-lehre-am-dies-academicus/](https://fdhl.info/blogbeitrag-digitale-lehre-am-dies-academicus/).
