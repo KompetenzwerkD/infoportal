@@ -390,7 +390,7 @@ Wikis sind Webseiten, deren Inhalte von den Besuchern im Webbrowser bearbeitet u
 Freie Erweiterung zu [MediaWiki](#mediawiki), mithilfe derer maschinenlesbare, strukturierte Wissensdatenbanken erstellt werden können.  Es verwendet dabei [LOD](#linked-pen-data)-Prinzipien und die Daten können mittels [Standards](#standard) wie SPARQL abgefragt werden bzw. u.a. als RDF/[XML](#xml), N3, Json, Yaml etc. exportiert  werden.
 
 ###### [Wikidata](https://www.wikidata.org/)
-Eine gescheinschaftlich kuratierte offene [Wissensbasis](#wissensbasis), welche von der [Wikimedia Foundation](#wikimedia) betrieben wird. Darin werden Informationen strukturiert erfasst und maschinenlesbar zur Verfügung gestellt. Die Daten werden auch in anderen Wikimedia-Projekten wie z.B. Wikipedia eingebunden. Technisch basiert Wikidata auf [MediaWiki](#mediawiki) mit der [Wikibase](#wikibase)-Erweiterung.
+Eine gemeinschaftlich kuratierte offene [Wissensbasis](#wissensbasis), welche von der [Wikimedia Foundation](#wikimedia) betrieben wird. Darin werden Informationen strukturiert erfasst und maschinenlesbar zur Verfügung gestellt. Die Daten werden auch in anderen Wikimedia-Projekten wie z.B. Wikipedia eingebunden. Technisch basiert Wikidata auf [MediaWiki](#mediawiki) mit der [Wikibase](#wikibase)-Erweiterung.
 
 ###### [Wikimedia](https://wikimediafoundation.org/)
 [Wikimedia Foundation] Gemeinnützige Gesellschaft nach US-amerikanischen Recht mit dem Ziel freies Wissen zu fördern. Zu ihren Projekten zählen Wikipedia, [Wikidata](#wikidata), [Wikimedia Commons](#wikimedia-commons) sowie zahlreiche weitere Wiki-Projekte (Wiktionary, Wikibooks, [Wikisource](#wikisource), ...)
