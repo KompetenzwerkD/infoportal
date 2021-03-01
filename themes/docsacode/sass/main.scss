@@ -72,6 +72,11 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+table {
+  margin-bottom: 1.5rem;
+}
+
+
 table, th, td {
   border-collapse:collapse;
   //border: 1px solid lightgray;
@@ -89,6 +94,12 @@ th, td {
   padding: 0.3rem 1rem  0.3rem 1rem;
   font-size: 0.88rem;
   vertical-align: top;
+  text-align: left;
+}
+
+p img {
+  margin-top:1rem;
+  border: 1px solid lightgray;
 }
 
 pre {
@@ -127,7 +138,7 @@ body {
   padding: 3rem 3rem 3rem 3rem;
   //margin-right: 5rem;
   
-  text-align: justify;
+  text-align: left;
 
   height: auto;
   text-rendering: optimizeLegibility;
@@ -189,6 +200,7 @@ blockquote {
   padding-top: 0.3rem;
   margin-left: 0rem;
   padding-left: 1rem;
+  margin-bottom: 3rem;
   border-left: 10px solid lightgray;
 }
 

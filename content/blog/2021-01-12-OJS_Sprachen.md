@@ -57,7 +57,7 @@ Damit sollte die neue Sprache jetzt in OJS installierbar und eingestellt werden 
 ![](/infoportal/images/blog/ojs/klingon4.png)
 In unserem Fall verlangte das Template auch Einträge, welche in den Übersetzungsdateien nicht vorhanden waren. Diese werden im Format ```##<key>##``` dargesetllt.
 
-![](/images/blog/ojs/klingon5.png)
+![](/infoportal/images/blog/ojs/klingon5.png)
 
 
 Diese Einträge kann man in der Datei `locale.po` anlegen, z.B.
