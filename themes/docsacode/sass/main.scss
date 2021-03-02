@@ -97,10 +97,6 @@ th, td {
   text-align: left;
 }
 
-p img {
-  margin-top:1rem;
-  border: 1px solid lightgray;
-}
 
 pre {
   overflow: auto;
@@ -236,11 +232,24 @@ main {
   ul, ol {
     padding-left: 1rem;
     list-style-position: outside;
-    margin-bottom: 0.5rem;
-    margin-top: 0.1rem;
+    margin-bottom: 1rem;
+    //margin-top: 0.1rem;
+  }
+
+  li p {
+    margin: 0;
+  }
+
+  li ul {
+    margin: 0;
+  }
+
+  li {
+    margin-bottom:0.3rem;
   }
 
   img {
+    margin-top:1rem;    
     max-width:100%;
   }
 
