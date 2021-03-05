@@ -7,6 +7,10 @@ description="In den letzten Wochen habe ich mich intensiv mit 'DDBstudio' besch�
 
 # Im Test: Digitale Ausstellungen machen mit DDBstudio
 
+Für die Neugierigen/If you're curious:
+[Aller guten Dinge sind drei. Der Stein von Rosette und die Entzifferung des Ägyptischen - digitale Ausstellung, deutsche Version](https://ausstellungen.deutsche-digitale-bibliothek.de/stein-von-rosette)
+[All Good Things come in Threes. The Rosetta Stone and the Decipherment of Ancient Egyptian - digital exhibition, English version](https://ausstellungen.deutsche-digitale-bibliothek.de/rosetta-stone/)
+
 ## Das Museum im Internet: Motivationen
 
 In den letzten Wochen habe ich mich intensiv mit ["DDBstudio"](https://pro.deutsche-digitale-bibliothek.de/ddbstudio) beschäftigt, einem Service der [Deutschen Digitalen Bibliothek (DDB)](https://pro.deutsche-digitale-bibliothek.de/), mit der man im Browser digitale Ausstellung erstellen kann. Nein, nicht wegen Corona, sondern weil es im Interesse der [sechs Institutionen](https://kompetenzwerkd.github.io/infoportal/) liegt, die wir im KompetenzwerkD betreuen.
@@ -99,7 +103,7 @@ Fazit: Ich bin sehr zufrieden mit der Darstellung meiner Objekte in DDBstudio. K
 
 Neugierig geworden? Im [Handbuch von DDBstudio](https://deutsche-digitale-bibliothek.github.io/ddb-virtualexhibitions-docs-litfass/) ist das Wichtigste zum Ausstellungsmachen mit dem Tool kurz und knackig notiert. Allerdings muss man nicht das Handbuch studiert haben, um loszulegen - vieles ist selbsterklärend oder im System mit Erläuterungen hinterlegt. Viel Erfolg beim Ausprobieren!
 
-Link zur Ausstellung: https://ausstellungen.deutsche-digitale-bibliothek.de/stein-von-rosette
-Eine englische Version ist auch verfügbar: https://ausstellungen.deutsche-digitale-bibliothek.de/rosetta-stone/
+[Link zur Ausstellung](https://ausstellungen.deutsche-digitale-bibliothek.de/stein-von-rosette)
+[Eine englische Version ist hier verfügbar](https://ausstellungen.deutsche-digitale-bibliothek.de/rosetta-stone/)
 
 Franziska Naether
