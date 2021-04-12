@@ -305,7 +305,7 @@ Der Code hinter der Seite "Auflistung" könnte dann etwa so aussehen:
 ## Auflistungen bestimmter "Properties"
 Unter der Benutzung des Semantic Mediawiki gibt es eine spezielle Seite, die mit der Suchanfrage "Special:Ask" aufgerufen werden kann. Die Funktion "Ask" kann man hier nahezu wörtlich nehmen: Unter Benutzung der speziellen MediaWiki-Sprache kann hier das Wiki befragt werden.
 
-![Special:Ask](Special-Ask.png)
+![Special:Ask](/infoportal/images/smw/Special-Ask.png)
 Abb. 17: Die Maske der "Special:Ask" Seite.
 
 Unter "Conditions" können bestimmte Konditionen eingegeben werden, die z. B. mit "Categories" oder "Properties" zu tun haben. Unter "Printout section" können diejenigen "Properties" angezeigt werden, die bei der "Ask"-Funktion mitangezeigt werden sollen. In der [offiziellen Anleitung von Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Help:Special:Ask) findet man die entsprechenden Codes sowie Informationen zu weiteren Exportmöglichkeiten, je nach Gebrauch. Die Benutzung dieser "Ask"-Funktion ist davon abhängig, wie zuvor im Datenmodell die einzelnen "Properties" eingestellt wurden. Als Faustregel kann man sich jedoch Folgendes merken: Für die "Conditions" werden doppelte eckige Klammern benutzt, während bei den "Properties" ein Fragezeichen eingesetzt wird.
