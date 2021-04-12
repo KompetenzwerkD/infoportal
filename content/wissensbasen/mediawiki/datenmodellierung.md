@@ -36,7 +36,7 @@ Tipp zum Brainstorming: Zwar nicht im Zusammenhang mit MediaWiki durchgeführt, 
 
 ### Konzeption von Datenmodellen unter Berücksichtigung der Quellenkritik
 
-Die Quellenkritik ist ein in der Geschichtswissenschaft unabdingbares Werkzeug zur Sicherung der wissenschaftlichen Qualität. Daher kann bei Projekten, die interdisziplinäre Zusammenarbeit mit Informatik-Bereichen erfordern, die Integration der Quellenkritik eine besondere Herausforderung sein. In Anlehnung an die Definition von Quellenkritik des Klassikers "Proseminar Geschichte: Mittelalter" von Hans-Werner Goetz (→ Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 3. Auflage, Stuttgart 2006) soll nun überlegt werden, wie die Integration konkret aussehen könnte.
+Die Quellenkritik ist ein in der Geschichtswissenschaft unabdingbares Werkzeug zur Sicherung der wissenschaftlichen Qualität. Daher kann bei Projekten, die interdisziplinäre Zusammenarbeit mit Informatik-Bereichen erfordern, die Integration der Quellenkritik eine besondere Herausforderung sein. In Anlehnung an die Definition von Quellenkritik des Klassikers "Proseminar Geschichte: Mittelalter" von Hans-Werner Goetz (→ Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 4. Auflage, Stuttgart 2014) soll nun überlegt werden, wie die Integration konkret aussehen könnte.
 
 Grundsätzlich spricht erst einmal nichts dagegen, die Quellenkritik als eigene "Semantic property" mit der Dateneinstellung "Text" anzugeben oder diese nur in die äußere und innere Quellenkritik einzuteilen und in diesen Abschnitten die Quellenkritik als längeren Text beschreibend darzustellen. 
 
@@ -49,7 +49,7 @@ dreierlei Hinsicht:
 Wann, wo und wie wurde der Text verfasst? Wer hat ihn verfasst?
 Diese Informationen stellt der quellenkundliche Kommentar bereit.
 
-→ Aus: Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 3. Auflage, Stuttgart 2006, hier: S. 253.
+→ Aus: Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 4. Auflage, Stuttgart 2014, hier: S. 268.
 
 Dieser Abschnitt könnte anhand der gestellten Fragen bereits in vier "Semantic Property"-Feldern eingegeben werden:
 
@@ -68,7 +68,7 @@ Dieses Format kann selbstverständlich je nach Format beliebig erweitert werden.
 – Autorschaft: Ist der genannte Autor wirklich der Verfasser? Ist der Text das, wofür er sich ausgibt?
 – Überlieferung: Ist der Text so erhalten, wie der Autor ihn geschrieben hat? Diese Fragen werden in (und mit) der Edition geklärt.
 
-→ Aus: Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 3. Auflage, Stuttgart 2006, hier: S. 253.
+→ Aus: Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 4. Auflage, Stuttgart 2014, hier: S. 268.
 
 Analog können hierzu eigene "Properties" erstellt werden.
 
@@ -82,7 +82,7 @@ Analog können hierzu eigene "Properties" erstellt werden.
 > (3) *Kritik der Originalität*:
 Beruhen die Informationen auf eigenen Beobachtungen des Autors, oder worauf stützt er sich? Auch hier hilft in vielen Fällen die kritische Edition weiter.
 
-→ Aus: Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 3. Auflage, Stuttgart 2006, hier:  S. 253.
+→ Aus: Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 4. Auflage, Stuttgart 2014, hier: S. 268.
 
 Dieser Abschnitt kann wohl je nach Quelle sehr variieren und könnte sich auch in Teilen mit der inneren Quellenkritik überschneiden. Um inhaltliche Redundanz zu vermeiden, soll hier erst einmal ein Blick auf die innere Quellenkritik geworfen werden.
 
@@ -91,7 +91,7 @@ Die innere Kritik prüft, wieweit die Quellenaussage glaubwürdig ist. Deren Zuv
 (1) das (mangelnde) Wissen des Autors,
 (2) die (erklärte) Absicht des Autors.
 
-→ Aus: Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 3. Auflage, Stuttgart 2006, hier: S. 253-254.
+→ Aus: Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 4. Auflage, Stuttgart 2014, hier: S. 268.
 
 Auch diese zwei Punkte könnten in der Praxis Hand in Hand gehen und somit schwer voneinander zu trennen sein. Technisch könnte man den dritten Punkt der äußeren Kritik sowie die innere Quellenkritik als eine "Property" darstellen und die Inhaltsbeschreibung allgemein halten:
 
@@ -306,7 +306,7 @@ Der Code hinter der Seite "Auflistung" könnte dann etwa so aussehen:
 Unter der Benutzung des Semantic Mediawiki gibt es eine spezielle Seite, die mit der Suchanfrage "Special:Ask" aufgerufen werden kann. Die Funktion "Ask" kann man hier nahezu wörtlich nehmen: Unter Benutzung der speziellen MediaWiki-Sprache kann hier das Wiki befragt werden.
 
 ![Special:Ask](/infoportal/images/smw/Special-Ask.png)
-Abb. 17: Die Maske der "Special:Ask" Seite.
+> Abb. 17: Die Maske der "Special:Ask" Seite.
 
 Unter "Conditions" können bestimmte Konditionen eingegeben werden, die z. B. mit "Categories" oder "Properties" zu tun haben. Unter "Printout section" können diejenigen "Properties" angezeigt werden, die bei der "Ask"-Funktion mitangezeigt werden sollen. In der [offiziellen Anleitung von Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Help:Special:Ask) findet man die entsprechenden Codes sowie Informationen zu weiteren Exportmöglichkeiten, je nach Gebrauch. Die Benutzung dieser "Ask"-Funktion ist davon abhängig, wie zuvor im Datenmodell die einzelnen "Properties" eingestellt wurden. Als Faustregel kann man sich jedoch Folgendes merken: Für die "Conditions" werden doppelte eckige Klammern benutzt, während bei den "Properties" ein Fragezeichen eingesetzt wird.
 
