@@ -1,3 +1,10 @@
++++
+title = "Usecase: Aufbau eines Semantic Mediawiki zur kollaborativen Erfassung von Interviewmetadaten im Rahmen des Verbundprojektes 'Multiple Transformationen'"
+weight = 2
+description = "Description"
+insert_anchor_links = "right"
++++
+
 Usecase: Aufbau eines Semantic Mediawiki zur kollaborativen Erfassung von Interviewmetadaten im Rahmen des Verbundprojektes "Multiple Transformationen" 
 
 1. Seite: Das Projekt - Übersicht und Analyse
