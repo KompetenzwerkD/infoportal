@@ -63,7 +63,7 @@ Wie im Vorfeld bereits beschrieben haben sich die Projektpartner auf folgende Zi
 - Gemeinsame Erhebung der Metadaten der Interviews und weiterer für die Vorhaben relevanter Datenarten
 - Abstimmung auch in weiteren Aspekten des Forschungsdatenmanagements, das alle Partner betrifft im Rahmen der Erstellung eines gemeinsamen Datenmanagementplans
 
-Im Folgenden soll in erster Linie der obere Punkt thematisiert werden, also die Umsetzung eines Systems zur Metadatenerfassung im Rahmen des Projekts.
+Im Folgenden soll in erster Linie der obere Punkt thematisiert werden, also die Umsetzung eines Systems zur niedrigschwelligen, möglichst komfortablen Metadatenerfassung im Rahmen des Projekts.
 Dabei versprachen sich die Forschenden folgende Vorteile von dieser Lösung:
 - Übersicht über die im Projekt erzielten Fortschritte, sowohl qualitativ als auch quantitativ
 - Dokumentation der eigenen Forschungsleistung
@@ -72,7 +72,8 @@ Dabei versprachen sich die Forschenden folgende Vorteile von dieser Lösung:
 
 Zum Erreichen dieses Ziels bedurfte es zunächst eines Systems zur verteilten systematischen Erfassung von (Meta-)Daten. Eine Eigenentwicklung kam aufgrund des zu erwartenden Umfangs nicht infrage. Folglich wurde die Entscheidung getroffen, ein bestehendes, breit einsetzbares System zur Wissenserfassung entsprechend der Anforderungen des Projekts anzupassen.
 Eine grundlegende Analyse der Möglichkeiten, Vor- und Nachteile verschiedener Systeme wurde vorgenommen und ist hier zu finden: https://kompetenzwerkd.github.io/infoportal/wissensbasen/
-Auf dieser Basis haben wir uns dafür entschieden, in diesem Fall ein Mediawiki mit der Semantic Mediawiki-Erweiterung (SMW) einzusetzen. Gründe dafür waren unter anderem:
+Auf dieser Basis haben wir uns dafür entschieden, in diesem Fall ein Mediawiki https://www.mediawiki.org mit der Semantic Mediawiki-Erweiterung https://www.semantic-mediawiki.org/ (SMW) einzusetzen: 
+Gründe dafür waren unter anderem:
 - es handelt sich um vollständig offene Software
 - bekanntes User Interface für einfache Erstellung und übersichtliche Darstellung des Content
 - grundlegende Möglichkeiten der Nutzerverwaltung
@@ -82,7 +83,12 @@ Auf dieser Basis haben wir uns dafür entschieden, in diesem Fall ein Mediawiki 
 - Möglichkeit der Erfassung strukturierter Daten (im Vergleich zu Mediawiki)
 - Möglichkeiten des Exports der strukturierten Daten
 
-Das SMW-Grundsystem wurde im nächsten Schritt zentral aufgesetzt, um den Forschenden einen ersten Einblick in das System geben zu können.
+Das SMW-Grundsystem wurde im nächsten Schritt zentral aufgesetzt, um den Forschenden einen ersten Einblick in das System geben zu können. 
+TODO: zu diesem Zeitpunkt ungeklärte Fragen bezüglich des späteren Hostings... Docker wegen Flexibilität
+
+TODO: Erleichterung der Modellierung, Erstellung von den eigentlichen Datenschemata, Eingabemasken (Forms) und den Vorlagen für die Präsentation der Daten in einem Arbeitsschritt
+Page Forms https://www.mediawiki.org/wiki/Extension:Page_Forms
+
 Um die Daten nun strukturiert zu erfassen, musste diesen zunächst eine einheitliche Struktur gegeben werden. In enger Abstimmung mit allen Beteiligten begann die Phase der Datenmodellierung.
 
 Nun wurden die einzubeziehenden Objektarten bestimmt. Neben Interviews, welche die wichtigste Kategorie darstellen, fiel die Entscheidung, eine allgemeine Sammel-Kategorie "Ressourcen" für nahezu beliebige weitere Forschungsobjekte einzuführen. Darüber hinaus wurde schnell klar, dass im Gesamtzusammenhang noch weitere Objektarten wie Personen, Orte, Institutionen und Forschungsprojekte eine Rolle spielen.
@@ -99,10 +105,28 @@ In mehreren Iterationen ...
 
 Fortschreitende Anpassungen hinsichtlich Modellierung, Präsentation und Datenerfassung ermöglichten eine zügige Anpassung des Gesamtsystems an die zu erwartenden Abläufe im Forschendenalltag. In diesem Zusammenhang wurden die zu erfassenden Kategorien um Fotosammlungen, Einzelfotos und Veranstaltungen erweitert.
 
+TODO
+Zusätzliche Erweiterungen installiert
+Maps https://maps.extension.wiki/
+Einbindung dynamischer Karten, in unserem Fall zur räumlichen Einordnung von Orten
+Eröffnet auch weiterfüherende Möglichkeiten, wie die Erzeugung einer Übersicht aller in den Interviews der Projektpartner vorkommenden Orte
+
+Modern Timeline https://github.com/ProfessionalWiki/ModernTimeline#modern-timeline
+Einbindung dynamischer Zeitstrahlen, hiermit wird für die Projekte eine Übersicht erstellt, wann welche Interviews geführt wurden
+
+Attachments https://www.mediawiki.org/wiki/Extension:Attachments
+Ermöglicht das komfortable Hinzufügen von Anhängen zu Wikiseiten
+
+
+
+
 3. Seite: das Ergebnis?
+
+TODO!
 
 Datenmodell:
 - Ausgewählte Schemata präsentieren?
 
 SMW
 - Screenshots Datenerfassung / Templates?
+- Einzelne Inline Queries aus den Templates?
