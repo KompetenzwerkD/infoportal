@@ -7,9 +7,9 @@ insert_anchor_links = "right"
 
 # Forschungsdatenrepositorien oder Archive finden
 
-Um Forschungsdaten entsprechend der [FAIR-Prinzipien](@/glossar/_index.md#FAIR-Prinzipien) auffindbar, zugänglich und langfristig aufzubewahren, ist die Bereitstellung über ein nachhaltig betriebenes Forschungsdatenrepositorium anzuraten. Darüber hinaus ist die Wahl eines passenden (Langzeit-)Archivs für die dauerhafte Aufbewahrung der Forschungsdaten von großer Bedeutung - falls keine internen Lösungen bereitstehen. Mitunter erfüllen Angebote sogar die Anforderungen in Bezug auf beide Aspekte.
+Um Forschungsdaten entsprechend der [FAIR-Prinzipien](@/glossar/_index.md#fair-prinzipien) auffindbar, zugänglich und langfristig aufzubewahren, ist die Bereitstellung über ein nachhaltig betriebenes Forschungsdatenrepositorium anzuraten. Darüber hinaus ist die Wahl eines passenden (Langzeit-)Archivs für die dauerhafte Aufbewahrung der Forschungsdaten von großer Bedeutung - falls keine internen Lösungen bereitstehen. Mitunter erfüllen Angebote sogar die Anforderungen in Bezug auf beide Aspekte.
 
-Mittelfristig werden in diesen Zusammenhängen vermutlich die [NFDI](@/glossar/_index.md#NFDI)-Initiativen eine wichtige Rolle spielen. Momentan können sich unter anderem die folgenden von uns zusammengetragenen Anlaufstellen als hilfreich erweisen.
+Mittelfristig werden in diesen Zusammenhängen vermutlich die [NFDI](@/glossar/_index.md#nfdi)-Initiativen eine wichtige Rolle spielen. Momentan können sich unter anderem die folgenden von uns zusammengetragenen Anlaufstellen als hilfreich erweisen.
 
 Falls Sie Ergänzungen oder Korrekturen haben, melden Sie sich bitte bei uns! Auch würden wir uns freuen, mit Ihnen über ihre gesammelten Erfahrungen mit Repositorien oder Archiven ins Gespräch zu kommen. Kontaktieren Sie uns einfach unter kompetenzwerkD(at)saw-leipzig.de
 
