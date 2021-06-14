@@ -33,7 +33,7 @@ Sie haben eine Empfehlung für ein Publikation, haben im Internet ein ertragreic
 * [Blog Dhd](https://dhd-blog.org/?p=12434) 
 * [Wiki mit Literaturhinweisen zur digitalen Kunstgeschichte](https://www.digitale-kunstgeschichte.de/wiki/Literaturhinweise)
 * [Literaturhinweise und Tools zur digitalen Literaturwissenschaft](https://www.uni-potsdam.de/en/lit-19-jhd/digitale-literaturwissenschaft) 
-* Literatursammlung zu „Buchveröffentlichungen aus dem Bereich Digital Humanities von der Einführung bis zu neuesten Aufsätzen aus der Forschung. Open Access und / oder in traditioneller Buchform“ von [ForText & Catma[(https://www.pinterest.de/forTextundCatma/digital-humanities-b%C3%BCcher/) 
+* Literatursammlung zu „Buchveröffentlichungen aus dem Bereich Digital Humanities von der Einführung bis zu neuesten Aufsätzen aus der Forschung. Open Access und / oder in traditioneller Buchform“ von [ForText & Catma](https://www.pinterest.de/forTextundCatma/digital-humanities-b%C3%BCcher/) 
 
 
 #### Kritische Digital Humanities
