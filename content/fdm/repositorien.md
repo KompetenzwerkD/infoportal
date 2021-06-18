@@ -26,6 +26,8 @@ Falls Sie Ergänzungen oder Korrekturen haben, melden Sie sich bitte bei uns! Au
 * CLARIN-D: Forschungsdatenrepositorien für text- und sprachbasierte Ressourcen betrieben durch spezialisierte CLARIN-Kompetenzzentren: <https://www.clarin-d.net/de/aufbereiten/clarin-zentrum-finden>
 * Humanities Data Centre: Einstiegsseite für die Dienste der DARIAH-DE-Infrastruktur <http://humanities-data-centre.de/>
 * DARIAH-DE-Repository: Forschungsdatenrepositorium für die digitalen Geisteswissenschaften: <https://de.dariah.eu/repository>
+* propylaeum@heiDATA: Publikationsplattform für Forschungsdaten der Altertumswissenschaften: <https://www.propylaeum.de/publizieren/forschungsdaten/>
+* arthistoricum@heiDATA: Angebot des Fachinformationsdienstes Kunst, Fotografie und Design: <https://heidata.uni-heidelberg.de/dataverse/arthistoricum> bzw. <https://data.uni-heidelberg.de/datenaufnahme.html> 
 * heidICON: Objekt-, Foto- und Multimediarepositorium des Fachinformationsdienstes Kunst, Fotografie und Design: <https://heidicon.ub.uni-heidelberg.de/>
 * IANUS: Archäologie (Deutsches Archäologisches Institut): <https://www.ianus-fdz.de/>
 * Arachne: zentrale Objektdatenbank des Deutschen Archäologischen Instituts: <https://arachne.uni-koeln.de/>
@@ -41,8 +43,6 @@ Falls Sie Ergänzungen oder Korrekturen haben, melden Sie sich bitte bei uns! Au
 * B2Share: Dieser Dienst des EUDAT-Projekts bietet eine Plattform für die Zugänglichmachung interdisziplinärer Forschungsdaten: <https://b2share.eudat.eu/>
 
 ## Archive
-* Propylaeum: Archiv für Forschungsdaten der Altertumswissenschaften: <https://www.propylaeum.de/publizieren/forschungsdaten/>
-* arthistoricum: Möglichkeit zur dauerhaften Archivierung angeboten durch den Fachinformationsdienstes Kunst, Fotografie und Design: <https://heidata.uni-heidelberg.de/dataverse/arthistoricum> bzw. <https://data.uni-heidelberg.de/datenaufnahme.html> 
 * AMAD (Archivum Medii Aevi Digitale): Interdisziplinäres Fachrepositorium und Wissenschaftsblog für Mittelalterforschung: <https://www.amad.org/> 
 * TextGrid Repository: Digitales Langzeitarchiv von DARIAH-DE für geisteswissenschaftliche Forschungsdaten, insbesondere aber nicht nur Texte: <https://www.textgridrep.org>
 
