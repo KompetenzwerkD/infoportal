@@ -33,4 +33,4 @@ Die Werkstatt, institutionell angebunden an die Digital-Humanities-Abteilung der
 
 |<!-- -->|<!-- -->|
 |--|--|
-| ![](images/smwk-logo.png) | Diese Maßnahme wird mitfinanziert durch Steuermittel auf der Grundlage des vom Sächsischen Landtag beschlossenen Haushalts. |
+| ![](images/smwk-logo_new.png) | Diese Maßnahme wird mitfinanziert durch Steuermittel auf der Grundlage des vom Sächsischen Landtag beschlossenen Haushalts. |
