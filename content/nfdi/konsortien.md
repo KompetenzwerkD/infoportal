@@ -13,7 +13,7 @@ show_in_topics = true
 
 Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existieren folgende Konsortieninitiativen:
 
-## Bereits geförderte Initiativen
+## Geförderte Initiativen
 
 ### NFDI4Culture
 * Webauftritt: [Link](https://www.nfdi4culture.de/)
@@ -26,7 +26,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Hauptantragssteller: Akademie der Wissenschaften und der Literatur, Mainz
 * Schwerpunkt: Materielles und immaterielles kulturelles Erbe
 * Fachdisziplinen: Kulturwissenschaften, Musikwissenschaft, Kunstgeschichte, Architektur, Theater-, Film- und Medienwissenschaft
-* Möglichkeiten der Teilhabe: Virtual Culture Community Workshop *NFDI4Culture explained*, 09.09.2020, 10:00-12:00, siehe [NFDI4Culture-Webseite](https://www.nfdi4culture.de/)
+* Möglichkeiten der Teilhabe: Second Culture Community Plenary, 17.-19. November 2021 in Mainz, siehe [NFDI4Culture-Webseite](https://nfdi4culture.de/news-events/events.html?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=38&cHash=1513d96cce4f868f3755aaaae6713882)
 
 <br />
 
@@ -42,13 +42,10 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 
 <br />
 
-## Beantragte bzw. zu beantragende Initiativen
-
 ### NFDI Text+
 * Webauftritt: [Link](https://www.text-plus.org/)
 * Kontakt: Prof. Dr. Erhard Hinrichs hinrichs@ids-mannheim.de 
-* Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
-* Letter of Intent: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2020_nfdi_Text.pdf)
+* Stand: Text+ wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der zweiten Runde (Antrag 2020, Förderzusage 2021) des NFDI-Aufbaus zur Förderung ausgewählt.
 * Beteiligte Netzwerkpartner: SAW (Antragstellung)
 * Hauptantragssteller: Leibniz Institut für Deutsche Sprache (IDS), Mannheim
 * Schwerpunkt: Text- und Sprachdaten (digitale Sammlungen, lexikalische Ressourcen einschl. Wörterbücher und Editionen)
@@ -70,10 +67,22 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
   
 <br />
 
+### Berd@NFDI
+* Webauftritt: https://www.berd-nfdi.de/
+* Kontakt: Prof. Dr. Florian  Stahl  florian.stahl@uni-mannheim.de
+* Stand: Berd@NFDI wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der zweiten Runde (Antrag 2020, Förderzusage 2021) des NFDI-Aufbaus zur Förderung ausgewählt.
+* Beteiligte Netzwerkpartner: -
+* Hauptantragssteller: Universität Mannheim
+* Schwerpunkt: Unstrukturierte Daten
+* Fachdisziplinen: Sozialwissenschaften, Wirtschaftswissenschaften, Politikwissenschaften, Psychologie
+* Möglichkeiten der Teilhabe: Derzeit unklar. Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert.
+
+## Beantragte bzw. zu beantragende Initiativen
+
 ### NFDI4Memory
 * Webauftritt: [Link](https://4memory.de/)
 * Kontakt: Prof. Dr. Johannes Paulmann 4memory@ieg-mainz.de
-* Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
+* Stand: Erneute Antragstellung läuft, Abgabe 2021 geplant
 * Letter of Intent: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2020_ndfi_4memory.pdf)
 * Beteiligte Netzwerkpartner: ISGV (Problem Stories), SLUB (Antragstellung)
 * Hauptantragssteller: Leibniz Institut für Europäische Geschichte Mainz (IEG)
@@ -92,7 +101,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
   * Prof. Dr. Philipp von Rummel philipp.von.rummel@berliner-antike-kolleg.org
   * Prof. Dr. Alexandra Busch generaldirektorin@rgzm.de
   * Prof. Dr. Kai-Christian Bruhn kai-christian.bruhn@hs-mainz.de
-* Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
+* Stand: Antragstellung läuft, Abgabe 2021 geplant
 * Letter of Intent: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2020_ndfi_4objects.pdf)
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: Deutsches Archäologisches Institut
@@ -104,21 +113,8 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 
 <br />
 
-### Berd@NFDI
-* Webauftritt: https://www.berd-nfdi.de/
-* Kontakt: Prof. Dr. Florian  Stahl  florian.stahl@uni-mannheim.de
-* Stand: Antragstellung 2020 geplant
-* Letter of Intent: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2020_nfdi_berdatnfdi.pdf)
-* Beteiligte Netzwerkpartner: -
-* Hauptantragssteller: Universität Mannheim
-* Schwerpunkt: Unstrukturierte Daten
-* Fachdisziplinen: Sozialwissenschaften, Wirtschaftswissenschaften, Politikwissenschaften, Psychologie
-* Möglichkeiten der Teilhabe: Derzeit unklar. Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert.
-
-<br />
-
 ### NFDI4TheoReS
-* Webauftritt: bisher nicht vorhanden
+* Webauftritt: [Link](https://www.theores.de/)
 * Kontakt: Prof. Dr. Hans-Peter Grosshans grosshans@uni-muenster.de
 * Stand: Antragstellung 2021 geplant
 * Unverbindliche Voranmeldung: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2021_nfdi_theores.pdf)
@@ -136,6 +132,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Kontakt:
   * Prof. Dr. Gerd Graßhoff gerd.graßhoff@hu-berlin.de
   * Prof. Dr. Andreas Degkwitz andreas.degkwitz@ub.hu-berlin.de
+* Stand: Antragstellung 2021 geplant, nach außen auffällig inaktiv
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: Humboldt-Universität zu Berlin
 * Schwerpunkt: vielschichtig, u.a. kollaboratives Arbeiten, Kommunikation
