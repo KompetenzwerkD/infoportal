@@ -11,15 +11,18 @@ show_in_topics = true
 
 # Nationale Forschungsdateninfrastruktur (NFDI)
 
-*Stand: 09.07.2020*
+*Stand: 12.07.2021*
 
 ## Updates
+* 17.-19.11.2021: NFDI4Culture [Second Culture Community Plenary](https://nfdi4culture.de/news-events/events.html?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=38&cHash=1513d96cce4f868f3755aaaae6713882)
+* 08.07.2021: Dritte [NFDI-Konferenz](https://www.dfg.de/foerderung/programme/nfdi/konferenz_2021/index.html) findet als Webinar statt.
+* 02.07.2021: Förderung von 10 Konsortien durch GWK beschlossen, darunter [Text+](https://www.text-plus.org/) als Konsortium mit DH-Bezug.
 * 31.08.2020: Ankündigung des Virtual Culture Community Workshop *NFDI4Culture explained*, 09.09.2020, 10:00-12:00, siehe [NFDI4Culture-Webseite](https://www.nfdi4culture.de/)
 * 31.08.2020: Ergebnisse des [Call for User Stories](https://www.text-plus.org/forschungsdaten/user-stories/) von Text+ wurden online gestellt und schrittweise ergänzt
 * 28.07.2020: Aufrufe zum Einreichen von User Stories und Datenangeboten seitens Text+, siehe bei [konsortien](@/nfdi/konsortien.md)
 * 09.07.2020: Die [NFDI Webkonferenz 2020](@/nfdi/nfdi-konferenz2020.md) hat stattgefunden und wir haben Informationen für Sie zusammengetragen.
 * 29.06.2020: Die Gemeinsame Wissenschaftskonferenz (GWK) hat NFDI4Culture, das Konsortium für Forschungsdaten zu materiellen un immateriellen Kulturgütern, zur Förderung ausgewählt.
-* 03-06-2020: Die Förderempfehlungen des NFDI-Expertengremiums wurden veröffentlicht. Dabei wurde von den Initiativen innerhalb der Digital Humanities das Konsortium NFDI4Culture in der ersten Ausschreibungsrunde zur Förderung empfohlen.
+* 03.06.2020: Die Förderempfehlungen des NFDI-Expertengremiums wurden veröffentlicht. Dabei wurde von den Initiativen innerhalb der Digital Humanities das Konsortium NFDI4Culture in der ersten Ausschreibungsrunde zur Förderung empfohlen.
 
 ## Allgemeines
 “Die nationale [Forschungsdateninfrastruktur](@/glossar/_index.md#forschungsdateninfrastruktur) (NFDI) soll die Datenbestände  von Wissenschaft und Forschung systematisch erschließen, nachhaltig sichern und zugänglich machen sowie (inter-)national vernetzen. Sie wird  in einem aus der Wissenschaft getriebenen Prozess als vernetzte Struktur eigeninitiativ agierender Konsortien aufgebaut werden.” Quelle: DFG
