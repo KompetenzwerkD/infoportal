@@ -16,7 +16,7 @@ show_in_topics = true
 ## Updates
 * 17.-19.11.2021: NFDI4Culture [Second Culture Community Plenary](https://nfdi4culture.de/news-events/events.html?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=38&cHash=1513d96cce4f868f3755aaaae6713882)
 * 08.07.2021: Dritte [NFDI-Konferenz](https://www.dfg.de/foerderung/programme/nfdi/konferenz_2021/index.html) findet als Webinar statt.
-* 02.07.2021: Förderung von 10 Konsortien durch GWK beschlossen, darunter [Text+](https://www.text-plus.org/) als Konsortium mit DH-Bezug.
+* 02.07.2021: [Förderung von 10 Konsortien](https://nachrichten.idw-online.de/2021/07/02/foerderung-von-zehn-konsortien-der-nationalen-forschungsdateninfrastruktur-nfdi-beschlossen/) durch GWK beschlossen, darunter [Text+](https://www.text-plus.org/) als Konsortium mit DH-Bezug.
 * 31.08.2020: Ankündigung des Virtual Culture Community Workshop *NFDI4Culture explained*, 09.09.2020, 10:00-12:00, siehe [NFDI4Culture-Webseite](https://www.nfdi4culture.de/)
 * 31.08.2020: Ergebnisse des [Call for User Stories](https://www.text-plus.org/forschungsdaten/user-stories/) von Text+ wurden online gestellt und schrittweise ergänzt
 * 28.07.2020: Aufrufe zum Einreichen von User Stories und Datenangeboten seitens Text+, siehe bei [konsortien](@/nfdi/konsortien.md)
