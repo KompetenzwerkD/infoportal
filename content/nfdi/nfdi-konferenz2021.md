@@ -15,7 +15,9 @@ show_in_topics = true
 ## Einleitende Vorträge
 
 Die Konferenz begann mit den üblichen einleitenden Vorträgen. Gehalten wurden Sie von Prof. Dr. Kerstin Schill aus dem NFDI-Expertengremium und von Prof. Dr. York Sure-Vetter aus dem NFDI-Direktorat. Inhaltlich fand eine solide Aufarbeitung des bisherigen NFDI-Aufbaus sowie ein Ausblick auf die kommenden Jahre statt. Außerdem gab es eine Einsicht in die abgelaufene Ausschreibungsrunde und ein Ausblick auf die nun folgende, letzte Gelegenheit, im Rahmen des NFDI-Aufbaus gefördert zu werden.
+
 Bereits im Vorfeld der Konferenz wurden - wie sicherlich den meisten bekannt - die Förderzusagen für die Konsortien der zweiten Runde verkündet. Darunter finden sich auch zwei Konsortien von Interesse für die Digital Humanities und angrenzende Fächer, nämlich [Text+](https://www.text-plus.org/) und [Berd@NFDI](https://www.berd-nfdi.de). Herzlichen Glückwunsch!!!
+
 Aus Sicht des Kompetenzwerks löste natürlich in erster Linie die Förderung des Text+-Konsortiums Freude aus. Zum einen, da eine Vielzahl von uns betreuter Forschungsvorhaben mit Sprachdaten arbeiten und in Zukunft hoffentlich von Text+ profitieren dürfen, zum anderen da auch die SAW zu den geförderten Partnern gehört. Sie wird sich in den Bereichen lexikalische Ressourcen und Infrastruktur/Betrieb einbringen, siehe [Link](https://www.text-plus.org/forschungsdaten/daten-und-kompetenzzentren/).
 
 ## Vorstellung der Konsortien
@@ -33,5 +35,8 @@ Es folgte eine Networking-Session, in der man genug Zeit hatte frei ins Gespräc
 
 ## Basisdienste
 
-Danach begann die letzte Plenarsession. Schon in den einleitenden Vorträgen kristallisierten sich die Basisdienste und die damit in Verbindung stehenden Konsortiums-überspannenden Querschnittsthemen als zentraler Aspekt der Konferenz heraus, da hier viele Unklarheiten bestehen bzw. bestanden. Klärende Erläuterungen am Morgen gingen auf Basisdienst-Konsortien ein, die in der dritten Runde erstmals beantragt werden können. Diese sollen die infrastrukturelle Grundversorgung, also grundlegende Dienste und Funktionalitäten sicherstellen und weiterentwickeln. Festzuhalten ist: Diese Konsortien befinden sich bezüglich ihrer Anträge in Konkurrenz zu den bekannten fachlichen Konsortien um die verbliebenen 11 Fördermöglichkeiten.
+Danach begann die letzte Plenarsession. Schon in den einleitenden Vorträgen kristallisierten sich die Basisdienste und die damit in Verbindung stehenden Konsortiums-überspannenden Querschnittsthemen als zentraler Aspekt der Konferenz heraus, da hier viele Unklarheiten bestehen bzw. bestanden.
+
+Einleitende Erläuterungen am Morgen gingen auf Basisdienst-Konsortien ein, die in der dritten Runde erstmals beantragt werden können. Diese sollen die infrastrukturelle Grundversorgung, also grundlegende Dienste und Funktionalitäten sicherstellen und weiterentwickeln. Festzuhalten ist: Diese Konsortien befinden sich bezüglich ihrer Anträge in Konkurrenz zu den bekannten fachlichen Konsortien um die verbliebenen 11 Fördermöglichkeiten.
+
 Schließlich stellten sich am Nachmittag mehrere Parteien vor, welche in der Regel eine Beteiligung an einem gemeinsamen in der Gründungsphase befindlichen Basisdienste-Konsortium anstreben. Darunter waren 2linkNFDI, Metadata-Tools4NFDI und METHODS, deren Vorträge durch weitere Impulsvorträge ergänzt wurden.
