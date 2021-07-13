@@ -15,8 +15,8 @@ show_in_topics = true
 
 ## Updates
 * 17.-19.11.2021: NFDI4Culture [Second Culture Community Plenary](https://nfdi4culture.de/news-events/events.html?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=38&cHash=1513d96cce4f868f3755aaaae6713882)
-* 08.07.2021: Dritte [NFDI-Konferenz](https://www.dfg.de/foerderung/programme/nfdi/konferenz_2021/index.html) findet als Webinar statt.
-* 02.07.2021: [Förderung von 10 Konsortien](https://nachrichten.idw-online.de/2021/07/02/foerderung-von-zehn-konsortien-der-nationalen-forschungsdateninfrastruktur-nfdi-beschlossen/) durch GWK beschlossen, darunter [Text+](https://www.text-plus.org/) als Konsortium mit DH-Bezug.
+* 08.07.2021: Dritte [NFDI-Konferenz](https://www.dfg.de/foerderung/programme/nfdi/konferenz_2021/index.html) findet als Webinar statt
+* 02.07.2021: [Förderung von 10 Konsortien](https://nachrichten.idw-online.de/2021/07/02/foerderung-von-zehn-konsortien-der-nationalen-forschungsdateninfrastruktur-nfdi-beschlossen/) durch GWK beschlossen, darunter [Text+](https://www.text-plus.org/) als Konsortium mit DH-Bezug und unter Beteiligung der SAW
 * 31.08.2020: Ankündigung des Virtual Culture Community Workshop *NFDI4Culture explained*, 09.09.2020, 10:00-12:00, siehe [NFDI4Culture-Webseite](https://www.nfdi4culture.de/)
 * 31.08.2020: Ergebnisse des [Call for User Stories](https://www.text-plus.org/forschungsdaten/user-stories/) von Text+ wurden online gestellt und schrittweise ergänzt
 * 28.07.2020: Aufrufe zum Einreichen von User Stories und Datenangeboten seitens Text+, siehe bei [konsortien](@/nfdi/konsortien.md)
@@ -30,15 +30,15 @@ show_in_topics = true
 Sie soll maßgeblich die Entwicklung von Forschungsdatenservices und -standards entsprechend der [FAIR Prinzipien](@/glossar/_index.md#fair-prinzipien) (findable, accessible, interoperable, reuseable) mitgestalten. Solche Unternehmungen können nur durch nationale, fachliche Kooperationen zum Erfolg führen, auch mit Blick auf eine europäische und internationale Anschlussfähigkeit.
 
 ## Wichtige Fakten
-* festgeschrieben im Koalitionsvertrag des Bundes
+* Festgeschrieben im Koalitionsvertrag des Bundes
 * Abwicklung über die Deutsche Forschungsgemeinschaft (DFG) 
-* rund 30 Konsortien geplant, neun in der ersten Runde gefördert, zehn in der zweiten
-* drei Ausschreibungsrunden mit Deadlines im Herbst 2019, 2020, 2021
-* wurden/werden über die einschlägigen Fachcommunities standortübergreifend beantragt 
-* in der Zukunft die maßgebliche Anlaufstelle im Bereich (digitaler) [Forschungsdaten](@/glossar/_index.md#forschungsdaten)
+* Rund 30 Konsortien geplant, neun in der ersten Runde gefördert, zehn in der zweiten
+* Drei Ausschreibungsrunden mit Deadlines im Herbst 2019, 2020, 2021
+* Wurden/werden über die einschlägigen Fachcommunities standortübergreifend beantragt 
+* In der Zukunft die maßgebliche Anlaufstelle im Bereich (digitaler) [Forschungsdaten](@/glossar/_index.md#forschungsdaten)
 * Konsortien werden zunächst für fünf Jahre mit einem Budget von jeweils ca. 2-4 Mio EUR jährlich gefördert
 * Ein NFDI-Expertengremium gibt für jedes Konsortium eine Empfehlung zur Förderung bzw. Nichtförderung ab 
-* die Gemeinsame Wissenschaftskonferenz (GWK) entscheidet auf dieser Basis über die Förderung
+* Die Gemeinsame Wissenschaftskonferenz (GWK) entscheidet auf dieser Basis über die Förderung
 
 [mehr zur Förderlinie und dem Stand der Antragsverfahren](https://www.dfg.de/foerderung/programme/nfdi/)
 
