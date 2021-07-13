@@ -32,12 +32,13 @@ Sie soll maßgeblich die Entwicklung von Forschungsdatenservices und -standards 
 ## Wichtige Fakten
 * festgeschrieben im Koalitionsvertrag des Bundes
 * Abwicklung über die Deutsche Forschungsgemeinschaft (DFG) 
-* rund 30 Konsortien geplant, neun in der ersten Runde gefördert
+* rund 30 Konsortien geplant, neun in der ersten Runde gefördert, zehn in der zweiten
 * drei Ausschreibungsrunden mit Deadlines im Herbst 2019, 2020, 2021
 * wurden/werden über die einschlägigen Fachcommunities standortübergreifend beantragt 
 * in der Zukunft die maßgebliche Anlaufstelle im Bereich (digitaler) [Forschungsdaten](@/glossar/_index.md#forschungsdaten)
 * Konsortien werden zunächst für fünf Jahre mit einem Budget von jeweils ca. 2-4 Mio EUR jährlich gefördert
 * Ein NFDI-Expertengremium gibt für jedes Konsortium eine Empfehlung zur Förderung bzw. Nichtförderung ab 
+* die Gemeinsame Wissenschaftskonferenz (GWK) entscheidet auf dieser Basis über die Förderung
 
 [mehr zur Förderlinie und dem Stand der Antragsverfahren](https://www.dfg.de/foerderung/programme/nfdi/)
 
