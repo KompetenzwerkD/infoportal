@@ -1,7 +1,7 @@
 +++
 title = "NFDI-Konferenz 2020"
 sort_by = "weight"
-weight = 6
+weight = 7
 description = "Description"
 insert_anchor_links = "right"
 
