@@ -11,7 +11,7 @@ show_in_topics = true
 
 # Semantic MediaWiki 
 
-> Diese Handreichung zum Thema Semantic MediaWiki wurde von [Lina Lerch](https://github.com/s3micolon) im Rahmen eines Praktikums am KompetenzwerkD erstellt. 
+> Diese Handreichung zum Thema Semantic MediaWiki wurde von [Lina Lerch](https://github.com/linalerch) im Rahmen eines Praktikums am KompetenzwerkD erstellt. 
 
 Im Zeitalter der zunehmenden Digitalisierung ist Wissensvernetzung und -ordnung ein wesentlicher Aspekt in der Wissenschaft. Daten können dabei in verschiedensten Formen gesammelt, erfasst, weitergegeben und publiziert werden. Während das Sammeln der Daten auf der lokalen Festplatte durch unzählige Programme erleichtert wird, stößt man bei der Ordnung und Vernetzung teilweise auf Hürden, besonders dann, wenn eine kollaborative Arbeitsumgebung geschaffen werden soll. 
 Diese Hürden können dabei vielfältig sein: Manche sind technischer Natur; manche sind auch der Bandbreite des interdisziplinären Arbeitens geschuldet. Welche digitalen Möglichkeiten gibt es? Welche Programme sind aktuell, welche werden weiterentwickelt? Wie kann man diese Programme installieren und nutzen? Eignen sich die Programme auch für die spezifischen Zwecke, für die das Projekt geplant ist? Wie kann man die Hürde zwischen dem Technischen und dem z. B. Geschichtswissenschaftlichen praktisch überwinden?
@@ -43,5 +43,5 @@ Nachteile:
 
 ## Beispiele für die Nutzung des MediaWikis
 - [Wien Geschichte Wiki](https://www.geschichtewiki.wien.gv.at/Wien_Geschichte_Wiki)... ein Wiki über die Stadtgeschichte Wiens.
-- [Opera Camararii](http://camerarius.uni-wuerzburg.de/camerarius/index.php/)... ein Wiki digitalen Erfassung des griechisch-lateinischen Gesamtwerk des Camerarius d. Ä.
+- [Opera Camararii](http://camerarius.uni-wuerzburg.de/camerarius/index.php/)... ein Wiki zur digitalen Erfassung des griechisch-lateinischen Gesamtwerkes des Camerarius d. Ä.
 - [Thespis.Digital](https://thespis.digital/db/index.php?title=Hauptseite)... ein Wiki zu deutschsprachigem Berufstheater des 17. und 18. Jahrhunderts, das als digitales Archiv dient.
