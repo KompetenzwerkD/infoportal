@@ -14,6 +14,8 @@ show_in_topics = true
 *Stand: 12.07.2021*
 
 ## Updates
+* über aktuelle Daten u. a. zu Konferenzen und Workshops informiert die [Terminübersicht der NFDI](https://www.nfdi.de/termine/)
+* voraussichtlich November 2022: Förderentscheidung der GWK über Anträge der dritten Runde, mehr dazu bei der [DFG in der Übersicht](https://www.dfg.de/foerderung/programme/nfdi/)
 * 17.-19.11.2021: NFDI4Culture [Second Culture Community Plenary](https://nfdi4culture.de/news-events/events.html?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=38&cHash=1513d96cce4f868f3755aaaae6713882)
 * 08.07.2021: Dritte [NFDI-Konferenz](https://www.dfg.de/foerderung/programme/nfdi/konferenz_2021/index.html) findet als Webinar statt
 * 02.07.2021: [Förderung von 10 Konsortien](https://nachrichten.idw-online.de/2021/07/02/foerderung-von-zehn-konsortien-der-nationalen-forschungsdateninfrastruktur-nfdi-beschlossen/) durch GWK beschlossen, darunter [Text+](https://www.text-plus.org/) als Konsortium mit DH-Bezug und unter Beteiligung der SAW
