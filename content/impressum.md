@@ -1,6 +1,7 @@
 +++
 title = "Impressum"
 template = "impressum.html"
+weight = 1
 +++
 
 # Impressum

@@ -1,6 +1,7 @@
 +++
 title = "Newsletter"
 template = "berichte.html"
+weight = 1
 +++
 
 # Newsletter

@@ -1,6 +1,7 @@
 +++
 title = "E-book (beta)"
 template = "ebook.html"
+weight = 1
 +++
 
 # Die KomptenzwerkD Website als E-book
