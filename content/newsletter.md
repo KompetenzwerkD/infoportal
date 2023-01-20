@@ -8,7 +8,7 @@ weight = 1
 
 Auf dieser Seite veröffentlichen wir die quartalsweisen Newsletter und Tätigkeitsberichte des KompetenzwerkD.
 
-## 2021
+## 2022
 
 - [2022/4: Oktober-Dezember](/infoportal/documents/kompetenzwerkd_newsletter_2022_4.pdf)
 - [2022/3: Juli-September](/infoportal/documents/kompetenzwerkd_newsletter_2022_3.pdf)
