@@ -10,6 +10,13 @@ Auf dieser Seite veröffentlichen wir die quartalsweisen Newsletter und Tätigke
 
 ## 2021
 
+- [2022/4: Oktober-Dezember](/infoportal/documents/kompetenzwerkd_newsletter_2022_4.pdf)
+- [2022/3: Juli-September](/infoportal/documents/kompetenzwerkd_newsletter_2022_3.pdf)
+- [2022/2: April-Juni](/infoportal/documents/kompetenzwerkd_newsletter_2022_2.pdf)
+- [2022/1: Januar-März](/infoportal/documents/kompetenzwerkd_newsletter_2022_1.pdf)
+
+## 2021
+
 - [2021/4: Oktober-Dezember](/infoportal/documents/kompetenzwerkd_newsletter_2021_4.pdf)
 - [2021/3: Juli-September](/infoportal/documents/kompetenzwerkd_newsletter_2021_3.pdf)
 - [2021/2: April-Juni](/infoportal/documents/kompetenzwerkd_newsletter_2021_2.pdf)
