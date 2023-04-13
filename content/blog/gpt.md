@@ -141,3 +141,6 @@ Gliederung zu vorgegebenen Texten: Texte zu gliedern ist eine der Aufgaben, die 
 ![](/infoportal/images/blog/gpt/zusammenfassung.png)\
 Zusammenfassen eines vorgegebenen Dokuments: Derartige Aufgaben gelingen dem System in der Regel gut. Es ist auch möglich, mehr als ein Dokument als Eingabe für solche und andere Aufgaben anzugeben.
 
+![](/infoportal/images/blog/gpt/email.png)\
+Verfassen einer E-Mail: Vorlagen für zu versendende E-Mails werden meist stilsicher formuliert und sogar um typische Inhalte ergänzt, die nicht im Beschreibungstext vorkommen (wie in unserem Beispiel).
+
