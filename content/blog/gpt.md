@@ -123,21 +123,21 @@ Einschätzung
 
 Es folgen ein paar exemplarische Beispiele, in denen GPT beweisen durfte, was es drauf hat. Alle Beispiele wurden unter Verwendung von Bing AI, basierend auf GPT-4, im Microsoft Edge-Browser erstellt und können als Anregung dienen, einmal selbst zu experimentieren.
 
-![](/infoportal/images/blog/gpt/literatur_vorschlag.png)
+![](/infoportal/images/blog/gpt/literatur_vorschlag.png)\
 Literaturvorschläge zum Thema DH: Die Ergebnisse werden mit Quellenangaben unterlegt. Die Auswahl von Standardwerken gelingt dem System gut.
 
-![](/infoportal/images/blog/gpt/umfang.png)
+![](/infoportal/images/blog/gpt/umfang.png)\
 Wissensfrage zum Thema Geometrie: Auch die Anwendung von Wissen auf spezifische Fragestellungen gelingt meist gut.
 
-![](/infoportal/images/blog/gpt/geschichte_dh.png)
+![](/infoportal/images/blog/gpt/geschichte_dh.png)\
 Übersicht zur Geschichte der DH: Gelerntes in verschiedenen Textformen wiedergeben und beispielsweise als Übersicht zusammenstellen, führt oft zu durchaus zufriedenstellenden Ergebnissen. Die Resultate können sich zwischen mehreren identischen Anfragen teils stärker unterscheiden, mitunter werden andere Aspekte als zentral eingestuft.
 
-![](/infoportal/images/blog/gpt/gedicht.png)
+![](/infoportal/images/blog/gpt/gedicht.png)\
 Gedicht über DH: Eine Einschätzung der Qualität liegt uns fern.
 
-![](/infoportal/images/blog/gpt/gliederung.png)
+![](/infoportal/images/blog/gpt/gliederung.png)\
 Gliederung zu vorgegebenen Texten: Texte zu gliedern ist eine der Aufgaben, die das System nach Eigenangabe beherrscht. Häufig, aber nicht immer, sind die Ergebnisse sinnvoll und nachvollziehbar.
 
-![](/infoportal/images/blog/gpt/zusammenfassung.png)
+![](/infoportal/images/blog/gpt/zusammenfassung.png)\
 Zusammenfassen eines vorgegebenen Dokuments: Derartige Aufgaben gelingen dem System in der Regel gut. Es ist auch möglich mehr als ein Dokument als Eingabe für solche und andere Aufgabe anzugeben.
 
