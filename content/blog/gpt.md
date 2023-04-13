@@ -7,7 +7,7 @@ description="Dieser Beitrag bietet eine kurze Einführung in die GPT-Sprachmodel
 
 # ChatGPT: Eine Einführung
 
-ChatGPT, GPT-3, GPT-4, OpenAi, Bing AI: Diese Begriffe geistern nun seit ein paar Monaten durch die Medien. In diesem Zusammenhang wird oft von einer Revolution im Zusammenhang mit künstlicher Intelligenz gesprochen - der Hype ist also in vollem Gange.
+ChatGPT, GPT-3, GPT-4, OpenAI, Bing AI: Diese Begriffe geistern nun seit ein paar Monaten durch die Medien. In diesem Zusammenhang wird oft von einer Revolution im Zusammenhang mit künstlicher Intelligenz gesprochen - der Hype ist also in vollem Gange.
 
 Dieser Beitrag soll einen kurzen Einblick in die sich ergebende Thematik geben und ein paar wichtige Aspekte ansprechen. Außerdem soll er Hemmungen abbauen und somit helfen, die aktuellen Entwicklungen besser einschätzen und nutzen zu können.
 Der Beitrag erhebt dabei keinen Anspruch auf Vollständigkeit. Bei weiterem Informationsbedarf oder -wunsch: Bitte melden! Derartige Themen bieten sich auch für einen kleinen Workshop an.
@@ -22,11 +22,11 @@ Das System kann auf Textanfragen reagieren und natürlichsprachliche Antworten g
 
 ## Welche Anwendungsmöglichkeiten hat ChatGPT?
 
-Generell ist ChatGPT ein System, um einen Sprachdialog zu führen. Es verwendet also sein Sprachmodell um Antworten auf konkrete Nutzeranfragen zu formulieren. Dabei beantwortet es Fragen von Nutzenden oder führt auch auch Anweisungen aus.
-ChatGPT beherrscht dabei nicht nur die englische Sprache sondern kann in einer Vielzahl von Sprachen genutzt werden. Da das Modell auf Texten aus dem Internet trainiert wurde, beherrscht es Sprachen insbesondere dann gut, wenn diese in großem Umfang im Netz Verwendung finden, was beispielsweise auf Deutsch zutrifft.
+Generell ist ChatGPT ein System, um einen Sprachdialog zu führen. Es verwendet also sein Sprachmodell, um Antworten auf konkrete Nutzeranfragen zu formulieren. Dabei beantwortet es Fragen von Nutzenden oder führt auch auch Anweisungen aus.
+ChatGPT beherrscht dabei nicht nur die englische Sprache, sondern kann in einer Vielzahl von Sprachen genutzt werden. Da das Modell auf Texten aus dem Internet trainiert wurde, beherrscht es Sprachen insbesondere dann gut, wenn diese in großem Umfang im Netz Verwendung finden, was beispielsweise auf Deutsch zutrifft.
 
 ChatGPT beherrscht "natürlich" das Beantworten von Wissensfragen.
-Spannend wird es aber erst, wenn es komplexe Sachverhalte darstellen oder interpretieren soll bzw. auch darüber hinaus kreativ tätig werden soll.
+Spannend wird es aber erst, wenn es komplexe Sachverhalte darstellen oder interpretieren bzw. auch darüber hinaus kreativ tätig werden soll.
 Dabei kann sich das System auf seine interne Wissensbasis beziehen, also auf die beim Trainieren des Modells verarbeiteten Texte. Allerdings kann man ChatGPT auch weitere Dokumente/Texte einbeziehen lassen, z.B. durch Linkangabe zu einem oder mehreren PDFs oder HTML-Dokumenten.
 
 ChatGPT ist dann in der Lage:
@@ -51,7 +51,7 @@ Diese Angaben des Systems über sich möchten wir so im Raum stehen lassen und e
 
 Entwickelt von OpenAI war ChatGPT zunächst ein vergleichsweise offenes System. Dies hatte Vorteile bezüglich der Transparenz des Systems an sich und seiner Ergebnisse. Besonders im Falle wissenschaftlicher Anwendung kann dies von großem Vorteil sein.
 
-Leider hat sich diese Offenheit mittlerweile ins Gegenteil verkehrt - unter anderem durch Investitionen in Milliardenhöhe durch Microsoft und Elon Musk. OpenAi arbeitet nun in erster Linie gewinnorientiert und hält beispielsweise die neueste Fassung des Modells (GPT-4) sowie einige Informationen über dessen Generierung unter Verschluss.
+Leider hat sich diese Offenheit mittlerweile ins Gegenteil verkehrt - unter anderem durch Investitionen in Milliardenhöhe durch Microsoft und Elon Musk. OpenAI arbeitet nun in erster Linie gewinnorientiert und hält beispielsweise die neueste Fassung des Modells (GPT-4) sowie einige Informationen über dessen Generierung unter Verschluss. Und auch die Anwendung der Systeme ist nicht mehr in jedem Fall kostenlos. So verschwindet ChatGPT - je nach Anbieter und Produkt - teilweise hinter Bezahlschranken. Dank Microsofts Bestreben, Google im Suchmaschinen- und Browserwettstreit Marktanteile abzuringen, eröffnen sich jedoch aktuell weiterhin ausreichende kostenfreie Möglichkeiten.
 
 
 ## Wie steht es um die Qualität und Korrektheit der Ergebnisse?
@@ -60,7 +60,7 @@ Angesichts der Ergebnisse, die derartige Chatbots noch vor wenigen Monaten liefe
 
 Nicht nur die generelle Qualität, auch die (inhaltliche) Korrektheit der Ergebnisse ist in der Regel zumindest überraschend gut. Jedoch kann es selbst bei einfachen Wissensfragen Ausreißer nach unten geben. Blind sollte man sich auf die automatisch erzeugten Ergebnisse nie verlassen. Teilweise ermöglichen die Anbieter auch eine Konfiguration ihrer Systeme, um beispielsweise die Kreativität oder aber die Korrektheit der Ergebnisse zu präferieren, so auch Bing AI (siehe "Wo kann ich ChatGPT nutzen?"). Eine hohe Korrektheit wird beispielsweise durch Beschränkung auf vergleichsweise vertrauenswürdige Quellen erreicht.
 
-Insgesamt gilt: Am besten ist es, sich für die eigenen möglichen Anwendungsfälle selbst ein Bild der Lage zu machen. Derzeit ist durch große Finanzspritzen in OpenAI oder die Aktivitäten von Wettbewerbern wie google noch viel Bewegung im Feld, so dass es in jedem Fall lohnt, die Lage weiter zu beobachten - auch wenn die Systeme derzeit vielleicht noch nicht alles, was für Sie von Interesse ist, zufriedenstellend erledigen.
+Insgesamt gilt: Am besten ist es, sich für die eigenen möglichen Anwendungsfälle selbst ein Bild der Lage zu machen. Derzeit ist durch große Finanzspritzen in OpenAI oder die Aktivitäten von Wettbewerbern wie Google noch viel Bewegung im Feld, so dass es in jedem Fall lohnt, die Lage weiter zu beobachten - auch wenn die Systeme derzeit vielleicht noch nicht alles, was für Sie von Interesse sein kann, zufriedenstellend erledigen.
 
 ## Wie steht es um meine Privatsphäre und wie sehen die Nutzungsbedingungen aus?
 
@@ -84,7 +84,7 @@ Monetarisierungsabsichten stehen hier kundenfreundlicheren Nutzungsbedingungen l
 * Bing App: [Android](https://play.google.com/store/apps/details?id=com.microsoft.bing&hl=de), [IOS](https://apps.apple.com/de/app/bing-ihr-ki-co-pilot-im-web/id345323231)
 * [Edge Browser](https://www.microsoft.com/de-de/edge): Linux, Windows, Mac
 * kostenlos
-* Neuestes GPT Modell (mit Anpassungen)
+* Neuestes GPT-Modell (mit Anpassungen)
 * Aktuell vermutlich die einfachste Art ein aktuelles System zu testen
 * Vorteil: Liefert zu den Antworten (wenn möglich) auch Quellenangaben mit
 * Vorteil: Konfigurierbar bezüglich kreativer oder eher faktennaher Arbeitsweise
@@ -108,12 +108,12 @@ Alternativ gibt es für Fortgeschrittene und Bastler auch Systeme zum selber Hos
 * Alpaca-Modell basiert auf Metas (Facebook-Firma) Llama-Modell
 * Modifiziert mit Frage-Antwort-Paaren aus GPT-3
 * Dalai erleichtert das Setup des Systems
-* Verschiedene Modellgrößen (Derzeit für 4GB oder 8GB Speicher) vorhanden
+* Verschiedene Modellgrößen (derzeit für 4GB oder 8GB Speicher) vorhanden
 * Docker-compose-Images vorhanden
 
 Einschätzung
 * Derzeit (04/23) durchwachsene Ergebnisse (4GB-Modell)
-* Noch ganz gut in Anwendungsfeldern wie Zusammenfassungen, Fragen Beantworten, aber nicht sehr konstant
+* Noch ausreichend gut in Anwendungsfeldern wie Zusammenfassungen und Fragen beantworten, aber nicht sehr konstant
 * Schlechtere Ergebnisse bei kreativeren Aufgaben
 * Zufriedenstellende Ergebnisse nur für die englische Sprache
 
@@ -139,5 +139,5 @@ Gedicht über DH: Eine Einschätzung der Qualität liegt uns fern.
 Gliederung zu vorgegebenen Texten: Texte zu gliedern ist eine der Aufgaben, die das System nach Eigenangabe beherrscht. Häufig, aber nicht immer, sind die Ergebnisse sinnvoll und nachvollziehbar.
 
 ![](/infoportal/images/blog/gpt/zusammenfassung.png)\
-Zusammenfassen eines vorgegebenen Dokuments: Derartige Aufgaben gelingen dem System in der Regel gut. Es ist auch möglich mehr als ein Dokument als Eingabe für solche und andere Aufgabe anzugeben.
+Zusammenfassen eines vorgegebenen Dokuments: Derartige Aufgaben gelingen dem System in der Regel gut. Es ist auch möglich, mehr als ein Dokument als Eingabe für solche und andere Aufgaben anzugeben.
 
