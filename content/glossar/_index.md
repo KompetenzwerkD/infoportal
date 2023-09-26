@@ -16,9 +16,16 @@ show_in_topics = true
 
 Allea ist der Zusammenschluss aller europäischen Akademien der Wissenschaften. Das Gremium wird von der EU unterstützt und ist derzeit stark deutsch/österreichisch dominiert.
 
+###### Angular
+
+ist ein TypeScript-basiertes Single-Page Front-End-Webapplikationsframework, welches unter einer Open Source-Lizenz steht.
+
 ###### Anonymisierung
 
 Veränderung von personen- oder sachbezogenen Daten, so dass Angaben dazu gar nicht oder nur durch unverhältnismäßigen Aufwand einer Person oder Sache zugeordnet werden können. Wichtiger Aspekt des [Datenschutzes](#datenschutz), ist Teil der guten wissenschaftlichen Praxis z. B. bei Interviews mit Zeitzeugen. Siehe auch [Pseudonymisierung](#pseudonymisierung).
+
+###### Apache Solr
+Solr ist eine Implementierung eines Suchservers basierend auf der Apache Lucene Programmbibliothek zur Volltextsuche.
 
 ###### API
 
@@ -71,6 +78,10 @@ Eine gemeinsame Zertifizierung für vertrauenswürdige [Forschungsdatenrepositor
 ###### [Creative Commons](https://creativecommons.org/)
 
 Gemeinnützige Organisation, die Standard-[Lizenzverträge](#lizenz) veröffentlicht, mittels derer man Nutzungsrechte für seine Werke einräumen kann. Diese Lizenzen sind für beliebige Werke anwendbar, welche unter das Urheberrecht fallen (Texte, Bilder, Filme, ...).
+
+###### DAM
+
+[Digital-Asset-Management]  Digital-Asset-Management-Systeme sind Softwarelösungen zur Ablage und Verwaltung von digitalen Inhalten insbesondere von Mediendateien wie Bildern, Videos, Audiodateien oder Texten.
 
 ###### [DARIAH-DE](https://de.dariah.eu)
 
