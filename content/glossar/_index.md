@@ -12,6 +12,10 @@ show_in_topics = true
 
 # Glossar
 
+###### AIP
+
+[Archival Information Package] mit Metadaten ergänzte digitale Objekte, zur langfristigen Ablage in Archiven. AIP ist ein Bestandteil des [Open Archival Information Systems Reference Model](#oais).
+
 ###### [Allea](https://allea.org/)
 
 Allea ist der Zusammenschluss aller europäischen Akademien der Wissenschaften. Das Gremium wird von der EU unterstützt und ist derzeit stark deutsch/österreichisch dominiert.
