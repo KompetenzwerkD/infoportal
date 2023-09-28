@@ -1,11 +1,11 @@
 +++
-title = "Digitale Daten speichern und verwalten in einem Digital-Asset-Management"
+title = "Digitale Daten speichern und verwalten in einem Digital-Asset-Management-System"
 date = 2023-09-26
 template = "blog_post.html"
 description="In den letzten Monaten gab es bezüglich des möglichen Einsatzes von Digital-Asset-Management-Lösungen (DAM) Anfragen von zwei Partnern, die uns dazu bewegt haben, uns damit auseinanderzusetzen. Die gewonnenen Erkenntnisse wollen wir auf diesem Wege teilen."
 +++
 
-# Digitale Daten speichern und verwalten in einem Digital-Asset-Management – Übersicht und Möglichkeiten des Eigenbetriebs
+# Digitale Daten speichern und verwalten in einem Digital-Asset-Management-System – Übersicht und Möglichkeiten des Eigenbetriebs
 
 In den letzten Monaten gab es bezüglich des möglichen Einsatzes von Digital-Asset-Management-Lösungen (DAM) Anfragen von zwei Partnern, die uns dazu bewegt haben, uns damit auseinanderzusetzen. Die gewonnenen Erkenntnisse wollen wir auf diesem Wege teilen.
 
