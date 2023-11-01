@@ -109,7 +109,8 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Fachdisziplinen: Archäologie, Anthropologie, Architekturgeschichte, Ethnoarchäologie, Geoarchäologie, Paläobotanik, Archäozoologie, Archäogenetik, Paläopathologie, Geophysik und Archäometrie
 * Möglichkeiten der Teilhabe:
   * [Openscience-Projekt zur aktiven Mitarbeit](https://osf.io/4t29e/)
-  * Einrichtung von Mitgliederforum und offenem Mitgliederforum geplant (zum Austausch mit den “Nutzenden”)
+  * [Einstiegsseite zur Teilhabe](https://www.nfdi4objects.net/index.php/teilnehmen)
+  * [Community Meeting 2023](https://www.nfdi4objects.net/index.php/en/get-informed/community-meeting-and-general-assembly)
 
 ## Beantragte bzw. zu beantragende Initiativen
 
