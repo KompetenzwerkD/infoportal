@@ -26,7 +26,9 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Hauptantragssteller: Akademie der Wissenschaften und der Literatur, Mainz
 * Schwerpunkt: Materielles und immaterielles kulturelles Erbe
 * Fachdisziplinen: Kulturwissenschaften, Musikwissenschaft, Kunstgeschichte, Architektur, Theater-, Film- und Medienwissenschaft
-* Möglichkeiten der Teilhabe: Second Culture Community Plenary, 17.-19. November 2021 in Mainz, siehe [NFDI4Culture-Webseite](https://nfdi4culture.de/news-events/events.html?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=38&cHash=1513d96cce4f868f3755aaaae6713882)
+* Möglichkeiten der Teilhabe:
+  * [Übersicht Veranstaltungen](https://nfdi4culture.de/de/veranstaltungen.html)
+  * [Partizipation und Kollaboration](https://nfdi4culture.de/de/dienste.html#c860)
 
 <br />
 
@@ -51,7 +53,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Schwerpunkt: Text- und Sprachdaten (digitale Sammlungen, lexikalische Ressourcen einschl. Wörterbücher und Editionen)
 * Fachdisziplinen: Sprach-, Literatur-, Kultur- und die Geschichtswissenschaften, Philosophie und sprach- und textbasierte Forschung in den Sozial- und Politikwissenschaften
 * Möglichkeiten der Teilhabe:
-  * Running Call zu Angeboten von [Forschungsdaten](https://www.text-plus.org/forschungsdaten/daten-aus-der-community/) - Ende August 2020 bereits ungefähr 150 Angebote eingegangen
+  * Running Call zu Angeboten von [Forschungsdaten](https://www.text-plus.org/forschungsdaten/daten-aus-der-community/) - Seit Ende August 2020, bereits ungefähr 150 Angebote eingegangen
   * Abgeschlossen: [Call for User Stories](https://www.text-plus.org/forschungsdaten/user-stories/) (Deadline 16.08.2020) - Ergebnis: Mehr als 120 User Stories sind eingegangen
   * Bisher veröffentlichte Stories mit Bezug zum Kompetenzwerk, der SAW oder uns Dreien:
     * [Dialect dictionaries](https://www.text-plus.org/en/research-data/user-story-512/)
