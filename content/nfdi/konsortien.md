@@ -76,13 +76,13 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Schwerpunkt: Unstrukturierte Daten
 * Fachdisziplinen: Sozialwissenschaften, Wirtschaftswissenschaften, Politikwissenschaften, Psychologie
 * Möglichkeiten der Teilhabe: Derzeit unklar. Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert.
-
-## Beantragte bzw. zu beantragende Initiativen
+  
+<br />
 
 ### NFDI4Memory
 * Webauftritt: [Link](https://4memory.de/)
 * Kontakt: Prof. Dr. Johannes Paulmann 4memory@ieg-mainz.de
-* Stand: Erneute Antragstellung läuft, Abgabe 2021 geplant
+* Stand: NFDI4Memory wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der zweiten Runde (Antrag 2021, Förderzusage 2022) des NFDI-Aufbaus zur Förderung ausgewählt.
 * Letter of Intent: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2020_ndfi_4memory.pdf)
 * Beteiligte Netzwerkpartner: ISGV (Problem Stories), SLUB (Antragstellung)
 * Hauptantragssteller: Leibniz Institut für Europäische Geschichte Mainz (IEG)
@@ -101,7 +101,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
   * Prof. Dr. Philipp von Rummel philipp.von.rummel@berliner-antike-kolleg.org
   * Prof. Dr. Alexandra Busch generaldirektorin@rgzm.de
   * Prof. Dr. Kai-Christian Bruhn kai-christian.bruhn@hs-mainz.de
-* Stand: Antragstellung läuft, Abgabe 2021 geplant
+* Stand: NFDI4Objects wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der zweiten Runde (Antrag 2021, Förderzusage 2022) des NFDI-Aufbaus zur Förderung ausgewählt.
 * Letter of Intent: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2020_ndfi_4objects.pdf)
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: Deutsches Archäologisches Institut
@@ -111,12 +111,12 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
   * [Openscience-Projekt zur aktiven Mitarbeit](https://osf.io/4t29e/)
   * Einrichtung von Mitgliederforum und offenem Mitgliederforum geplant (zum Austausch mit den “Nutzenden”)
 
-<br />
+## Beantragte bzw. zu beantragende Initiativen
 
 ### NFDI4TheoReS
 * Webauftritt: [Link](https://www.theores.de/)
 * Kontakt: Prof. Dr. Hans-Peter Grosshans grosshans@uni-muenster.de
-* Stand: Antragstellung 2021 geplant
+* Stand: Antragstellung 2021
 * Unverbindliche Voranmeldung: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2021_nfdi_theores.pdf)
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: Evangelisch-Theologische Fakultät der Westfälischen Wilhelms Universität Münster
@@ -138,15 +138,3 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Schwerpunkt: vielschichtig, u.a. kollaboratives Arbeiten, Kommunikation
 * Fachdisziplinen: Sozial- und Verhaltenswissenschaften, Mathematik, Bauwesen, Ingenieurwesen und Architektur
 * Möglichkeiten der Teilhabe: Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert.
-
-<br />
-
-### NFDI4Language (für Künstliche Intelligenz und historische und linguistische Fächer)
-* Webauftritt: bisher nicht vorhanden
-* Kontakt: Dr. Georg Rehm georg.rehm@dfki.de
-* Stand: Antragstellung 2021 geplant, nach außen auffällig inaktiv
-* Beteiligte Netzwerkpartner: -
-* Hauptantragssteller: Deutsches Forschungszentrum für Künstliche Intelligenz GmbH, DFKI, Kaiserslautern
-* Schwerpunkt: AI services for Natural Language Research Data
-* Fachdisziplinen: Informatik, Antike Kulturen, Geschichte, Kunstgeschichte, Linguistik, Literaturwissenschaft, Anthropologie/Volkskunde, Außereuropäische Kulturen, Judaistik, Religionswissenschaften
-Möglichkeiten der Teilhabe: Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert.
