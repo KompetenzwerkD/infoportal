@@ -12,8 +12,6 @@
 
     <body>
  
-
-
         <nav>
 
           <div class="logo">
@@ -38,9 +36,21 @@
             <a href="/infoportal/impressum">Impressum</a> | 
             <a href="/infoportal/search">Suche</a>    
           </div>
+
         {% block nav %}
-          
-            {{ macro::tree() }}
+
+        <div id="bger">
+          <ul class="bger">
+          {% for subsection in section.subsections  %}
+              {% set subsection_item = get_section(path=subsection) %}  
+              {% if subsection_item.extra.show_in_topics %}
+                  <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAABAElEQVRYhWNgGAWjYGABIwMDA4N7x/H/xGpgZWbq21JqXkw7J6ECFhgjP8ScoOLvP38zrNp/Ld275yTj1hLzIpq6DAqYSFHMyc7KEOaoxc3DwZbm3XOyj1aOQgbwKCYmBGHg/advDGsOXf/77ccfZpq5jIGBYWeFJSMLYWWo4PaTtwyHLjxkMFISYg6zkmdgYyEpEogGGTNOMjAwIKXBiWtOEqVRXICTIdtTjUFRnIcmDkMHcAfOyCA+iukJaBM/VASjDqQUjDqQUjDqQErBqAMpBaMOpBSMOpBSMOpASsGoAykFow6kFIw6kFIw6kBKwaB3ILzjDhtqGAWjYBSgAgAXxS82HNeMiAAAAABJRU5ErkJggg==" width="20px" />&nbsp;<a href="{{ subsection_item.permalink | safe }}">{{ subsection_item.title  }}</a></li>
+              {% endif %}    
+          {% endfor %}
+          </ul>
+          <br />
+      </div>
+
         {% endblock nav %}
         
         </nav>

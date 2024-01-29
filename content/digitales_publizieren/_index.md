@@ -1,6 +1,6 @@
 +++
 title = "Digitales Publizieren und Ausstellungen"
-weight = 3
+weight = 4
 sort_by = "weight"
 description = "Description"
 insert_anchor_links = "right"

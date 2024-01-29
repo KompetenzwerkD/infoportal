@@ -1,6 +1,6 @@
 +++
 title = "Glossar"
-weight = 4
+weight = 5
 sort_by = "weight"
 description = "Description"
 insert_anchor_links = "right"
