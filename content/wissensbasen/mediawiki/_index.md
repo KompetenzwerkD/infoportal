@@ -44,4 +44,4 @@ Nachteile:
 ## Beispiele für die Nutzung des MediaWikis
 - [Wien Geschichte Wiki](https://www.geschichtewiki.wien.gv.at/Wien_Geschichte_Wiki)... ein Wiki über die Stadtgeschichte Wiens.
 - [Opera Camararii](http://camerarius.uni-wuerzburg.de/camerarius/index.php/)... ein Wiki zur digitalen Erfassung des griechisch-lateinischen Gesamtwerkes des Camerarius d. Ä.
-- [Thespis.Digital](https://thespis.digital/db/index.php?title=Hauptseite)... ein Wiki zu deutschsprachigem Berufstheater des 17. und 18. Jahrhunderts, das als digitales Archiv dient.
+- [Thespis.Digital](https://thespis.digital/db/index.php?title=Hauptseite)... ein Wiki zum deutschsprachigen Berufstheater des 17. und 18. Jahrhunderts, das als digitales Archiv dient.
