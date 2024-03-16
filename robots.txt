@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://kompetenzwerkd.github.io/infoportal/sitemap.xml
