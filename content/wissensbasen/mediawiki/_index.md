@@ -33,7 +33,7 @@ Vorteile:
 
 Nachteile:
 - Mehrsprachigkeit führt zu Problemen, wenn keine übergeordnete Sprache vorhanden sein soll.
-- Spezifische Symbole müssen durch andere ersetzt werden oder als Bild (Icon) eingefügt werden. Betrifft vor allem den senkrechten Strich sowie eckige Klammern.
+- Spezifische Symbole müssen durch andere ersetzt werden oder als Bild (Icon) eingefügt werden. Dies betrifft vor allem den senkrechten Strich sowie eckige Klammern.
 - Große Veränderungen des Datenmodells nach der Einspeisung von Daten kann zu erheblichen Problemen in der Korrektur führen. Ähnliches gilt für Tippfehler in der Überschrift bei der Dateneinspeisung sowie Überschriftenänderungen.
 
 ## Weitere Vernetzung
