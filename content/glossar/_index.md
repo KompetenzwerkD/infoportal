@@ -433,6 +433,10 @@ Programmiersprache, welche sich über durch ihre einfache, gut lesbare Syntax au
 
 [Resource Description Framework] vom World Wide Web Consortium (W3C) entwickelter Standard, der die Formulierung logischer Aussagen über beliebige Entitäten (Ressourcen) ermöglicht. Einzelne Aussagen bestehen stets aus den drei Einheiten Subjekt, Prädikat und Objekt. RDF ist ein grundlegender Baustein des Semantic Web.
 
+###### Reconciliation
+
+Bei Reconciliation handelt es sich um einen Prozess zum Vergleichen und Abgleichen von Daten. Dabei geht es beispielsweise darum, Diskrepanzen oder Inkonsistenzen zwischen Datensätzen zu identifizieren und Maßnahmen zu deren Behebung zu ergreifen. Eine typische Anwendung ist der Abgleich mit [Normdaten](#normdaten), mit dem Ziel der Übernahme von [PIDs](#persistent-identifier) und weiteren Merkmalen in die eigene Datenbasis.
+
 ###### Repositorium
 
 Repositorien sind Einrichtungen, welche verschiedene Arten digitaler Objekte speichern und verwalten und wenn gewünscht Zugriff darauf bieten. Handelt es sich bei diesen Objekten um [Forschungsdaten](#forschungsdaten), so spricht man von einem Forschungsdatenrepositorium. Das dortige Ablegen von Forschungsdaten ist in der Regel Teil der Nachhaltigkeitsbestrebungen des [Datenmanagementplans](#datenmanagementplan) von Forschungsprojekten und dient der Zugänglichmachung, dem Publizieren und teilweise der [Archivierung](#archivierung) der Daten. Durch Ablegen der Daten zusammen mit [Metadaten](#metadaten) kann seitens des Repositoriums eine Durchsuchbarkeit gewährleistet werden. Die Vergabe eines dauerhaften Identifikators ([Persistent Identifier](#persistent-identifier)) durch das Repositorium ermöglicht zusätzlich die langfristige Zitierbarkeit. Repositorien weisen in der Regel die Einhaltung gewisser Qualitätsstandards durch erfolgreiche Zertifizierungen nach (z.B. Core Trust Seal oder Nestor).
