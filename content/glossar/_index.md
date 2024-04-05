@@ -47,6 +47,9 @@ Sicherungskopie von Daten, beispielsweise derer, die aktuell in einem Forschungs
 
 Bundesministerium für Bildung und Forschung
 
+###### CIDOC-CRM
+Normierte (ISO 21127:2023) und erweiterbare Ontologie zur Speicherung und zum Austausch von Informationen im Bereich des Kulturerbes.
+
 ###### CIS
 
 [Contact Image Sensor] Technologie für Bildsensoren beim Scanvorgang.
