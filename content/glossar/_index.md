@@ -480,6 +480,10 @@ Technologien, die Daten durch Maschinenlesbarkeit besser austauschbar und verwer
 
 Serbski institut / Sorbisches Institut
 
+###### SKOS
+
+[Simple Knowledge Organization System] ist ein gemeinsames Datenmodell zum Teilen und Verknüpfen von Wissensorganisationssystemen, insbesondere sogenannten Vokabularen.
+
 ###### [SLUB](https://www.slub-dresden.de)
 
 Sächsische Landesbibliothek – Staats- und Universitätsbibliothek
