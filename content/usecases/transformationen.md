@@ -71,7 +71,7 @@ Dabei versprachen sich die Forschenden folgende Vorteile von dieser Lösung:
 - TODO!?!?
 
 Zum Erreichen dieses Ziels bedurfte es zunächst eines Systems zur verteilten systematischen Erfassung von (Meta-)Daten. Eine Eigenentwicklung kam aufgrund des zu erwartenden Umfangs nicht infrage. Folglich wurde die Entscheidung getroffen, ein bestehendes, breit einsetzbares System zur Wissenserfassung entsprechend der Anforderungen des Projekts anzupassen.
-Eine grundlegende Analyse der Möglichkeiten, Vor- und Nachteile verschiedener Systeme wurde vorgenommen und ist hier zu finden: https://kompetenzwerkd.github.io/infoportal/wissensbasen/
+Eine grundlegende Analyse der Möglichkeiten, Vor- und Nachteile verschiedener Systeme wurde vorgenommen und ist hier zu finden: https://kompetenzwerkd.github.io/wissensbasen/
 Auf dieser Basis haben wir uns dafür entschieden, in diesem Fall ein Mediawiki https://www.mediawiki.org mit der Semantic Mediawiki-Erweiterung https://www.semantic-mediawiki.org/ (SMW) einzusetzen: 
 Gründe dafür waren unter anderem:
 - es handelt sich um vollständig offene Software

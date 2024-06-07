@@ -13,7 +13,7 @@ Für die Neugierigen/If you're curious:
 
 ## Das Museum im Internet: Motivationen
 
-In den letzten Wochen habe ich mich intensiv mit ["DDBstudio"](https://pro.deutsche-digitale-bibliothek.de/ddbstudio) beschäftigt, einem Service der [Deutschen Digitalen Bibliothek (DDB)](https://pro.deutsche-digitale-bibliothek.de/), mit der man im Browser digitale Ausstellung erstellen kann. Nein, nicht wegen Corona, sondern weil es im Interesse der [sechs Institutionen](https://kompetenzwerkd.github.io/infoportal/) liegt, die wir im KompetenzwerkD betreuen.
+In den letzten Wochen habe ich mich intensiv mit ["DDBstudio"](https://pro.deutsche-digitale-bibliothek.de/ddbstudio) beschäftigt, einem Service der [Deutschen Digitalen Bibliothek (DDB)](https://pro.deutsche-digitale-bibliothek.de/), mit der man im Browser digitale Ausstellung erstellen kann. Nein, nicht wegen Corona, sondern weil es im Interesse der [sechs Institutionen](https://kompetenzwerkd.github.io/) liegt, die wir im KompetenzwerkD betreuen.
 DDBstudio basiert auf dem bekannten Open-Source-Tool ["Omeka"](https://omeka.org/), dass die Deutsche Digitale Bibliothek für ihre Zwecke angepasst hat, um Digitalisate aus ihrer eigenen Kollektion für digitale Ausstellungen bereitzustellen. Objekte, die man zeigen möchte, können im Nachhinein auch der DDB hinzugefügt werden. Als Thema habe ich mir den [Stein von Rosette](https://www.britishmuseum.org/collection/object/Y_EA24) ausgesucht, weil ich  dazu im Kooperation ein [Forschungsprojekt](http://rosetta-stone.dh.uni-leipzig.de/rs/) leite und über vielfältige Daten dazu verfüge. Denn eine Motivation meines Tests war es, so viel verschiedene Dateiformate wie möglich auszuprobieren. [Hier kann das fertige Ergebnis angeschaut werden](https://ausstellungen.deutsche-digitale-bibliothek.de/stein-von-rosette/). [An English version is available here](https://ausstellungen.deutsche-digitale-bibliothek.de/rosetta-stone/).
 
 In DDBstudio sind die Templates weitestgehend vorgegeben und man kann beispielsweise nach der Festlegung auf ein bestimmtes Farbschema keine Änderungen bei Hintergrundfarben, generell bei Schriftart/Schriftgrößen, Textbreite, Abstand zwischen Text und Bild usw. tätigen. Es gibt insgesamt neun Templates, auf denen man Text, Text mit Bild, nur Bilder, eine Bildergalerie, Textzitate oder Video-, Audio- und 3D-Dateien seinen virtuellen Museumsgästen zeigen kann. Wem das zu wenig ist, der muss selbst ein Omeka-System (oder ein vergleichbares System) aufsetzen und anpassen. Allerdings involviert dies auch Hosting, Publikation, ggf. Modifikationen - und das erfordert Programmier- und Hardwareaufwand - ein Thema für einen zukünftigen Testbericht.
@@ -24,20 +24,20 @@ Zugang zu DDBstudio erhält auf Anfrage bei Lidia Westermann von der Deutschen D
 Bei meiner Ausstellung habe ich mich so vorbereitet, dass ich mir vorher alle Ausstellungen aus DDBstudio angeschaut habe. Da haben sich ein paar Sachen ergeben, die mir persönlich sehr gut gefallen haben, die ich anwenden wollte oder andere Sachen, die für mein Thema weniger geeignet waren. Eine Sache, die ich unbedingt machen wollte, ist die direkte Ansprache der Gäste - ein wenig nach Art eines Audioguides. Das liegt auch daran, dass das Anliegen dieser Ausstellung ein zweifaches war: nämlich, die Software auszuprobieren und Informationen über den Stein von Rosette zu vermitteln. Daher gibt es in meiner Ausführung auch die direkte Ansprache der Gäste, auch während der Ausstellung oder an den Stellen, an denen ich mit Cartoons zum Schmunzeln anzuregen versuche. Ähnlich wie in einer physischen Ausstellung muss die Wegführung korrekt sein. Deshalb habe ich meine Ausstellung in mehrere Teile unterteilt und visualisiere dies durch unterschiedliche Hintergrundfarben.
 Es gibt keine Beschränkungen zur Anzahl von Objekten oder Ausstellungsseiten.
 
-> ![](/infoportal/images/blog/ddbstudio/4.jpeg)
+> ![](/images/blog/ddbstudio/4.jpeg)
 > Screenshot aus der Objektliste
 
 Zur Vorbereitung habe ich mir, um mir die Arbeit zu erleichtern, zuerst in einem Ordner auf meinem Computer eine Objektauswahl zusammengestellt und die Dateien eindeutig benannt. Dann habe ich diese in DDBstudio hochgeladen. Es gibt einen Bereich für die Objekte (Liste und Detailansicht pro Objekt). Es ist wichtig, die Dateien mit aussagekräftigen Metadaten zu versehen. Manche Angaben sind Pflicht wie ein Objekttitel, Angaben zur besitzenden Institution, eine Kurzbeschreibung und natürlich Angaben zum Copyright. Denn auch als digitale/r Kurator/in muss man die Rechte für seine Objekte natürlich eingeholt haben und korrekt kennzeichnen. Hier zeigt sich wieder einmal: Arbeit in den Digital Humanities zwingt zu konkreten Angaben- und das geht oft über die Daten auf einem physischen Museumslabel in einer Vitrine hinaus. Denn je mehr man an Metadaten einträgt, umso mehr wird dem Gast auch bei Klick auf Detailansichten in der Ausstellung gezeigt. Hier der Blick auf eine [Objektseite][https://ausstellungen-red.deutsche-digitale-bibliothek.de/stein-von-rosette/items/show/1] (darunter wird noch das jeweilige Objektbild angezeigt).
 
-> ![](/infoportal/images/blog/ddbstudio/3.jpeg)
+> ![](/images/blog/ddbstudio/3.jpeg)
 > Screenshot einer Objektseite
 
 Es ist natürlich möglich, sehr viele Angaben in den Metadaten unterzubringen, die dann auch den interessierten Besucherinnen gezeigt werden können. Man sollte sich dabei an die Verschlagwortung nach dem Metadaten-Schema ["Dublin Core"][https://dublincore.org/] halten. Allerdings sind alles Freitextfelder; es gibt keine Klickfelder oder ähnliche vorgegebene Menüs, um z. B. [GND-Daten][https://lobid.org/gnd] einzupflegen. 
 
 Als nächstes habe ich mir überlegt, wie ich meine digitale Ausstellung aufbauen will. Da DDBstudio den ganzen Computerbildschirm einnimmt und beim Scrollen automatisch einrastet, habe ich mir in einem Präsentationsprogramm für alle meine Ideen Folien erstellt. Am Anfang bin ich davon ausgegangen, dass die Bildschirmdarstellung auf unterschiedlichen Geräten in etwa gleich sein wird. Allerdings ergab der Test auf mehreren Computern und Smartphones, dass die Darstellung der Schriftgrößen sehr stark voneinander abweicht: So waren Überschriften oftmals abgeschnitten und Silben nicht korrekt getrennt oder Texte, die auf einem Gerät komplett auf einer Bildschirmseite zu sehen waren, auf anderen Geräten mit Scrollen verbunden. Die Abweichungen waren zum Teil ziemlich groß. Daher habe ich meinen Plan aufgegeben, die Texte auf den Ausstellungsseiten möglichst ohne Scrollen aufzubauen. Man kann also nicht sagen, dass man in bestimmten Templates erst nach einer Maximalzahl von Zeichen scrollen muss. Und das Scrollen möchte ich gerne für die Gäste vermeiden, weil sie sich ja ohnehin durch Scrollen durch die gesamte Ausstellung bewegen. Aber nicht immer lässt sich das vermeiden, und in manchen Fällen sollen die Besucher ja auch länger als sieben Zeilen Text mit einem Objekt verbringen. 
 
-> ![](/infoportal/images/blog/ddbstudio/2.jpeg)
-> ![](/infoportal/images/blog/ddbstudio/1.jpeg)
+> ![](/images/blog/ddbstudio/2.jpeg)
+> ![](/images/blog/ddbstudio/1.jpeg)
 > Screenshot der Ansicht einer Ausstellungsseite auf Notebook und auf Smartphone
 
 ## Einbindung verschiedener Dateiformate
@@ -90,7 +90,7 @@ Hier ein paar einzelne Tipps & Tricks:
 * Neugier wecken, zum Schmunzeln oder Ausprobieren einer Sache anregen
 * die Besucher nicht über-, aber auch nicht unterfordern - gehen Sie ruhig in die Quellen, erläutern Sie Probleme der Forschung, problematische Provenienzen etc. 
 
-Mehr zum digitalen und analogen Kuratieren finden Sie in unserem [Leitfaden](https://kompetenzwerkd.github.io/infoportal/digitales_publizieren/ausstellungen/).
+Mehr zum digitalen und analogen Kuratieren finden Sie in unserem [Leitfaden](https://kompetenzwerkd.github.io/digitales_publizieren/ausstellungen/).
 
 ## Sneak Preview: Digitale Testgäste
 Vor der veröffentlichung lohnt es sich, die Ausstellung durch Korrekturleser/innen unterschiedlicher Alters- und Gesellschaftsgruppen anschauen zu lassen und Typos, Logikfehler, nicht funktionierende Links etc. auszumerzen. Es lohnt sich auch die Frage: Was fehlt noch, was hast du thematisch vermisst?

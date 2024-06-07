@@ -1,0 +1,11 @@
+stages:
+  - deploy
+
+deploy:
+  image: docker/compose:latest
+  stage: deploy
+  only:
+    - main
+  script:
+    - docker-compose down
+    - docker-compose up --build -d

@@ -7,7 +7,7 @@ insert_anchor_links = "right"
 
 # Wie setze ich mein Projekt mit MediaWiki um?
 
-## Ideen sammeln und [Datenmodelle](https://kompetenzwerkd.github.io/infoportal/glossar/#datenmodell) konzipieren
+## Ideen sammeln und [Datenmodelle](https://kompetenzwerkd.github.io/glossar/#datenmodell) konzipieren
 
 Der erste Schritt besteht darin, Projektideen zu sammeln. An dieser Stelle soll überlegt werden, wie Informationen am Ende geordnet werden sollen. Dies ist ein fundamentaler und somit wichtiger Schritt, wofür genügend Zeit eingeplant werden sollte. Nachträgliche Änderungen dieses Grundgerüsts kann zu Zeitverlust und großem zusätzlichen Zeitaufwand führen.
 
@@ -165,27 +165,27 @@ Für den allgemeinen Aufbau eines MediaWiki unter Benutzung der genannten Zusät
 
 1.) "Category:Numismatische Quellen" in die "Search box" eingeben und erstellen.
 
-![Category erstellen 1](/infoportal/images/smw/Category-1.png)
+![Category erstellen 1](/images/smw/Category-1.png)
 > Abb. 8: Suche nach "Category:Numismatische Quellen" im Wiki.
 
 
-![Category erstellen 2](/infoportal/images/smw/Category-2.png)
+![Category erstellen 2](/images/smw/Category-2.png)
 > Abb. 9: Ergebnislose Suche nach "Category:Numismatische Quellen" mit der Möglichkeit "Category:Numismatische Quellen" neu anzulegen.
 
-![Category erstellen 3](/infoportal/images/smw/Category-3.png)
+![Category erstellen 3](/images/smw/Category-3.png)
 > Abb. 10: Der Erstellprozess der "Category:Numismatische Quellen". Die Seite kann vorerst blank abgespeichert werden.
 
 2.) Auf "Category:Numismatische Quellen" klicken. Auf "Create schema" mittig oben klicken. 
 
-![Schema erstellen 1](/infoportal/images/smw/Category-4.png)
+![Schema erstellen 1](/images/smw/Category-4.png)
 > Abb. 11: "Category:Numismatische Quellen" nach dem erstmaligen Abspeichern.
 
 Ein ausfüllbares Formular erscheint, das nach dem eigenen Datenmodell ausgefüllt werden und gespeichert werden soll. Nach dem obigen Datenmodell könnte die Einstellung etwa so aussehen:
 
-![Schema erstellen 2](/infoportal/images/smw/Category-5.png)
+![Schema erstellen 2](/images/smw/Category-5.png)
 > Abb. 12: Erstellung der "Form" mittles "Schema".
 
-![Schema erstellen 3](/infoportal/images/smw/Category-6.png)
+![Schema erstellen 3](/images/smw/Category-6.png)
 > Abb. 13: Erstellung des "Templates" mittles "Schema".
 
 "Field":
@@ -261,19 +261,19 @@ Ein ausfüllbares Formular erscheint, das nach dem eigenen Datenmodell ausgefül
 
 Nach dem Abspeichern sieht man wieder die "Category:Numismatische Quellen"-Seite, die nun in etwa so aussehen sollte:
 
-![Category nach Schema-Erstellung](/infoportal/images/smw/Category-7.png)
+![Category nach Schema-Erstellung](/images/smw/Category-7.png)
 > Abb. 14: "Category:Numismatische Quellen" nach der Anlegung des "Schemas"
 
 3.) Unter Category:Numismatische Quellen auf "Generate pages" klicken, alle Optionen auswählen und generieren lassen. Die Generierung dauert meist einige wenige Minuten und kann unter "Special:RecentChanges" verfolgt werden.
 
 4a.) Unter "Special pages" -> "Forms" die gewünschte Form auswählen. Auf die in 3.) generierte "Form" klicken. **Eine Überschrift für einen Eintrag in Form einer Page einfügen**. Auf "create or edit" klicken und entsprechende Daten für den Katalogtext, Quelleneintrag, Lexikoneintrag etc. eingeben und speichern.
 
-![Eintrag erstellen a](/infoportal/images/smw/Form-Münze1.png)
+![Eintrag erstellen a](/images/smw/Form-Münze1.png)
 > Abb. 15: Ansicht der "Form:Numismatische Quellen". Mit "Münze1" Wird eine Seite mit demselben Namen erzeugt.
 
 4b.) Unter "Special pages" -> "Forms" die gewünschte Form auswählen. Auf die in 3.) generierte "Form" klicken. **Eine Überschrift für einen Eintrag in Form von "Template:Eintrag" erstellen.** Auf "create or edit" klicken und entsprechende Daten für den Katalogtext, Quelleneintrag, Lexikoneintrag etc. eingeben und speichern. 
 
-![Eintrag erstellen b](/infoportal/images/smw/Form-Template-Münze1.png)
+![Eintrag erstellen b](/images/smw/Form-Template-Münze1.png)
 > Abb. 16: Ansicht der "Form:Numismatische Quellen". Mit "Template:Münze1" Wird ein weiter verlinkbares Template mit demselben Namen erzeugt.
 
 > **⚠ Achtung (*):**  Der Titel, der bei 4a.) und 4b.) eingegeben wird, fungiert zugleich als ID des Eintrags. Da der Eintrag über diesen Titel mit anderen Seiten verbunden ist, kann eine spätere Änderung (besonders nachdem bereits eine Datenvernetzung stattgefunden hat) zu Problemen führen. Diese Probleme kann man nur durch die direkte Korrektur im Code berichtigen, nicht aber im "Schema".
@@ -305,7 +305,7 @@ Der Code hinter der Seite "Auflistung" könnte dann etwa so aussehen:
 ## Auflistungen bestimmter "Properties"
 Unter der Benutzung des Semantic Mediawiki gibt es eine spezielle Seite, die mit der Suchanfrage "Special:Ask" aufgerufen werden kann. Die Funktion "Ask" kann man hier nahezu wörtlich nehmen: Unter Benutzung der speziellen MediaWiki-Sprache kann hier das Wiki befragt werden.
 
-![Special:Ask](/infoportal/images/smw/Special-Ask.png)
+![Special:Ask](/images/smw/Special-Ask.png)
 > Abb. 17: Die Maske der "Special:Ask" Seite.
 
 Unter "Conditions" können bestimmte Konditionen eingegeben werden, die z. B. mit "Categories" oder "Properties" zu tun haben. Unter "Printout section" können diejenigen "Properties" angezeigt werden, die bei der "Ask"-Funktion mitangezeigt werden sollen. In der [offiziellen Anleitung von Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Help:Special:Ask) findet man die entsprechenden Codes sowie Informationen zu weiteren Exportmöglichkeiten, je nach Gebrauch. Die Benutzung dieser "Ask"-Funktion ist davon abhängig, wie zuvor im Datenmodell die einzelnen "Properties" eingestellt wurden. Als Faustregel kann man sich jedoch Folgendes merken: Für die "Conditions" werden doppelte eckige Klammern benutzt, während bei den "Properties" ein Fragezeichen eingesetzt wird.

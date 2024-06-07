@@ -158,6 +158,73 @@ hr {
   border: 0 solid;
 }
 
+.projectHeader {
+  padding: 1em;
+  //background: #d1e9f9;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  font-size:0.9em;
+  color: #333;
+
+  color:white;
+}
+.projectBody {
+  padding: 1em;
+  font-size:1.2em;
+}
+.projectImage {
+  //border-left: 1px solid rgba(143,83,147,1);
+  //border-right: 1px solid rgba(143,83,147,1);
+  margin:0;
+  padding: 0;
+}
+.projectImage img {
+  margin:0;
+  padding: 0;
+}
+.project {
+  float: left;
+  margin-top: 1em;
+  margin-right: 1em;
+  background: rgb(116,113,139);
+  background: linear-gradient(18deg, rgba(116,113,139,1) 0%, rgba(143,83,147,1) 29%, rgba(98,156,168,1) 100%);  
+  width: 47%;
+  border-radius: 10px;
+  padding:0em;
+  font-weight:300;
+  min-height:400px;
+  color:white;
+  box-shadow: 1px 1px 6px #aaa;
+}
+
+.project:hover {
+    background: linear-gradient(18deg, rgba(156,113,139,1) 0%, rgba(183,83,147,1) 29%, rgba(98,156,168,1) 100%);  
+}
+
+@media only screen and (max-width: 1800px) {
+  .project {
+    float: left;
+    width: 600px;
+    min-height: 0px;
+  }
+}
+
+@media only screen and (max-width: 1300px) {
+  .project {
+    float: left;
+    width: 100%;
+    min-height: 0px;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  .project {
+    float: left;
+    width: 600px;
+    min-height: 0px;
+  }
+}
+
 nav {
   width: 43%;
   float: left;

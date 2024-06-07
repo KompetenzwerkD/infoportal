@@ -103,7 +103,7 @@ Anschließend an den Header folgt der Inhalt der jeweiligen Seite. Dabei sollte 
 Einbinden der Grafik in eine Seite:
 
 ```
-![](/infoportal/images/saw-logo.png)
+![](/images/saw-logo.png)
 ```
 
 ### Deployment
