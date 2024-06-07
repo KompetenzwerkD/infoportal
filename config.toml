@@ -1,7 +1,7 @@
 title = "KompetenzwerkD"
 
 theme = "docsacode"
-base_url = "http://localhost/"
+base_url = "https://werkd.saw-leipzig.de/"
 # The URL the site will be built for
 # base_url = "https://kompetenzwerkd.github.io/"
 
