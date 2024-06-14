@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+      <title> KompetenzwerkD | Semantic MediaWiki </title>     
+      <link rel="stylesheet" href="https://werkd.saw-leipzig.de/main.css">
+    </head>
+
+    <body>
+ 
+        <nav>
+
+          <div class="logo">
+            <img 
+              id="logo-big" 
+              src="https://werkd.saw-leipzig.de/images/logo.png"
+
+              srcset="https://werkd.saw-leipzig.de/images/logo.png 475w,
+              https://werkd.saw-leipzig.de/images/logo-small.png 340w"
+
+              sizes="
+                (max-width: 600px) 340px,
+                475px
+              "
+            />
+          <div id="submenu">
+            <a href="/">Über uns</a> | 
+            <a href="/blog">Blog</a> | 
+            <a href="/newsletter">Newsletter</a> |
+            <!--<a href="/ebook">E-book</a> | -->
+            <a href="https://kompetenzwerkd.github.io/funding">Ausschreibungen</a> | 
+            <a href="/impressum">Impressum</a> | 
+            <a href="/search">Suche</a>    
+          </div>
+
+        
+    <ul id="breadcrumbs">
+        
+            
+                <li><a href="https:&#x2F;&#x2F;werkd.saw-leipzig.de&#x2F;">Home</a>&nbsp;&#8594;&nbsp; </li>
+            
+            
+                <li><a href="https:&#x2F;&#x2F;werkd.saw-leipzig.de&#x2F;wissensbasen&#x2F;">Wissensspeicher</a>&nbsp;&#8594;&nbsp; </li>
+            
+        <li><h4>Semantic MediaWiki</h4></li>
+    </ul>
+   
+    
+<!--    
+<a href="javascript:void(0);" onclick="burger()" id="mobile">&#9776; Ressourcen</a>
+-->
+    <div id="bger">
+        <ul class="bger">
+        
+        
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAA10lEQVRYhe3XMQ6CMBiG4a9EMBKN52DUaPQGuBg8gAdwd+AKOLhzDidvgJKQeCJxcC5S/lo0+d71h/I0JE0KMFlKN4izorb1kaHvVZfjamFrPQBvoI3irKj3+eOZnMt7F4dndVea0iRSkzBYbs9lZfquE+B45CPdRWoaBjNTpBMg0B3pDAh0QzoFAuZI50DADNkLEGiPHLjAHPLGI1ABmOuGXwde0/XHZzanm3bW2y9uG4HSCJRGoDQCpREojUBpBEojUBqB0giURqC0nwc2XtybLtTsX3oBXXB0cyGhErcAAAAASUVORK5CYII=" width="20px" />&nbsp;<a href="https://werkd.saw-leipzig.de/wissensbasen/mediawiki/vorraussetzungen/">Was muss ich beachten?</a></li> 
+        
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAA10lEQVRYhe3XMQ6CMBiG4a9EMBKN52DUaPQGuBg8gAdwd+AKOLhzDidvgJKQeCJxcC5S/lo0+d71h/I0JE0KMFlKN4izorb1kaHvVZfjamFrPQBvoI3irKj3+eOZnMt7F4dndVea0iRSkzBYbs9lZfquE+B45CPdRWoaBjNTpBMg0B3pDAh0QzoFAuZI50DADNkLEGiPHLjAHPLGI1ABmOuGXwde0/XHZzanm3bW2y9uG4HSCJRGoDQCpREojUBpBEojUBqB0giURqC0nwc2XtybLtTsX3oBXXB0cyGhErcAAAAASUVORK5CYII=" width="20px" />&nbsp;<a href="https://werkd.saw-leipzig.de/wissensbasen/mediawiki/funktionen/">Was sind die wichtigsten MediaWiki-Funktionen?</a></li> 
+        
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAA10lEQVRYhe3XMQ6CMBiG4a9EMBKN52DUaPQGuBg8gAdwd+AKOLhzDidvgJKQeCJxcC5S/lo0+d71h/I0JE0KMFlKN4izorb1kaHvVZfjamFrPQBvoI3irKj3+eOZnMt7F4dndVea0iRSkzBYbs9lZfquE+B45CPdRWoaBjNTpBMg0B3pDAh0QzoFAuZI50DADNkLEGiPHLjAHPLGI1ABmOuGXwde0/XHZzanm3bW2y9uG4HSCJRGoDQCpREojUBpBEojUBqB0giURqC0nwc2XtybLtTsX3oBXXB0cyGhErcAAAAASUVORK5CYII=" width="20px" />&nbsp;<a href="https://werkd.saw-leipzig.de/wissensbasen/mediawiki/datenmodellierung/">Wie setze ich mein Projekt mit MediaWiki um?</a></li> 
+        
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAA10lEQVRYhe3XMQ6CMBiG4a9EMBKN52DUaPQGuBg8gAdwd+AKOLhzDidvgJKQeCJxcC5S/lo0+d71h/I0JE0KMFlKN4izorb1kaHvVZfjamFrPQBvoI3irKj3+eOZnMt7F4dndVea0iRSkzBYbs9lZfquE+B45CPdRWoaBjNTpBMg0B3pDAh0QzoFAuZI50DADNkLEGiPHLjAHPLGI1ABmOuGXwde0/XHZzanm3bW2y9uG4HSCJRGoDQCpREojUBpBEojUBqB0giURqC0nwc2XtybLtTsX3oBXXB0cyGhErcAAAAASUVORK5CYII=" width="20px" />&nbsp;<a href="https://werkd.saw-leipzig.de/wissensbasen/mediawiki/sonderzeichen/">Sonderzeichen und Mehrsprachigkeit</a></li> 
+        
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAA10lEQVRYhe3XMQ6CMBiG4a9EMBKN52DUaPQGuBg8gAdwd+AKOLhzDidvgJKQeCJxcC5S/lo0+d71h/I0JE0KMFlKN4izorb1kaHvVZfjamFrPQBvoI3irKj3+eOZnMt7F4dndVea0iRSkzBYbs9lZfquE+B45CPdRWoaBjNTpBMg0B3pDAh0QzoFAuZI50DADNkLEGiPHLjAHPLGI1ABmOuGXwde0/XHZzanm3bW2y9uG4HSCJRGoDQCpREojUBpBEojUBqB0giURqC0nwc2XtybLtTsX3oBXXB0cyGhErcAAAAASUVORK5CYII=" width="20px" />&nbsp;<a href="https://werkd.saw-leipzig.de/wissensbasen/mediawiki/datenexport/">Wie kann ich Daten exportieren und wiederverwenden?</a></li> 
+        
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAA10lEQVRYhe3XMQ6CMBiG4a9EMBKN52DUaPQGuBg8gAdwd+AKOLhzDidvgJKQeCJxcC5S/lo0+d71h/I0JE0KMFlKN4izorb1kaHvVZfjamFrPQBvoI3irKj3+eOZnMt7F4dndVea0iRSkzBYbs9lZfquE+B45CPdRWoaBjNTpBMg0B3pDAh0QzoFAuZI50DADNkLEGiPHLjAHPLGI1ABmOuGXwde0/XHZzanm3bW2y9uG4HSCJRGoDQCpREojUBpBEojUBqB0giURqC0nwc2XtybLtTsX3oBXXB0cyGhErcAAAAASUVORK5CYII=" width="20px" />&nbsp;<a href="https://werkd.saw-leipzig.de/wissensbasen/mediawiki/lehre-forschung/">Wie kann ich MediaWiki in Forschung und Lehre verwenden?</a></li> 
+        
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAA10lEQVRYhe3XMQ6CMBiG4a9EMBKN52DUaPQGuBg8gAdwd+AKOLhzDidvgJKQeCJxcC5S/lo0+d71h/I0JE0KMFlKN4izorb1kaHvVZfjamFrPQBvoI3irKj3+eOZnMt7F4dndVea0iRSkzBYbs9lZfquE+B45CPdRWoaBjNTpBMg0B3pDAh0QzoFAuZI50DADNkLEGiPHLjAHPLGI1ABmOuGXwde0/XHZzanm3bW2y9uG4HSCJRGoDQCpREojUBpBEojUBqB0giURqC0nwc2XtybLtTsX3oBXXB0cyGhErcAAAAASUVORK5CYII=" width="20px" />&nbsp;<a href="https://werkd.saw-leipzig.de/wissensbasen/mediawiki/alternativen/">Welche alternativen Systeme zur Wissensordnung gibt es?</a></li> 
+        
+        </ul>
+        <br />
+    </div>
+ 
+
+    
+
+
+
+        
+        </nav>
+
+
+        <main>
+
+          <div id="content">
+
+          
+    
+    
+    
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+    
+
+    
+
+
+  <article>
+    <h1 id="semantic-mediawiki">Semantic MediaWiki<a class="anchor" href="#semantic-mediawiki">§</a>&nbsp;</h1>
+<blockquote>
+<p>Diese Handreichung zum Thema Semantic MediaWiki wurde von <a href="https://github.com/linalerch">Lina Lerch</a> im Rahmen eines Praktikums am KompetenzwerkD erstellt. </p>
+</blockquote>
+<p>Im Zeitalter der zunehmenden Digitalisierung ist Wissensvernetzung und -ordnung ein wesentlicher Aspekt in der Wissenschaft. Daten können dabei in verschiedensten Formen gesammelt, erfasst, weitergegeben und publiziert werden. Während das Sammeln der Daten auf der lokalen Festplatte durch unzählige Programme erleichtert wird, stößt man bei der Ordnung und Vernetzung teilweise auf Hürden, besonders dann, wenn eine kollaborative Arbeitsumgebung geschaffen werden soll. 
+Diese Hürden können dabei vielfältig sein: Manche sind technischer Natur; manche sind auch der Bandbreite des interdisziplinären Arbeitens geschuldet. Welche digitalen Möglichkeiten gibt es? Welche Programme sind aktuell, welche werden weiterentwickelt? Wie kann man diese Programme installieren und nutzen? Eignen sich die Programme auch für die spezifischen Zwecke, für die das Projekt geplant ist? Wie kann man die Hürde zwischen dem Technischen und dem z. B. Geschichtswissenschaftlichen praktisch überwinden?</p>
+<p>Das Programm <a href="https://kompetenzwerkd.github.io/glossar/#mediawiki">MediaWiki</a>, die Software, die hinter der bekannten und umstrittenen Online-Enzyklopädie Wikipedia steckt, könnte eine mögliche Lösung für Wissenssammlung, -ordnung, -vernetzung und gar -publikation sein. Zugleich bietet das Programm Möglichkeiten für kollaboratives Arbeiten, sodass die Anwendung nicht lokal oder auf eine Person begrenzt ist. Somit eignet sich MediaWiki nicht nur für Forschungsvorhaben, sondern auch für die Lehre. Ob das <a href="https://kompetenzwerkd.github.io/glossar/#wiki">Wiki-Format</a> für das eigene Vorhaben zielführend ist, kann neben dieser Handreichung auch <a href="https://www.mediawiki.org/wiki/Manual:Deciding_whether_to_use_a_wiki_as_your_website_type/de">dieser Übersicht</a> entnommen werden.</p>
+<p>Einmal installiert und eingerichtet, ist die Lernkurve für die Nutzung niedrig. Sofern keine sehr spezifischen Funktionen erfüllt werden sollen, benötig man keinerlei Kenntnisse über Codes. Für die Nutzung reichen demnach wenige Mausklicks. Die folgende Handreichung ist dazu gedacht, den technischen und interdisziplinären Weg bis zur Nutzung zu erleichtern und zu zeigen, welche Möglichkeiten und Grenzen MediaWiki in Kombination mit Zusätzen, sogenannte &quot;Extensions&quot;, die zur Programmerweiterung von MediaWiki führen, hat. Diese Zusätze lauten <a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki">Semantic MediaWiki</a>, <a href="https://www.mediawiki.org/wiki/Extension:Page_Forms">Page Forms</a> und <a href="https://www.mediawiki.org/wiki/Extension:Page_Schemas">Page Schemas</a>. Diese Handreichung ist für den Gebrauch von MediaWiki in der Geschichtswissenschaft gedacht und wurde insbesonders aus mediävistischer Perspektive geschrieben. Als Beispiel für eine Modellierung wurden numismatische Gegenstände gewählt, um zu demonstrieren, dass sowohl Objekt- als auch Textbeschreibungen möglich sind. Für besonders textlastige Quellen, etwa bei Katalogisierungen von Quellenpassagen o. ä., wurde außerdem ein Unterkapitel über Quellenkritik in Anlehnung an das Werk &quot;Proseminar Geschichte: Das Mittelalter&quot; von Hans-Werner Goetz (→ Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 4. Auflage, Stuttgart 2014) eingefügt. Zudem lassen sich zahlreiche Anwendungsszenarien als Beispiele finden. Es ist deshalb zu hoffen, dass dadurch möglichst viele verschiedene Quellengattungen und Projektvorhaben abgedeckt sind.</p>
+<h2 id="vor-und-nachteile-auf-einen-blick">Vor- und Nachteile auf einen Blick<a class="anchor" href="#vor-und-nachteile-auf-einen-blick">§</a>&nbsp;</h2>
+<p>Vorteile:</p>
+<ul>
+<li>Quellenkritik und quellennahe Arbeitsmethoden können umgesetzt werden.</li>
+<li>Eignet sich sowohl für Forschung als auch für Lehre.</li>
+<li>Aufgrund der internationalen Bekanntheit ist davon auszugehen, dass MediaWiki weiterhin entwickelt wird.</li>
+<li>Zeit- und ortsunabhängiger Zugriff ist möglich.</li>
+<li>Zugriffbeschränkungen sind möglich.</li>
+<li>Code-Kenntnisse sind, sofern keine sehr spezifischen Funktionen erwünscht, nicht erforderlich.</li>
+</ul>
+<p>Nachteile:</p>
+<ul>
+<li>Mehrsprachigkeit führt zu Problemen, wenn keine übergeordnete Sprache vorhanden sein soll.</li>
+<li>Spezifische Symbole müssen durch andere ersetzt werden oder als Bild (Icon) eingefügt werden. Dies betrifft vor allem den senkrechten Strich sowie eckige Klammern.</li>
+<li>Große Veränderungen des Datenmodells nach der Einspeisung von Daten kann zu erheblichen Problemen in der Korrektur führen. Ähnliches gilt für Tippfehler in der Überschrift bei der Dateneinspeisung sowie Überschriftenänderungen.</li>
+</ul>
+<h2 id="weitere-vernetzung">Weitere Vernetzung<a class="anchor" href="#weitere-vernetzung">§</a>&nbsp;</h2>
+<ul>
+<li>Für weitere Fragen bezüglich Semantic MediaWiki gibt es das <a href="https://www.semantic-mediawiki.org/wiki/semantic-mediawiki.org:Community_portal">Semantic MediaWiki Community Portal</a>.</li>
+<li>Jährliche Konferenzen rund um Semantic MediaWiki (SMWCon) gibt es online und frei einsehbar. Die Liste aller Jahrgänge sowie Vorträge lässt sich <a href="https://www.semantic-mediawiki.org/wiki/SMWCon">hier</a> finden.</li>
+</ul>
+<h2 id="beispiele-fur-die-nutzung-des-mediawikis">Beispiele für die Nutzung des MediaWikis<a class="anchor" href="#beispiele-fur-die-nutzung-des-mediawikis">§</a>&nbsp;</h2>
+<ul>
+<li><a href="https://www.geschichtewiki.wien.gv.at/Wien_Geschichte_Wiki">Wien Geschichte Wiki</a>... ein Wiki über die Stadtgeschichte Wiens.</li>
+<li><a href="http://camerarius.uni-wuerzburg.de/camerarius/index.php/">Opera Camararii</a>... ein Wiki zur digitalen Erfassung des griechisch-lateinischen Gesamtwerkes des Camerarius d. Ä.</li>
+<li><a href="https://thespis.digital/db/index.php?title=Hauptseite">Thespis.Digital</a>... ein Wiki zum deutschsprachigen Berufstheater des 17. und 18. Jahrhunderts, das als digitales Archiv dient.</li>
+</ul>
+
+  </article>
+
+
+          </div>
+        </main>
+
+ 
+
+ 
+      <footer>
+        <div>
+          <a href="https://creativecommons.org/share-your-work/public-domain/cc0/"><img src="https://licensebuttons.net/p/zero/1.0/88x31.png" alt="CC-0" /></a><br />
+          <a href="https://getzola.org">Build with Zola</a> | 
+          <a href="https://github.com/codeandmedia/zola_docsascode_theme">Theme based on docsacode-theme</a> |
+          <a href="https://github.com/kompetenzwerkd/kompetenzwerkd.github.io">Source code</a> 
+        </div>
+         
+      </footer>
+
+    </body>
+</html>

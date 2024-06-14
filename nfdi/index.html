@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+      <title> KompetenzwerkD | Nationale Forschungsdateninfrastruktur (NFDI) </title>     
+      <link rel="stylesheet" href="https://werkd.saw-leipzig.de/main.css">
+    </head>
+
+    <body>
+ 
+        <nav>
+
+          <div class="logo">
+            <img 
+              id="logo-big" 
+              src="https://werkd.saw-leipzig.de/images/logo.png"
+
+              srcset="https://werkd.saw-leipzig.de/images/logo.png 475w,
+              https://werkd.saw-leipzig.de/images/logo-small.png 340w"
+
+              sizes="
+                (max-width: 600px) 340px,
+                475px
+              "
+            />
+          <div id="submenu">
+            <a href="/">Über uns</a> | 
+            <a href="/blog">Blog</a> | 
+            <a href="/newsletter">Newsletter</a> |
+            <!--<a href="/ebook">E-book</a> | -->
+            <a href="https://kompetenzwerkd.github.io/funding">Ausschreibungen</a> | 
+            <a href="/impressum">Impressum</a> | 
+            <a href="/search">Suche</a>    
+          </div>
+
+        
+    <ul id="breadcrumbs">
+        
+            
+                <li><a href="https:&#x2F;&#x2F;werkd.saw-leipzig.de&#x2F;">Home</a>&nbsp;&#8594;&nbsp; </li>
+            
+        <li><h4>Nationale Forschungsdateninfrastruktur (NFDI)</h4></li>
+    </ul>
+   
+    
+<!--    
+<a href="javascript:void(0);" onclick="burger()" id="mobile">&#9776; Ressourcen</a>
+-->
+    <div id="bger">
+        <ul class="bger">
+        
+        
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAA10lEQVRYhe3XMQ6CMBiG4a9EMBKN52DUaPQGuBg8gAdwd+AKOLhzDidvgJKQeCJxcC5S/lo0+d71h/I0JE0KMFlKN4izorb1kaHvVZfjamFrPQBvoI3irKj3+eOZnMt7F4dndVea0iRSkzBYbs9lZfquE+B45CPdRWoaBjNTpBMg0B3pDAh0QzoFAuZI50DADNkLEGiPHLjAHPLGI1ABmOuGXwde0/XHZzanm3bW2y9uG4HSCJRGoDQCpREojUBpBEojUBqB0giURqC0nwc2XtybLtTsX3oBXXB0cyGhErcAAAAASUVORK5CYII=" width="20px" />&nbsp;<a href="https://werkd.saw-leipzig.de/nfdi/konsortien/">NFDI-Konsortien</a></li> 
+        
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAA10lEQVRYhe3XMQ6CMBiG4a9EMBKN52DUaPQGuBg8gAdwd+AKOLhzDidvgJKQeCJxcC5S/lo0+d71h/I0JE0KMFlKN4izorb1kaHvVZfjamFrPQBvoI3irKj3+eOZnMt7F4dndVea0iRSkzBYbs9lZfquE+B45CPdRWoaBjNTpBMg0B3pDAh0QzoFAuZI50DADNkLEGiPHLjAHPLGI1ABmOuGXwde0/XHZzanm3bW2y9uG4HSCJRGoDQCpREojUBpBEojUBqB0giURqC0nwc2XtybLtTsX3oBXXB0cyGhErcAAAAASUVORK5CYII=" width="20px" />&nbsp;<a href="https://werkd.saw-leipzig.de/nfdi/teilhabe/">Teilhabe</a></li> 
+        
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAA10lEQVRYhe3XMQ6CMBiG4a9EMBKN52DUaPQGuBg8gAdwd+AKOLhzDidvgJKQeCJxcC5S/lo0+d71h/I0JE0KMFlKN4izorb1kaHvVZfjamFrPQBvoI3irKj3+eOZnMt7F4dndVea0iRSkzBYbs9lZfquE+B45CPdRWoaBjNTpBMg0B3pDAh0QzoFAuZI50DADNkLEGiPHLjAHPLGI1ABmOuGXwde0/XHZzanm3bW2y9uG4HSCJRGoDQCpREojUBpBEojUBqB0giURqC0nwc2XtybLtTsX3oBXXB0cyGhErcAAAAASUVORK5CYII=" width="20px" />&nbsp;<a href="https://werkd.saw-leipzig.de/nfdi/verein/">NFDI-Verein</a></li> 
+        
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAA10lEQVRYhe3XMQ6CMBiG4a9EMBKN52DUaPQGuBg8gAdwd+AKOLhzDidvgJKQeCJxcC5S/lo0+d71h/I0JE0KMFlKN4izorb1kaHvVZfjamFrPQBvoI3irKj3+eOZnMt7F4dndVea0iRSkzBYbs9lZfquE+B45CPdRWoaBjNTpBMg0B3pDAh0QzoFAuZI50DADNkLEGiPHLjAHPLGI1ABmOuGXwde0/XHZzanm3bW2y9uG4HSCJRGoDQCpREojUBpBEojUBqB0giURqC0nwc2XtybLtTsX3oBXXB0cyGhErcAAAAASUVORK5CYII=" width="20px" />&nbsp;<a href="https://werkd.saw-leipzig.de/nfdi/nfdi-konferenz2021/">NFDI-Konferenz 2021</a></li> 
+        
+                <li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAA10lEQVRYhe3XMQ6CMBiG4a9EMBKN52DUaPQGuBg8gAdwd+AKOLhzDidvgJKQeCJxcC5S/lo0+d71h/I0JE0KMFlKN4izorb1kaHvVZfjamFrPQBvoI3irKj3+eOZnMt7F4dndVea0iRSkzBYbs9lZfquE+B45CPdRWoaBjNTpBMg0B3pDAh0QzoFAuZI50DADNkLEGiPHLjAHPLGI1ABmOuGXwde0/XHZzanm3bW2y9uG4HSCJRGoDQCpREojUBpBEojUBqB0giURqC0nwc2XtybLtTsX3oBXXB0cyGhErcAAAAASUVORK5CYII=" width="20px" />&nbsp;<a href="https://werkd.saw-leipzig.de/nfdi/nfdi-konferenz2020/">NFDI-Konferenz 2020</a></li> 
+        
+        </ul>
+        <br />
+    </div>
+ 
+
+    
+
+
+
+        
+        </nav>
+
+
+        <main>
+
+          <div id="content">
+
+          
+    
+    
+    
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+    
+
+    
+    <hr />
+        <ul id="toc">
+        
+            <li><a href="https://werkd.saw-leipzig.de/nfdi/#nationale-forschungsdateninfrastruktur-nfdi">Nationale Forschungsdateninfrastruktur (NFDI)</a>
+            <ul>        
+            
+            <li><a href="https://werkd.saw-leipzig.de/nfdi/#updates">Updates</a></li>
+            
+            <li><a href="https://werkd.saw-leipzig.de/nfdi/#allgemeines">Allgemeines</a></li>
+            
+            <li><a href="https://werkd.saw-leipzig.de/nfdi/#wichtige-fakten">Wichtige Fakten</a></li>
+            
+            <li><a href="https://werkd.saw-leipzig.de/nfdi/#mitwirken-teilhabe">Mitwirken&#x2F;Teilhabe</a></li>
+            
+            <li><a href="https://werkd.saw-leipzig.de/nfdi/#konsortien">Konsortien</a></li>
+            
+        </ul>
+    
+        </li>
+    
+        </ul>
+        <hr />
+    
+
+
+  <article>
+    <h1 id="nationale-forschungsdateninfrastruktur-nfdi">Nationale Forschungsdateninfrastruktur (NFDI)<a class="anchor" href="#nationale-forschungsdateninfrastruktur-nfdi">§</a>&nbsp;</h1>
+<p><em>Stand: 12.07.2021</em></p>
+<h2 id="updates">Updates<a class="anchor" href="#updates">§</a>&nbsp;</h2>
+<ul>
+<li>über aktuelle Daten u. a. zu Konferenzen und Workshops informiert die <a href="https://www.nfdi.de/termine/">Terminübersicht der NFDI</a></li>
+<li>voraussichtlich November 2022: Förderentscheidung der GWK über Anträge der dritten Runde, mehr dazu bei der <a href="https://www.dfg.de/foerderung/programme/nfdi/">DFG in der Übersicht</a></li>
+<li>17.-19.11.2021: NFDI4Culture <a href="https://nfdi4culture.de/news-events/events.html?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=38&amp;cHash=1513d96cce4f868f3755aaaae6713882">Second Culture Community Plenary</a></li>
+<li>08.07.2021: Dritte <a href="https://www.dfg.de/foerderung/programme/nfdi/konferenz_2021/index.html">NFDI-Konferenz</a> findet als Webinar statt</li>
+<li>02.07.2021: <a href="https://nachrichten.idw-online.de/2021/07/02/foerderung-von-zehn-konsortien-der-nationalen-forschungsdateninfrastruktur-nfdi-beschlossen/">Förderung von 10 Konsortien</a> durch GWK beschlossen, darunter <a href="https://www.text-plus.org/">Text+</a> als Konsortium mit DH-Bezug und unter Beteiligung der SAW</li>
+<li>31.08.2020: Ankündigung des Virtual Culture Community Workshop <em>NFDI4Culture explained</em>, 09.09.2020, 10:00-12:00, siehe <a href="https://www.nfdi4culture.de/">NFDI4Culture-Webseite</a></li>
+<li>31.08.2020: Ergebnisse des <a href="https://www.text-plus.org/forschungsdaten/user-stories/">Call for User Stories</a> von Text+ wurden online gestellt und schrittweise ergänzt</li>
+<li>28.07.2020: Aufrufe zum Einreichen von User Stories und Datenangeboten seitens Text+, siehe bei <a href="https://werkd.saw-leipzig.de/nfdi/konsortien/">konsortien</a></li>
+<li>09.07.2020: Die <a href="https://werkd.saw-leipzig.de/nfdi/nfdi-konferenz2020/">NFDI Webkonferenz 2020</a> hat stattgefunden und wir haben Informationen für Sie zusammengetragen.</li>
+<li>29.06.2020: Die Gemeinsame Wissenschaftskonferenz (GWK) hat NFDI4Culture, das Konsortium für Forschungsdaten zu materiellen un immateriellen Kulturgütern, zur Förderung ausgewählt.</li>
+<li>03.06.2020: Die Förderempfehlungen des NFDI-Expertengremiums wurden veröffentlicht. Dabei wurde von den Initiativen innerhalb der Digital Humanities das Konsortium NFDI4Culture in der ersten Ausschreibungsrunde zur Förderung empfohlen.</li>
+</ul>
+<h2 id="allgemeines">Allgemeines<a class="anchor" href="#allgemeines">§</a>&nbsp;</h2>
+<p>“Die nationale <a href="https://werkd.saw-leipzig.de/glossar/#forschungsdateninfrastruktur">Forschungsdateninfrastruktur</a> (NFDI) soll die Datenbestände  von Wissenschaft und Forschung systematisch erschließen, nachhaltig sichern und zugänglich machen sowie (inter-)national vernetzen. Sie wird  in einem aus der Wissenschaft getriebenen Prozess als vernetzte Struktur eigeninitiativ agierender Konsortien aufgebaut werden.” Quelle: DFG</p>
+<p>Sie soll maßgeblich die Entwicklung von Forschungsdatenservices und -standards entsprechend der <a href="https://werkd.saw-leipzig.de/glossar/#fair-prinzipien">FAIR Prinzipien</a> (findable, accessible, interoperable, reuseable) mitgestalten. Solche Unternehmungen können nur durch nationale, fachliche Kooperationen zum Erfolg führen, auch mit Blick auf eine europäische und internationale Anschlussfähigkeit.</p>
+<h2 id="wichtige-fakten">Wichtige Fakten<a class="anchor" href="#wichtige-fakten">§</a>&nbsp;</h2>
+<ul>
+<li>Festgeschrieben im Koalitionsvertrag des Bundes</li>
+<li>Abwicklung über die Deutsche Forschungsgemeinschaft (DFG) </li>
+<li>Rund 30 Konsortien geplant, neun in der ersten Runde gefördert, zehn in der zweiten</li>
+<li>Drei Ausschreibungsrunden mit Deadlines im Herbst 2019, 2020, 2021</li>
+<li>Wurden/werden über die einschlägigen Fachcommunities standortübergreifend beantragt </li>
+<li>In der Zukunft die maßgebliche Anlaufstelle im Bereich (digitaler) <a href="https://werkd.saw-leipzig.de/glossar/#forschungsdaten">Forschungsdaten</a></li>
+<li>Konsortien werden zunächst für fünf Jahre mit einem Budget von jeweils ca. 2-4 Mio EUR jährlich gefördert</li>
+<li>Ein NFDI-Expertengremium gibt für jedes Konsortium eine Empfehlung zur Förderung bzw. Nichtförderung ab </li>
+<li>Die Gemeinsame Wissenschaftskonferenz (GWK) entscheidet auf dieser Basis über die Förderung</li>
+</ul>
+<p><a href="https://www.dfg.de/foerderung/programme/nfdi/">mehr zur Förderlinie und dem Stand der Antragsverfahren</a></p>
+<h2 id="mitwirken-teilhabe">Mitwirken/Teilhabe<a class="anchor" href="#mitwirken-teilhabe">§</a>&nbsp;</h2>
+<p>Eine Übersicht zu verschiedenen Möglichkeiten des Mitwirkens an und der Einflussnahme auf die NFDI-Initiativen haben wir hier für Sie zusammengestellt: <a href="https://werkd.saw-leipzig.de/nfdi/teilhabe/">Teilhabe</a></p>
+<h2 id="konsortien">Konsortien<a class="anchor" href="#konsortien">§</a>&nbsp;</h2>
+<p>Eine Auflistung der Konsortien mit Schwerpunkt in den (Digitalen) Geisteswissenschaften finden Sie hier: <a href="https://werkd.saw-leipzig.de/nfdi/konsortien/">NFDI-Konsortien</a></p>
+
+  </article>
+
+
+          </div>
+        </main>
+
+ 
+
+ 
+      <footer>
+        <div>
+          <a href="https://creativecommons.org/share-your-work/public-domain/cc0/"><img src="https://licensebuttons.net/p/zero/1.0/88x31.png" alt="CC-0" /></a><br />
+          <a href="https://getzola.org">Build with Zola</a> | 
+          <a href="https://github.com/codeandmedia/zola_docsascode_theme">Theme based on docsacode-theme</a> |
+          <a href="https://github.com/kompetenzwerkd/kompetenzwerkd.github.io">Source code</a> 
+        </div>
+         
+      </footer>
+
+    </body>
+</html>

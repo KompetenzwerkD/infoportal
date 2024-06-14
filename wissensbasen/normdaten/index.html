@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+      <title> KompetenzwerkD | Einführung in Normdaten </title>     
+      <link rel="stylesheet" href="https://werkd.saw-leipzig.de/main.css">
+    </head>
+
+    <body>
+ 
+        <nav>
+
+          <div class="logo">
+            <img 
+              id="logo-big" 
+              src="https://werkd.saw-leipzig.de/images/logo.png"
+
+              srcset="https://werkd.saw-leipzig.de/images/logo.png 475w,
+              https://werkd.saw-leipzig.de/images/logo-small.png 340w"
+
+              sizes="
+                (max-width: 600px) 340px,
+                475px
+              "
+            />
+          <div id="submenu">
+            <a href="/">Über uns</a> | 
+            <a href="/blog">Blog</a> | 
+            <a href="/newsletter">Newsletter</a> |
+            <!--<a href="/ebook">E-book</a> | -->
+            <a href="https://kompetenzwerkd.github.io/funding">Ausschreibungen</a> | 
+            <a href="/impressum">Impressum</a> | 
+            <a href="/search">Suche</a>    
+          </div>
+
+        
+  <ul id="breadcrumbs">
+    
+      
+      <li><a href="https:&#x2F;&#x2F;werkd.saw-leipzig.de&#x2F;">Home</a>&nbsp;&#8594;&nbsp;</li> 
+    
+      
+      <li><a href="https:&#x2F;&#x2F;werkd.saw-leipzig.de&#x2F;wissensbasen&#x2F;">Wissensspeicher</a>&nbsp;&#8594;&nbsp;</li> 
+    
+    <li><h4>Einführung in Normdaten</h4></li>
+  </ul>
+
+  <!--
+  <div id="taxonomies">
+       
+
+    
+    
+    
+    -->
+
+
+  </div>
+
+  
+        
+        </nav>
+
+
+        <main>
+
+          <div id="content">
+
+          
+
+
+
+  
+  
+    
+    
+  
+    
+    
+  
+    
+    
+      
+    
+      
+    
+  
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+    
+    
+      
+    
+  
+    
+    
+      
+    
+  
+
+
+
+    <hr />
+    <ul id="toc">
+      
+        <li><a href="https://werkd.saw-leipzig.de/wissensbasen/normdaten/#normdaten">Normdaten</a>
+        <ul>        
+          
+          <li><a href="https://werkd.saw-leipzig.de/wissensbasen/normdaten/#begrifflichkeiten">Begrifflichkeiten</a></li>
+        
+          <li><a href="https://werkd.saw-leipzig.de/wissensbasen/normdaten/#vorteile-der-nutzung-von-normdaten">Vorteile der Nutzung von Normdaten</a></li>
+        
+          <li><a href="https://werkd.saw-leipzig.de/wissensbasen/normdaten/#normdaten-fur-entitaeten">Normdaten für Entitäten</a></li>
+        
+          <li><a href="https://werkd.saw-leipzig.de/wissensbasen/normdaten/#oft-genutzte-ontologien-fur-akademische-faecher-methoden-und-begriffe">Oft genutzte Ontologien für akademische Fächer, Methoden und Begriffe</a></li>
+        
+          <li><a href="https://werkd.saw-leipzig.de/wissensbasen/normdaten/#verwendung-von-normdaten-in-forschungsdaten-metadaten">Verwendung von Normdaten in Forschungsdaten&#x2F;Metadaten</a></li>
+        
+          <li><a href="https://werkd.saw-leipzig.de/wissensbasen/normdaten/#anwendungsfall">Anwendungsfall</a></li>
+        
+       </ul>
+
+      </li>
+
+    </ul>
+    <hr  />
+
+
+  <article>
+    <h1 id="normdaten">Normdaten<a class="anchor" href="#normdaten">§</a>&nbsp;</h1>
+<p><strong>Ontologien, Thesauri und Normvokabulare für Wissensbasen</strong></p>
+<p>Um Inhalte und Daten zu kategorisieren, benutzen Forschende Ontologien, Thesauri und (kontrollierte) Normvokabulare. Dabei handelt es sich um Klassifikationssysteme oder Taxonomien, um die Daten maschinenlesbar einzuordnen und zu repräsentieren. Auch in die Metadaten dieser Forschungsinhalte können solche kontrollierten Vokabulare eingefügt werden. Personen, Orten und anderen Entitäten kann über solche Taxonomien ein dauerhafter (persistenter) Identifikator, beispielsweise eine Nummer oder ein Link, zugewiesen werden. Das ist besonders hilfreich, denn es vermeidet Mehrdeutigkeiten (z. B. Autornamen) und neues Wissen (z. B. neue Publikationen) kann dem bestehenden konkret zugewiesen werden und in Wissensbasen wie Wikidata eingehen. Generell ist die Verwendung von Normdaten daher von großer Bedeutung für gutes und <a href="https://werkd.saw-leipzig.de/glossar/#fair-prinzipien"><strong>FAIR</strong></a>es <a href="https://werkd.saw-leipzig.de/fdm/">Forschungsdatenmanagement</a>, unter anderem bei der Erstellung von <a href="https://werkd.saw-leipzig.de/fdm/metadaten-schemas/">Metadaten</a>.</p>
+<h2 id="begrifflichkeiten">Begrifflichkeiten<a class="anchor" href="#begrifflichkeiten">§</a>&nbsp;</h2>
+<p>In der Praxis werden die folgenden Begriffe häufig ohne klare Abgrenzung bzw. sogar synonym verwendet. Als kurze Einordnung soll dennoch die nachstehende Auflistung dienen:</p>
+<ul>
+<li>Kontrolliertes Vokabular: Sammlung von Bezeichnungen mit eindeutiger Zuordnung zu Begriffen, um Mehrdeutigkeiten zu verhindern.</li>
+<li>Thesaurus: Kontrolliertes Vokabular, dessen Begriffe durch (semantische) Relationen wie Synonymie oder Hyponymie miteinander verbunden sind.</li>
+<li>Ontologie: Klassifikationssysteme für Daten, um diese maschinenlesbar einzuordnen und zu repräsentieren. Eine formal geordnete Darstellung einer Menge von Begriffen und der zwischen ihnen bestehenden Beziehungen in einem bestimmten Gegenstandsbereich.</li>
+</ul>
+<h2 id="vorteile-der-nutzung-von-normdaten">Vorteile der Nutzung von Normdaten<a class="anchor" href="#vorteile-der-nutzung-von-normdaten">§</a>&nbsp;</h2>
+<ul>
+<li>Eindeutige Zuordnung verschiedenartiger Entitäten</li>
+<li>Verknüpfung mit anderen Datensätzen möglich (Linked Data)</li>
+<li>Unabhängigkeit von Schreibweisen</li>
+<li>Nachnutzbarkeit wissenschaftlicher Daten entsprechend <a href="https://werkd.saw-leipzig.de/glossar/#fair-prinzipien">FAIR-Prinzipien</a> wird erleichtert</li>
+</ul>
+<h2 id="normdaten-fur-entitaeten">Normdaten für Entitäten<a class="anchor" href="#normdaten-fur-entitaeten">§</a>&nbsp;</h2>
+<h3 id="normdateien-an-den-nationalbibliotheken">Normdateien an den Nationalbibliotheken<a class="anchor" href="#normdateien-an-den-nationalbibliotheken">§</a>&nbsp;</h3>
+<p>Bibliotheken führen Normdateien (eng.: authority files) für Entitäten wie Personen, Institutionen, Orte und Sachgebiete für die systematische bibliographische Erfassung ihrer Bestände. Die großen Authority Files werden dabei oft von den Nationalbibliotheken geführt. In Deutschland spielt vor allem die <a href="https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html">&quot;Gemeinsame Normdatei&quot; (GND)</a> eine wichtige Rolle; in den USA sind es <a href="https://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&amp;PAGE=First">Library of Congress Authorities (LCAuth)</a>. </p>
+<p>Mit dem Aufkommen von Linked (Open) Data werden diese Identifikatoren vermehrt verwendet, um Entitäten eindeutig zu identifizieren. Ein zentraler Schritt zur Verlinkung der verschiedenen Normdateien war die Entwicklung der <a href="https://viaf.org">Virtual International Authority File (VIAF)</a>. Ursprünglich von Bibliothekswissenschaftlern des Online Computer Library Center (OCLC) in Dublin gegründet, führt die VIAF-Angabe mehrere Normdateien zu einer Person, Institution o. ä. zusammen.</p>
+<p><img src="https://imgs.xkcd.com/comics/standards.png" alt="" />
+(c) https://xkcd.com/927/, under a CC Attribution-NonCommercial 2.5 License </p>
+<h3 id="verwendung-von-normdaten-fur-personen-institutionen-und-orte">Verwendung von Normdaten für Personen, Institutionen und Orte<a class="anchor" href="#verwendung-von-normdaten-fur-personen-institutionen-und-orte">§</a>&nbsp;</h3>
+<p>Um bekannte/historische/etc. Personen, Institutionen und Orte zu identifizieren, können die oben genannten weit verbreiteten Normdateien verwendet werden.</p>
+<ul>
+<li><a href="https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html">GND</a></li>
+<li><a href="https://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&amp;PAGE=First">LCAuth</a></li>
+<li><a href="https://viaf.org">VIAF</a></li>
+</ul>
+<p>Eine Einschränkung besteht dabei: Da i.d.R. nur Bibliotheken diese Normdateien pflegen und neue Datensätze anlegen können, weisen sie bei Weitem keine Vollständigkeit oder Tagesakualität auf. 
+So funktioniert dies beispielsweise bei der GND: <a href="https://wiki.dnb.de/pages/viewpage.action?pageId=134055796">Initiative &quot;GND für Kulturdaten&quot;GND4C</a></p>
+<p>Alternativ kann man Wikidata verwenden, welches eine Art Hub darstellt, der verschiedene Normdatensysteme für eine Vielzahl von Entitäten zusammenbringt. Da Wikidata vom Engagement der (wissenschaftlichen) Communities lebt, können dort fehlende Einträge eigenständig ergänzt werden bzw. den Einträgen weitere Normdaten hinzugefügt werden. Jedoch sollten hier nur 'relevante' Entitäten eingetragen werden und diese mit anderen Daten in der Wikidata [Frage: ist Wikipedia gemeint? ich würde sagen, es geht hier erstmal nur um die &quot;Datenebene&quot;, also das strukturierte Wissen in wikidata. dieses wird dann natürlich von wikipedia aufgegriffen und teils eingebunden] verknüpft werden.</p>
+<p>Um <strong>wissenschaftlich aktive Personen</strong> und Forscher/innen/Institutsmitarbeiter/innen/Projektmitarbeiter/innen zu identifizieren, kann man auch die <a href="https://orcid.org/">OrcID-ID</a> verwenden.</p>
+<p>Für <strong>Orte</strong> gibt es auch spezielle Normdaten wie z. B.</p>
+<ul>
+<li>das Historische Ortsverzeichnis von Sachsen <a href="https://hov.isgv.de/">(HOV)</a></li>
+<li>für antike Orte <a href="https://pleiades.stoa.org/">Pleiades</a>, bzw.</li>
+<li>offene Datenbanken wie <a href="https://www.geonames.org/">GeoNames</a>.</li>
+</ul>
+<p>Objekte, Artefakte und weitere Daten können nach Ontologien wie der der Library of Congress Classification, Universal Decimal Classification oder SKOS UNESCO Nomenclature verortet werden. Mehr dazu findet sich im nächsten Abschnitt.</p>
+<p>Ein Anwendungsfall für Ortsdaten lässt sich hier nachlesen:</p>
+<ul>
+<li>Martin Munke: Historische Orte mit offenen Daten: HOV + Wikidata, https://saxorum.hypotheses.org/2775</li>
+<li>Christian Ehrlinger: Sächsische Ortsdaten in der Linked Open Data Cloud: Teilautomatisierte Anreicherung und Analyse der HOV-ID in Wikidata, https://saxorum.hypotheses.org/2917</li>
+</ul>
+<h2 id="oft-genutzte-ontologien-fur-akademische-faecher-methoden-und-begriffe">Oft genutzte Ontologien für akademische Fächer, Methoden und Begriffe<a class="anchor" href="#oft-genutzte-ontologien-fur-akademische-faecher-methoden-und-begriffe">§</a>&nbsp;</h2>
+<p>Sie wollen eine historische Epoche, eine sozialwissenschaftliche Methode oder einen archäologischen Fachbegriff genau referenzieren? Dann verwenden Sie für die Zitierung einen Link oder einen Identifikator (PID) beispielsweise aus einer der folgenden Ontologien:</p>
+<h3 id="unesco-thesaurus"><a href="http://vocabularies.unesco.org/browser/thesaurus/en/">UNESCO Thesaurus</a><a class="anchor" href="#unesco-thesaurus">§</a>&nbsp;</h3>
+<p>Der UNESCO Thesaurus ist ein allgemeines, multidisziplinäres Vokabulur zur allgemeinen Verschlagwortung in den Bereichen Bildung, Kultur, Wissenschaften, Politik und Recht.</p>
+<blockquote>
+<p>The UNESCO Thesaurus is a controlled and structured list of terms used in subject analysis and retrieval of documents and publications in the fields of education, culture, natural sciences, social and human sciences, communication and information. Continuously enriched and updated, its multidisciplinary terminology reflects the evolution of UNESCO's programmes and activities.</p>
+</blockquote>
+<h3 id="skos-unesco-nomenclature-for-fields-of-science-and-technology"><a href="https://skos.um.es/unesco6/">SKOS - UNESCO nomenclature for fields of science and technology</a><a class="anchor" href="#skos-unesco-nomenclature-for-fields-of-science-and-technology">§</a>&nbsp;</h3>
+<p>Strukturiertes Vokabular zur Beschreibung von wissenschaftlichen Disziplinen</p>
+<blockquote>
+<p>The Proposed international standard nomenclature for fields of science and technology was proposed in 1973 and 1974 by the Division of Science Policy and Statistics for Science and Technology of UNESCO and adopted by the Scientific Advisory Committee. This is a classification system widely used in knowledge management of research projects and dissertations. Categories are divided into three hierarchical levels: Fields[...,] Disciplines [..., and] Subdisciplines[...].</p>
+</blockquote>
+<h3 id="getty-vocabularies"><a href="https://www.getty.edu/research/tools/vocabularies/">Getty Vocabularies</a><a class="anchor" href="#getty-vocabularies">§</a>&nbsp;</h3>
+<p>Die Getty Vocabularies behinhalten strukturierte Normdaten für die Bereiche Kunstgeschichte, Architektur, Archäologie usw.</p>
+<blockquote>
+<p>The Getty Vocabularies contain structured terminology for art, architecture, decorative arts, archival materials, visual surrogates, conservation, and bibliographic materials. Compliant with international standards, they provide authoritative information for catalogers, researchers, and data providers. </p>
+</blockquote>
+<h3 id="tadirah-taxonomy-of-digital-research-activities-in-the-humanities"><a href="http://tadirah.dariah.eu/vocab/index.php">TaDiRAH - Taxonomy of Digital Research Activities in the Humanities</a><a class="anchor" href="#tadirah-taxonomy-of-digital-research-activities-in-the-humanities">§</a>&nbsp;</h3>
+<p>Dieses Vokabular beinhaltet Forschungsmethoden, -gegenstände, und -aktivitäten aus dem Bereich der Digitalen Geisteswissenschaften.</p>
+<blockquote>
+<p>This taxonomy of digital research activities in the humanities has been developed for use by community-driven sites and projects that aim to structure information relevant to digital humanities and make it more easily discoverable. The taxonomy is expected to be particularly useful to endeavors aiming to collect information on digital humanities tools, methods, projects, or readings. See https://github.com/dhtaxonomy for further information.</p>
+</blockquote>
+<h3 id="universal-decimal-classification"><a href="http://www.udcc.org/">Universal Decimal Classification</a><a class="anchor" href="#universal-decimal-classification">§</a>&nbsp;</h3>
+<p>Allgemeines Vokabular zur Verschlagwortung/Klassifizierung/Indexierung von Wissen.</p>
+<blockquote>
+<p>The Universal Decimal Classification (UDC) is a document indexing language in the form of a classification scheme covering the whole universe of knowledge. The UDC is designed for subject description and indexing of content of information resources irrespective of the carrier, form, format or language.</p>
+</blockquote>
+<h3 id="dewey-decimal-classification"><a href="http://www.oclc.org/en/dewey.html">Dewey Decimal Classification</a><a class="anchor" href="#dewey-decimal-classification">§</a>&nbsp;</h3>
+<p>Proprietäres Klassifikationssystem, das vorallem in Bibliotheken Verwendung findet.</p>
+<blockquote>
+<p>The Dewey Decimal Classification (DDC) system is the world’s most widely used way to organize library collections. The DDC constantly updates to enable better discovery across any topic in multiple languages. Because the DDC is easy to use, you can increase the visibility of your materials quickly and efficiently.</p>
+</blockquote>
+<h3 id="existierende-ontologien-finden-fur-alle-fachbereiche">Existierende Ontologien finden - für alle Fachbereiche<a class="anchor" href="#existierende-ontologien-finden-fur-alle-fachbereiche">§</a>&nbsp;</h3>
+<p>Neben oben genannten gibt es noch eine Vielzahl von fachspezifischen Normdaten, welche zur Datenmodellierung bzw. -erfassung verwendet werden können.</p>
+<p>Eine Übersicht mit Suchmöglichkeit bietet das <a href="http://www.bartoc.org/">Basel Register of Thesauri, Ontologies &amp; Classifications (BARTOC)</a></p>
+<h2 id="verwendung-von-normdaten-in-forschungsdaten-metadaten">Verwendung von Normdaten in Forschungsdaten/Metadaten<a class="anchor" href="#verwendung-von-normdaten-in-forschungsdaten-metadaten">§</a>&nbsp;</h2>
+<p>Obwohl mittlerweile zahlreiche Normdaten für unterschiedlichste Entitäten bzw. Fachbereiche existieren, ist die konkrete Einbindung in bestehende oder entstehende Forschungsdaten oft nicht trivial. So müssen Datenbanklösungen passend entworfen bzw. bestehende angepasst werden, oder bereits erfasste Daten mit den Normdaten abgeglichen werden. Viele Normdatenanbieter stellen dafür Schnittstellen zur Verfügung, jedoch helfen diese Geisteswissenschaftler/innen ohne Programmierkenntnisse nur wenig. Die &quot;manuelle&quot; Verwendung von Normdaten erhöht zudem das Fehlerpotential, da die verwendeten Identifier oft nicht menschenlesbar sind. Ein gemeinsam geplantes Vorgehen von Fachwissenschaftlern und IT-Personal ist daher notwendig.</p>
+<h3 id="metadaten">Metadaten<a class="anchor" href="#metadaten">§</a>&nbsp;</h3>
+<p>Auch im Bereich der Metadaten spielen Normdaten eine entscheidende Rolle. Schließlich gilt es hier, Datensätze mit zusätzlichen Informationen zu versehen und sie beispielsweise mit Entitäten wie Personen und Orten in Bezug zu setzen oder eine Kategorisierung vorzunehmen. Die Beweggründe für den Einsatz von Normdaten sind also dieselben - schließlich ist die Abgrenzung von Daten und Metadaten mitunter ohnehin schwierig.</p>
+<p>Im Falle der Verwendung in Metadaten gilt es zunächst, ein passendes Metadatenschema zu erstellen bzw. das bisher verwendete für die Nutzung von Normdaten entsprechend anzupassen, vermutlich zu erweitern.
+Eine gute Arbeitsgrundlage können hier Frameworks wie die <a href="https://dublincore.org/">Dublin Core Metadata Initiative (DCMI)</a> darstellen. Eine kurze Einführung in Metadatenschemata sowie Vorlagen bieten wir hier [TODO Link Metadatenvorlagen].
+Weitergehende Informationen finden sich in dieser Linksammlung: <a href="https://fordham.libguides.com/DigitalHumanities/Metadata">Metadaten-Übersicht der Fordham University</a>.</p>
+<p>Darauf aufbauend können die Normvokabulare dann genutzt werden, um bestimmte Felder, die dafür vorgesehen worden, mit standardisierten Werten zu versehen. Je nach Anwendungsfall ist dafür ein angemessener Normdatensatz auszuwählen.</p>
+<p>So ist es beispielsweise denkbar, zu einem Werk neben einem Feld mit dem Komponistennamen (z.B. &quot;Johann Sebastian Bach&quot;) ein weiteres Feld für eine GND-Nummer anzulegen (in diesem Fall &quot;11850553X&quot;), welche Mehrdeutigkeiten bei der Interpretation ausschließt.</p>
+<h2 id="anwendungsfall">Anwendungsfall<a class="anchor" href="#anwendungsfall">§</a>&nbsp;</h2>
+<p>Wie kommen die Normdaten in meine Datenbank? Dazu erarbeiten wir derzeit Use Cases als Beispiele.</p>
+<h3 id="openrefine-und-die-reconciliation-api">OpenRefine und die Reconciliation-API<a class="anchor" href="#openrefine-und-die-reconciliation-api">§</a>&nbsp;</h3>
+<p>Eine niedrigschwellige Möglichkeit, wie man verschiedene Normdaten mit lokalen Datenbeständen abgleichen kann, liefert das Open-Source-Tool <a href="https://openrefine.org/">OpenRefine</a>. Damit können tabellarische (oder anders strukturierte) Daten über eine standardisierte Schnittstelle (&quot;Reconciliation&quot;) mit Wikidata Einträgen bzw. anderen Normdateien verglichen und teilautomatisch verknüpft werden.</p>
+<p>So genannte &quot;Reconciliation&quot;-Services dienen dazu, Daten verschiedener Wissensbasen miteinander abzugleichen: Gab es vielleicht in der GND oder in der Wikipedia ein Update, dass für Ihre Datenbank unverzichtbar ist? Das können z. B. Lebensdaten einer Person oder Lokalisierung von Orten sein. Damit können Sie beispielsweise Tippfehler oder Zahlendreher bei Jahreszahlen erspähen, aber auch neue Erkenntnisse übernehmen wie genauere Ortskoordinaten, weil diese durch eine neuere Ausgrabung konkretisiert werden konnten. </p>
+<ul>
+<li><a href="https://reconciliation-api.github.io/specs/0.1/">Reconciliation API Spezifikation</a></li>
+<li><a href="https://github.com/KompetenzwerkD/openrefine-resources/tree/master/tutorials/wikidata_abgleich">Einfaches Andwendungsbeispiel: Datenabgleich mit Wikidata mit OpenRefine</a></li>
+</ul>
+<h4 id="reconciliation-endpoints">Reconciliation Endpoints<a class="anchor" href="#reconciliation-endpoints">§</a>&nbsp;</h4>
+<ul>
+<li><a href="http://okfnlabs.org/reconcile-csv/">List of Reconciliation endpoints</a></li>
+<li><a href="https://tools.wmflabs.org/openrefine-wikidata">Wikidata</a></li>
+<li><a href="http://blog.lobid.org/2019/08/19/openrefine.html">GND</a></li>
+<li><a href="http://refine.codefork.com/">VIAF, ORCID, Open Library</a></li>
+</ul>
+
+  </article>
+
+
+          </div>
+        </main>
+
+ 
+
+ 
+      <footer>
+        <div>
+          <a href="https://creativecommons.org/share-your-work/public-domain/cc0/"><img src="https://licensebuttons.net/p/zero/1.0/88x31.png" alt="CC-0" /></a><br />
+          <a href="https://getzola.org">Build with Zola</a> | 
+          <a href="https://github.com/codeandmedia/zola_docsascode_theme">Theme based on docsacode-theme</a> |
+          <a href="https://github.com/kompetenzwerkd/kompetenzwerkd.github.io">Source code</a> 
+        </div>
+         
+      </footer>
+
+    </body>
+</html>

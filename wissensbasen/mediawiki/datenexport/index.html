@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+      <title> KompetenzwerkD | Wie kann ich Daten exportieren und wiederverwenden? </title>     
+      <link rel="stylesheet" href="https://werkd.saw-leipzig.de/main.css">
+    </head>
+
+    <body>
+ 
+        <nav>
+
+          <div class="logo">
+            <img 
+              id="logo-big" 
+              src="https://werkd.saw-leipzig.de/images/logo.png"
+
+              srcset="https://werkd.saw-leipzig.de/images/logo.png 475w,
+              https://werkd.saw-leipzig.de/images/logo-small.png 340w"
+
+              sizes="
+                (max-width: 600px) 340px,
+                475px
+              "
+            />
+          <div id="submenu">
+            <a href="/">Über uns</a> | 
+            <a href="/blog">Blog</a> | 
+            <a href="/newsletter">Newsletter</a> |
+            <!--<a href="/ebook">E-book</a> | -->
+            <a href="https://kompetenzwerkd.github.io/funding">Ausschreibungen</a> | 
+            <a href="/impressum">Impressum</a> | 
+            <a href="/search">Suche</a>    
+          </div>
+
+        
+  <ul id="breadcrumbs">
+    
+      
+      <li><a href="https:&#x2F;&#x2F;werkd.saw-leipzig.de&#x2F;">Home</a>&nbsp;&#8594;&nbsp;</li> 
+    
+      
+      <li><a href="https:&#x2F;&#x2F;werkd.saw-leipzig.de&#x2F;wissensbasen&#x2F;">Wissensspeicher</a>&nbsp;&#8594;&nbsp;</li> 
+    
+      
+      <li><a href="https:&#x2F;&#x2F;werkd.saw-leipzig.de&#x2F;wissensbasen&#x2F;mediawiki&#x2F;">Semantic MediaWiki</a>&nbsp;&#8594;&nbsp;</li> 
+    
+    <li><h4>Wie kann ich Daten exportieren und wiederverwenden?</h4></li>
+  </ul>
+
+  <!--
+  <div id="taxonomies">
+       
+
+    
+    
+    
+    -->
+
+
+  </div>
+
+  
+        
+        </nav>
+
+
+        <main>
+
+          <div id="content">
+
+          
+
+
+
+  
+  
+    
+    
+  
+
+
+
+
+  <article>
+    <h1 id="wie-kann-ich-daten-exportieren-und-wiederverwenden">Wie kann ich Daten exportieren und wiederverwenden?<a class="anchor" href="#wie-kann-ich-daten-exportieren-und-wiederverwenden">§</a>&nbsp;</h1>
+<p>Sollte das Wiki im Rahmen eines befristeten Projekts aufgebaut werden, sollte man sich Gedanken über die Möglichkeiten der Datenwiederverwertung, des Exports bzw. der Kompatibilität mit anderen Datenbanken und Projekten machen. Denn dadurch wird es möglich, die im Wiki eingespeisten Projektergebnisse an Dritte weiterzugeben.</p>
+<p>In diesem Zusammenhang gibt es drei Begriffe, die angesprochen werden sollten:</p>
+<ul>
+<li><a href="https://kompetenzwerkd.github.io/glossar/#linked-open-data">Linked open data (LOD)</a></li>
+<li><a href="https://kompetenzwerkd.github.io/glossar/#rdf">Resource Description Framework (RDF)</a></li>
+<li><a href="https://kompetenzwerkd.github.io/glossar/#json">JavaScript Object Notation (JSON)</a> und JSON-LD</li>
+</ul>
+<p>LOD ist dabei das Prinzip, freies ('open') Wissen ('data') miteinander zu verknüpfen ('linked'). Durch die Verknüpfungen entstehen wiederum neue Erkenntnisse. Die Unterschiede zwischen RDF und JSON-LD kann man z. B. <a href="https://allegrograph.com/rdf-json/">hier</a> nachlesen. Allgemein kann man jedoch sagen, dass RDF und JSON-LD <a href="https://kompetenzwerkd.github.io/glossar/#dateiformat">Formate</a> sind, die das LOD-Prinzip ermöglichen. Dabei ist RDF für maschinelle Verarbeitung von Daten geeignet, weniger aber für das menschliche Auge, wohingegen JSON-LD mehr für das menschliche Auge gedacht ist.</p>
+<p>Semantic MediaWiki bietet in der Special:Ask-Sektion die Möglichkeit, die Daten in RDF und JSON zu exportieren.</p>
+<h2 id="ontologien"><a href="https://kompetenzwerkd.github.io/glossar/#ontologie">Ontologien</a><a class="anchor" href="#ontologien">§</a>&nbsp;</h2>
+<p>Im Sinne des LOD und auch aus der Sicht der Nachnutzung kann es sinnvoll sein, die Bezeichnung der Bestandteile des Datenmodells bereits entstehenden Ontologie-Sammlungen zu entnehmen. Für das obige Beispiel der Numismatik könnte man z. B. einige Ontologien aus <a href="http://nomisma.org/ontology">nomisma</a> entnehmen.</p>
+<p>Es fällt auf, dass in der Ontologien-Liste von nomisma unter dem obigen Link teilweise zwei ähnliche Ontologien vorkommen: Zum Beispiel steht einmal &quot;nmo:Material&quot; und dann weiter unten wieder &quot;nmo:hasMaterial&quot;. Hinter dem &quot;nmo:Material&quot; steckt dabei die &quot;Category&quot;, dagegen ist unter &quot;nmo:hasMaterial&quot; eine &quot;Property&quot; zu verstehen.</p>
+<p>Wenn man das obige Datenmodell mit den nomisma-Ontologien abgleicht, fällt auf, dass sich die &quot;Properties&quot; nur bedingt decken. Während Ontologien für allgemeine Objektbeschreibungen bei nomisma gut abgedeckt sind, kann bei weiteren, sehr spezifischen Beschreibungen wie Aufschrift oder Umschrift von Avers / Revers die jeweilige Ontologie fehlen. In diesem Fall würde dann die entsprechende Spalte als ontologische Verlinkung entfallen bzw. man müsste eigene Ontologien schaffen.</p>
+<p>Im Folgenden soll gezeigt werden, wie man ontologische Verlinkungen mittels Semantic MediaWiki erstellen kann:
+Dazu muss bei der Erstellung des &quot;Schemas&quot; als &quot;Property&quot;-Art &quot;External Identifier&quot; gewählt werden. Die eigentliche Verlinkung findet allerdings manuell in der &quot;Property&quot;-Beschreibung statt.</p>
+<p>Angenommen, man möchte die Material-&quot;Property&quot; mit der nomisma-&quot;Property&quot; &quot;hasMaterial&quot; verlinken: Auf der Material-&quot;Category&quot;-Seite kann eine External-Identifier-&quot;Property&quot; erstellt werden. Nachdem die Seiten wie üblich generiert wurden, kann mittels &quot;Search-box&quot; die entsprechend neu erstellte &quot;Property&quot; gesucht werden (in der Abbildung &quot;Property:Hat nomisma id&quot;). Nun wird die &quot;Property&quot;-Seite editiert und der Code zur Verlinkung eingegeben (in diesem Fall &quot;[[External formatter uri:: http://nomisma.org/ontology#hasMaterial/$1]]
+&quot;). Nach dem Abspeichern ist die Verlinkung vollständig.</p>
+<p><img src="/images/smw/External-identifier1.png" alt="External Identifier" /></p>
+<blockquote>
+<p>Abb. 18: Eintsellung für den &quot;Property&quot;-Typ &quot;External identifier&quot;.</p>
+</blockquote>
+<p><img src="/images/smw/External-identifier2.png" alt="External Identifier" /></p>
+<blockquote>
+<p>Abb. 19: Eingabe des Codes zur Verlinkung auf der &quot;Property&quot;-Seite.</p>
+</blockquote>
+<p>Sollte nach dem Projektende tatsächlich eine Überführung der Daten in die nomisma-Datenbank stattfinden, kann sich nach der <a href="http://nomisma.org/documentation/contribute">Anleitung von nomisma</a> gerichtet werden.</p>
+<p>Natürlich gibt es jenseits von numismatischen Quellen und nomisa weitere Ontologien. Für personenbezogene Wikis könnte eine Verlinkung mit der <a href="https://kompetenzwerkd.github.io/glossar/#gnd">GND (Gemeinsame Normdatei)</a> sinnvoll sein. Für die Geschichte Osteuropas gibt es z. B. das Projekt <a href="https://www.osmikon.de/servicemenue/ueber-uns/ueber-ostdata/">OstData</a>. Eine weitere, sehr ergiebige Seite kann <a href="https://idai.world/">iDAI</a> sein, das jenseits von Ontologien auch für Inspiration sorgt. Als klassisches Beispiel darf in dieser Reihe außerdem <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a> nicht fehlen, wozu man <a href="https://kompetenzwerkd.github.io/glossar/#wikidata">hier</a> eine nähere Erläuterung findet. Bei der Recherche von Ontologien kann <a href="http://bartoc.org/">BARTOC</a> hilfreich sein. </p>
+<p>Weitere Beispielverlinkungen könnten im Folgenden aussehen:</p>
+<pre><code>[[External formatter uri::http:&#x2F;&#x2F;d-nb.info&#x2F;gnd&#x2F;$1]]
+[[External formatter uri::https:&#x2F;&#x2F;www.geonames.org&#x2F;$1]]
+</code></pre>
+<p>Zum Thema Semantic Mediawiki und LOD allgemein gibt es außerdem einen <a href="https://www.youtube.com/watch?v=T9e5zzoIf2M">Semantic-MediaWiki-Vortrag von Bernard Krabina</a>. Einen weiteren Einblick kann außerdem noch ein <a href="https://www.scitepress.org/papers/2017/65879/65879.pdf">Artikel von Matthias Frank und Stephan Zander</a> bieten.</p>
+
+  </article>
+
+
+          </div>
+        </main>
+
+ 
+
+ 
+      <footer>
+        <div>
+          <a href="https://creativecommons.org/share-your-work/public-domain/cc0/"><img src="https://licensebuttons.net/p/zero/1.0/88x31.png" alt="CC-0" /></a><br />
+          <a href="https://getzola.org">Build with Zola</a> | 
+          <a href="https://github.com/codeandmedia/zola_docsascode_theme">Theme based on docsacode-theme</a> |
+          <a href="https://github.com/kompetenzwerkd/kompetenzwerkd.github.io">Source code</a> 
+        </div>
+         
+      </footer>
+
+    </body>
+</html>

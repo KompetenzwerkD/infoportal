@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+      <title> KompetenzwerkD | Was sind die wichtigsten MediaWiki-Funktionen? </title>     
+      <link rel="stylesheet" href="https://werkd.saw-leipzig.de/main.css">
+    </head>
+
+    <body>
+ 
+        <nav>
+
+          <div class="logo">
+            <img 
+              id="logo-big" 
+              src="https://werkd.saw-leipzig.de/images/logo.png"
+
+              srcset="https://werkd.saw-leipzig.de/images/logo.png 475w,
+              https://werkd.saw-leipzig.de/images/logo-small.png 340w"
+
+              sizes="
+                (max-width: 600px) 340px,
+                475px
+              "
+            />
+          <div id="submenu">
+            <a href="/">Über uns</a> | 
+            <a href="/blog">Blog</a> | 
+            <a href="/newsletter">Newsletter</a> |
+            <!--<a href="/ebook">E-book</a> | -->
+            <a href="https://kompetenzwerkd.github.io/funding">Ausschreibungen</a> | 
+            <a href="/impressum">Impressum</a> | 
+            <a href="/search">Suche</a>    
+          </div>
+
+        
+  <ul id="breadcrumbs">
+    
+      
+      <li><a href="https:&#x2F;&#x2F;werkd.saw-leipzig.de&#x2F;">Home</a>&nbsp;&#8594;&nbsp;</li> 
+    
+      
+      <li><a href="https:&#x2F;&#x2F;werkd.saw-leipzig.de&#x2F;wissensbasen&#x2F;">Wissensspeicher</a>&nbsp;&#8594;&nbsp;</li> 
+    
+      
+      <li><a href="https:&#x2F;&#x2F;werkd.saw-leipzig.de&#x2F;wissensbasen&#x2F;mediawiki&#x2F;">Semantic MediaWiki</a>&nbsp;&#8594;&nbsp;</li> 
+    
+    <li><h4>Was sind die wichtigsten MediaWiki-Funktionen?</h4></li>
+  </ul>
+
+  <!--
+  <div id="taxonomies">
+       
+
+    
+    
+    
+    -->
+
+
+  </div>
+
+  
+        
+        </nav>
+
+
+        <main>
+
+          <div id="content">
+
+          
+
+
+
+  
+  
+    
+    
+  
+
+
+
+
+  <article>
+    <h1 id="was-sind-die-wichtigsten-mediawiki-funktionen">Was sind die wichtigsten MediaWiki-Funktionen?<a class="anchor" href="#was-sind-die-wichtigsten-mediawiki-funktionen">§</a>&nbsp;</h1>
+<h2 id="nomenklatur-in-alphabetischer-reihenfolge">Nomenklatur (in alphabetischer Reihenfolge)<a class="anchor" href="#nomenklatur-in-alphabetischer-reihenfolge">§</a>&nbsp;</h2>
+<ul>
+<li>Category: Die Category-Funktion gehört zu den Standardfunktionen des MediaWiki und ist bereits vor der Implementierung des Semantic MediaWiki vorhanden. Eine &quot;Category&quot; stellt den Überbegriff dar, dem durch die &quot;Schema&quot;-Funktion weitere Funktionen zugeordnet werden. </li>
+</ul>
+<p><img src="/images/smw/Category.png" alt="Category" /></p>
+<blockquote>
+<p>Abb. 1: Eine bereits mit Daten verbundene &quot;Category&quot;.</p>
+</blockquote>
+<ul>
+<li>
+<p>Extension: Eine &quot;Extension&quot;, hier auch gemeinhin als Zusatz bezeichnet, stellt eine funktionale Erweiterung der MediaWiki-Grundstruktur dar. Generelle Informationen hierzu können im <a href="https://www.mediawiki.org/wiki/Manual:Extensions">MediaWiki-Manual</a> nachgelesen werden. Zudem gibt es ebenfalls eine <a href="https://www.mediawiki.org/wiki/Category:All_extensions">&quot;Extensions&quot;-Liste</a>, die im MediaWiki-Manual enthalten ist. Weitere Zusätze lassen sich im Internet etwa bei <a href="https://github.com/search?q=mediawiki">Github</a> herunterladen.</p>
+</li>
+<li>
+<p>Form: Die Form-Funktion entsteht durch den Zusatz &quot;Page Forms&quot;. Die Funktion ist in der Standardausführung des MediaWikis nicht enthalten. Eine &quot;Form&quot; ist wörtlich zu nehmen und damit werden Eingabefelder auf der Basis von &quot;Templates&quot; erstellt, die wiederum auf den &quot;Properties&quot; beruhen. Die &quot;Form&quot;-Funktion erleichtert also visuell die Arbeit und umgeht letztlich, dass sich der Benutzer mit Codes von MediaWiki auseinandersetzen muss.</p>
+</li>
+</ul>
+<p><img src="/images/smw/Form.png" alt="Form" /></p>
+<blockquote>
+<p>Abb. 2: Ein &quot;Form&quot;-Abschnitt für das Datenmodell der numismatischen Quellen vor der Dateneingabe</p>
+</blockquote>
+<ul>
+<li>
+<p>Free text: Der &quot;Free text&quot;-Bereich kann innerhalb einer &quot;Page&quot; erstellt werden. Bei längeren Texten empfielt es sich, diesen Bereich zu aktivieren bzw. zu nutzen.</p>
+</li>
+<li>
+<p>Page: &quot;Page&quot; ist wortwörtlich als Seite zu verstehen und repräsentiert eine Wikiseite. Bei einem Münzkatalog würde die Seite z. B. einen Münzkatalogtext repräsentieren, bei Quellensammlungen einen Quelleneintrag, bei Lexika einen Lexikoneintrag. Eine &quot;Page&quot; kann erzeugt werden, indem man unter &quot;Special pages&quot; unter &quot;Create forms&quot; den neuen Seitennamen angibt. Eine Page ist also das Endprodukt, das durch die anderen Funktionen, die als Bausteine für eine &quot;Page&quot; dienten, erzeugt wurde.</p>
+</li>
+<li>
+<p>(Semantic) Property: Die Property-Funktion wird durch den Semantic MediaWiki-Zusatz ermöglicht und ist in der Standardausführung des MediaWiki nicht enthalten. Eine &quot;Property&quot; definiert, welche Informationen in ein Schema sollen. Hat man also als Thema z. B. Münzen gewählt, wären geeignete Properties dazu z. B. Größe, Gewicht, Material, Inventarnummer und andere Informationen, die je nach Münze zwar variieren, jedoch als Information an sich in jedem Münzeintrag vorhanden sein müssen.</p>
+</li>
+</ul>
+<p><img src="/images/smw/Property.png" alt="Property" /></p>
+<blockquote>
+<p>Abb. 3: Ein &quot;Property&quot;-Abschnitt, bereits mit Daten ausgefüllt.</p>
+</blockquote>
+<ul>
+<li>Schema: Die Schema-Funktion entsteht durch den Zusatz &quot;Page Schemas&quot; und ist in der Standardausführung des MediaWiki nicht enthalten. Die Funktion ist unter &quot;Category&quot; -&gt; &quot;Create Schema&quot; zu finden. Ein &quot;Schema&quot; stellt das Verbindungsglied zwischen &quot;Category&quot; und den drei anderen Funktionen, &quot;Form&quot;, &quot;Template&quot; und &quot;Property&quot;, dar. Mittels &quot;Generate Page&quot; können die letzteren drei Funktionen erstellt und nach Änderungen erneuert werden. Daher müssen &quot;Properties&quot; und &quot;Templates&quot;, die zu einer &quot;Category&quot; gehören, nicht manuell erzeugt werden.</li>
+</ul>
+<p><img src="/images/smw/Schema.png" alt="Schema" /></p>
+<blockquote>
+<p>Abb. 4: Das &quot;Schema&quot;, das nach dem Abspeichern auf der &quot;Category&quot;-Seite erscheint.</p>
+</blockquote>
+<ul>
+<li>Search box: Die Search-box-Funktion gehört zu den Standardfunktionen des MediaWiki und ist in der Standardausführung bereits enthalten. In der Regel ist die &quot;Search box&quot; in der rechten Ecke des Bildschirms oben zu finden. Die &quot;Search box&quot; hat im Wesentlichen zwei Funktionen. Erstens kann die Funktion wörtlich als Suchfeld verstanden werden. Wörter, die im Wiki gesucht werden sollen, können hier eingetippt werden. Sind spezielle Seitennamen wie die von einer &quot;Category&quot;, &quot;Property&quot; und anderen hier aufgeführten Funktionen gesucht, kann man die Funktion zuerst angeben, dahinter ein Doppelpunkt-Zeichen setzen und ohne Leerzeichen den Titel der Funktion angeben (&quot;Category:Funktion&quot;). Zweitens dient die Search-box-Funktion während der Gestaltung des Wikis auch dazu, manuell z. B. eine &quot;Category&quot;-Funktion zu erstellen. Dabei wird nach einer speziellen Funktionsseite gesucht, die noch nicht im Wiki vorhanden ist und neu erstellt werden soll.</li>
+</ul>
+<p><img src="/images/smw/Search_box.png" alt="Search box" /></p>
+<blockquote>
+<p>Abb. 5: &quot;Search box&quot; unter der Benutzung des Chameleon-&quot;Skins&quot;.</p>
+</blockquote>
+<ul>
+<li>Sidebar: Die &quot;Sidebar&quot;-Funktion ist je nach Benutzeroberfläche (&quot;Skin&quot;) meist links vertikal oder oben mittig horizontal zu finden. Hier sind die wichtigsten Seiten des Wikis zusammengefasst. Durch die Suche von &quot;MediaWiki:Sidebar&quot; in der &quot;Search-box&quot; kann die Liste dieser Seiten modifiziert werden.</li>
+</ul>
+<p><img src="/images/smw/Sidebar1.png" alt="Sidebar Chameleon" /></p>
+<blockquote>
+<p>Abb. 6: &quot;Sidebar&quot; unter der Benutzung des Chameleon-&quot;Skins&quot;.</p>
+</blockquote>
+<p><img src="/images/smw/Sidebar2.png" alt="Sidebar Vector" /></p>
+<blockquote>
+<p>Abb. 7: &quot;Sidebar&quot; unter der Benutzung des Vector-&quot;Skins&quot;. Viele &quot;Skins&quot; bilden die &quot;Search box&quot; senkrecht ab, wie dies z. B. aus Wikipedia-Seiten bekannt ist.</p>
+</blockquote>
+<ul>
+<li>
+<p>Skin: Unter &quot;Skin&quot; ist das Aussehen der Benutzeroberfläche zu verstehen. Die in dieser Anleitung benutzte &quot;Skin&quot; heißt &quot;Chameleon&quot; und wurde zusätzlich implementiert. Die &quot;Skin&quot;-Wahl ist unabhängig von technischen Funktionen. Unter &quot;preferences&quot; kann man die persönliche &quot;Skin&quot;-Einstellung abändern.</p>
+</li>
+<li>
+<p>Template: Die Template-Funktion gehört ebenfalls zu den Standardfunktionen des MediaWiki und ist in der Standardausführung bereits enthalten. Ein &quot;Template&quot; ist in Kombination mit Semantic MediaWiki wortwörtlich als Vorlage zu verstehen. Es wird auf der Basis von &quot;Categories&quot; und &quot;Properties&quot; mittels Schema-Funktion ein &quot;Template&quot; erstellt, das als allgemeine Eingabevorlage dienen kann. Diese Eingabevorlage liegt noch in Form von einem Code vor und sollte mittels &quot;Form&quot;-Funktion, die aus den Codes richtige Eingabefelder generiert, visuell leicht verständlich gemacht werden. </p>
+</li>
+</ul>
+
+  </article>
+
+
+          </div>
+        </main>
+
+ 
+
+ 
+      <footer>
+        <div>
+          <a href="https://creativecommons.org/share-your-work/public-domain/cc0/"><img src="https://licensebuttons.net/p/zero/1.0/88x31.png" alt="CC-0" /></a><br />
+          <a href="https://getzola.org">Build with Zola</a> | 
+          <a href="https://github.com/codeandmedia/zola_docsascode_theme">Theme based on docsacode-theme</a> |
+          <a href="https://github.com/kompetenzwerkd/kompetenzwerkd.github.io">Source code</a> 
+        </div>
+         
+      </footer>
+
+    </body>
+</html>

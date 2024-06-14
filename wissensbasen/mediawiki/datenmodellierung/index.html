@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+      <title> KompetenzwerkD | Wie setze ich mein Projekt mit MediaWiki um? </title>     
+      <link rel="stylesheet" href="https://werkd.saw-leipzig.de/main.css">
+    </head>
+
+    <body>
+ 
+        <nav>
+
+          <div class="logo">
+            <img 
+              id="logo-big" 
+              src="https://werkd.saw-leipzig.de/images/logo.png"
+
+              srcset="https://werkd.saw-leipzig.de/images/logo.png 475w,
+              https://werkd.saw-leipzig.de/images/logo-small.png 340w"
+
+              sizes="
+                (max-width: 600px) 340px,
+                475px
+              "
+            />
+          <div id="submenu">
+            <a href="/">Über uns</a> | 
+            <a href="/blog">Blog</a> | 
+            <a href="/newsletter">Newsletter</a> |
+            <!--<a href="/ebook">E-book</a> | -->
+            <a href="https://kompetenzwerkd.github.io/funding">Ausschreibungen</a> | 
+            <a href="/impressum">Impressum</a> | 
+            <a href="/search">Suche</a>    
+          </div>
+
+        
+  <ul id="breadcrumbs">
+    
+      
+      <li><a href="https:&#x2F;&#x2F;werkd.saw-leipzig.de&#x2F;">Home</a>&nbsp;&#8594;&nbsp;</li> 
+    
+      
+      <li><a href="https:&#x2F;&#x2F;werkd.saw-leipzig.de&#x2F;wissensbasen&#x2F;">Wissensspeicher</a>&nbsp;&#8594;&nbsp;</li> 
+    
+      
+      <li><a href="https:&#x2F;&#x2F;werkd.saw-leipzig.de&#x2F;wissensbasen&#x2F;mediawiki&#x2F;">Semantic MediaWiki</a>&nbsp;&#8594;&nbsp;</li> 
+    
+    <li><h4>Wie setze ich mein Projekt mit MediaWiki um?</h4></li>
+  </ul>
+
+  <!--
+  <div id="taxonomies">
+       
+
+    
+    
+    
+    -->
+
+
+  </div>
+
+  
+        
+        </nav>
+
+
+        <main>
+
+          <div id="content">
+
+          
+
+
+
+  
+  
+    
+    
+      
+    
+      
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+
+
+
+    <hr />
+    <ul id="toc">
+      
+        <li><a href="https://werkd.saw-leipzig.de/wissensbasen/mediawiki/datenmodellierung/#wie-setze-ich-mein-projekt-mit-mediawiki-um">Wie setze ich mein Projekt mit MediaWiki um?</a>
+        <ul>        
+          
+          <li><a href="https://werkd.saw-leipzig.de/wissensbasen/mediawiki/datenmodellierung/#ideen-sammeln-und-datenmodelle-konzipieren">Ideen sammeln und Datenmodelle konzipieren</a></li>
+        
+          <li><a href="https://werkd.saw-leipzig.de/wissensbasen/mediawiki/datenmodellierung/#arbeitsschritte">Arbeitsschritte</a></li>
+        
+          <li><a href="https://werkd.saw-leipzig.de/wissensbasen/mediawiki/datenmodellierung/#auflistungen-darstellung-mehrerer-seiteninhalte-auf-einer-seite">Auflistungen: Darstellung mehrerer Seiteninhalte auf einer Seite</a></li>
+        
+          <li><a href="https://werkd.saw-leipzig.de/wissensbasen/mediawiki/datenmodellierung/#auflistungen-bestimmter-properties">Auflistungen bestimmter &quot;Properties&quot;</a></li>
+        
+          <li><a href="https://werkd.saw-leipzig.de/wissensbasen/mediawiki/datenmodellierung/#zitation-wissenschaftliche-nachweismethoden-mit-mediawiki">Zitation: Wissenschaftliche Nachweismethoden mit MediaWiki</a></li>
+        
+       </ul>
+
+      </li>
+
+    </ul>
+    <hr  />
+
+
+  <article>
+    <h1 id="wie-setze-ich-mein-projekt-mit-mediawiki-um">Wie setze ich mein Projekt mit MediaWiki um?<a class="anchor" href="#wie-setze-ich-mein-projekt-mit-mediawiki-um">§</a>&nbsp;</h1>
+<h2 id="ideen-sammeln-und-datenmodelle-konzipieren">Ideen sammeln und <a href="https://kompetenzwerkd.github.io/glossar/#datenmodell">Datenmodelle</a> konzipieren<a class="anchor" href="#ideen-sammeln-und-datenmodelle-konzipieren">§</a>&nbsp;</h2>
+<p>Der erste Schritt besteht darin, Projektideen zu sammeln. An dieser Stelle soll überlegt werden, wie Informationen am Ende geordnet werden sollen. Dies ist ein fundamentaler und somit wichtiger Schritt, wofür genügend Zeit eingeplant werden sollte. Nachträgliche Änderungen dieses Grundgerüsts kann zu Zeitverlust und großem zusätzlichen Zeitaufwand führen.</p>
+<p>Eine wesentliche Frage, die am Anfang des Projekts gestellt werden muss, ist folgende: &quot;Was möchte ich auf einer Wiki-Seite (= &quot;Page&quot;) darstellen?&quot;</p>
+<p>Einige Beispiele seien hier genannt:</p>
+<ul>
+<li>Quellendokumentation: 1 Page* = 1 Quelleneintrag (unabhängig von der Art der Quelle)</li>
+<li>Lexikon / Nachschlagewerk: 1 Page* = 1 Lexikoneintrag</li>
+<li>Readerersatz / Lehrmaterial: 1 Page* = 1 Seminarinhalt (Übungen in Form von <a href="https://www.mediawiki.org/wiki/Extension:QuizGame">Quiz-Abfragen</a> interaktiv gestaltbar)</li>
+</ul>
+<blockquote>
+<p><strong>⚠ Achtung (*):</strong> Es ist möglich, einen Seiteninhalt auf einer anderen Seite einzublenden. Das bedeutet auch, dass mehrere Seiten auf einer anderen Seite zusammen dargestellt werden können. Siehe hierzu den Abschnitt zur Darstellung mehrerer Seiten auf einer Seite.</p>
+</blockquote>
+<p>Konkrete Szenarien, für die die Nutzung von MediaWiki sinnvoll sein können, sind beispielsweise wie folgt:</p>
+<ul>
+<li>Eine Einzelperson / eine Forschergruppe / eine Einrichtung ...
+<ul>
+<li>hat eine bestimmte Anzahl an Münzen, die schnell und einfach katalogisiert werden sollen.</li>
+<li>besitzt eine umfangreiche handschriftliche Quelle, in der mehrere, wiederkehrende Symbole verwendet werden, die schnell und einfach katalogisiert werden sollen.</li>
+<li>befasst sich mit einer Handschrift, die viele ungewöhnliche Abkürzungen beinhaltet, die nicht in den gängigen Nachschlagewerken enthalten sind, und will diese Schritt für Schritt katalogisieren.</li>
+<li>besitzt Quellenzitate, die nach Jahrgängen geordnet und von überall zugreifbar gemacht werden sollen, sodass eine Art digitales Kompendium entsteht.</li>
+<li>befasst sich mit Codices über Kräuterkunde, worin viele Kräuter vorkommen, die Schritt für Schritt erfasst werden sollen.</li>
+</ul>
+</li>
+<li>In einem Seminar...
+<ul>
+<li>soll interaktiv ein Katalog zu bestimmten Quellen gestaltet werden.</li>
+<li>soll ein Nachschlagewerk zu Begrifflichkeiten in der Seuchengeschichte zusammengetragen werden.</li>
+<li>soll ein Nachschlagewerk zu bestimmten Personen im Umfeld von Friedrich II. zusammengetragen werden.</li>
+</ul>
+</li>
+</ul>
+<p>Tipp zum Brainstorming: Zwar nicht im Zusammenhang mit MediaWiki durchgeführt, dient jedoch <a href="https://medium.com/digirati-ch/first-ux-workshop-for-science-in-the-making-95de75b6acb6">dieses Beispiel</a> als hervorragendes Vorbild, wie eine Ideensammlung innerhalb von Forschergruppen stattfinden kann.</p>
+<h3 id="konzeption-von-datenmodellen-unter-berucksichtigung-der-quellenkritik">Konzeption von Datenmodellen unter Berücksichtigung der Quellenkritik<a class="anchor" href="#konzeption-von-datenmodellen-unter-berucksichtigung-der-quellenkritik">§</a>&nbsp;</h3>
+<p>Die Quellenkritik ist ein in der Geschichtswissenschaft unabdingbares Werkzeug zur Sicherung der wissenschaftlichen Qualität. Daher kann bei Projekten, die interdisziplinäre Zusammenarbeit mit Informatik-Bereichen erfordern, die Integration der Quellenkritik eine besondere Herausforderung sein. In Anlehnung an die Definition von Quellenkritik des Klassikers &quot;Proseminar Geschichte: Mittelalter&quot; von Hans-Werner Goetz (→ Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 4. Auflage, Stuttgart 2014) soll nun überlegt werden, wie die Integration konkret aussehen könnte.</p>
+<p>Grundsätzlich spricht erst einmal nichts dagegen, die Quellenkritik als eigene &quot;Semantic property&quot; mit der Dateneinstellung &quot;Text&quot; anzugeben oder diese nur in die äußere und innere Quellenkritik einzuteilen und in diesen Abschnitten die Quellenkritik als längeren Text beschreibend darzustellen. </p>
+<p>Bei manchen Fragestellungen mag allerdings eine genauere Unterteilung vonnöten sein. Eine genauere Unterteilung hat auch den Vorteil, dass die Dateneingabe optisch vereinheitlicht werden kann.</p>
+<blockquote>
+<p>(A) <em>Äußere (formale) Kritik</em>:
+Die äußere Kritik prüft, wieweit die Textgestalt glaubwürdig ist, und zwar in
+dreierlei Hinsicht:
+(1) <em>Kritik der Provenienz</em> (Herkunft):
+Wann, wo und wie wurde der Text verfasst? Wer hat ihn verfasst?
+Diese Informationen stellt der quellenkundliche Kommentar bereit.</p>
+</blockquote>
+<p>→ Aus: Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 4. Auflage, Stuttgart 2014, hier: S. 268.</p>
+<p>Dieser Abschnitt könnte anhand der gestellten Fragen bereits in vier &quot;Semantic Property&quot;-Feldern eingegeben werden:</p>
+<table><thead><tr><th>Fragen</th><th>MediaWiki-Funktion</th><th>Datenformat</th></tr></thead><tbody>
+<tr><td>&quot;Wann wurde der Text verfasst?&quot;</td><td>Property</td><td>Text</td></tr>
+<tr><td>&quot;Wo wurde der Text verfasst?&quot;</td><td>Property</td><td>Text</td></tr>
+<tr><td>&quot;Wie wurde der Text verfasst?&quot;</td><td>Property</td><td>Text</td></tr>
+<tr><td>&quot;Wer hat den Text verfasst?&quot;</td><td>Property</td><td>Text</td></tr>
+</tbody></table>
+<p>Dieses Format kann selbstverständlich je nach Format beliebig erweitert werden. Sollten immer wiederkehrende Komponenten (z. B. wurden die Texte immer nur von denselben Personen verfasst), vorkommen, kann man sich überlegen, mit der &quot;Property&quot; auf eine bestimmte &quot;Category&quot; zu verweisen.</p>
+<blockquote>
+<p>(2) <em>Kritik der Echtheit</em> (discrimen veri ac falsi):
+– Autorschaft: Ist der genannte Autor wirklich der Verfasser? Ist der Text das, wofür er sich ausgibt?
+– Überlieferung: Ist der Text so erhalten, wie der Autor ihn geschrieben hat? Diese Fragen werden in (und mit) der Edition geklärt.</p>
+</blockquote>
+<p>→ Aus: Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 4. Auflage, Stuttgart 2014, hier: S. 268.</p>
+<p>Analog können hierzu eigene &quot;Properties&quot; erstellt werden.</p>
+<table><thead><tr><th>Fragen</th><th>MediaWiki-Funktion</th><th>Datenformat</th></tr></thead><tbody>
+<tr><td>&quot;Ist der genannte Autor wirklich der Verfasser?&quot;</td><td>Property</td><td>Text</td></tr>
+<tr><td>&quot;Ist der Text das, wofür er sich ausgibt?&quot;</td><td>Property</td><td>Text</td></tr>
+<tr><td>&quot;Wie ist der Text überliefert?&quot;</td><td>Property</td><td>Text</td></tr>
+</tbody></table>
+<blockquote>
+<p>(3) <em>Kritik der Originalität</em>:
+Beruhen die Informationen auf eigenen Beobachtungen des Autors, oder worauf stützt er sich? Auch hier hilft in vielen Fällen die kritische Edition weiter.</p>
+</blockquote>
+<p>→ Aus: Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 4. Auflage, Stuttgart 2014, hier: S. 268.</p>
+<p>Dieser Abschnitt kann wohl je nach Quelle sehr variieren und könnte sich auch in Teilen mit der inneren Quellenkritik überschneiden. Um inhaltliche Redundanz zu vermeiden, soll hier erst einmal ein Blick auf die innere Quellenkritik geworfen werden.</p>
+<blockquote>
+<p>(B) Innere (inhaltliche) Kritik:
+Die innere Kritik prüft, wieweit die Quellenaussage glaubwürdig ist. Deren Zuverlässigkeit oder Glaubwürdigkeit wird grundsätzlich durch zwei entscheidende Faktoren eingeschränkt:
+(1) das (mangelnde) Wissen des Autors,
+(2) die (erklärte) Absicht des Autors.</p>
+</blockquote>
+<p>→ Aus: Goetz, Hans-Werner: Proseminar Geschichte. Mittelalter, 4. Auflage, Stuttgart 2014, hier: S. 268.</p>
+<p>Auch diese zwei Punkte könnten in der Praxis Hand in Hand gehen und somit schwer voneinander zu trennen sein. Technisch könnte man den dritten Punkt der äußeren Kritik sowie die innere Quellenkritik als eine &quot;Property&quot; darstellen und die Inhaltsbeschreibung allgemein halten:</p>
+<table><thead><tr><th>Fragen</th><th>MediaWiki-Funktion</th><th>Datenformat</th></tr></thead><tbody>
+<tr><td>Bezug, Hintergrundwissen, Absicht zur Information / zum Ereignis</td><td>Property</td><td>Text</td></tr>
+</tbody></table>
+<p>Hier wäre auf jeden Fall empfehlenswert, das Datenformat &quot;Text&quot; beizubehalten, sodass die Flexibilität und die Anpassungsfähigkeit für verschiedene Quellen erhalten bleibt.</p>
+<p>Goetz geht hier mit seinem Wortgebrauch &quot;Text&quot; nur auf schriftliche Quellen ein, ebenso gut könnte man diese Fragen aber auch bei gegenständlichen Quellen stellen. Man würde dann nicht mehr zwangsläufig von &quot;Textgestalt&quot;, sondern von &quot;Objektgestalt&quot; o. ä. sprechen. Hier ist Vorsicht geboten, da man zwischen den materiellen Kriterien und den Text-Kriterien unterscheiden sollte. Für numismatische Quellen ist in dieser Handreichung eine Anleitung gegeben.
+In jedem Fall sollte hier festgehalten werden, dass Abänderungen dieser Fragen erforderlich sein werden, um dem Ziel des jeweiligen Projekts zu entsprechen. </p>
+<p>Bei der Konzeption ist die Erkennung, in welcher &quot;Property&quot; man flexibel bleiben möchte und welche &quot;Property&quot; datentechnisch bei jeder Quelleneingabe vergleichbar bleibt, äußerst wichtig. Die &quot;Property&quot; mit Daten aus einer anderen &quot;Category&quot; zu füllen, mag bei gleichbleibenden Informationen sinnvoll sein, wodurch jedoch für die Erstellung der einzelnen &quot;Categories&quot; entsprechender Aufwand zusätzlich einkalkuliert werden muss.</p>
+<h3 id="datenmodell-beispiel-numismatischer-katalog">Datenmodell-Beispiel: Numismatischer Katalog<a class="anchor" href="#datenmodell-beispiel-numismatischer-katalog">§</a>&nbsp;</h3>
+<p>Category:Numismatische Quelle <mark>Hierdurch erübrigt sich der &quot;Bereich&quot;</mark></p>
+<ul>
+<li>
+<p>(Semantic property ?: Digitalisat)</p>
+</li>
+<li>
+<p>Semantic property: Quellentyp</p>
+<ul>
+<li>Category:Quellentyp -&gt; Schema:Quellentyp = Property:Quellentyp + Template:Quellentyp + Form:Quellentyp 
+<ul>
+<li>Form -&gt; Page:Münze</li>
+<li>Form -&gt; Page:Medaille</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Semantic property: Münztyp (optional)</p>
+<ul>
+<li>Category:Münztyp -&gt; Schema:Münztyp = Property:Münztyp + Template:Münztyp + Form:Münztyp
+<ul>
+<li>Form -&gt; Page:Pfennig usw.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Semantic property:Material</p>
+<ul>
+<li>Category:Material -&gt; Schema:Material = Property:Material + Template:Material + Form:Material
+<ul>
+<li>Form -&gt; Page:Gold usw.
+<mark>Wie sollte man Legierungen handhaben?</mark></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Semantic property:Größe (Text)</p>
+</li>
+<li>
+<p>Semantic property:Gewicht (Text)</p>
+</li>
+<li>
+<p>Semantic property:Aufschrift Avers (Text, optional)</p>
+</li>
+<li>
+<p>Semantic property:Umschrift Avers (Text, optional)</p>
+</li>
+<li>
+<p>Semantic property:Aufschrift Revers (Text, optional)</p>
+</li>
+<li>
+<p>Semantic property:Umschrift Revers (Text, optional)</p>
+</li>
+<li>
+<p>Semantic property:Randschrift (Text, optional)</p>
+</li>
+<li>
+<p>Semantic property:Symbole</p>
+<ul>
+<li>Category:Symbole -&gt; Schema:Symbole = Property:Symbole + Template:Symbole + Form:Symbole
+<ul>
+<li>Form -&gt; Page:Reichsapfel usw.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Semantic property:Akteure (Münzherr etc.)</p>
+</li>
+<li>
+<p>Category:Akteure -&gt; Schema:Akteure = Property:Akteure + Template:Akteure + Form:Akteure</p>
+<ul>
+<li>Form -&gt; Page:Kurfürst XY usw.</li>
+</ul>
+</li>
+<li>
+<p>Semantic property:Ort</p>
+</li>
+<li>
+<p>Category:Ort -&gt; Schema:Ort = Property:Ort + Template:Ort + Form:Ort</p>
+<ul>
+<li>Form -&gt; Page:Ort XY usw.</li>
+</ul>
+</li>
+<li>
+<p>Semantic property:Zeitrahmen (Text)</p>
+</li>
+<li>
+<p>Semantic property:Anlass (Text, optional)</p>
+</li>
+<li>
+<p>Semantic property:Signatur (Text)</p>
+</li>
+</ul>
+<p>Die allgemeine Beschreibung kann z. B. in &quot;Free Text&quot; geschrieben werden.</p>
+<h2 id="arbeitsschritte">Arbeitsschritte<a class="anchor" href="#arbeitsschritte">§</a>&nbsp;</h2>
+<p>Für den allgemeinen Aufbau eines MediaWiki unter Benutzung der genannten Zusätze sehen die notwendigen Arbeitsschritte am Beispiel der oben gegebenen numismatischen Quellen wie folgt aus. Einzig bei dem letzten Schritt ist zu unterscheiden, ob später eine Auflistung (siehe unten) gewünscht ist. Sollte dies nicht der Fall sein, kann mit 4a.) fortgefahren werden. Sollte dies jedoch der Fall sein, muss 4b.) gewählt werden.</p>
+<p>1.) &quot;Category:Numismatische Quellen&quot; in die &quot;Search box&quot; eingeben und erstellen.</p>
+<p><img src="/images/smw/Category-1.png" alt="Category erstellen 1" /></p>
+<blockquote>
+<p>Abb. 8: Suche nach &quot;Category:Numismatische Quellen&quot; im Wiki.</p>
+</blockquote>
+<p><img src="/images/smw/Category-2.png" alt="Category erstellen 2" /></p>
+<blockquote>
+<p>Abb. 9: Ergebnislose Suche nach &quot;Category:Numismatische Quellen&quot; mit der Möglichkeit &quot;Category:Numismatische Quellen&quot; neu anzulegen.</p>
+</blockquote>
+<p><img src="/images/smw/Category-3.png" alt="Category erstellen 3" /></p>
+<blockquote>
+<p>Abb. 10: Der Erstellprozess der &quot;Category:Numismatische Quellen&quot;. Die Seite kann vorerst blank abgespeichert werden.</p>
+</blockquote>
+<p>2.) Auf &quot;Category:Numismatische Quellen&quot; klicken. Auf &quot;Create schema&quot; mittig oben klicken. </p>
+<p><img src="/images/smw/Category-4.png" alt="Schema erstellen 1" /></p>
+<blockquote>
+<p>Abb. 11: &quot;Category:Numismatische Quellen&quot; nach dem erstmaligen Abspeichern.</p>
+</blockquote>
+<p>Ein ausfüllbares Formular erscheint, das nach dem eigenen Datenmodell ausgefüllt werden und gespeichert werden soll. Nach dem obigen Datenmodell könnte die Einstellung etwa so aussehen:</p>
+<p><img src="/images/smw/Category-5.png" alt="Schema erstellen 2" /></p>
+<blockquote>
+<p>Abb. 12: Erstellung der &quot;Form&quot; mittles &quot;Schema&quot;.</p>
+</blockquote>
+<p><img src="/images/smw/Category-6.png" alt="Schema erstellen 3" /></p>
+<blockquote>
+<p>Abb. 13: Erstellung des &quot;Templates&quot; mittles &quot;Schema&quot;.</p>
+</blockquote>
+<p>&quot;Field&quot;:</p>
+<table><thead><tr><th>Äquivalenz zum Datenmodell</th><th>Name</th><th>Display label</th><th>List of values</th><th>Delimiter for values</th><th>Display...</th></tr></thead><tbody>
+<tr><td>Quellentyp</td><td>Hat Quellentyp</td><td>Quellentyp</td><td></td><td></td><td>always</td></tr>
+<tr><td>Münztyp</td><td>Hat Münztyp</td><td>Münztyp</td><td>[x]</td><td></td><td>if not empty</td></tr>
+<tr><td>Material</td><td>Hat Material</td><td>Material</td><td></td><td></td><td>always</td></tr>
+<tr><td>Größe</td><td>Hat Größe</td><td>Größe (mm)</td><td></td><td></td><td>always</td></tr>
+<tr><td>Gewicht</td><td>Hat Gewicht</td><td>Gewicht (g)</td><td></td><td></td><td>always</td></tr>
+<tr><td>Aufschrift Avers</td><td>Hat Aufschrift Avers</td><td>Aufschrift Avers</td><td></td><td></td><td>if not empty</td></tr>
+<tr><td>Umschrift Avers</td><td>Hat Umschrift Avers</td><td>Umschrift Avers</td><td></td><td></td><td>if not empty</td></tr>
+<tr><td>Aufschrift Revers</td><td>Hat Aufschrift Revers</td><td>Aufschrift Revers</td><td></td><td></td><td>if not empty</td></tr>
+<tr><td>Umschrift Revers</td><td>Hat Umschrift Revers</td><td>Umschrift Revers</td><td></td><td></td><td>if not empty</td></tr>
+<tr><td>Randschrift</td><td>Hat Randschrift</td><td>Randschrift</td><td></td><td></td><td>if not empty</td></tr>
+<tr><td>Symbole</td><td>Hat Symbole</td><td>Symbole</td><td>[x]</td><td></td><td>always</td></tr>
+<tr><td>Akteure</td><td>Hat Akteure</td><td>Akteure</td><td>[x]</td><td></td><td>always</td></tr>
+<tr><td>Ort</td><td>Hat Ort</td><td>Ort</td><td>[x]</td><td></td><td>always</td></tr>
+<tr><td>Zeit von</td><td>Hat Zeit von</td><td>Zeit von</td><td></td><td></td><td>always</td></tr>
+<tr><td>Zeit bis</td><td>Hat Zeit bis</td><td>Zeit bis</td><td></td><td></td><td>always</td></tr>
+<tr><td>Anlass</td><td>Hat Anlass</td><td>Anlass</td><td></td><td></td><td>if not empty</td></tr>
+<tr><td>Signatur</td><td>Hat Signatur</td><td>Signatur</td><td></td><td></td><td>always</td></tr>
+</tbody></table>
+<p>&quot;Form input&quot;:</p>
+<table><thead><tr><th>Äquivalenz zum Datenmodell</th><th>Input type</th><th>Parameter names</th><th>Text before field</th><th>Field description</th><th>Description as pop-up</th></tr></thead><tbody>
+<tr><td>Quellentyp</td><td>tokens</td><td>values from category=Quellentyp</td><td></td><td>Münze oder Medaille?</td><td>[x]</td></tr>
+<tr><td>Münztyp</td><td>tokens</td><td>values from category=Münztyp</td><td></td><td>Nur bei Münzen angeben</td><td>[x]</td></tr>
+<tr><td>Material</td><td>tokens</td><td>values from category=Material</td><td></td><td></td><td></td></tr>
+<tr><td>Größe</td><td>text</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Gewicht</td><td>text</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Aufschrift Avers</td><td>textarea</td><td></td><td></td><td>Optional</td><td>[x]</td></tr>
+<tr><td>Umschrift Avers</td><td>textarea</td><td></td><td></td><td>Optional</td><td>[x]</td></tr>
+<tr><td>Aufschrift Revers</td><td>textarea</td><td></td><td></td><td>Optional</td><td>[x]</td></tr>
+<tr><td>Umschrift Revers</td><td>textarea</td><td></td><td></td><td>Optional</td><td>[x]</td></tr>
+<tr><td>Randschrift</td><td>textarea</td><td></td><td></td><td>Optional</td><td>[x]</td></tr>
+<tr><td>Symbole</td><td>tokens</td><td>values from category=Symbole☆</td><td></td><td></td><td></td></tr>
+<tr><td>Akteure</td><td>tokens</td><td>values from category=Akteure</td><td></td><td></td><td></td></tr>
+<tr><td>Ort</td><td>tokens</td><td>values from category=Ort</td><td></td><td></td><td></td></tr>
+<tr><td>Zeit von</td><td>date</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Zeit bis</td><td>date</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Anlass</td><td>textarea</td><td></td><td></td><td>Optional</td><td>[x]</td></tr>
+<tr><td>Signatur</td><td>text</td><td></td><td></td><td></td><td></td></tr>
+</tbody></table>
+<p>&quot;Semantic property&quot;:</p>
+<table><thead><tr><th>Äquivalenz zum Datenmodell</th><th>Name</th><th>Type</th><th>Allowed values</th></tr></thead><tbody>
+<tr><td>Quellentyp</td><td></td><td>Page</td><td></td></tr>
+<tr><td>Münztyp</td><td></td><td>Page</td><td></td></tr>
+<tr><td>Material</td><td></td><td>Page</td><td></td></tr>
+<tr><td>Größe</td><td></td><td>Text</td><td></td></tr>
+<tr><td>Gewicht</td><td></td><td>Numbers</td><td></td></tr>
+<tr><td>Aufschrift Avers</td><td></td><td>Text</td><td></td></tr>
+<tr><td>Umschrift Avers</td><td></td><td>Text</td><td></td></tr>
+<tr><td>Aufschrift Revers</td><td></td><td>Text</td><td></td></tr>
+<tr><td>Umschrift Revers</td><td></td><td>Text</td><td></td></tr>
+<tr><td>Randschrift</td><td></td><td>Text</td><td></td></tr>
+<tr><td>Symbole</td><td></td><td>Page</td><td></td></tr>
+<tr><td>Akteure</td><td></td><td>Page</td><td></td></tr>
+<tr><td>Ort</td><td></td><td>Page</td><td></td></tr>
+<tr><td>Zeit von</td><td></td><td>Date</td><td></td></tr>
+<tr><td>Zeit bis</td><td></td><td>Date</td><td></td></tr>
+<tr><td>Anlass</td><td></td><td>Text</td><td></td></tr>
+<tr><td>Signatur</td><td></td><td>Text</td><td></td></tr>
+</tbody></table>
+<p>☆ Bei Symbolen sollte im Zusammenhang mit den Akteuren überlegt werden, ob eine strikte inhaltliche Trennung nötig ist. Unter der beispielhaften Annahme, dass auf dem Avers eines Klappmützentalers Friedrich der Weise abgebildet ist, gilt zu fragen: Soll unter den Symbolen nur das Sichtbare, also ein Mann mit geschultertem Schwert, Hermelinmantel und -mütze, beschrieben werden? Oder darf hier bereits bestimmt werden, dass es sich bei dem Mann um Friedrich den Weisen handelt? Im letzteren Fall müsste überlegt werden, ob sich die Symbole mit den Akteuren teilweise decken. Denn sollte dies tatsächlich so sein, wäre es technisch einfacher, unter &quot;Parameter names&quot; keine &quot;value&quot;-Angaben zu machen, sondern den Bereich blank zu belassen. Dadurch wird der Bereich der Symbole zum offenen Schlagwort-Bereich.</p>
+<p>Nach dem Abspeichern sieht man wieder die &quot;Category:Numismatische Quellen&quot;-Seite, die nun in etwa so aussehen sollte:</p>
+<p><img src="/images/smw/Category-7.png" alt="Category nach Schema-Erstellung" /></p>
+<blockquote>
+<p>Abb. 14: &quot;Category:Numismatische Quellen&quot; nach der Anlegung des &quot;Schemas&quot;</p>
+</blockquote>
+<p>3.) Unter Category:Numismatische Quellen auf &quot;Generate pages&quot; klicken, alle Optionen auswählen und generieren lassen. Die Generierung dauert meist einige wenige Minuten und kann unter &quot;Special:RecentChanges&quot; verfolgt werden.</p>
+<p>4a.) Unter &quot;Special pages&quot; -&gt; &quot;Forms&quot; die gewünschte Form auswählen. Auf die in 3.) generierte &quot;Form&quot; klicken. <strong>Eine Überschrift für einen Eintrag in Form einer Page einfügen</strong>. Auf &quot;create or edit&quot; klicken und entsprechende Daten für den Katalogtext, Quelleneintrag, Lexikoneintrag etc. eingeben und speichern.</p>
+<p><img src="/images/smw/Form-M%C3%BCnze1.png" alt="Eintrag erstellen a" /></p>
+<blockquote>
+<p>Abb. 15: Ansicht der &quot;Form:Numismatische Quellen&quot;. Mit &quot;Münze1&quot; Wird eine Seite mit demselben Namen erzeugt.</p>
+</blockquote>
+<p>4b.) Unter &quot;Special pages&quot; -&gt; &quot;Forms&quot; die gewünschte Form auswählen. Auf die in 3.) generierte &quot;Form&quot; klicken. <strong>Eine Überschrift für einen Eintrag in Form von &quot;Template:Eintrag&quot; erstellen.</strong> Auf &quot;create or edit&quot; klicken und entsprechende Daten für den Katalogtext, Quelleneintrag, Lexikoneintrag etc. eingeben und speichern. </p>
+<p><img src="/images/smw/Form-Template-M%C3%BCnze1.png" alt="Eintrag erstellen b" /></p>
+<blockquote>
+<p>Abb. 16: Ansicht der &quot;Form:Numismatische Quellen&quot;. Mit &quot;Template:Münze1&quot; Wird ein weiter verlinkbares Template mit demselben Namen erzeugt.</p>
+</blockquote>
+<blockquote>
+<p><strong>⚠ Achtung (*):</strong>  Der Titel, der bei 4a.) und 4b.) eingegeben wird, fungiert zugleich als ID des Eintrags. Da der Eintrag über diesen Titel mit anderen Seiten verbunden ist, kann eine spätere Änderung (besonders nachdem bereits eine Datenvernetzung stattgefunden hat) zu Problemen führen. Diese Probleme kann man nur durch die direkte Korrektur im Code berichtigen, nicht aber im &quot;Schema&quot;.</p>
+</blockquote>
+<h2 id="auflistungen-darstellung-mehrerer-seiteninhalte-auf-einer-seite">Auflistungen: Darstellung mehrerer Seiteninhalte auf einer Seite<a class="anchor" href="#auflistungen-darstellung-mehrerer-seiteninhalte-auf-einer-seite">§</a>&nbsp;</h2>
+<p>In manchen Situationen wird die Darstellung eines einzigen Quellenbeitrags auf einer &quot;Page&quot; nicht ausreichen. 
+Solche Situationen können zum Beispiel konkret wie folgende sein:</p>
+<ul>
+<li>Bei einem Wiki über Münzen, Medaillen, Papiergeld etc. soll eine Seite existieren, die alle Quellen zu Münzen gesammelt darstellt.</li>
+<li>Bei einem Wiki mit Textabschnitten aus schriftlichen Quellen zu Seuchen sollen auf einer Seite alle Quellen aufgelistet werden, die einem bestimmten Jahr zugeordnet sind.</li>
+<li>Bei einem ausstellungsbegleitenden Wiki mit gegenständlichen Quellen soll eine Seite existieren, die alle Quellen zum Raum X auflistet (= Nachbildung des realen Raumes durch eine Wikipage als 'virtueller Raum'). </li>
+</ul>
+<p>Generell eignet sich diese Methode in Fachbereichen sehr, die sich traditionell stark auf Sammlungen und Auflistungen stützen: Ein klassisches Beispiel wäre etwa die Diplomatik, in der man sich als erste Orientierung auf Regesten stützt. Ein anderes Beispiel wären Bereiche wie Klima- oder Katastrophengeschichte und angrenzende Bereiche, in denen sich bereits seit der Frühen Neuzeit Kompendien etabliert haben. Aber auch im Bereich von Ausstellungen wäre diese Struktur einsetzbar, indem alle Objekte in einem Raum, denen jeweils eine &quot;Page&quot; zugeordnet wurde, auf einer raumspezifischen Seite dargestellt werden.</p>
+<blockquote>
+<p><strong>⚠ Achtung (*):</strong>  Diese Methode ist für statische Auflistungen gedacht, bei der die Ordnung vorgegeben sein soll. Sollte dies nicht die Absicht sein, lohnt sich ein Blick in das Unterkapitel &quot;Auflistungen bestimmter 'Properties'&quot;.</p>
+</blockquote>
+<p>Für die technische Umsetzung muss bei den oben gezeigten Arbeitsschritten unter dem letzten Punkt 4b.) statt 4a.) ausgewählt werden.</p>
+<p>Ist nun also 4b.) getan, muss eine &quot;Page&quot; für die Auflistung kreiert werden. Dazu kann man einfach &quot;Auflistung&quot; in die &quot;Search box&quot; eingeben und eine neue Seite erstellen. Ist die Seite erstellt, können im Prinzip alle &quot;Templates&quot;, die bei 4b. kreiert wurden, dort hineingeladen werden. Dazu werden die &quot;Templates&quot; in doppelten eckigen Klammern ohne den &quot;Template:&quot;-Zusatz hinzugefügt. </p>
+<p>Der Code hinter der Seite &quot;Auflistung&quot; könnte dann etwa so aussehen:</p>
+<pre><code>[[Münze1]]
+[[Münze2]]
+</code></pre>
+<h2 id="auflistungen-bestimmter-properties">Auflistungen bestimmter &quot;Properties&quot;<a class="anchor" href="#auflistungen-bestimmter-properties">§</a>&nbsp;</h2>
+<p>Unter der Benutzung des Semantic Mediawiki gibt es eine spezielle Seite, die mit der Suchanfrage &quot;Special:Ask&quot; aufgerufen werden kann. Die Funktion &quot;Ask&quot; kann man hier nahezu wörtlich nehmen: Unter Benutzung der speziellen MediaWiki-Sprache kann hier das Wiki befragt werden.</p>
+<p><img src="/images/smw/Special-Ask.png" alt="Special:Ask" /></p>
+<blockquote>
+<p>Abb. 17: Die Maske der &quot;Special:Ask&quot; Seite.</p>
+</blockquote>
+<p>Unter &quot;Conditions&quot; können bestimmte Konditionen eingegeben werden, die z. B. mit &quot;Categories&quot; oder &quot;Properties&quot; zu tun haben. Unter &quot;Printout section&quot; können diejenigen &quot;Properties&quot; angezeigt werden, die bei der &quot;Ask&quot;-Funktion mitangezeigt werden sollen. In der <a href="https://www.semantic-mediawiki.org/wiki/Help:Special:Ask">offiziellen Anleitung von Semantic MediaWiki</a> findet man die entsprechenden Codes sowie Informationen zu weiteren Exportmöglichkeiten, je nach Gebrauch. Die Benutzung dieser &quot;Ask&quot;-Funktion ist davon abhängig, wie zuvor im Datenmodell die einzelnen &quot;Properties&quot; eingestellt wurden. Als Faustregel kann man sich jedoch Folgendes merken: Für die &quot;Conditions&quot; werden doppelte eckige Klammern benutzt, während bei den &quot;Properties&quot; ein Fragezeichen eingesetzt wird.</p>
+<p>Diese Funktion ist an sich sehr praktisch, erfordert jedoch Kenntnisse über den Aufbau des Datenmodells sowie über einfache MediaWiki-interne Codes. Für die Benutzung sollte man also bereits etwas mit dem Umgang von MediaWiki vertraut sein.</p>
+<h2 id="zitation-wissenschaftliche-nachweismethoden-mit-mediawiki">Zitation: Wissenschaftliche Nachweismethoden mit MediaWiki<a class="anchor" href="#zitation-wissenschaftliche-nachweismethoden-mit-mediawiki">§</a>&nbsp;</h2>
+<p>Die Zitation gehört wie die Quellenkritik ebenfalls zu den essentiellen Arbeitsmethoden in der Geschichtswissenschaft. 'Zitation' kann hierbei in zweierlei Hinsichten verstanden werden. Erstens müssen Informationen im Wiki, die externen Quellen entnommen wurden, zitiert werden. Zweitens sollte die Zitation der Wikiseite selbst, sofern das Wiki online uneingeschränkt für die gesamte Welt zugänglich gemacht wird, erleichtert werden.</p>
+<ul>
+<li>Zitation von Informationen aus externen Quellen im Wiki
+Hierzu dient der Zusatz <a href="https://www.mediawiki.org/wiki/Extension:Cite">Cite</a>, der zwar nicht zu den Urfunktionen des MediaWiki zählt, jedoch prinzipiell auch ohne den Zusatz Semantic Mediawiki implementiert werden könnte. Sinnvoll ist &quot;Cite&quot; vor allem in der Geschichtswissenschaft, in der die Nutzung von Fußnoten üblich ist, denn &quot;Cite&quot; ist dieser Fußnoten-Funktion sehr ähnlich. Ein Text mit einer Fußnote könnte wie folgt aussehen:</li>
+</ul>
+<pre><code>Dies ist ein Text mit einer Fußnote.&lt;ref&gt;MUSTERMANN, Max: Zitieren mit MediaWiki, Berlin 2000, hier: S. 1.&lt;&#x2F;ref&gt;
+
+==Fußnoten==
+&lt;references &#x2F;&gt;
+</code></pre>
+<p>Weitere Informationen sind <a href="https://www.mediawiki.org/wiki/Help:Cite">auf der Seite von MediaWiki selbst</a> zu finden. </p>
+<ul>
+<li>Zitation der Wiki-Seite erleichtern
+Hierzu dient der Zusatz <a href="https://www.mediawiki.org/wiki/Extension:CiteThisPage">CiteThisPage</a>. Für die Benutzung von &quot;CiteThisPage&quot; wird an dieser Stelle auf den Code verwiesen, der auf der Seite von MediaWiki angegeben ist.</li>
+</ul>
+
+  </article>
+
+
+          </div>
+        </main>
+
+ 
+
+ 
+      <footer>
+        <div>
+          <a href="https://creativecommons.org/share-your-work/public-domain/cc0/"><img src="https://licensebuttons.net/p/zero/1.0/88x31.png" alt="CC-0" /></a><br />
+          <a href="https://getzola.org">Build with Zola</a> | 
+          <a href="https://github.com/codeandmedia/zola_docsascode_theme">Theme based on docsacode-theme</a> |
+          <a href="https://github.com/kompetenzwerkd/kompetenzwerkd.github.io">Source code</a> 
+        </div>
+         
+      </footer>
+
+    </body>
+</html>
