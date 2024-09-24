@@ -82,61 +82,29 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 
 ### NFDI4Memory
 * Webauftritt: [Link](https://4memory.de/)
-* Kontakt: Prof. Dr. Johannes Paulmann 4memory@ieg-mainz.de
-* Stand: NFDI4Memory wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der zweiten Runde (Antrag 2021, Förderzusage 2022) des NFDI-Aufbaus zur Förderung ausgewählt.
-* Letter of Intent: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2020_ndfi_4memory.pdf)
+* Stand: NFDI4Memory wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der zweiten Runde des NFDI-Aufbaus zur Förderung ausgewählt.
 * Beteiligte Netzwerkpartner: ISGV (Problem Stories), SLUB (Antragstellung)
 * Hauptantragssteller: Leibniz Institut für Europäische Geschichte Mainz (IEG)
 * Schwerpunkt: historische Methoden, historische Kontextualisierung
 * Fachdisziplinen: historisch engagierte Disziplinen wie Geschichtswissenschaften, aber auch Wirtschaftswissenschaften, Sozialwissenschaften und Geographie
-* Möglichkeiten der Teilhabe: Es wurden und werden (virtuelle) Community-Treffen zur Ermittlung der Bedarfe der historisch arbeitenden Fächer abgehalten. Umplanungen aufgrund der COVID-19-Pandemie wurden hier nötig.
-  * [Informationen zu den Community-Treffen](https://4memory.de/community-treffen/)
-  * [Fragen und Antworten](https://4memory.de/fragen-und-antworten-zu-4memory/) aus den bisherigen Community-Treffen
-  * Call for Problem Stories (Webseite wurde leider seitens 4Memory entfernt): Herausforderungen im Umgang mit Forschungsdaten sollen per Formular gesammelt und in einem virtuellen Community-Treffen diskutiert werden.
+* [Kontakt](https://4memory.de/contact/)
+* Möglichkeiten der Teilhabe:
+  * [Community-Forum](https://4memory.de/4memory-community-forum/)
+  * [FAIR Data Fellowships](https://4memory.de/4memory-fair-data-fellowships/)
+  * [Summer Schools](https://4memory.de/linking-data-linking-communities-nfdi4memory-summer-schools/)
+  * [Incubator Funds](https://4memory.de/4memory-incubator-funds/)
 
 <br />
 
 ### NFDI4Objects
 * Webauftritt: [Link](https://www.nfdi4objects.net/)
-* Kontakt:
-  * Prof. Dr. Philipp von Rummel philipp.von.rummel@berliner-antike-kolleg.org
-  * Prof. Dr. Alexandra Busch generaldirektorin@rgzm.de
-  * Prof. Dr. Kai-Christian Bruhn kai-christian.bruhn@hs-mainz.de
-* Stand: NFDI4Objects wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der zweiten Runde (Antrag 2021, Förderzusage 2022) des NFDI-Aufbaus zur Förderung ausgewählt.
-* Letter of Intent: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2020_ndfi_4objects.pdf)
-* Beteiligte Netzwerkpartner: -
+* Stand: NFDI4Objects wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der zweiten Runde des NFDI-Aufbaus zur Förderung ausgewählt.
+* Beteiligte Netzwerkpartner: keine
 * Hauptantragssteller: Deutsches Archäologisches Institut
 * Schwerpunkt: Archäologien und materielle Kultur und Objekte; Sammlungen, Feldforschung usw.
 * Fachdisziplinen: Archäologie, Anthropologie, Architekturgeschichte, Ethnoarchäologie, Geoarchäologie, Paläobotanik, Archäozoologie, Archäogenetik, Paläopathologie, Geophysik und Archäometrie
+* [Helpdesk](https://www.nfdi4objects.net/index.php/helpdesk)
 * Möglichkeiten der Teilhabe:
-  * [Openscience-Projekt zur aktiven Mitarbeit](https://osf.io/4t29e/)
-  * [Einstiegsseite zur Teilhabe](https://www.nfdi4objects.net/index.php/teilnehmen)
-  * [Community Meeting 2023](https://www.nfdi4objects.net/index.php/en/get-informed/community-meeting-and-general-assembly)
-
-## Beantragte bzw. zu beantragende Initiativen
-
-### NFDI4TheoReS
-* Webauftritt: [Link](https://www.theores.de/)
-* Kontakt: Prof. Dr. Hans-Peter Grosshans grosshans@uni-muenster.de
-* Stand: Antragstellung 2021
-* Unverbindliche Voranmeldung: [Link](https://www.dfg.de/download/pdf/foerderung/programme/nfdi/absichtserklaerungen_2020/2021_nfdi_theores.pdf)
-* Beteiligte Netzwerkpartner: -
-* Hauptantragssteller: Evangelisch-Theologische Fakultät der Westfälischen Wilhelms Universität Münster
-* Schwerpunkt: Textdaten mit religiösem Bezug
-* Fachdisziplinen: Theologien und Religionswissenschaften, teilweise auch Philosophie, Recht, Sozialwissenschaften, Geschichte, Orientalistik, Ethnologie, Kulturwissenschaften, Sinologie
-* Möglichkeiten der Teilhabe: Derzeit unklar. Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert.
-
-<br />
-
-### NFDI Small Disciplines
-* Stand: Initiative ist scheinbar in NFDI4Memory aufgegangen und wird eigenständig scheinbar nicht weiter verfolgt
-* Webauftritt: bisher nicht vorhanden
-* Kontakt:
-  * Prof. Dr. Gerd Graßhoff gerd.graßhoff@hu-berlin.de
-  * Prof. Dr. Andreas Degkwitz andreas.degkwitz@ub.hu-berlin.de
-* Stand: Antragstellung 2021 geplant, nach außen auffällig inaktiv
-* Beteiligte Netzwerkpartner: -
-* Hauptantragssteller: Humboldt-Universität zu Berlin
-* Schwerpunkt: vielschichtig, u.a. kollaboratives Arbeiten, Kommunikation
-* Fachdisziplinen: Sozial- und Verhaltenswissenschaften, Mathematik, Bauwesen, Ingenieurwesen und Architektur
-* Möglichkeiten der Teilhabe: Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert.
+  * [Einstiegsseite zum Teilnehmen](https://www.nfdi4objects.net/index.php/teilnehmen)
+  * [Community Meetings and General Assembly](https://www.nfdi4objects.net/index.php/informieren/communtity-meeting-und-general-assembly)
+  * [Aktivitäten](https://www.nfdi4objects.net/index.php/category/aktivitaeten)
