@@ -11,9 +11,6 @@ show_in_topics = true
 
 # NFDI-Verein
 
-In der Governance der im Aufbau befindlichen Nationalen Forschungsdateninfrastruktur wird der Verein „Nationale Forschungsdateninfrastruktur (NFDI)" eine entscheidende und zentrale Rolle spielen.
-Die Gründung des Vereins steht Stichtag 9.7.2020 noch aus, die [Vereinssatzung](https://cdn.website-editor.net/25abfc2078d74313bbe63818c335df0e/files/uploaded/Satzung%2520NFDI%2520eV_final.pdf) wurde jedoch bereits durch die Gemeinsame Wissenschaftskonferenz am 26. Juni 2020 gebilligt.
-
 ## Ziele
 > Zweck des Vereins ist die Förderung von Wissenschaft und Forschung durch eine Nationale Forschungsdateninfrastruktur, die ein übergreifendes Forschungsdatenmanagement in Deutschland etabliert und fortentwickelt und die Effizienz des gesamten deutschen Wissenschaftssystems steigert.
 
