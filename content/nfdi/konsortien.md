@@ -13,15 +13,13 @@ show_in_topics = true
 
 Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existieren folgende Konsortieninitiativen:
 
-## Geförderte Initiativen
-
 ### NFDI4Culture
 * Webauftritt: [Link](https://www.nfdi4culture.de/)
 * Kontakt:
   * Prof. Dr. Dörte Schmidt dschmidt@udk-berlin.de
   * Prof. Dr. Holger Simon simon@pausanio.com
   * Prof. Torsten Schrade torsten.schrade@adwmainz.de
-* Stand: NFDI4Culture wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der ersten Runde (Antrag 2019, Förderzusage 2020) des NFDI-Aufbaus zur Förderung ausgewählt.
+* Stand: NFDI4Culture wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der ersten Runde des NFDI-Aufbaus zur Förderung ausgewählt.
 * Beteiligte Netzwerkpartner: SLUB (Antragstellung)
 * Hauptantragssteller: Akademie der Wissenschaften und der Literatur, Mainz
 * Schwerpunkt: Materielles und immaterielles kulturelles Erbe
@@ -33,21 +31,21 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 <br />
 
 ### KonsortSWD - Konsortium für die Sozial-, Verhaltens-, Bildungs- und Wirtschaftswissenschaften
-* Webauftritt: [Link](https://www.ratswd.de/konsortswd) 
+* Webauftritt: [Link](https://www.konsortswd.de/) 
 * Kontakt: Prof. Dr. Christof Wolf Christof.Wolf@gesis.org
-* Stand: KonsortSWD wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der ersten Runde (Antrag 2019, Förderzusage 2020) des NFDI-Aufbaus zur Förderung ausgewählt.
-* Beteiligte Netzwerkpartner: -
+* Stand: KonsortSWD wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der ersten Runde des NFDI-Aufbaus zur Förderung ausgewählt.
+* Beteiligte Netzwerkpartner: keine
 * Hauptantragssteller: GESIS – Leibniz Institut für Sozialwissenschaften
 * Schwerpunkt: multi- und interdisziplinäre Projekte; verschiedenen Datentypen; Daten mit rechtlichen oder ethischen Beschränkungen
 * Fachdisziplinen: Sozial-, Verhaltens-, Bildungs- und Wirtschaftswissenschaften 
-* Möglichkeiten der Teilhabe: Sobald Informationen bereitstehen, werden diese hier veröffentlicht.
+* Möglichkeiten der Teilhabe: Keine spezifische Auflistung, am ehesten als Teil der [Angebote](https://www.konsortswd.de/angebote/)
 
 <br />
 
 ### NFDI Text+
 * Webauftritt: [Link](https://www.text-plus.org/)
 * Kontakt: Prof. Dr. Erhard Hinrichs hinrichs@ids-mannheim.de 
-* Stand: Text+ wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der zweiten Runde (Antrag 2020, Förderzusage 2021) des NFDI-Aufbaus zur Förderung ausgewählt.
+* Stand: Text+ wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der zweiten Runde des NFDI-Aufbaus zur Förderung ausgewählt.
 * Beteiligte Netzwerkpartner: SAW (Antragstellung)
 * Hauptantragssteller: Leibniz Institut für Deutsche Sprache (IDS), Mannheim
 * Schwerpunkt: Text- und Sprachdaten (digitale Sammlungen, lexikalische Ressourcen einschl. Wörterbücher und Editionen)
