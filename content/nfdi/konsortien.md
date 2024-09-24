@@ -24,6 +24,9 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Hauptantragssteller: Akademie der Wissenschaften und der Literatur, Mainz
 * Schwerpunkt: Materielles und immaterielles kulturelles Erbe
 * Fachdisziplinen: Kulturwissenschaften, Musikwissenschaft, Kunstgeschichte, Architektur, Theater-, Film- und Medienwissenschaft
+* [Dienste](https://nfdi4culture.de/services.html)
+* [Ressourcen](https://nfdi4culture.de/resources.html)
+* [Helpdesk](https://nfdi4culture.de/helpdesk.html)
 * Möglichkeiten der Teilhabe:
   * [Übersicht Veranstaltungen](https://nfdi4culture.de/de/veranstaltungen.html)
   * [Partizipation und Kollaboration](https://nfdi4culture.de/de/dienste.html#c860)
@@ -50,6 +53,9 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Hauptantragssteller: Leibniz Institut für Deutsche Sprache (IDS), Mannheim
 * Schwerpunkt: Text- und Sprachdaten (digitale Sammlungen, lexikalische Ressourcen einschl. Wörterbücher und Editionen)
 * Fachdisziplinen: Sprach-, Literatur-, Kultur- und die Geschichtswissenschaften, Philosophie und sprach- und textbasierte Forschung in den Sozial- und Politikwissenschaften
+* [Datenangebote](https://text-plus.org/de/daten-dienste/daten/)
+* [Dienste und Tools](https://text-plus.org/de/daten-dienste/dienste/)
+* [Helpdesk](https://text-plus.org/de/helpdesk/)
 * Möglichkeiten der Teilhabe:
   * [Übersicht Veranstaltungen](https://text-plus.org/aktuelles/veranstaltungen/)
   * Abgeschlossen: [Call for User Stories 2020](https://text-plus.org/themen-dokumentation/user-storys-2020/)
@@ -70,7 +76,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 ### Berd@NFDI
 * Webauftritt: https://www.berd-nfdi.de/
 * Kontakt: Prof. Dr. Florian  Stahl  florian.stahl@uni-mannheim.de
-* Stand: Berd@NFDI wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der zweiten Runde (Antrag 2020, Förderzusage 2021) des NFDI-Aufbaus zur Förderung ausgewählt.
+* Stand: Berd@NFDI wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der zweiten Runde des NFDI-Aufbaus zur Förderung ausgewählt.
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: Universität Mannheim
 * Schwerpunkt: Unstrukturierte Daten
