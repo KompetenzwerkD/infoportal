@@ -51,19 +51,19 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 * Schwerpunkt: Text- und Sprachdaten (digitale Sammlungen, lexikalische Ressourcen einschl. Wörterbücher und Editionen)
 * Fachdisziplinen: Sprach-, Literatur-, Kultur- und die Geschichtswissenschaften, Philosophie und sprach- und textbasierte Forschung in den Sozial- und Politikwissenschaften
 * Möglichkeiten der Teilhabe:
-  * Running Call zu Angeboten von [Forschungsdaten](https://www.text-plus.org/forschungsdaten/daten-aus-der-community/) - Seit Ende August 2020, bereits ungefähr 150 Angebote eingegangen
-  * Abgeschlossen: [Call for User Stories](https://www.text-plus.org/forschungsdaten/user-stories/) (Deadline 16.08.2020) - Ergebnis: Mehr als 120 User Stories sind eingegangen
+  * [Übersicht Veranstaltungen](https://text-plus.org/aktuelles/veranstaltungen/)
+  * Abgeschlossen: [Call for User Stories 2020](https://text-plus.org/themen-dokumentation/user-storys-2020/)
   * Bisher veröffentlichte Stories mit Bezug zum Kompetenzwerk, der SAW oder uns Dreien:
-    * [Dialect dictionaries](https://www.text-plus.org/en/research-data/user-story-512/)
-    * [Egyptological metadata thesauri](https://www.text-plus.org/en/research-data/user-story-509/)
-    * [Mobile application for lexical resources](https://www.text-plus.org/en/research-data/user-story-505/)
-    * [Integration of lexical data](https://www.text-plus.org/en/research-data/user-story-519/)
-    * [Webportal for null-results](https://www.text-plus.org/en/research-data/user-story-604/)
-    * [Dictionary data at the Saxon Academy of Sciences in Leipzig](https://www.text-plus.org/en/research-data/user-story-521/)
-    * [Old High German Dictionary: Supplements](https://www.text-plus.org/en/research-data/user-story-517/)
-    * [Old High German Dictionary: External Links](https://www.text-plus.org/en/research-data/user-story-520/)
-    * [Bibliotheca Arabica at the Sächsische Akademie der Wissenschaften](https://www.text-plus.org/en/research-data/user-story-346/)
-    * [Science in Ancient Egypt](https://www.text-plus.org/en/research-data/user-story-341/)
+    * [Dialect dictionaries](https://text-plus.org/en/themen-dokumentation/user-storys-2020/user-story-512/)
+    * [Egyptological metadata thesauri](https://text-plus.org/en/themen-dokumentation/user-storys-2020/user-story-509/)
+    * [Mobile application for lexical resources](https://text-plus.org/en/themen-dokumentation/user-storys-2020/user-story-505/)
+    * [Integration of lexical data](https://text-plus.org/en/themen-dokumentation/user-storys-2020/user-story-519/)
+    * [Webportal for null-results](https://text-plus.org/en/themen-dokumentation/user-storys-2020/user-story-604/)
+    * [Dictionary data at the Saxon Academy of Sciences in Leipzig](https://text-plus.org/en/themen-dokumentation/user-storys-2020/user-story-521/)
+    * [Old High German Dictionary: Supplements](https://text-plus.org/en/themen-dokumentation/user-storys-2020/user-story-517/)
+    * [Old High German Dictionary: External Links](https://text-plus.org/en/themen-dokumentation/user-storys-2020/user-story-520/)
+    * [Bibliotheca Arabica at the Sächsische Akademie der Wissenschaften](https://text-plus.org/en/themen-dokumentation/user-storys-2020/user-story-346/)
+    * [Science in Ancient Egypt](https://text-plus.org/en/themen-dokumentation/user-storys-2020/user-story-341/)
   
 <br />
 
