@@ -15,10 +15,6 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 
 ### NFDI4Culture
 * Webauftritt: [Link](https://www.nfdi4culture.de/)
-* Kontakt:
-  * Prof. Dr. Dörte Schmidt dschmidt@udk-berlin.de
-  * Prof. Dr. Holger Simon simon@pausanio.com
-  * Prof. Torsten Schrade torsten.schrade@adwmainz.de
 * Stand: NFDI4Culture wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der ersten Runde des NFDI-Aufbaus zur Förderung ausgewählt.
 * Beteiligte Netzwerkpartner: SLUB (Antragstellung)
 * Hauptantragssteller: Akademie der Wissenschaften und der Literatur, Mainz
@@ -35,19 +31,18 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 
 ### KonsortSWD - Konsortium für die Sozial-, Verhaltens-, Bildungs- und Wirtschaftswissenschaften
 * Webauftritt: [Link](https://www.konsortswd.de/) 
-* Kontakt: Prof. Dr. Christof Wolf Christof.Wolf@gesis.org
 * Stand: KonsortSWD wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der ersten Runde des NFDI-Aufbaus zur Förderung ausgewählt.
 * Beteiligte Netzwerkpartner: keine
 * Hauptantragssteller: GESIS – Leibniz Institut für Sozialwissenschaften
 * Schwerpunkt: multi- und interdisziplinäre Projekte; verschiedenen Datentypen; Daten mit rechtlichen oder ethischen Beschränkungen
-* Fachdisziplinen: Sozial-, Verhaltens-, Bildungs- und Wirtschaftswissenschaften 
-* Möglichkeiten der Teilhabe: Keine spezifische Auflistung, am ehesten als Teil der [Angebote](https://www.konsortswd.de/angebote/)
+* Fachdisziplinen: Sozial-, Verhaltens-, Bildungs- und Wirtschaftswissenschaften
+* [Kontakt](https://www.konsortswd.de/kontakt/)
+* Möglichkeiten der Teilhabe: [Angebote](https://www.konsortswd.de/angebote/)
 
 <br />
 
 ### NFDI Text+
 * Webauftritt: [Link](https://www.text-plus.org/)
-* Kontakt: Prof. Dr. Erhard Hinrichs hinrichs@ids-mannheim.de 
 * Stand: Text+ wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der zweiten Runde des NFDI-Aufbaus zur Förderung ausgewählt.
 * Beteiligte Netzwerkpartner: SAW (Antragstellung)
 * Hauptantragssteller: Leibniz Institut für Deutsche Sprache (IDS), Mannheim
